@@ -1,4 +1,4 @@
-﻿name: Daily NHL Picks
+name: Daily NHL Picks
 
 on:
   schedule:
@@ -33,5 +33,5 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add picks.html data/record.json data/historical_lines.csv history/
-          git diff --staged --quiet || git commit -m "Auto picks $(date +'%Y-%m-%d')"
+          git diff --staged --quiet || git commit -m "Auto picks $(date +%Y-%m-%d)"
           git push
