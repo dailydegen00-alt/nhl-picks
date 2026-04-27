@@ -1,17 +1,17 @@
 {
   "alltime": {
-    "W": 35,
-    "L": 25
+    "W": 36,
+    "L": 27
   },
   "by_month": {
     "2026-04": {
-      "W": 35,
-      "L": 25
+      "W": 36,
+      "L": 27
     }
   },
   "by_conf": {
     "50": {
-      "W": 7,
+      "W": 8,
       "L": 8
     },
     "55": {
@@ -20,7 +20,7 @@
     },
     "60": {
       "W": 5,
-      "L": 4
+      "L": 6
     },
     "65": {
       "W": 6,
@@ -4213,8 +4213,8 @@
       ]
     },
     "2026-04-24": {
-      "W": 0,
-      "L": 0,
+      "W": 1,
+      "L": 2,
       "picks": [
         {
           "home_abbr": "MTL",
@@ -4224,6 +4224,54 @@
           "ou_pick": "Over",
           "ou_line": 5.5,
           "ou_conf": 60.8,
+          "result": "L",
+          "ou_result": "L",
+          "home_score": 3,
+          "away_score": 2,
+          "total": 5
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "EDM",
+          "pick_abbr": "EDM",
+          "conf": 60.1,
+          "ou_pick": "Under",
+          "ou_line": 6.5,
+          "ou_conf": 60.6,
+          "result": "L",
+          "ou_result": "L",
+          "home_score": 7,
+          "away_score": 4,
+          "total": 11
+        },
+        {
+          "home_abbr": "UTA",
+          "away_abbr": "VGK",
+          "pick_abbr": "UTA",
+          "conf": 53.8,
+          "ou_pick": "Over",
+          "ou_line": 5.5,
+          "ou_conf": 63.0,
+          "result": "W",
+          "ou_result": "W",
+          "home_score": 4,
+          "away_score": 2,
+          "total": 6
+        }
+      ]
+    },
+    "2026-04-26": {
+      "W": 0,
+      "L": 0,
+      "picks": [
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "TBL",
+          "pick_abbr": "TBL",
+          "conf": 60.2,
+          "ou_pick": "Over",
+          "ou_line": 4.5,
+          "ou_conf": 76.1,
           "result": "",
           "ou_result": "",
           "home_score": 0,
@@ -4234,24 +4282,10 @@
           "home_abbr": "ANA",
           "away_abbr": "EDM",
           "pick_abbr": "EDM",
-          "conf": 60.1,
+          "conf": 59.7,
           "ou_pick": "Under",
-          "ou_line": 6.5,
-          "ou_conf": 60.6,
-          "result": "",
-          "ou_result": "",
-          "home_score": 0,
-          "away_score": 0,
-          "total": 0
-        },
-        {
-          "home_abbr": "UTA",
-          "away_abbr": "VGK",
-          "pick_abbr": "UTA",
-          "conf": 53.8,
-          "ou_pick": "Over",
-          "ou_line": 5.5,
-          "ou_conf": 63.0,
+          "ou_line": 7.5,
+          "ou_conf": 76.5,
           "result": "",
           "ou_result": "",
           "home_score": 0,
@@ -4262,8 +4296,8 @@
     }
   },
   "ou_alltime": {
-    "W": 16,
-    "L": 14
+    "W": 17,
+    "L": 16
   },
   "ou_by_conf": {
     "70": {
@@ -4275,8 +4309,8 @@
       "L": 6
     },
     "60": {
-      "W": 4,
-      "L": 2
+      "W": 5,
+      "L": 4
     },
     "50": {
       "W": 3,
@@ -4289,8 +4323,8 @@
   },
   "ou_by_month": {
     "2026-04": {
-      "W": 16,
-      "L": 14
+      "W": 17,
+      "L": 16
     }
   },
   "prop_alltime": {
