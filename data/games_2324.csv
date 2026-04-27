@@ -1,0 +1,1359 @@
+date,home_team,away_team,home_score,away_score,home_win
+2023-10-10,Tampa Bay,Nashville,5,3,1
+2023-10-10,Pittsburgh,Chicago,2,4,0
+2023-10-10,Vegas,Seattle,4,1,1
+2023-10-11,Carolina,Ottawa,5,3,1
+2023-10-11,Toronto,Montréal,6,5,1
+2023-10-11,Boston,Chicago,3,1,1
+2023-10-11,Calgary,Winnipeg,5,3,1
+2023-10-11,Los Angeles,Colorado,2,5,0
+2023-10-11,Vancouver,Edmonton,8,1,1
+2023-10-12,Buffalo,New York,1,5,0
+2023-10-12,Columbus,Philadelphia,2,4,0
+2023-10-12,New Jersey,Detroit,4,3,1
+2023-10-12,Dallas,St. Louis,2,1,1
+2023-10-12,Minnesota,Florida,2,0,1
+2023-10-12,Nashville,Seattle,3,0,1
+2023-10-12,San Jose,Vegas,1,4,0
+2023-10-13,New Jersey,Arizona,3,4,0
+2023-10-13,Washington,Pittsburgh,0,4,0
+2023-10-14,Ottawa,Philadelphia,5,2,1
+2023-10-14,Winnipeg,Florida,6,4,1
+2023-10-14,Boston,Nashville,3,2,1
+2023-10-14,Columbus,New York,5,3,1
+2023-10-14,Detroit,Tampa Bay,6,4,1
+2023-10-14,Montréal,Chicago,3,2,1
+2023-10-14,Pittsburgh,Calgary,5,2,1
+2023-10-14,Toronto,Minnesota,7,4,1
+2023-10-14,New York,Buffalo,3,2,1
+2023-10-14,St. Louis,Seattle,2,1,1
+2023-10-14,Edmonton,Vancouver,3,4,0
+2023-10-14,San Jose,Colorado,1,2,0
+2023-10-14,Vegas,Anaheim,4,1,1
+2023-10-14,Los Angeles,Carolina,5,6,0
+2023-10-15,Ottawa,Tampa Bay,5,2,1
+2023-10-15,Anaheim,Carolina,6,3,1
+2023-10-16,Columbus,Detroit,0,4,0
+2023-10-16,New Jersey,Florida,3,4,0
+2023-10-16,New York,Arizona,2,1,1
+2023-10-16,Toronto,Chicago,1,4,0
+2023-10-16,Washington,Calgary,3,2,1
+2023-10-17,Philadelphia,Vancouver,2,0,1
+2023-10-17,Montréal,Minnesota,2,5,0
+2023-10-17,Buffalo,Tampa Bay,3,2,1
+2023-10-17,New York,Arizona,1,0,1
+2023-10-17,Nashville,Edmonton,1,6,0
+2023-10-17,Winnipeg,Los Angeles,1,5,0
+2023-10-17,Seattle,Colorado,1,4,0
+2023-10-17,San Jose,Carolina,3,6,0
+2023-10-17,Vegas,Dallas,3,2,1
+2023-10-18,Ottawa,Washington,6,1,1
+2023-10-18,Detroit,Pittsburgh,6,3,1
+2023-10-19,Buffalo,Calgary,3,4,0
+2023-10-19,Florida,Toronto,3,1,1
+2023-10-19,New York,Nashville,1,4,0
+2023-10-19,Tampa Bay,Vancouver,4,3,1
+2023-10-19,Philadelphia,Edmonton,4,1,1
+2023-10-19,Minnesota,Los Angeles,3,7,0
+2023-10-19,St. Louis,Arizona,2,6,0
+2023-10-19,Winnipeg,Vegas,3,5,0
+2023-10-19,Anaheim,Dallas,2,3,0
+2023-10-19,Seattle,Carolina,7,4,1
+2023-10-19,Colorado,Chicago,4,0,1
+2023-10-19,San Jose,Boston,1,3,0
+2023-10-20,Columbus,Calgary,3,1,1
+2023-10-20,New York,New Jersey,4,5,0
+2023-10-21,Ottawa,Detroit,2,5,0
+2023-10-21,Arizona,Anaheim,2,1,1
+2023-10-21,Buffalo,New York,3,1,1
+2023-10-21,Florida,Vancouver,3,5,0
+2023-10-21,Montréal,Washington,3,2,1
+2023-10-21,Tampa Bay,Toronto,3,4,0
+2023-10-21,Chicago,Vegas,3,5,0
+2023-10-21,Dallas,Philadelphia,5,4,1
+2023-10-21,Minnesota,Columbus,4,5,0
+2023-10-21,Nashville,San Jose,5,1,1
+2023-10-21,St. Louis,Pittsburgh,4,2,1
+2023-10-21,Colorado,Carolina,6,4,1
+2023-10-21,Edmonton,Winnipeg,2,3,0
+2023-10-21,Seattle,New York,1,4,0
+2023-10-21,Los Angeles,Boston,2,4,0
+2023-10-22,Detroit,Calgary,6,2,1
+2023-10-22,Anaheim,Boston,1,3,0
+2023-10-23,Buffalo,Montréal,1,3,0
+2023-10-24,Washington,Toronto,1,4,0
+2023-10-24,Ottawa,Buffalo,4,6,0
+2023-10-24,Tampa Bay,Carolina,3,0,1
+2023-10-24,Montréal,New Jersey,2,5,0
+2023-10-24,Pittsburgh,Dallas,1,4,0
+2023-10-24,Florida,San Jose,3,1,1
+2023-10-24,New York,Colorado,4,7,0
+2023-10-24,Detroit,Seattle,4,5,0
+2023-10-24,Columbus,Anaheim,2,3,0
+2023-10-24,Chicago,Boston,0,3,0
+2023-10-24,Winnipeg,St. Louis,4,2,1
+2023-10-24,Minnesota,Edmonton,7,4,1
+2023-10-24,Nashville,Vancouver,2,3,0
+2023-10-24,Calgary,New York,1,3,0
+2023-10-24,Los Angeles,Arizona,6,3,1
+2023-10-24,Vegas,Philadelphia,3,2,1
+2023-10-25,New Jersey,Washington,4,6,0
+2023-10-26,Boston,Anaheim,3,4,0
+2023-10-26,Carolina,Seattle,3,2,1
+2023-10-26,Detroit,Winnipeg,1,4,0
+2023-10-26,Montréal,Columbus,4,3,1
+2023-10-26,Pittsburgh,Colorado,4,0,1
+2023-10-26,Tampa Bay,San Jose,6,0,1
+2023-10-26,Philadelphia,Minnesota,6,2,1
+2023-10-26,New York,Ottawa,3,2,1
+2023-10-26,Dallas,Toronto,1,4,0
+2023-10-26,Calgary,St. Louis,0,3,0
+2023-10-26,Edmonton,New York,0,3,0
+2023-10-27,Vegas,Chicago,3,4,0
+2023-10-27,Carolina,San Jose,3,0,1
+2023-10-27,New Jersey,Buffalo,5,4,1
+2023-10-27,Washington,Minnesota,3,2,1
+2023-10-27,Arizona,Los Angeles,4,5,0
+2023-10-27,Vancouver,St. Louis,5,0,1
+2023-10-28,Philadelphia,Anaheim,4,7,0
+2023-10-28,Florida,Seattle,3,2,1
+2023-10-28,Boston,Detroit,4,1,1
+2023-10-28,Columbus,New York,0,2,0
+2023-10-28,Montréal,Winnipeg,4,3,1
+2023-10-28,Nashville,Toronto,3,2,1
+2023-10-28,Pittsburgh,Ottawa,2,5,0
+2023-10-28,Vancouver,New York,3,4,0
+2023-10-28,Los Angeles,Vegas,3,4,0
+2023-10-29,Buffalo,Colorado,4,0,1
+2023-10-29,New Jersey,Minnesota,4,3,1
+2023-10-29,Washington,San Jose,3,1,1
+2023-10-29,Edmonton,Calgary,5,2,1
+2023-10-30,Boston,Florida,3,2,1
+2023-10-30,Philadelphia,Carolina,2,3,0
+2023-10-30,Pittsburgh,Anaheim,3,4,0
+2023-10-30,Tampa Bay,Seattle,3,4,0
+2023-10-30,New York,Detroit,3,4,0
+2023-10-30,Winnipeg,New York,2,3,0
+2023-10-30,Dallas,Columbus,5,3,1
+2023-10-30,Arizona,Chicago,8,1,1
+2023-10-30,Vegas,Montréal,3,2,1
+2023-10-31,Toronto,Los Angeles,1,4,0
+2023-10-31,Vancouver,Nashville,5,2,1
+2023-11-01,Philadelphia,Buffalo,2,5,0
+2023-11-01,Calgary,Dallas,3,4,0
+2023-11-01,Colorado,St. Louis,4,1,1
+2023-11-01,Anaheim,Arizona,4,3,1
+2023-11-02,Columbus,Tampa Bay,4,2,1
+2023-11-02,Detroit,Florida,0,2,0
+2023-11-02,New York,Carolina,2,1,1
+2023-11-02,Ottawa,Los Angeles,2,3,0
+2023-11-02,Washington,New York,0,3,0
+2023-11-02,Boston,Toronto,3,2,1
+2023-11-02,Minnesota,New Jersey,3,5,0
+2023-11-02,Edmonton,Dallas,3,4,0
+2023-11-02,Arizona,Montréal,3,2,1
+2023-11-02,Seattle,Nashville,4,2,1
+2023-11-02,Vegas,Winnipeg,5,2,1
+2023-11-02,San Jose,Vancouver,1,10,0
+2023-11-03,Buffalo,Philadelphia,1,5,0
+2023-11-03,St. Louis,New Jersey,4,1,1
+2023-11-04,Edmonton,Nashville,2,5,0
+2023-11-04,Arizona,Winnipeg,3,5,0
+2023-11-04,Detroit,Boston,5,4,1
+2023-11-04,Ottawa,Tampa Bay,4,6,0
+2023-11-04,St. Louis,Montréal,6,3,1
+2023-11-04,Toronto,Buffalo,4,6,0
+2023-11-04,Washington,Columbus,2,1,1
+2023-11-04,Philadelphia,Los Angeles,0,5,0
+2023-11-04,New York,Carolina,3,4,0
+2023-11-04,Chicago,Florida,5,2,1
+2023-11-04,Minnesota,New York,5,4,1
+2023-11-04,Seattle,Calgary,3,6,0
+2023-11-04,San Jose,Pittsburgh,2,10,0
+2023-11-04,Vancouver,Dallas,2,0,1
+2023-11-04,Vegas,Colorado,7,0,1
+2023-11-05,Chicago,New Jersey,2,4,0
+2023-11-05,Anaheim,Vegas,4,2,1
+2023-11-06,Florida,Columbus,5,4,1
+2023-11-06,Toronto,Tampa Bay,6,5,1
+2023-11-06,Dallas,Boston,2,3,0
+2023-11-06,Vancouver,Edmonton,6,2,1
+2023-11-07,Carolina,Buffalo,3,2,1
+2023-11-07,Montréal,Tampa Bay,3,5,0
+2023-11-07,New York,Minnesota,2,4,0
+2023-11-07,New York,Detroit,5,3,1
+2023-11-07,St. Louis,Winnipeg,2,5,0
+2023-11-07,Arizona,Seattle,4,3,1
+2023-11-07,Calgary,Nashville,4,2,1
+2023-11-07,Anaheim,Pittsburgh,0,2,0
+2023-11-07,Colorado,New Jersey,6,3,1
+2023-11-07,San Jose,Philadelphia,2,1,1
+2023-11-08,Toronto,Ottawa,3,6,0
+2023-11-08,Washington,Florida,3,4,0
+2023-11-08,Vegas,Los Angeles,1,4,0
+2023-11-09,Boston,New York,5,2,1
+2023-11-09,Detroit,Montréal,2,3,0
+2023-11-09,New York,Minnesota,4,1,1
+2023-11-09,Ottawa,Vancouver,2,5,0
+2023-11-09,Tampa Bay,Chicago,3,5,0
+2023-11-09,Columbus,Dallas,2,5,0
+2023-11-09,St. Louis,Arizona,2,1,1
+2023-11-09,Winnipeg,Nashville,6,3,1
+2023-11-09,Colorado,Seattle,3,4,0
+2023-11-09,Los Angeles,Pittsburgh,3,4,0
+2023-11-09,San Jose,Edmonton,3,2,1
+2023-11-10,Buffalo,Minnesota,3,2,1
+2023-11-10,Florida,Carolina,5,2,1
+2023-11-10,New Jersey,Washington,2,4,0
+2023-11-10,Toronto,Calgary,5,4,1
+2023-11-10,Anaheim,Philadelphia,3,6,0
+2023-11-10,Vegas,San Jose,5,0,1
+2023-11-11,Detroit,Columbus,5,4,1
+2023-11-11,Winnipeg,Dallas,2,3,0
+2023-11-11,Montréal,Boston,3,2,1
+2023-11-11,Ottawa,Calgary,4,1,1
+2023-11-11,Tampa Bay,Carolina,0,4,0
+2023-11-11,Toronto,Vancouver,5,2,1
+2023-11-11,New York,Washington,1,4,0
+2023-11-11,Pittsburgh,Buffalo,4,0,1
+2023-11-11,Nashville,Arizona,5,7,0
+2023-11-11,Colorado,St. Louis,2,8,0
+2023-11-11,Seattle,Edmonton,1,4,0
+2023-11-11,Los Angeles,Philadelphia,2,4,0
+2023-11-12,Florida,Chicago,4,3,1
+2023-11-12,Minnesota,Dallas,3,8,0
+2023-11-12,Montréal,Vancouver,2,5,0
+2023-11-12,New York,Columbus,4,3,1
+2023-11-12,Anaheim,San Jose,4,1,1
+2023-11-13,Edmonton,New York,4,1,1
+2023-11-13,Seattle,Colorado,1,5,0
+2023-11-14,Buffalo,Boston,2,5,0
+2023-11-14,Columbus,Pittsburgh,3,5,0
+2023-11-14,Montréal,Calgary,1,2,0
+2023-11-14,Washington,Vegas,3,0,1
+2023-11-14,Dallas,Arizona,4,3,1
+2023-11-14,Nashville,Anaheim,2,3,0
+2023-11-14,St. Louis,Tampa Bay,5,0,1
+2023-11-14,Winnipeg,New Jersey,6,3,1
+2023-11-14,San Jose,Florida,3,5,0
+2023-11-15,Carolina,Philadelphia,1,3,0
+2023-11-15,Edmonton,Seattle,4,3,1
+2023-11-15,Colorado,Anaheim,8,2,1
+2023-11-15,Vancouver,New York,4,3,1
+2023-11-16,Ottawa,Detroit,5,4,1
+2023-11-16,Columbus,Arizona,2,3,0
+2023-11-16,Montréal,Vegas,5,6,0
+2023-11-16,Pittsburgh,New Jersey,2,5,0
+2023-11-16,Chicago,Tampa Bay,2,4,0
+2023-11-16,Calgary,Vancouver,5,2,1
+2023-11-16,Seattle,New York,4,3,1
+2023-11-16,Los Angeles,Florida,2,1,1
+2023-11-16,San Jose,St. Louis,5,1,1
+2023-11-17,Detroit,Toronto,2,3,0
+2023-11-17,Winnipeg,Buffalo,3,2,1
+2023-11-17,Anaheim,Florida,1,2,0
+2023-11-18,Ottawa,Minnesota,2,1,1
+2023-11-18,Philadelphia,Vegas,4,3,1
+2023-11-18,Nashville,Chicago,4,2,1
+2023-11-18,Tampa Bay,Edmonton,6,4,1
+2023-11-18,Boston,Montréal,5,2,1
+2023-11-18,Carolina,Pittsburgh,4,2,1
+2023-11-18,Calgary,New York,4,5,0
+2023-11-18,New Jersey,New York,3,5,0
+2023-11-18,Winnipeg,Arizona,5,2,1
+2023-11-18,Washington,Columbus,4,3,1
+2023-11-18,Dallas,Colorado,3,6,0
+2023-11-18,Vancouver,Seattle,3,4,0
+2023-11-18,Los Angeles,St. Louis,5,1,1
+2023-11-19,Minnesota,Toronto,3,4,0
+2023-11-19,Philadelphia,Columbus,5,2,1
+2023-11-19,Pittsburgh,Vegas,3,0,1
+2023-11-19,Chicago,Buffalo,2,3,0
+2023-11-19,Anaheim,St. Louis,1,3,0
+2023-11-20,Florida,Edmonton,5,3,1
+2023-11-20,Tampa Bay,Boston,5,4,1
+2023-11-20,Dallas,New York,6,3,1
+2023-11-20,Nashville,Colorado,4,3,1
+2023-11-20,Arizona,Los Angeles,1,4,0
+2023-11-20,Seattle,Calgary,3,4,0
+2023-11-20,Vancouver,San Jose,3,1,1
+2023-11-22,Carolina,Edmonton,6,3,1
+2023-11-22,Columbus,Chicago,7,3,1
+2023-11-22,Detroit,New Jersey,4,0,1
+2023-11-22,Florida,Boston,1,3,0
+2023-11-22,Pittsburgh,New York,0,1,0
+2023-11-22,Tampa Bay,Winnipeg,2,3,0
+2023-11-22,Washington,Buffalo,4,3,1
+2023-11-22,New York,Philadelphia,3,2,1
+2023-11-22,Arizona,St. Louis,5,6,0
+2023-11-22,Nashville,Calgary,4,2,1
+2023-11-22,Dallas,Vegas,1,2,0
+2023-11-22,Anaheim,Montréal,3,4,0
+2023-11-22,Colorado,Vancouver,5,2,1
+2023-11-22,Seattle,San Jose,7,1,1
+2023-11-24,Boston,Detroit,2,5,0
+2023-11-24,Philadelphia,New York,1,3,0
+2023-11-24,Chicago,Toronto,4,3,1
+2023-11-24,New Jersey,Columbus,1,2,0
+2023-11-24,St. Louis,Nashville,3,8,0
+2023-11-24,Washington,Edmonton,0,5,0
+2023-11-24,Anaheim,Los Angeles,2,5,0
+2023-11-24,San Jose,Montréal,2,3,0
+2023-11-24,Buffalo,Pittsburgh,3,2,1
+2023-11-24,Ottawa,New York,3,5,0
+2023-11-24,Carolina,Tampa Bay,2,8,0
+2023-11-24,Florida,Winnipeg,0,3,0
+2023-11-24,Dallas,Calgary,4,7,0
+2023-11-24,Minnesota,Colorado,2,3,0
+2023-11-24,Seattle,Vancouver,1,5,0
+2023-11-25,New York,Boston,7,4,1
+2023-11-25,Los Angeles,Montréal,4,0,1
+2023-11-25,New Jersey,Buffalo,7,2,1
+2023-11-25,Pittsburgh,Toronto,3,2,1
+2023-11-25,New York,Philadelphia,0,1,0
+2023-11-25,Colorado,Calgary,3,1,1
+2023-11-25,San Jose,Vancouver,4,3,1
+2023-11-25,Vegas,Arizona,0,2,0
+2023-11-26,Detroit,Minnesota,4,1,1
+2023-11-26,Chicago,St. Louis,2,4,0
+2023-11-26,Carolina,Columbus,3,2,1
+2023-11-26,Nashville,Winnipeg,3,2,1
+2023-11-26,Edmonton,Anaheim,8,2,1
+2023-11-27,Columbus,Boston,5,2,1
+2023-11-27,New York,Buffalo,1,5,0
+2023-11-27,Ottawa,Florida,0,5,0
+2023-11-27,Colorado,Tampa Bay,4,1,1
+2023-11-27,Calgary,Vegas,2,1,1
+2023-11-27,San Jose,Washington,2,1,1
+2023-11-28,New Jersey,New York,5,4,1
+2023-11-28,Toronto,Florida,2,1,1
+2023-11-28,Philadelphia,Carolina,1,4,0
+2023-11-28,Minnesota,St. Louis,3,1,1
+2023-11-28,Nashville,Pittsburgh,3,2,1
+2023-11-28,Winnipeg,Dallas,0,2,0
+2023-11-28,Chicago,Seattle,4,3,1
+2023-11-28,Arizona,Tampa Bay,3,1,1
+2023-11-28,Edmonton,Vegas,5,4,1
+2023-11-28,Vancouver,Anaheim,3,1,1
+2023-11-29,Columbus,Montréal,2,4,0
+2023-11-29,New York,Detroit,3,2,1
+2023-11-29,Los Angeles,Washington,1,2,0
+2023-11-30,Boston,San Jose,3,0,1
+2023-11-30,Detroit,Chicago,5,1,1
+2023-11-30,Montréal,Florida,1,5,0
+2023-11-30,Philadelphia,New Jersey,3,4,0
+2023-11-30,Tampa Bay,Pittsburgh,2,4,0
+2023-11-30,Toronto,Seattle,4,3,1
+2023-11-30,Carolina,New York,4,5,0
+2023-11-30,Nashville,Minnesota,1,6,0
+2023-11-30,St. Louis,Buffalo,6,4,1
+2023-11-30,Winnipeg,Edmonton,1,3,0
+2023-11-30,Arizona,Colorado,4,3,1
+2023-11-30,Calgary,Dallas,4,3,1
+2023-11-30,Anaheim,Washington,4,5,0
+2023-11-30,Vancouver,Vegas,1,4,0
+2023-12-01,Columbus,Ottawa,4,2,1
+2023-12-01,New Jersey,San Jose,3,6,0
+2023-12-02,Dallas,Tampa Bay,8,1,1
+2023-12-02,Winnipeg,Chicago,3,1,1
+2023-12-02,Nashville,New York,3,4,0
+2023-12-02,Florida,New York,3,4,0
+2023-12-02,Carolina,Buffalo,6,2,1
+2023-12-02,Montréal,Detroit,4,5,0
+2023-12-02,Ottawa,Seattle,2,0,1
+2023-12-02,Pittsburgh,Philadelphia,3,4,0
+2023-12-02,Toronto,Boston,3,4,0
+2023-12-02,Arizona,St. Louis,4,1,1
+2023-12-02,Anaheim,Colorado,4,3,1
+2023-12-02,Calgary,Vancouver,3,4,0
+2023-12-02,Vegas,Washington,4,1,1
+2023-12-03,Minnesota,Chicago,4,1,1
+2023-12-03,New York,San Jose,6,5,1
+2023-12-03,Boston,Columbus,3,1,1
+2023-12-03,Buffalo,Nashville,1,2,0
+2023-12-03,Los Angeles,Colorado,4,1,1
+2023-12-04,Philadelphia,Pittsburgh,2,1,1
+2023-12-04,Tampa Bay,Dallas,4,0,1
+2023-12-04,Montréal,Seattle,4,2,1
+2023-12-04,Winnipeg,Carolina,2,1,1
+2023-12-04,Arizona,Washington,6,0,1
+2023-12-04,Vegas,St. Louis,1,2,0
+2023-12-05,Columbus,Los Angeles,3,4,0
+2023-12-05,Ottawa,New York,6,2,1
+2023-12-05,Buffalo,Detroit,3,5,0
+2023-12-05,New York,San Jose,4,5,0
+2023-12-05,Chicago,Nashville,3,4,0
+2023-12-05,Calgary,Minnesota,2,5,0
+2023-12-05,Colorado,Anaheim,3,2,1
+2023-12-05,Vancouver,New Jersey,5,6,0
+2023-12-06,Florida,Dallas,5,4,1
+2023-12-06,Tampa Bay,Pittsburgh,3,1,1
+2023-12-06,St. Louis,Vegas,3,6,0
+2023-12-06,Edmonton,Carolina,6,1,1
+2023-12-07,Boston,Buffalo,1,3,0
+2023-12-07,Detroit,San Jose,5,6,0
+2023-12-07,Montréal,Los Angeles,0,4,0
+2023-12-07,Ottawa,Toronto,3,4,0
+2023-12-07,New York,Columbus,7,3,1
+2023-12-07,Washington,Dallas,4,5,0
+2023-12-07,Nashville,Tampa Bay,5,1,1
+2023-12-07,Chicago,Anaheim,1,0,1
+2023-12-07,Arizona,Philadelphia,1,4,0
+2023-12-07,Calgary,Carolina,3,2,1
+2023-12-07,Colorado,Winnipeg,2,4,0
+2023-12-07,Vancouver,Minnesota,2,0,1
+2023-12-07,Seattle,New Jersey,1,2,0
+2023-12-08,Columbus,St. Louis,5,2,1
+2023-12-08,Florida,Pittsburgh,3,1,1
+2023-12-08,Edmonton,Minnesota,4,3,1
+2023-12-09,Boston,Arizona,5,3,1
+2023-12-09,Calgary,New Jersey,2,4,0
+2023-12-09,Dallas,Vegas,1,6,0
+2023-12-09,Buffalo,Montréal,2,3,0
+2023-12-09,Detroit,Ottawa,1,5,0
+2023-12-09,Toronto,Nashville,4,0,1
+2023-12-09,Washington,New York,4,0,1
+2023-12-09,New York,Los Angeles,3,2,1
+2023-12-09,Chicago,St. Louis,3,1,1
+2023-12-09,Colorado,Philadelphia,2,5,0
+2023-12-09,Seattle,Tampa Bay,3,4,0
+2023-12-09,Vancouver,Carolina,4,3,1
+2023-12-10,Columbus,Florida,2,5,0
+2023-12-10,Edmonton,New Jersey,4,1,1
+2023-12-10,Chicago,Washington,2,4,0
+2023-12-10,Montréal,Nashville,1,2,0
+2023-12-10,New York,Los Angeles,4,1,1
+2023-12-10,Anaheim,Winnipeg,2,4,0
+2023-12-10,Seattle,Minnesota,0,3,0
+2023-12-10,Vegas,San Jose,5,4,1
+2023-12-11,Buffalo,Arizona,5,2,1
+2023-12-11,New York,Toronto,4,3,1
+2023-12-11,Dallas,Detroit,6,3,1
+2023-12-11,Colorado,Calgary,6,5,1
+2023-12-12,New York,Toronto,3,7,0
+2023-12-12,Ottawa,Carolina,1,4,0
+2023-12-12,Pittsburgh,Arizona,4,2,1
+2023-12-12,St. Louis,Detroit,4,6,0
+2023-12-12,Nashville,Philadelphia,3,2,1
+2023-12-12,Edmonton,Chicago,4,1,1
+2023-12-12,Seattle,Florida,4,0,1
+2023-12-12,Vancouver,Tampa Bay,4,1,1
+2023-12-12,Vegas,Calgary,5,4,1
+2023-12-12,San Jose,Winnipeg,2,1,1
+2023-12-13,Montréal,Pittsburgh,3,4,0
+2023-12-13,New Jersey,Boston,2,1,1
+2023-12-13,New York,Anaheim,4,3,1
+2023-12-13,Colorado,Buffalo,5,1,1
+2023-12-13,Los Angeles,Winnipeg,2,5,0
+2023-12-14,Philadelphia,Washington,4,3,1
+2023-12-14,Toronto,Columbus,5,6,0
+2023-12-14,Detroit,Carolina,1,2,0
+2023-12-14,Minnesota,Calgary,3,2,1
+2023-12-14,St. Louis,Ottawa,4,2,1
+2023-12-14,Edmonton,Tampa Bay,4,7,0
+2023-12-14,Seattle,Chicago,7,1,1
+2023-12-14,Vancouver,Florida,4,0,1
+2023-12-15,New York,Anaheim,5,1,1
+2023-12-15,Carolina,Nashville,5,6,0
+2023-12-15,New York,Boston,4,5,0
+2023-12-15,Dallas,Ottawa,5,4,1
+2023-12-15,Arizona,San Jose,1,0,1
+2023-12-15,Vegas,Buffalo,2,5,0
+2023-12-16,Minnesota,Vancouver,2,1,1
+2023-12-16,Boston,New York,1,2,0
+2023-12-16,Columbus,New Jersey,3,6,0
+2023-12-16,Montréal,New York,5,3,1
+2023-12-16,Philadelphia,Detroit,1,0,1
+2023-12-16,Toronto,Pittsburgh,7,0,1
+2023-12-16,Winnipeg,Colorado,6,2,1
+2023-12-16,Nashville,Washington,3,1,1
+2023-12-16,St. Louis,Dallas,4,3,1
+2023-12-16,Arizona,Buffalo,2,0,1
+2023-12-16,Calgary,Tampa Bay,4,2,1
+2023-12-16,Edmonton,Florida,1,5,0
+2023-12-16,Seattle,Los Angeles,2,3,0
+2023-12-17,Chicago,Vancouver,3,4,0
+2023-12-17,Carolina,Washington,1,2,0
+2023-12-17,New Jersey,Anaheim,1,5,0
+2023-12-17,Colorado,San Jose,6,2,1
+2023-12-17,Vegas,Ottawa,6,3,1
+2023-12-18,Detroit,Anaheim,3,4,0
+2023-12-18,Pittsburgh,Minnesota,4,3,1
+2023-12-18,Winnipeg,Montréal,2,3,0
+2023-12-18,Dallas,Seattle,4,3,1
+2023-12-18,Calgary,Florida,3,1,1
+2023-12-19,Boston,Minnesota,3,4,0
+2023-12-19,Buffalo,Columbus,4,9,0
+2023-12-19,Carolina,Vegas,6,3,1
+2023-12-19,New Jersey,Philadelphia,2,3,0
+2023-12-19,Tampa Bay,St. Louis,6,1,1
+2023-12-19,Toronto,New York,2,5,0
+2023-12-19,New York,Edmonton,3,1,1
+2023-12-19,Nashville,Vancouver,2,5,0
+2023-12-19,Chicago,Colorado,3,2,1
+2023-12-19,Arizona,Ottawa,4,3,1
+2023-12-19,San Jose,Los Angeles,1,4,0
+2023-12-20,Winnipeg,Detroit,5,2,1
+2023-12-20,Washington,New York,3,2,1
+2023-12-20,Los Angeles,Seattle,1,2,0
+2023-12-21,Buffalo,Toronto,9,3,1
+2023-12-21,Columbus,Washington,2,3,0
+2023-12-21,Florida,St. Louis,1,4,0
+2023-12-21,Philadelphia,Nashville,2,4,0
+2023-12-21,Pittsburgh,Carolina,2,1,1
+2023-12-21,Tampa Bay,Vegas,5,4,1
+2023-12-21,New Jersey,Edmonton,3,6,0
+2023-12-21,Dallas,Vancouver,4,3,1
+2023-12-21,Minnesota,Montréal,4,3,1
+2023-12-21,Colorado,Ottawa,6,4,1
+2023-12-21,Anaheim,Calgary,0,3,0
+2023-12-21,San Jose,Arizona,2,5,0
+2023-12-22,Detroit,Philadelphia,7,6,1
+2023-12-22,New York,Edmonton,3,4,0
+2023-12-22,Winnipeg,Boston,5,1,1
+2023-12-22,Chicago,Montréal,2,5,0
+2023-12-23,Nashville,Dallas,2,3,0
+2023-12-23,Florida,Vegas,4,2,1
+2023-12-23,Columbus,Toronto,1,4,0
+2023-12-23,Minnesota,Boston,3,2,1
+2023-12-23,New Jersey,Detroit,3,2,1
+2023-12-23,Ottawa,Pittsburgh,5,4,1
+2023-12-23,Washington,Tampa Bay,1,2,0
+2023-12-23,Carolina,New York,4,5,0
+2023-12-23,New York,Buffalo,4,3,1
+2023-12-23,Anaheim,Seattle,2,3,0
+2023-12-23,St. Louis,Chicago,7,5,1
+2023-12-23,Colorado,Arizona,4,1,1
+2023-12-23,Los Angeles,Calgary,5,3,1
+2023-12-23,Vancouver,San Jose,7,4,1
+2023-12-27,New Jersey,Columbus,4,3,1
+2023-12-27,New York,Washington,5,1,1
+2023-12-27,Tampa Bay,Florida,2,3,0
+2023-12-27,Toronto,Ottawa,2,4,0
+2023-12-27,Buffalo,Boston,1,4,0
+2023-12-27,New York,Pittsburgh,0,7,0
+2023-12-27,Minnesota,Detroit,6,3,1
+2023-12-27,Nashville,Carolina,2,5,0
+2023-12-27,St. Louis,Dallas,2,1,1
+2023-12-27,Arizona,Colorado,5,4,1
+2023-12-27,Chicago,Winnipeg,2,1,1
+2023-12-27,Calgary,Seattle,1,2,0
+2023-12-27,Anaheim,Vegas,5,2,1
+2023-12-27,Los Angeles,San Jose,5,1,1
+2023-12-28,Carolina,Montréal,5,3,1
+2023-12-28,Vancouver,Philadelphia,1,4,0
+2023-12-28,Vegas,Los Angeles,3,2,1
+2023-12-28,San Jose,Edmonton,0,5,0
+2023-12-29,Columbus,Toronto,6,5,1
+2023-12-29,Detroit,Nashville,5,4,1
+2023-12-29,Florida,New York,4,3,1
+2023-12-29,Ottawa,New Jersey,2,6,0
+2023-12-29,New York,Washington,5,1,1
+2023-12-29,Dallas,Chicago,5,4,1
+2023-12-29,St. Louis,Colorado,1,2,0
+2023-12-29,Anaheim,Arizona,0,2,0
+2023-12-29,Seattle,Philadelphia,2,1,1
+2023-12-30,Winnipeg,Minnesota,4,2,1
+2023-12-30,Buffalo,Columbus,3,2,1
+2023-12-30,Boston,New Jersey,5,2,1
+2023-12-30,Florida,Montréal,4,1,1
+2023-12-30,Pittsburgh,St. Louis,4,2,1
+2023-12-30,Tampa Bay,New York,1,5,0
+2023-12-30,Toronto,Carolina,2,3,0
+2023-12-30,Washington,Nashville,2,3,0
+2023-12-30,Los Angeles,Edmonton,2,3,0
+2023-12-31,Minnesota,Winnipeg,2,3,0
+2023-12-31,Detroit,Boston,3,5,0
+2023-12-31,Ottawa,Buffalo,5,1,1
+2023-12-31,Pittsburgh,New York,3,1,1
+2023-12-31,Tampa Bay,Montréal,4,3,1
+2023-12-31,Anaheim,Edmonton,2,7,0
+2023-12-31,Calgary,Philadelphia,4,3,1
+2023-12-31,Colorado,San Jose,3,1,1
+2023-12-31,Dallas,Chicago,8,1,1
+2024-01-01,Seattle,Vegas,3,0,1
+2024-01-02,Columbus,Boston,1,4,0
+2024-01-02,New York,Carolina,1,6,0
+2024-01-02,Pittsburgh,Washington,3,4,0
+2024-01-02,Dallas,Montréal,3,4,0
+2024-01-02,Minnesota,Calgary,1,3,0
+2024-01-02,Nashville,Chicago,3,0,1
+2024-01-02,Winnipeg,Tampa Bay,4,2,1
+2024-01-02,Arizona,Florida,1,4,0
+2024-01-02,Colorado,New York,5,4,1
+2024-01-02,Edmonton,Philadelphia,5,2,1
+2024-01-02,Vancouver,Ottawa,6,3,1
+2024-01-02,Los Angeles,Toronto,0,3,0
+2024-01-02,San Jose,Detroit,3,5,0
+2024-01-03,Washington,New Jersey,3,6,0
+2024-01-03,Anaheim,Toronto,1,2,0
+2024-01-04,Boston,Pittsburgh,5,6,0
+2024-01-04,Montréal,Buffalo,1,6,0
+2024-01-04,New York,Chicago,4,1,1
+2024-01-04,Philadelphia,Columbus,2,3,0
+2024-01-04,Dallas,Colorado,4,5,0
+2024-01-04,Minnesota,Tampa Bay,1,4,0
+2024-01-04,Nashville,Calgary,3,6,0
+2024-01-04,St. Louis,Vancouver,2,1,1
+2024-01-04,Arizona,New York,1,5,0
+2024-01-04,Seattle,Ottawa,4,1,1
+2024-01-04,Vegas,Florida,1,4,0
+2024-01-04,Los Angeles,Detroit,3,4,0
+2024-01-04,San Jose,Winnipeg,1,2,0
+2024-01-05,New Jersey,Chicago,4,2,1
+2024-01-05,Washington,Carolina,2,6,0
+2024-01-05,Anaheim,Winnipeg,1,3,0
+2024-01-06,Philadelphia,Calgary,3,2,1
+2024-01-06,Colorado,Florida,4,8,0
+2024-01-06,Boston,Tampa Bay,7,3,1
+2024-01-06,Columbus,Minnesota,3,4,0
+2024-01-06,Montréal,New York,4,3,1
+2024-01-06,New Jersey,Vancouver,4,6,0
+2024-01-06,Pittsburgh,Buffalo,1,3,0
+2024-01-06,San Jose,Toronto,1,4,0
+2024-01-06,Carolina,St. Louis,1,2,0
+2024-01-06,Dallas,Nashville,3,4,0
+2024-01-06,Edmonton,Ottawa,3,1,1
+2024-01-06,Vegas,New York,5,2,1
+2024-01-07,Chicago,Calgary,4,3,1
+2024-01-07,Washington,Los Angeles,4,3,1
+2024-01-07,Arizona,Winnipeg,2,6,0
+2024-01-07,Anaheim,Detroit,2,3,0
+2024-01-08,New York,Vancouver,3,6,0
+2024-01-08,Philadelphia,Pittsburgh,1,4,0
+2024-01-08,Minnesota,Dallas,0,4,0
+2024-01-08,Colorado,Boston,4,3,1
+2024-01-09,Buffalo,Seattle,2,5,0
+2024-01-09,Tampa Bay,Los Angeles,3,2,1
+2024-01-09,Toronto,San Jose,7,1,1
+2024-01-09,New York,Vancouver,2,5,0
+2024-01-09,Nashville,Anaheim,3,5,0
+2024-01-09,St. Louis,Florida,1,5,0
+2024-01-09,Winnipeg,Columbus,5,0,1
+2024-01-09,Chicago,Edmonton,1,2,0
+2024-01-09,Arizona,Boston,4,3,1
+2024-01-09,Calgary,Ottawa,6,3,1
+2024-01-10,Philadelphia,Montréal,3,2,1
+2024-01-10,Dallas,Minnesota,7,2,1
+2024-01-10,Colorado,Vegas,3,0,1
+2024-01-11,Buffalo,Ottawa,5,3,1
+2024-01-11,Carolina,Anaheim,6,3,1
+2024-01-11,Detroit,Edmonton,2,3,0
+2024-01-11,Florida,Los Angeles,3,2,1
+2024-01-11,Montréal,San Jose,2,3,0
+2024-01-11,Pittsburgh,Vancouver,3,4,0
+2024-01-11,Tampa Bay,New Jersey,4,3,1
+2024-01-11,Washington,Seattle,1,4,0
+2024-01-11,New York,Toronto,4,3,1
+2024-01-11,St. Louis,New York,5,2,1
+2024-01-11,Winnipeg,Chicago,2,1,1
+2024-01-11,Arizona,Calgary,2,6,0
+2024-01-11,Vegas,Boston,2,1,1
+2024-01-12,Dallas,Nashville,3,6,0
+2024-01-12,Minnesota,Philadelphia,3,4,0
+2024-01-13,Washington,New York,3,2,1
+2024-01-13,Buffalo,Vancouver,0,1,0
+2024-01-13,Ottawa,San Jose,5,4,1
+2024-01-13,Florida,New Jersey,1,4,0
+2024-01-13,Carolina,Pittsburgh,3,2,1
+2024-01-13,Columbus,Seattle,4,7,0
+2024-01-13,Detroit,Los Angeles,5,3,1
+2024-01-13,Montréal,Edmonton,1,2,0
+2024-01-13,Tampa Bay,Anaheim,5,1,1
+2024-01-13,Toronto,Colorado,3,5,0
+2024-01-13,Winnipeg,Philadelphia,0,2,0
+2024-01-13,Chicago,Dallas,1,3,0
+2024-01-13,Minnesota,Arizona,0,6,0
+2024-01-13,Nashville,New York,3,1,1
+2024-01-13,St. Louis,Boston,3,4,0
+2024-01-13,Vegas,Calgary,1,3,0
+2024-01-14,New York,Washington,2,1,1
+2024-01-14,Toronto,Detroit,2,4,0
+2024-01-15,Buffalo,San Jose,3,0,1
+2024-01-15,Boston,New Jersey,3,0,1
+2024-01-15,Columbus,Vancouver,4,3,1
+2024-01-15,Florida,Anaheim,4,5,0
+2024-01-15,Pittsburgh,Seattle,3,0,1
+2024-01-15,Carolina,Los Angeles,2,5,0
+2024-01-15,Minnesota,New York,5,0,1
+2024-01-15,Vegas,Nashville,4,1,1
+2024-01-15,Montréal,Colorado,4,3,1
+2024-01-15,St. Louis,Philadelphia,2,4,0
+2024-01-16,New York,Seattle,5,2,1
+2024-01-16,Ottawa,Colorado,4,7,0
+2024-01-16,Washington,Anaheim,2,0,1
+2024-01-16,Dallas,Los Angeles,5,1,1
+2024-01-16,Winnipeg,New York,4,2,1
+2024-01-16,Chicago,San Jose,2,1,1
+2024-01-16,Calgary,Arizona,3,2,1
+2024-01-16,Edmonton,Toronto,4,2,1
+2024-01-17,Florida,Detroit,2,3,0
+2024-01-17,New Jersey,Montréal,2,3,0
+2024-01-18,Buffalo,Chicago,3,0,1
+2024-01-18,Boston,Colorado,5,2,1
+2024-01-18,Ottawa,Montréal,6,2,1
+2024-01-18,Philadelphia,Dallas,5,1,1
+2024-01-18,Tampa Bay,Minnesota,7,3,1
+2024-01-18,Washington,St. Louis,5,2,1
+2024-01-18,Calgary,Toronto,3,4,0
+2024-01-18,Edmonton,Seattle,4,2,1
+2024-01-18,Los Angeles,Nashville,1,2,0
+2024-01-18,Vancouver,Arizona,2,1,1
+2024-01-18,Vegas,New York,5,1,1
+2024-01-19,Carolina,Detroit,4,2,1
+2024-01-19,Columbus,New Jersey,1,4,0
+2024-01-19,Florida,Minnesota,4,6,0
+2024-01-19,Chicago,New York,4,3,1
+2024-01-20,Buffalo,Tampa Bay,1,3,0
+2024-01-20,Philadelphia,Colorado,4,7,0
+2024-01-20,Arizona,Nashville,3,2,1
+2024-01-20,Ottawa,Winnipeg,1,2,0
+2024-01-20,Boston,Montréal,9,4,1
+2024-01-20,New Jersey,Dallas,2,6,0
+2024-01-20,Vancouver,Toronto,6,4,1
+2024-01-20,St. Louis,Washington,3,0,1
+2024-01-20,Calgary,Edmonton,1,3,0
+2024-01-20,San Jose,Anaheim,5,3,1
+2024-01-20,Vegas,Pittsburgh,3,2,1
+2024-01-20,Los Angeles,New York,2,1,1
+2024-01-21,Philadelphia,Ottawa,3,5,0
+2024-01-21,Carolina,Minnesota,2,5,0
+2024-01-21,Detroit,Tampa Bay,2,1,1
+2024-01-21,New York,Dallas,3,2,1
+2024-01-21,Anaheim,New York,2,5,0
+2024-01-21,Seattle,Toronto,1,3,0
+2024-01-22,Boston,Winnipeg,4,1,1
+2024-01-22,New Jersey,Vegas,6,5,1
+2024-01-22,Nashville,Florida,1,4,0
+2024-01-22,Arizona,Pittsburgh,5,2,1
+2024-01-22,Vancouver,Chicago,2,0,1
+2024-01-22,Los Angeles,San Jose,3,4,0
+2024-01-23,Detroit,Dallas,4,5,0
+2024-01-23,Montréal,Ottawa,1,4,0
+2024-01-23,Philadelphia,Tampa Bay,3,6,0
+2024-01-23,New York,Vegas,2,3,0
+2024-01-23,Minnesota,Washington,5,3,1
+2024-01-23,Calgary,St. Louis,3,4,0
+2024-01-23,Edmonton,Columbus,4,1,1
+2024-01-23,Anaheim,Buffalo,4,2,1
+2024-01-23,San Jose,New York,3,2,1
+2024-01-24,Florida,Arizona,6,2,1
+2024-01-24,Toronto,Winnipeg,1,0,1
+2024-01-24,Boston,Carolina,2,3,0
+2024-01-24,Colorado,Washington,6,2,1
+2024-01-24,Seattle,Chicago,6,2,1
+2024-01-24,Vancouver,St. Louis,3,4,0
+2024-01-24,Los Angeles,Buffalo,3,5,0
+2024-01-25,Detroit,Philadelphia,3,0,1
+2024-01-25,Montréal,New York,4,3,1
+2024-01-25,Ottawa,Boston,2,3,0
+2024-01-25,Tampa Bay,Arizona,6,3,1
+2024-01-25,Carolina,New Jersey,3,2,1
+2024-01-25,Dallas,Anaheim,4,3,1
+2024-01-25,Minnesota,Nashville,2,3,0
+2024-01-25,Calgary,Columbus,2,5,0
+2024-01-25,Edmonton,Chicago,3,0,1
+2024-01-26,New York,Vegas,2,5,0
+2024-01-26,Pittsburgh,Florida,2,3,0
+2024-01-26,Colorado,Los Angeles,5,1,1
+2024-01-26,Seattle,St. Louis,3,4,0
+2024-01-27,Philadelphia,Boston,2,6,0
+2024-01-27,Dallas,Washington,5,4,1
+2024-01-27,Edmonton,Nashville,4,1,1
+2024-01-27,San Jose,Buffalo,2,5,0
+2024-01-27,Carolina,Arizona,3,1,1
+2024-01-27,Ottawa,New York,2,7,0
+2024-01-27,Pittsburgh,Montréal,3,2,1
+2024-01-27,Tampa Bay,New Jersey,6,3,1
+2024-01-27,Winnipeg,Toronto,2,4,0
+2024-01-27,New York,Florida,2,3,0
+2024-01-27,Detroit,Vegas,5,2,1
+2024-01-27,Minnesota,Anaheim,2,3,0
+2024-01-27,Calgary,Chicago,1,0,1
+2024-01-27,Vancouver,Columbus,5,4,1
+2024-01-28,St. Louis,Los Angeles,4,3,1
+2024-01-28,Seattle,Columbus,4,2,1
+2024-01-29,Ottawa,Nashville,4,3,1
+2024-01-30,St. Louis,Columbus,0,1,0
+2024-01-30,San Jose,Seattle,2,0,1
+2024-01-31,Detroit,Ottawa,2,3,0
+2024-01-31,Nashville,Los Angeles,2,4,0
+2024-01-31,Anaheim,San Jose,3,2,1
+2024-02-05,New York,Colorado,2,1,1
+2024-02-05,Toronto,New York,2,3,0
+2024-02-06,Boston,Calgary,1,4,0
+2024-02-06,Buffalo,Dallas,1,2,0
+2024-02-06,Carolina,Vancouver,2,3,0
+2024-02-06,Florida,Philadelphia,1,2,0
+2024-02-06,Pittsburgh,Winnipeg,3,0,1
+2024-02-06,Washington,Montréal,2,5,0
+2024-02-06,New Jersey,Colorado,5,3,1
+2024-02-06,Vegas,Edmonton,3,1,1
+2024-02-07,New York,Tampa Bay,3,1,1
+2024-02-07,Toronto,Dallas,5,4,1
+2024-02-07,Chicago,Minnesota,1,2,0
+2024-02-08,Boston,Vancouver,4,0,1
+2024-02-08,Florida,Washington,4,2,1
+2024-02-08,New Jersey,Calgary,3,5,0
+2024-02-08,Philadelphia,Winnipeg,4,1,1
+2024-02-08,Carolina,Colorado,5,2,1
+2024-02-08,New York,Tampa Bay,6,2,1
+2024-02-08,Arizona,Vegas,2,3,0
+2024-02-09,Minnesota,Pittsburgh,3,2,1
+2024-02-09,Chicago,New York,3,4,0
+2024-02-09,Anaheim,Edmonton,3,5,0
+2024-02-10,Buffalo,St. Louis,1,3,0
+2024-02-10,Detroit,Vancouver,4,3,1
+2024-02-10,Montréal,Dallas,2,3,0
+2024-02-10,New York,Calgary,2,5,0
+2024-02-10,Boston,Washington,0,3,0
+2024-02-10,Florida,Colorado,4,0,1
+2024-02-10,Carolina,New Jersey,1,0,1
+2024-02-10,Columbus,Tampa Bay,2,4,0
+2024-02-10,Ottawa,Toronto,5,3,1
+2024-02-10,Philadelphia,Seattle,3,2,1
+2024-02-10,Winnipeg,Pittsburgh,2,1,1
+2024-02-10,Nashville,Arizona,5,4,1
+2024-02-10,Los Angeles,Edmonton,4,0,1
+2024-02-11,Montréal,St. Louis,2,7,0
+2024-02-11,Washington,Vancouver,2,3,0
+2024-02-12,New Jersey,Seattle,3,1,1
+2024-02-12,New York,Calgary,2,0,1
+2024-02-12,Philadelphia,Arizona,5,3,1
+2024-02-12,Vegas,Minnesota,3,5,0
+2024-02-13,Boston,Tampa Bay,2,3,0
+2024-02-13,Buffalo,Los Angeles,7,0,1
+2024-02-13,Montréal,Anaheim,5,0,1
+2024-02-13,Ottawa,Columbus,6,3,1
+2024-02-13,Toronto,St. Louis,4,1,1
+2024-02-13,Washington,Colorado,3,6,0
+2024-02-13,New York,Seattle,1,2,0
+2024-02-13,Dallas,Carolina,4,2,1
+2024-02-13,Nashville,New Jersey,2,4,0
+2024-02-13,Chicago,Vancouver,2,4,0
+2024-02-13,Edmonton,Detroit,8,4,1
+2024-02-14,Pittsburgh,Florida,2,5,0
+2024-02-14,Winnipeg,San Jose,1,0,1
+2024-02-14,Arizona,Minnesota,1,3,0
+2024-02-15,Boston,Seattle,1,4,0
+2024-02-15,Buffalo,Florida,0,4,0
+2024-02-15,New Jersey,Los Angeles,1,2,0
+2024-02-15,New York,Montréal,7,4,1
+2024-02-15,Ottawa,Anaheim,1,5,0
+2024-02-15,Tampa Bay,Colorado,6,3,1
+2024-02-15,Toronto,Philadelphia,4,3,1
+2024-02-15,St. Louis,Edmonton,6,3,1
+2024-02-15,Nashville,Dallas,2,9,0
+2024-02-15,Chicago,Pittsburgh,1,4,0
+2024-02-15,Calgary,San Jose,3,6,0
+2024-02-15,Vancouver,Detroit,4,1,1
+2024-02-16,Arizona,Carolina,1,5,0
+2024-02-17,Boston,Los Angeles,4,5,0
+2024-02-17,Dallas,Edmonton,3,4,0
+2024-02-17,Chicago,Ottawa,3,2,1
+2024-02-17,Calgary,Detroit,0,5,0
+2024-02-17,Minnesota,Buffalo,2,3,0
+2024-02-17,St. Louis,Nashville,2,5,0
+2024-02-17,Tampa Bay,Florida,2,9,0
+2024-02-17,Montréal,Washington,3,4,0
+2024-02-17,Toronto,Anaheim,9,2,1
+2024-02-17,New Jersey,Philadelphia,6,3,1
+2024-02-17,Vancouver,Winnipeg,2,4,0
+2024-02-17,San Jose,Columbus,3,4,0
+2024-02-17,Vegas,Carolina,1,3,0
+2024-02-18,New York,New York,5,6,0
+2024-02-18,Colorado,Arizona,4,3,1
+2024-02-18,Pittsburgh,Los Angeles,1,2,0
+2024-02-19,Buffalo,Anaheim,3,4,0
+2024-02-19,Boston,Dallas,4,3,1
+2024-02-19,St. Louis,Toronto,2,4,0
+2024-02-19,Minnesota,Vancouver,10,7,1
+2024-02-19,Seattle,Detroit,3,4,0
+2024-02-19,Arizona,Edmonton,3,6,0
+2024-02-19,Calgary,Winnipeg,6,3,1
+2024-02-19,San Jose,Vegas,0,4,0
+2024-02-19,Carolina,Chicago,6,3,1
+2024-02-19,Tampa Bay,Ottawa,2,4,0
+2024-02-20,Florida,Ottawa,3,2,1
+2024-02-20,New York,Dallas,3,1,1
+2024-02-20,Pittsburgh,New York,4,5,0
+2024-02-20,Washington,New Jersey,6,2,1
+2024-02-20,Winnipeg,Minnesota,6,3,1
+2024-02-20,Colorado,Vancouver,3,1,1
+2024-02-20,Vegas,Nashville,3,5,0
+2024-02-20,Los Angeles,Columbus,5,1,1
+2024-02-21,Montréal,Buffalo,2,3,0
+2024-02-21,Chicago,Philadelphia,1,3,0
+2024-02-21,Anaheim,Columbus,4,7,0
+2024-02-21,Arizona,Toronto,3,6,0
+2024-02-21,Edmonton,Boston,5,6,0
+2024-02-22,Carolina,Florida,1,0,1
+2024-02-22,Detroit,Colorado,2,1,1
+2024-02-22,New Jersey,New York,1,5,0
+2024-02-22,Ottawa,Dallas,4,1,1
+2024-02-22,Pittsburgh,Montréal,4,1,1
+2024-02-22,Tampa Bay,Washington,3,5,0
+2024-02-22,St. Louis,New York,4,0,1
+2024-02-22,Calgary,Boston,3,2,1
+2024-02-22,Seattle,Vancouver,5,2,1
+2024-02-22,Vegas,Toronto,3,7,0
+2024-02-22,Los Angeles,Nashville,1,4,0
+2024-02-23,Columbus,Buffalo,1,2,0
+2024-02-23,Chicago,Winnipeg,2,3,0
+2024-02-23,Edmonton,Minnesota,2,4,0
+2024-02-24,Detroit,St. Louis,6,1,1
+2024-02-24,New Jersey,Montréal,4,3,1
+2024-02-24,New York,Tampa Bay,2,4,0
+2024-02-24,Philadelphia,New York,1,2,0
+2024-02-24,Florida,Washington,3,2,1
+2024-02-24,Colorado,Toronto,3,4,0
+2024-02-24,Ottawa,Vegas,4,3,1
+2024-02-24,Vancouver,Boston,3,2,1
+2024-02-24,Carolina,Dallas,1,2,0
+2024-02-24,Edmonton,Calgary,3,6,0
+2024-02-24,Seattle,Minnesota,2,5,0
+2024-02-24,San Jose,Nashville,2,4,0
+2024-02-24,Los Angeles,Anaheim,3,2,1
+2024-02-25,New Jersey,Tampa Bay,1,4,0
+2024-02-25,Pittsburgh,Philadelphia,7,6,1
+2024-02-25,Buffalo,Carolina,3,2,1
+2024-02-25,Columbus,New York,4,2,1
+2024-02-25,Chicago,Detroit,2,3,0
+2024-02-25,Winnipeg,Arizona,4,3,1
+2024-02-25,Anaheim,Nashville,2,4,0
+2024-02-26,Washington,Ottawa,6,3,1
+2024-02-26,Dallas,New York,2,3,0
+2024-02-26,Edmonton,Los Angeles,4,2,1
+2024-02-26,Seattle,Boston,4,3,1
+2024-02-27,Detroit,Washington,8,3,1
+2024-02-27,Florida,Buffalo,3,2,1
+2024-02-27,Montréal,Arizona,4,2,1
+2024-02-27,Philadelphia,Tampa Bay,6,2,1
+2024-02-27,Toronto,Vegas,2,6,0
+2024-02-27,Minnesota,Carolina,2,3,0
+2024-02-27,Nashville,Ottawa,4,1,1
+2024-02-27,Winnipeg,St. Louis,4,2,1
+2024-02-27,Calgary,Los Angeles,4,2,1
+2024-02-27,Colorado,Dallas,5,1,1
+2024-02-27,Vancouver,Pittsburgh,3,4,0
+2024-02-27,San Jose,New Jersey,2,7,0
+2024-02-28,New York,Columbus,4,1,1
+2024-02-28,Edmonton,St. Louis,3,2,1
+2024-02-29,Boston,Vegas,5,4,1
+2024-02-29,Columbus,Carolina,2,4,0
+2024-02-29,Detroit,New York,3,5,0
+2024-02-29,Florida,Montréal,4,3,1
+2024-02-29,Tampa Bay,Buffalo,2,3,0
+2024-02-29,Toronto,Arizona,4,2,1
+2024-02-29,Dallas,Winnipeg,4,1,1
+2024-02-29,Nashville,Minnesota,6,1,1
+2024-02-29,Chicago,Colorado,0,5,0
+2024-02-29,Seattle,Pittsburgh,2,0,1
+2024-02-29,Vancouver,Los Angeles,1,5,0
+2024-02-29,San Jose,Anaheim,4,6,0
+2024-03-01,Ottawa,Arizona,3,5,0
+2024-03-01,Washington,Philadelphia,5,2,1
+2024-03-01,Anaheim,New Jersey,4,3,1
+2024-03-02,Carolina,Winnipeg,3,5,0
+2024-03-02,Detroit,Florida,0,4,0
+2024-03-02,Seattle,Edmonton,1,2,0
+2024-03-02,Nashville,Colorado,5,1,1
+2024-03-02,St. Louis,Minnesota,3,1,1
+2024-03-02,Buffalo,Vegas,7,2,1
+2024-03-02,Philadelphia,Ottawa,4,2,1
+2024-03-02,Tampa Bay,Montréal,4,3,1
+2024-03-02,Toronto,New York,4,3,1
+2024-03-02,New York,Boston,5,1,1
+2024-03-02,Chicago,Columbus,2,5,0
+2024-03-02,Dallas,San Jose,3,2,1
+2024-03-02,Calgary,Pittsburgh,4,3,1
+2024-03-03,Washington,Arizona,2,5,0
+2024-03-03,Los Angeles,New Jersey,5,1,1
+2024-03-03,Buffalo,Winnipeg,2,5,0
+2024-03-03,Minnesota,San Jose,4,3,1
+2024-03-03,Anaheim,Vancouver,1,2,0
+2024-03-03,Edmonton,Pittsburgh,6,1,1
+2024-03-04,Columbus,Vegas,6,3,1
+2024-03-04,New York,Florida,2,4,0
+2024-03-04,Philadelphia,St. Louis,1,2,0
+2024-03-04,Toronto,Boston,1,4,0
+2024-03-04,Colorado,Chicago,5,0,1
+2024-03-04,Calgary,Seattle,2,4,0
+2024-03-05,New Jersey,Florida,3,5,0
+2024-03-05,Pittsburgh,Columbus,5,3,1
+2024-03-05,Boston,Edmonton,1,2,0
+2024-03-05,New York,St. Louis,4,2,1
+2024-03-05,Nashville,Montréal,3,4,0
+2024-03-05,Winnipeg,Seattle,3,4,0
+2024-03-05,Arizona,Chicago,2,5,0
+2024-03-05,Los Angeles,Vancouver,1,2,0
+2024-03-05,San Jose,Dallas,6,7,0
+2024-03-06,Toronto,Buffalo,2,1,1
+2024-03-06,Colorado,Detroit,7,2,1
+2024-03-06,Anaheim,Ottawa,2,1,1
+2024-03-07,Boston,Toronto,4,1,1
+2024-03-07,Carolina,Montréal,4,1,1
+2024-03-07,Columbus,Edmonton,4,2,1
+2024-03-07,Florida,Philadelphia,1,2,0
+2024-03-07,New Jersey,St. Louis,4,1,1
+2024-03-07,Pittsburgh,Washington,0,6,0
+2024-03-07,Tampa Bay,Calgary,3,6,0
+2024-03-07,Nashville,Buffalo,4,2,1
+2024-03-07,Arizona,Minnesota,2,5,0
+2024-03-07,Vegas,Vancouver,1,3,0
+2024-03-07,Los Angeles,Ottawa,4,3,1
+2024-03-07,San Jose,New York,2,7,0
+2024-03-08,Arizona,Detroit,4,0,1
+2024-03-08,Colorado,Minnesota,2,1,1
+2024-03-08,Anaheim,Dallas,2,6,0
+2024-03-08,Seattle,Winnipeg,0,3,0
+2024-03-09,Buffalo,Edmonton,3,2,1
+2024-03-09,Columbus,Nashville,1,2,0
+2024-03-09,New Jersey,Carolina,2,4,0
+2024-03-09,Boston,Pittsburgh,5,1,1
+2024-03-09,Florida,Calgary,5,1,1
+2024-03-09,Montréal,Toronto,2,3,0
+2024-03-09,San Jose,Ottawa,2,1,1
+2024-03-09,Tampa Bay,Philadelphia,7,0,1
+2024-03-09,Washington,Chicago,4,1,1
+2024-03-09,New York,St. Louis,4,0,1
+2024-03-09,Vancouver,Winnipeg,5,0,1
+2024-03-09,Vegas,Detroit,5,3,1
+2024-03-09,Los Angeles,Dallas,1,4,0
+2024-03-10,Pittsburgh,Edmonton,0,4,0
+2024-03-10,Minnesota,Nashville,4,3,1
+2024-03-10,Carolina,Calgary,7,2,1
+2024-03-10,Chicago,Arizona,7,4,1
+2024-03-10,Anaheim,New York,1,6,0
+2024-03-11,Boston,St. Louis,1,5,0
+2024-03-11,New York,New Jersey,3,1,1
+2024-03-11,Winnipeg,Washington,3,0,1
+2024-03-11,Los Angeles,New York,3,0,1
+2024-03-12,Buffalo,Detroit,7,3,1
+2024-03-12,Carolina,New York,0,1,0
+2024-03-12,Montréal,Columbus,3,0,1
+2024-03-12,Ottawa,Pittsburgh,2,1,1
+2024-03-12,Philadelphia,San Jose,3,2,1
+2024-03-12,Dallas,Florida,3,4,0
+2024-03-12,Minnesota,Arizona,4,1,1
+2024-03-12,Chicago,Anaheim,7,2,1
+2024-03-12,Calgary,Colorado,2,6,0
+2024-03-12,Seattle,Vegas,4,5,0
+2024-03-13,St. Louis,Los Angeles,3,1,1
+2024-03-13,Winnipeg,Nashville,2,4,0
+2024-03-13,Edmonton,Washington,7,2,1
+2024-03-13,Vancouver,Colorado,3,4,0
+2024-03-14,Buffalo,New York,4,0,1
+2024-03-14,Carolina,Florida,4,0,1
+2024-03-14,Columbus,Ottawa,2,3,0
+2024-03-14,Detroit,Arizona,1,4,0
+2024-03-14,Montréal,Boston,1,2,0
+2024-03-14,Pittsburgh,San Jose,6,3,1
+2024-03-14,Tampa Bay,New York,6,3,1
+2024-03-14,Philadelphia,Toronto,2,6,0
+2024-03-14,Dallas,New Jersey,2,6,0
+2024-03-14,Minnesota,Anaheim,2,0,1
+2024-03-14,Calgary,Vegas,4,1,1
+2024-03-14,Seattle,Washington,1,2,0
+2024-03-15,Winnipeg,Anaheim,6,0,1
+2024-03-15,Chicago,Los Angeles,0,5,0
+2024-03-16,Detroit,Buffalo,4,1,1
+2024-03-16,New York,Ottawa,3,4,0
+2024-03-16,Pittsburgh,New York,4,7,0
+2024-03-16,Arizona,New Jersey,4,1,1
+2024-03-16,Florida,Tampa Bay,3,5,0
+2024-03-16,Boston,Philadelphia,6,5,1
+2024-03-16,Columbus,San Jose,4,2,1
+2024-03-16,Calgary,Montréal,5,2,1
+2024-03-16,Toronto,Carolina,4,5,0
+2024-03-16,Dallas,Los Angeles,4,1,1
+2024-03-16,St. Louis,Minnesota,3,2,1
+2024-03-16,Edmonton,Colorado,2,3,0
+2024-03-16,Seattle,Nashville,1,4,0
+2024-03-16,Vancouver,Washington,1,2,0
+2024-03-17,New York,New York,5,2,1
+2024-03-17,Vegas,New Jersey,3,1,1
+2024-03-17,Columbus,Winnipeg,1,6,0
+2024-03-17,Chicago,San Jose,5,2,1
+2024-03-17,Ottawa,Carolina,2,7,0
+2024-03-17,Pittsburgh,Detroit,6,3,1
+2024-03-17,St. Louis,Anaheim,4,2,1
+2024-03-18,Calgary,Washington,2,5,0
+2024-03-18,Seattle,Buffalo,2,6,0
+2024-03-19,Boston,Ottawa,6,2,1
+2024-03-19,Detroit,Columbus,4,3,1
+2024-03-19,New Jersey,Pittsburgh,5,2,1
+2024-03-19,New York,Winnipeg,2,4,0
+2024-03-19,Philadelphia,Toronto,4,3,1
+2024-03-19,New York,Carolina,1,4,0
+2024-03-19,Nashville,San Jose,8,2,1
+2024-03-19,St. Louis,Colorado,3,4,0
+2024-03-19,Edmonton,Montréal,3,2,1
+2024-03-19,Anaheim,Minnesota,0,4,0
+2024-03-19,Los Angeles,Chicago,6,2,1
+2024-03-19,Vancouver,Buffalo,3,2,1
+2024-03-19,Vegas,Tampa Bay,3,5,0
+2024-03-20,Washington,Toronto,3,7,0
+2024-03-20,Dallas,Arizona,5,2,1
+2024-03-20,Los Angeles,Minnesota,6,0,1
+2024-03-21,Boston,New York,2,5,0
+2024-03-21,Carolina,Philadelphia,3,2,1
+2024-03-21,Detroit,New York,6,3,1
+2024-03-21,New Jersey,Winnipeg,4,1,1
+2024-03-21,Ottawa,St. Louis,2,5,0
+2024-03-21,Florida,Nashville,0,3,0
+2024-03-21,Edmonton,Buffalo,8,3,1
+2024-03-21,Anaheim,Chicago,4,0,1
+2024-03-21,Vancouver,Montréal,4,1,1
+2024-03-21,Vegas,Seattle,3,1,1
+2024-03-21,San Jose,Tampa Bay,1,4,0
+2024-03-22,Washington,Carolina,7,6,1
+2024-03-22,Dallas,Pittsburgh,4,2,1
+2024-03-22,Colorado,Columbus,6,1,1
+2024-03-22,Arizona,Seattle,2,1,1
+2024-03-23,New York,Winnipeg,6,3,1
+2024-03-23,Philadelphia,Boston,3,2,1
+2024-03-23,Minnesota,St. Louis,4,5,0
+2024-03-23,Nashville,Detroit,1,0,1
+2024-03-23,New Jersey,Ottawa,2,5,0
+2024-03-23,Toronto,Edmonton,6,3,1
+2024-03-23,New York,Florida,4,3,1
+2024-03-23,Vancouver,Calgary,4,2,1
+2024-03-23,Los Angeles,Tampa Bay,4,3,1
+2024-03-23,San Jose,Chicago,4,5,0
+2024-03-23,Vegas,Columbus,4,2,1
+2024-03-24,Washington,Winnipeg,3,0,1
+2024-03-24,Colorado,Pittsburgh,5,4,1
+2024-03-24,New York,New Jersey,0,4,0
+2024-03-24,Carolina,Toronto,2,1,1
+2024-03-24,Ottawa,Edmonton,5,3,1
+2024-03-24,Philadelphia,Florida,1,4,0
+2024-03-24,Arizona,Dallas,2,4,0
+2024-03-24,Anaheim,Tampa Bay,2,3,0
+2024-03-24,Calgary,Buffalo,1,4,0
+2024-03-24,Seattle,Montréal,1,5,0
+2024-03-25,St. Louis,Vegas,1,2,0
+2024-03-25,Vancouver,Los Angeles,2,3,0
+2024-03-26,Florida,Boston,3,4,0
+2024-03-26,New York,Philadelphia,6,5,1
+2024-03-26,Pittsburgh,Carolina,4,1,1
+2024-03-26,Washington,Detroit,4,3,1
+2024-03-26,Toronto,New Jersey,3,6,0
+2024-03-26,Nashville,Vegas,5,4,1
+2024-03-26,Winnipeg,Edmonton,3,4,0
+2024-03-26,Chicago,Calgary,3,1,1
+2024-03-26,Colorado,Montréal,1,2,0
+2024-03-26,Arizona,Columbus,6,2,1
+2024-03-26,Seattle,Anaheim,4,0,1
+2024-03-26,San Jose,Dallas,3,6,0
+2024-03-27,Buffalo,Ottawa,2,6,0
+2024-03-27,Tampa Bay,Boston,3,1,1
+2024-03-28,Florida,New York,2,3,0
+2024-03-28,Montréal,Philadelphia,4,1,1
+2024-03-28,Ottawa,Chicago,2,0,1
+2024-03-28,Pittsburgh,Columbus,3,2,1
+2024-03-28,Toronto,Washington,5,1,1
+2024-03-28,Carolina,Detroit,4,0,1
+2024-03-28,Minnesota,San Jose,3,1,1
+2024-03-28,St. Louis,Calgary,5,3,1
+2024-03-28,Winnipeg,Vegas,1,4,0
+2024-03-28,Colorado,New York,2,3,0
+2024-03-28,Edmonton,Los Angeles,4,1,1
+2024-03-28,Arizona,Nashville,8,4,1
+2024-03-28,Seattle,Anaheim,4,2,1
+2024-03-28,Vancouver,Dallas,1,3,0
+2024-03-29,Buffalo,New Jersey,5,2,1
+2024-03-30,Florida,Detroit,3,2,1
+2024-03-30,Minnesota,Vegas,1,2,0
+2024-03-30,Edmonton,Anaheim,6,1,1
+2024-03-30,Arizona,New York,5,8,0
+2024-03-30,Colorado,Nashville,7,4,1
+2024-03-30,Buffalo,Toronto,0,3,0
+2024-03-30,Columbus,Pittsburgh,4,3,1
+2024-03-30,Montréal,Carolina,0,3,0
+2024-03-30,Philadelphia,Chicago,1,5,0
+2024-03-30,Tampa Bay,New York,4,1,1
+2024-03-30,Winnipeg,Ottawa,2,3,0
+2024-03-30,Washington,Boston,2,3,0
+2024-03-30,St. Louis,San Jose,0,4,0
+2024-03-30,Calgary,Los Angeles,4,2,1
+2024-03-30,Seattle,Dallas,0,3,0
+2024-03-31,Vancouver,Anaheim,3,2,1
+2024-04-01,Columbus,Colorado,4,1,1
+2024-04-01,New York,Pittsburgh,2,5,0
+2024-04-01,Philadelphia,New York,3,4,0
+2024-04-01,Tampa Bay,Detroit,2,4,0
+2024-04-01,Toronto,Florida,6,4,1
+2024-04-01,St. Louis,Edmonton,3,2,1
+2024-04-01,Winnipeg,Los Angeles,4,3,1
+2024-04-01,San Jose,Seattle,2,4,0
+2024-04-02,Buffalo,Washington,6,2,1
+2024-04-02,Montréal,Florida,5,3,1
+2024-04-02,New Jersey,Pittsburgh,3,6,0
+2024-04-02,New York,Chicago,2,1,1
+2024-04-02,Minnesota,Ottawa,3,2,1
+2024-04-02,Nashville,Boston,0,3,0
+2024-04-02,Calgary,Anaheim,3,5,0
+2024-04-02,Vegas,Vancouver,6,3,1
+2024-04-03,Toronto,Tampa Bay,1,4,0
+2024-04-03,New York,New Jersey,4,3,1
+2024-04-03,Dallas,Edmonton,5,0,1
+2024-04-03,Los Angeles,Seattle,5,2,1
+2024-04-03,Arizona,Vancouver,1,2,0
+2024-04-04,Carolina,Boston,1,4,0
+2024-04-04,Columbus,New York,2,4,0
+2024-04-04,Montréal,Tampa Bay,4,7,0
+2024-04-04,Ottawa,Florida,0,6,0
+2024-04-04,Washington,Pittsburgh,1,4,0
+2024-04-04,Minnesota,Colorado,2,5,0
+2024-04-04,Nashville,St. Louis,6,3,1
+2024-04-04,Winnipeg,Calgary,5,2,1
+2024-04-04,San Jose,Los Angeles,1,2,0
+2024-04-05,Buffalo,Philadelphia,4,2,1
+2024-04-05,Carolina,Washington,4,2,1
+2024-04-05,Detroit,New York,3,4,0
+2024-04-05,Edmonton,Colorado,6,2,1
+2024-04-05,Anaheim,Seattle,1,3,0
+2024-04-05,Arizona,Vegas,7,4,1
+2024-04-06,Pittsburgh,Tampa Bay,5,4,1
+2024-04-06,Boston,Florida,3,2,1
+2024-04-06,Chicago,Dallas,3,2,1
+2024-04-06,Minnesota,Winnipeg,2,4,0
+2024-04-06,San Jose,St. Louis,3,2,1
+2024-04-06,Columbus,Philadelphia,6,2,1
+2024-04-06,Montréal,Toronto,2,4,0
+2024-04-06,Ottawa,New Jersey,3,4,0
+2024-04-06,New York,Nashville,2,0,1
+2024-04-06,Calgary,Edmonton,2,4,0
+2024-04-06,Los Angeles,Vancouver,6,3,1
+2024-04-07,Detroit,Buffalo,3,1,1
+2024-04-07,Chicago,Minnesota,0,4,0
+2024-04-07,Carolina,Columbus,3,0,1
+2024-04-07,San Jose,Arizona,2,5,0
+2024-04-07,Washington,Ottawa,2,3,0
+2024-04-07,New Jersey,Nashville,2,3,0
+2024-04-07,New York,Montréal,5,2,1
+2024-04-07,Anaheim,St. Louis,5,6,0
+2024-04-07,Colorado,Dallas,4,7,0
+2024-04-08,Toronto,Pittsburgh,3,2,1
+2024-04-08,Vancouver,Vegas,4,3,1
+2024-04-09,Boston,Carolina,1,4,0
+2024-04-09,Detroit,Washington,1,2,0
+2024-04-09,Florida,Ottawa,2,0,1
+2024-04-09,Montréal,Philadelphia,9,3,1
+2024-04-09,New Jersey,Toronto,2,5,0
+2024-04-09,New York,New York,4,2,1
+2024-04-09,Tampa Bay,Columbus,5,2,1
+2024-04-09,Dallas,Buffalo,3,2,1
+2024-04-09,Nashville,Winnipeg,3,4,0
+2024-04-09,Colorado,Minnesota,5,2,1
+2024-04-09,Anaheim,Los Angeles,3,1,1
+2024-04-09,Seattle,Arizona,5,0,1
+2024-04-09,San Jose,Calgary,2,3,0
+2024-04-10,St. Louis,Chicago,5,2,1
+2024-04-10,Edmonton,Vegas,5,1,1
+2024-04-10,Vancouver,Arizona,3,4,0
+2024-04-11,Buffalo,Washington,4,2,1
+2024-04-11,Florida,Columbus,4,0,1
+2024-04-11,New York,Philadelphia,1,4,0
+2024-04-11,Pittsburgh,Detroit,6,5,1
+2024-04-11,Tampa Bay,Ottawa,2,3,0
+2024-04-11,Toronto,New Jersey,5,6,0
+2024-04-11,New York,Montréal,3,2,1
+2024-04-11,Dallas,Winnipeg,0,3,0
+2024-04-11,Seattle,San Jose,1,3,0
+2024-04-11,Los Angeles,Calgary,4,1,1
+2024-04-12,St. Louis,Carolina,2,5,0
+2024-04-12,Chicago,Nashville,1,5,0
+2024-04-12,Edmonton,Arizona,2,3,0
+2024-04-12,Anaheim,Calgary,3,6,0
+2024-04-12,Vegas,Minnesota,7,2,1
+2024-04-13,New York,New York,3,2,1
+2024-04-13,Dallas,Seattle,3,1,1
+2024-04-13,Colorado,Winnipeg,0,7,0
+2024-04-13,Florida,Buffalo,3,2,1
+2024-04-13,Philadelphia,New Jersey,1,0,1
+2024-04-13,Washington,Tampa Bay,4,2,1
+2024-04-13,Ottawa,Montréal,5,4,1
+2024-04-13,Toronto,Detroit,4,5,0
+2024-04-13,Nashville,Columbus,6,4,1
+2024-04-13,Pittsburgh,Boston,4,6,0
+2024-04-13,Edmonton,Vancouver,1,3,0
+2024-04-13,Los Angeles,Anaheim,3,1,1
+2024-04-13,San Jose,Minnesota,2,6,0
+2024-04-14,St. Louis,Seattle,4,1,1
+2024-04-14,Vegas,Colorado,4,3,1
+2024-04-14,Chicago,Carolina,2,4,0
+2024-04-14,Calgary,Arizona,6,5,1
+2024-04-15,Detroit,Montréal,5,4,1
+2024-04-15,New Jersey,New York,1,4,0
+2024-04-15,Pittsburgh,Nashville,4,2,1
+2024-04-15,Tampa Bay,Buffalo,2,4,0
+2024-04-15,Washington,Boston,2,0,1
+2024-04-15,New York,Ottawa,4,0,1
+2024-04-15,Edmonton,San Jose,9,2,1
+2024-04-15,Los Angeles,Minnesota,1,3,0
+2024-04-16,Boston,Ottawa,1,3,0
+2024-04-16,Columbus,Carolina,6,3,1
+2024-04-16,Montréal,Detroit,4,5,0
+2024-04-16,Philadelphia,Washington,1,2,0
+2024-04-16,Florida,Toronto,5,2,1
+2024-04-16,Winnipeg,Seattle,4,3,1
+2024-04-16,Vegas,Chicago,3,1,1
+2024-04-16,Vancouver,Calgary,4,1,1
+2024-04-17,New York,Pittsburgh,5,4,1
+2024-04-17,Tampa Bay,Toronto,6,4,1
+2024-04-17,Dallas,St. Louis,2,1,1
+2024-04-17,Arizona,Edmonton,5,2,1
+2024-04-18,Minnesota,Seattle,3,4,0
+2024-04-18,Winnipeg,Vancouver,4,2,1
+2024-04-18,Calgary,San Jose,5,1,1
+2024-04-18,Colorado,Edmonton,5,1,1
+2024-04-18,Vegas,Anaheim,1,4,0
+2024-04-18,Los Angeles,Chicago,5,4,1
+2024-04-20,Carolina,New York,3,1,1
+2024-04-20,Boston,Toronto,5,1,1
+2024-04-21,Florida,Tampa Bay,3,2,1
+2024-04-21,New York,Washington,4,1,1
+2024-04-21,Winnipeg,Colorado,7,6,1
+2024-04-21,Vancouver,Nashville,4,2,1
+2024-04-22,Boston,Toronto,2,3,0
+2024-04-22,Carolina,New York,5,3,1
+2024-04-22,Dallas,Vegas,3,4,0
+2024-04-22,Edmonton,Los Angeles,7,4,1
+2024-04-23,New York,Washington,4,3,1
+2024-04-23,Florida,Tampa Bay,3,2,1
+2024-04-23,Winnipeg,Colorado,2,5,0
+2024-04-23,Vancouver,Nashville,1,4,0
+2024-04-24,Toronto,Boston,2,4,0
+2024-04-24,Dallas,Vegas,1,3,0
+2024-04-24,Edmonton,Los Angeles,4,5,0
+2024-04-25,Tampa Bay,Florida,3,5,0
+2024-04-25,New York,Carolina,2,3,0
+2024-04-26,Washington,New York,1,3,0
+2024-04-26,Nashville,Vancouver,1,2,0
+2024-04-26,Colorado,Winnipeg,6,2,1
+2024-04-26,Los Angeles,Edmonton,1,6,0
+2024-04-27,New York,Carolina,3,2,1
+2024-04-27,Tampa Bay,Florida,6,3,1
+2024-04-27,Toronto,Boston,1,3,0
+2024-04-27,Vegas,Dallas,2,3,0
+2024-04-28,Colorado,Winnipeg,5,1,1
+2024-04-28,Nashville,Vancouver,3,4,0
+2024-04-28,Washington,New York,2,4,0
+2024-04-28,Los Angeles,Edmonton,0,1,0
+2024-04-29,Florida,Tampa Bay,6,1,1
+2024-04-29,Vegas,Dallas,2,4,0
+2024-04-30,Boston,Toronto,1,2,0
+2024-04-30,Carolina,New York,6,3,1
+2024-04-30,Winnipeg,Colorado,3,6,0
+2024-04-30,Vancouver,Nashville,1,2,0
+2024-05-01,Dallas,Vegas,3,2,1
+2024-05-01,Edmonton,Los Angeles,4,3,1
+2024-05-02,Toronto,Boston,2,1,1
+2024-05-03,Nashville,Vancouver,0,1,0
+2024-05-03,Vegas,Dallas,2,0,1
+2024-05-04,Boston,Toronto,2,1,1
+2024-05-05,New York,Carolina,4,3,1
+2024-05-05,Dallas,Vegas,2,1,1
+2024-05-06,Florida,Boston,1,5,0

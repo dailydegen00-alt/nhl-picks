@@ -1,0 +1,1281 @@
+date,home_team,away_team,home_team_full,away_team_full,home_odds_dec,draw_odds_dec,away_odds_dec,home_implied,away_implied
+2025-10-09,PIT,NYI,Pittsburgh Penguins,NY Islanders,2.6,4.2,2.1,35.0,43.3
+2025-10-09,DET,MTL,Detroit Red Wings,Montreal Canadiens,2.05,4.0,2.7,44.0,33.4
+2025-10-09,BUF,NYR,Buffalo Sabres,NY Rangers,2.4,4.0,2.25,37.5,40.0
+2025-10-09,FLA,PHI,Florida Panthers,Philadelphia Flyers,1.7,4.2,3.5,52.9,25.7
+2025-10-09,TBL,OTT,Tampa Bay Lightning,Ottawa Senators,1.85,4.2,3.0,48.6,30.0
+2025-10-11,WPG,LAK,Winnipeg Jets,Los Angeles Kings,2.05,4.0,2.7,44.0,33.4
+2025-10-11,CGY,STL,Calgary Flames,St. Louis Blues,2.5,4.0,2.15,35.9,41.7
+2025-10-12,NYR,WSH,NY Rangers,Washington Capitals,2.38,4.0,2.3,38.0,39.3
+2025-10-12,BUF,COL,Buffalo Sabres,Colorado Avalanche,3.1,4.2,1.8,28.9,49.8
+2025-10-12,NYI,WPG,NY Islanders,Winnipeg Jets,2.45,4.0,2.25,37.0,40.3
+2025-10-12,OTT,NSH,Ottawa Senators,Nashville Predators,1.85,4.2,3.1,49.1,29.3
+2025-10-12,BOS,TBL,Boston Bruins,Tampa Bay Lightning,3.0,4.2,1.85,30.0,48.6
+2025-10-13,MIN,LAK,Minnesota Wild,Los Angeles Kings,2.38,4.0,2.3,38.0,39.3
+2025-10-13,VAN,STL,Vancouver Canucks,St. Louis Blues,2.15,4.0,2.5,41.7,35.9
+2025-10-13,CHI,UTA,Chicago Blackhawks,Utah Mammoth,2.9,4.2,1.85,30.7,48.1
+2025-10-13,PHI,FLA,Philadelphia Flyers,Florida Panthers,2.8,4.0,2.0,32.3,45.2
+2025-10-13,CBJ,NJD,Columbus Blue Jackets,New Jersey Devils,2.5,4.2,2.2,36.6,41.6
+2025-10-14,SJS,CAR,San Jose Sharks,Carolina Hurricanes,4.2,4.2,1.57,21.4,57.2
+2025-10-14,DAL,MIN,Dallas Stars,Minnesota Wild,1.75,4.2,3.4,51.8,26.6
+2025-10-14,CGY,VGK,Calgary Flames,Vegas Golden Knights,3.1,4.0,1.85,29.0,48.6
+2025-10-14,ANA,PIT,Anaheim Ducks,Pittsburgh Penguins,2.0,4.2,2.7,45.1,33.4
+2025-10-14,NYR,EDM,NY Rangers,Edmonton Oilers,2.7,4.0,2.05,33.4,44.0
+2025-10-14,TOR,NSH,Toronto Maple Leafs,Nashville Predators,1.8,4.2,3.2,50.2,28.3
+2025-10-14,MTL,SEA,Montreal Canadiens,Seattle Kraken,1.95,4.0,2.88,46.2,31.3
+2025-10-14,WSH,TBL,Washington Capitals,Tampa Bay Lightning,2.3,4.0,2.4,39.5,37.8
+2025-10-15,BUF,OTT,Buffalo Sabres,Ottawa Senators,2.45,4.0,2.25,37.0,40.3
+2025-10-15,DET,FLA,Detroit Red Wings,Florida Panthers,2.8,4.0,1.95,31.9,45.8
+2025-10-15,STL,CHI,St. Louis Blues,Chicago Blackhawks,1.6,4.2,4.2,56.8,21.6
+2025-10-15,UTA,CGY,Utah Mammoth,Calgary Flames,1.62,4.5,3.8,56.0,23.9
+2025-10-16,NYI,EDM,NY Islanders,Edmonton Oilers,3.0,4.2,1.85,30.0,48.6
+2025-10-16,ANA,CAR,Anaheim Ducks,Carolina Hurricanes,3.2,4.2,1.75,27.9,50.9
+2025-10-16,LAK,PIT,Los Angeles Kings,Pittsburgh Penguins,1.7,4.4,3.4,53.0,26.5
+2025-10-16,DAL,VAN,Dallas Stars,Vancouver Canucks,1.8,4.2,3.1,49.8,28.9
+2025-10-16,MTL,NSH,Montreal Canadiens,Nashville Predators,1.95,4.0,2.8,45.8,31.9
+2025-10-16,VGK,BOS,Vegas Golden Knights,Boston Bruins,1.62,4.4,3.8,55.7,23.8
+2025-10-16,PHI,WPG,Philadelphia Flyers,Winnipeg Jets,2.7,4.0,2.05,33.4,44.0
+2025-10-16,OTT,SEA,Ottawa Senators,Seattle Kraken,1.95,4.2,2.8,46.3,32.2
+2025-10-16,CBJ,COL,Columbus Blue Jackets,Colorado Avalanche,2.9,4.2,1.85,30.7,48.1
+2025-10-16,TOR,NYR,Toronto Maple Leafs,NY Rangers,2.05,4.0,2.7,44.0,33.4
+2025-10-16,NJD,FLA,New Jersey Devils,Florida Panthers,1.91,4.2,2.9,47.3,31.2
+2025-10-17,NJD,EDM,New Jersey Devils,Edmonton Oilers,2.38,4.0,2.3,38.0,39.3
+2025-10-17,OTT,NYI,Ottawa Senators,NY Islanders,2.0,4.0,2.8,45.2,32.3
+2025-10-17,BUF,FLA,Buffalo Sabres,Florida Panthers,2.8,4.0,2.0,32.3,45.2
+2025-10-17,UTA,SJS,Utah Mammoth,San Jose Sharks,1.6,4.6,3.9,56.9,23.3
+2025-10-17,CHI,VAN,Chicago Blackhawks,Vancouver Canucks,2.6,4.2,2.1,35.0,43.3
+2025-10-17,DET,TBL,Detroit Red Wings,Tampa Bay Lightning,2.7,4.0,2.05,33.4,44.0
+2025-10-17,WSH,MIN,Washington Capitals,Minnesota Wild,2.15,4.0,2.5,41.7,35.9
+2025-10-18,WSH,VAN,Washington Capitals,Vancouver Canucks,1.85,4.2,3.0,48.6,30.0
+2025-10-18,SJS,PIT,San Jose Sharks,Pittsburgh Penguins,2.8,4.2,1.95,32.2,46.3
+2025-10-18,DET,EDM,Detroit Red Wings,Edmonton Oilers,2.62,4.0,2.05,34.1,43.6
+2025-10-18,COL,BOS,Colorado Avalanche,Boston Bruins,1.6,4.2,4.0,56.1,22.5
+2025-10-18,LAK,CAR,Los Angeles Kings,Carolina Hurricanes,2.7,4.0,2.05,33.4,44.0
+2025-10-18,VGK,CGY,Vegas Golden Knights,Calgary Flames,1.6,4.5,3.9,56.6,23.2
+2025-10-18,PHI,MIN,Philadelphia Flyers,Minnesota Wild,2.25,4.0,2.4,40.0,37.5
+2025-10-18,MTL,NYR,Montreal Canadiens,NY Rangers,2.15,4.0,2.6,42.3,35.0
+2025-10-18,WPG,NSH,Winnipeg Jets,Nashville Predators,1.8,4.2,3.2,50.2,28.3
+2025-10-18,CBJ,TBL,Columbus Blue Jackets,Tampa Bay Lightning,2.15,4.0,2.5,41.7,35.9
+2025-10-18,STL,DAL,St. Louis Blues,Dallas Stars,2.5,4.0,2.2,36.2,41.2
+2025-10-18,TOR,SEA,Toronto Maple Leafs,Seattle Kraken,1.7,4.4,3.4,53.0,26.5
+2025-10-19,CHI,ANA,Chicago Blackhawks,Anaheim Ducks,2.5,4.2,2.1,35.9,42.7
+2025-10-19,UTA,BOS,Utah Mammoth,Boston Bruins,1.67,4.4,3.5,53.9,25.7
+2025-10-20,VGK,CAR,Vegas Golden Knights,Carolina Hurricanes,2.3,4.0,2.38,39.3,38.0
+2025-10-20,MTL,BUF,Montreal Canadiens,Buffalo Sabres,1.95,4.2,2.8,46.3,32.2
+2025-10-20,CGY,WPG,Calgary Flames,Winnipeg Jets,2.75,4.0,2.0,32.7,44.9
+2025-10-20,NYR,MIN,NY Rangers,Minnesota Wild,2.0,4.0,2.8,45.2,32.3
+2025-10-20,PHI,SEA,Philadelphia Flyers,Seattle Kraken,2.1,4.0,2.7,43.4,33.8
+2025-10-21,UTA,COL,Utah Mammoth,Colorado Avalanche,2.8,4.0,2.0,32.3,45.2
+2025-10-21,NYI,SJS,NY Islanders,San Jose Sharks,1.65,4.5,3.7,55.2,24.6
+2025-10-21,TOR,NJD,Toronto Maple Leafs,New Jersey Devils,2.2,4.0,2.5,41.2,36.2
+2025-10-21,WSH,SEA,Washington Capitals,Seattle Kraken,1.5,4.75,4.2,59.8,21.3
+2025-10-21,PIT,VAN,Pittsburgh Penguins,Vancouver Canucks,2.3,4.0,2.38,39.3,38.0
+2025-10-21,OTT,EDM,Ottawa Senators,Edmonton Oilers,2.6,4.0,2.15,35.0,42.3
+2025-10-21,BOS,FLA,Boston Bruins,Florida Panthers,2.88,4.0,1.95,31.3,46.2
+2025-10-21,STL,LAK,St. Louis Blues,Los Angeles Kings,2.1,4.0,2.7,43.4,33.8
+2025-10-21,NSH,ANA,Nashville Predators,Anaheim Ducks,2.05,4.0,2.7,44.0,33.4
+2025-10-21,DAL,CBJ,Dallas Stars,Columbus Blue Jackets,1.8,4.4,3.2,50.7,28.5
+2025-10-22,BUF,DET,Buffalo Sabres,Detroit Red Wings,2.25,4.0,2.45,40.3,37.0
+2025-10-22,CGY,MTL,Calgary Flames,Montreal Canadiens,2.45,4.0,2.25,37.0,40.3
+2025-10-22,NJD,MIN,New Jersey Devils,Minnesota Wild,2.1,4.0,2.6,42.9,34.6
+2025-10-23,TBL,CHI,Tampa Bay Lightning,Chicago Blackhawks,1.5,5.0,4.2,60.3,21.6
+2025-10-23,OTT,PHI,Ottawa Senators,Philadelphia Flyers,1.95,3.9,2.9,46.0,31.0
+2025-10-23,FLA,PIT,Florida Panthers,Pittsburgh Penguins,1.75,4.0,3.4,51.2,26.4
+2025-10-23,NYR,SJS,NY Rangers,San Jose Sharks,1.53,4.4,4.5,59.3,20.1
+2025-10-23,NYI,DET,NY Islanders,Detroit Red Wings,2.15,4.0,2.5,41.7,35.9
+2025-10-23,BOS,ANA,Boston Bruins,Anaheim Ducks,2.3,3.9,2.4,39.2,37.6
+2025-10-23,NSH,VAN,Nashville Predators,Vancouver Canucks,2.25,4.0,2.45,40.3,37.0
+2025-10-23,WPG,SEA,Winnipeg Jets,Seattle Kraken,1.65,4.4,3.7,54.9,24.5
+2025-10-23,STL,UTA,St. Louis Blues,Utah Mammoth,2.3,4.0,2.3,38.8,38.8
+2025-10-23,DAL,LAK,Dallas Stars,Los Angeles Kings,2.0,4.0,2.8,45.2,32.3
+2025-10-23,COL,CAR,Colorado Avalanche,Carolina Hurricanes,2.05,4.0,2.7,44.0,33.4
+2025-10-23,EDM,MTL,Edmonton Oilers,Montreal Canadiens,1.6,4.6,3.8,56.5,23.8
+2025-10-24,TOR,BUF,Toronto Maple Leafs,Buffalo Sabres,2.0,4.2,2.75,45.4,33.0
+2025-10-24,TBL,ANA,Tampa Bay Lightning,Anaheim Ducks,1.75,4.5,3.25,51.9,27.9
+2025-10-24,PHI,NYI,Philadelphia Flyers,NY Islanders,2.15,4.0,2.6,42.3,35.0
+2025-10-24,BOS,COL,Boston Bruins,Colorado Avalanche,3.3,4.2,1.75,27.2,51.4
+2025-10-24,BUF,TOR,Buffalo Sabres,Toronto Maple Leafs,2.5,4.0,2.2,36.2,41.2
+2025-10-24,CBJ,WSH,Columbus Blue Jackets,Washington Capitals,2.4,3.9,2.3,37.6,39.2
+2025-10-24,NJD,SJS,New Jersey Devils,San Jose Sharks,1.4,4.75,5.0,63.5,17.8
+2025-10-24,WPG,CGY,Winnipeg Jets,Calgary Flames,2.0,4.0,2.75,44.9,32.7
+2025-10-25,WPG,UTA,Winnipeg Jets,Utah Mammoth,1.85,4.0,3.0,48.1,29.7
+2025-10-25,MIN,SJS,Minnesota Wild,San Jose Sharks,1.67,4.5,3.6,54.5,25.3
+2025-10-25,TBL,VGK,Tampa Bay Lightning,Vegas Golden Knights,2.0,4.2,2.75,45.4,33.0
+2025-10-25,NJD,COL,New Jersey Devils,Colorado Avalanche,2.1,4.0,2.62,43.0,34.5
+2025-10-25,SEA,EDM,Seattle Kraken,Edmonton Oilers,3.1,4.2,1.85,29.3,49.1
+2025-10-25,NSH,LAK,Nashville Predators,Los Angeles Kings,2.8,3.8,2.0,31.9,44.6
+2025-10-25,DAL,CAR,Dallas Stars,Carolina Hurricanes,2.2,3.9,2.5,40.9,36.0
+2025-10-25,WSH,OTT,Washington Capitals,Ottawa Senators,2.1,3.8,2.62,42.5,34.0
+2025-10-25,VAN,MTL,Vancouver Canucks,Montreal Canadiens,2.25,4.0,2.45,40.3,37.0
+2025-10-25,DET,STL,Detroit Red Wings,St. Louis Blues,2.3,4.0,2.38,39.3,38.0
+2025-10-25,MIN,UTA,Minnesota Wild,Utah Mammoth,2.25,4.0,2.45,40.3,37.0
+2025-10-25,FLA,VGK,Florida Panthers,Vegas Golden Knights,2.4,4.0,2.25,37.5,40.0
+2025-10-25,PIT,CBJ,Pittsburgh Penguins,Columbus Blue Jackets,2.15,3.9,2.5,41.5,35.7
+2025-10-26,CGY,NYR,Calgary Flames,NY Rangers,2.5,3.8,2.2,35.8,40.7
+2025-10-26,NSH,DAL,Nashville Predators,Dallas Stars,2.75,3.9,2.0,32.5,44.6
+2025-10-26,CHI,LAK,Chicago Blackhawks,Los Angeles Kings,2.9,4.2,1.91,31.2,47.3
+2025-10-26,VAN,EDM,Vancouver Canucks,Edmonton Oilers,3.1,4.0,1.85,29.0,48.6
+2025-10-27,OTT,BOS,Ottawa Senators,Boston Bruins,1.85,4.33,3.0,48.9,30.2
+2025-10-27,BUF,CBJ,Buffalo Sabres,Columbus Blue Jackets,2.2,4.2,2.3,40.3,38.6
+2025-10-27,CAR,VGK,Carolina Hurricanes,Vegas Golden Knights,1.95,4.0,2.8,45.8,31.9
+2025-10-27,PIT,STL,Pittsburgh Penguins,St. Louis Blues,2.38,3.9,2.3,37.8,39.1
+2025-10-27,PHI,PIT,Philadelphia Flyers,Pittsburgh Penguins,1.85,4.2,3.0,48.6,30.0
+2025-10-27,TOR,CGY,Toronto Maple Leafs,Calgary Flames,1.85,4.2,3.1,49.1,29.3
+2025-10-28,SJS,LAK,San Jose Sharks,Los Angeles Kings,3.6,4.0,1.7,24.9,52.7
+2025-10-28,SEA,MTL,Seattle Kraken,Montreal Canadiens,2.4,4.0,2.25,37.5,40.0
+2025-10-28,VAN,NYR,Vancouver Canucks,NY Rangers,2.5,4.0,2.2,36.2,41.2
+2025-10-28,COL,NJD,Colorado Avalanche,New Jersey Devils,1.85,4.33,2.9,48.4,30.9
+2025-10-28,CHI,OTT,Chicago Blackhawks,Ottawa Senators,2.8,3.9,2.0,32.1,44.9
+2025-10-28,EDM,UTA,Edmonton Oilers,Utah Mammoth,1.95,4.0,2.8,45.8,31.9
+2025-10-28,STL,DET,St. Louis Blues,Detroit Red Wings,2.38,3.8,2.3,37.6,38.9
+2025-10-28,MIN,WPG,Minnesota Wild,Winnipeg Jets,2.4,3.8,2.3,37.4,39.0
+2025-10-28,NSH,TBL,Nashville Predators,Tampa Bay Lightning,3.1,4.2,1.85,29.3,49.1
+2025-10-28,BOS,NYI,Boston Bruins,NY Islanders,2.6,4.2,2.05,34.6,43.9
+2025-10-28,FLA,ANA,Florida Panthers,Anaheim Ducks,1.75,4.2,3.2,50.9,27.9
+2025-10-28,DAL,WSH,Dallas Stars,Washington Capitals,2.15,4.0,2.5,41.7,35.9
+2025-10-29,CBJ,TOR,Columbus Blue Jackets,Toronto Maple Leafs,2.2,4.0,2.5,41.2,36.2
+2025-10-30,STL,VAN,St. Louis Blues,Vancouver Canucks,1.85,4.0,3.0,48.1,29.7
+2025-10-30,LAK,DET,Los Angeles Kings,Detroit Red Wings,2.0,3.9,2.8,44.9,32.1
+2025-10-30,SJS,NJD,San Jose Sharks,New Jersey Devils,3.5,4.6,1.65,25.8,54.6
+2025-10-30,VGK,COL,Vegas Golden Knights,Colorado Avalanche,2.5,3.9,2.15,35.7,41.5
+2025-10-30,EDM,NYR,Edmonton Oilers,NY Rangers,2.0,4.0,2.75,44.9,32.7
+2025-10-30,MIN,PIT,Minnesota Wild,Pittsburgh Penguins,1.85,4.2,3.0,48.6,30.0
+2025-10-30,TBL,DAL,Tampa Bay Lightning,Dallas Stars,2.05,4.0,2.62,43.6,34.1
+2025-10-30,CAR,NYI,Carolina Hurricanes,NY Islanders,1.67,4.5,3.6,54.5,25.3
+2025-10-30,BOS,BUF,Boston Bruins,Buffalo Sabres,2.5,4.0,2.15,35.9,41.7
+2025-10-30,PHI,NSH,Philadelphia Flyers,Nashville Predators,2.05,4.0,2.62,43.6,34.1
+2025-10-30,OTT,CGY,Ottawa Senators,Calgary Flames,1.91,4.2,2.8,46.8,31.9
+2025-10-30,WPG,CHI,Winnipeg Jets,Chicago Blackhawks,1.7,4.33,3.5,53.2,25.9
+2025-10-31,FLA,DAL,Florida Panthers,Dallas Stars,2.05,4.0,2.75,44.3,33.0
+2025-10-31,WSH,NYI,Washington Capitals,NY Islanders,1.65,4.2,3.8,54.7,23.8
+2025-10-31,ANA,DET,Anaheim Ducks,Detroit Red Wings,2.1,3.9,2.62,42.7,34.3
+2025-10-31,BOS,CAR,Boston Bruins,Carolina Hurricanes,3.2,4.4,1.75,28.1,51.4
+2025-10-31,WPG,PIT,Winnipeg Jets,Pittsburgh Penguins,1.8,4.2,3.1,49.8,28.9
+2025-10-31,NSH,CGY,Nashville Predators,Calgary Flames,2.2,4.0,2.5,41.2,36.2
+2025-10-31,SJS,COL,San Jose Sharks,Colorado Avalanche,3.8,4.5,1.62,23.9,56.0
+2025-11-01,UTA,TBL,Utah Mammoth,Tampa Bay Lightning,2.38,4.0,2.3,38.0,39.3
+2025-11-01,SEA,NYR,Seattle Kraken,NY Rangers,2.7,4.0,2.05,33.4,44.0
+2025-11-01,NYI,CBJ,NY Islanders,Columbus Blue Jackets,2.0,4.2,2.7,45.1,33.4
+2025-11-01,EDM,CHI,Edmonton Oilers,Chicago Blackhawks,1.5,4.5,4.75,60.6,19.1
+2025-11-01,LAK,NJD,Los Angeles Kings,New Jersey Devils,2.2,4.0,2.45,40.9,36.7
+2025-11-01,CBJ,STL,Columbus Blue Jackets,St. Louis Blues,1.91,4.2,2.8,46.8,31.9
+2025-11-01,PHI,TOR,Philadelphia Flyers,Toronto Maple Leafs,2.45,4.0,2.25,37.0,40.3
+2025-11-01,BUF,WSH,Buffalo Sabres,Washington Capitals,2.15,4.0,2.5,41.7,35.9
+2025-11-01,MIN,VAN,Minnesota Wild,Vancouver Canucks,1.85,4.2,3.0,48.6,30.0
+2025-11-01,MTL,OTT,Montreal Canadiens,Ottawa Senators,2.2,4.0,2.5,41.2,36.2
+2025-11-02,PHI,CGY,Philadelphia Flyers,Calgary Flames,2.15,4.0,2.6,42.3,35.0
+2025-11-02,ANA,NJD,Anaheim Ducks,New Jersey Devils,2.5,4.2,2.15,36.3,42.2
+2025-11-02,SJS,DET,San Jose Sharks,Detroit Red Wings,3.3,4.5,1.75,27.6,52.1
+2025-11-03,TOR,PIT,Toronto Maple Leafs,Pittsburgh Penguins,1.75,4.4,3.2,51.4,28.1
+2025-11-03,STL,EDM,St. Louis Blues,Edmonton Oilers,2.6,4.2,2.1,35.0,43.3
+2025-11-03,NSH,VAN,Nashville Predators,Vancouver Canucks,2.25,4.0,2.45,40.3,37.0
+2025-11-03,SEA,CHI,Seattle Kraken,Chicago Blackhawks,1.95,4.0,2.9,46.3,31.1
+2025-11-04,VGK,DET,Vegas Golden Knights,Detroit Red Wings,1.75,4.4,3.25,51.6,27.8
+2025-11-04,LAK,WPG,Los Angeles Kings,Winnipeg Jets,2.1,4.0,2.62,43.0,34.5
+2025-11-04,ANA,FLA,Anaheim Ducks,Florida Panthers,2.9,4.2,1.91,31.2,47.3
+2025-11-04,COL,TBL,Colorado Avalanche,Tampa Bay Lightning,1.95,4.2,2.8,46.3,32.2
+2025-11-04,MIN,NSH,Minnesota Wild,Nashville Predators,1.65,4.5,3.6,54.8,25.1
+2025-11-04,BUF,UTA,Buffalo Sabres,Utah Mammoth,2.62,4.2,2.1,34.8,43.4
+2025-11-04,NYI,BOS,NY Islanders,Boston Bruins,1.85,4.2,3.0,48.6,30.0
+2025-11-04,MTL,PHI,Montreal Canadiens,Philadelphia Flyers,1.91,4.0,2.9,46.8,30.8
+2025-11-04,NYR,CAR,NY Rangers,Carolina Hurricanes,2.45,4.0,2.25,37.0,40.3
+2025-11-04,DAL,EDM,Dallas Stars,Edmonton Oilers,2.15,4.0,2.5,41.7,35.9
+2025-11-05,SEA,SJS,Seattle Kraken,San Jose Sharks,1.85,4.2,3.0,48.6,30.0
+2025-11-05,TOR,UTA,Toronto Maple Leafs,Utah Mammoth,1.85,4.2,2.9,48.1,30.7
+2025-11-05,WSH,STL,Washington Capitals,St. Louis Blues,2.0,4.2,2.8,45.7,32.6
+2025-11-05,CGY,CBJ,Calgary Flames,Columbus Blue Jackets,2.25,4.0,2.45,40.3,37.0
+2025-11-05,VAN,CHI,Vancouver Canucks,Chicago Blackhawks,1.85,4.2,2.9,48.1,30.7
+2025-11-06,DAL,ANA,Dallas Stars,Anaheim Ducks,1.8,4.2,3.1,49.8,28.9
+2025-11-06,NSH,PHI,Nashville Predators,Philadelphia Flyers,2.15,4.0,2.5,41.7,35.9
+2025-11-06,PIT,WSH,Pittsburgh Penguins,Washington Capitals,2.38,4.0,2.3,38.0,39.3
+2025-11-06,VGK,TBL,Vegas Golden Knights,Tampa Bay Lightning,2.2,4.0,2.5,41.2,36.2
+2025-11-06,NJD,MTL,New Jersey Devils,Montreal Canadiens,1.95,4.2,2.8,46.3,32.2
+2025-11-06,CAR,MIN,Carolina Hurricanes,Minnesota Wild,1.75,4.5,3.25,51.9,27.9
+2025-11-06,BUF,STL,Buffalo Sabres,St. Louis Blues,2.05,4.0,2.7,44.0,33.4
+2025-11-06,BOS,OTT,Boston Bruins,Ottawa Senators,2.8,4.2,1.95,32.2,46.3
+2025-11-06,LAK,FLA,Los Angeles Kings,Florida Panthers,2.3,4.0,2.4,39.5,37.8
+2025-11-07,PHI,OTT,Philadelphia Flyers,Ottawa Senators,2.45,4.0,2.25,37.0,40.3
+2025-11-07,NSH,DAL,Nashville Predators,Dallas Stars,2.9,4.0,1.95,31.1,46.3
+2025-11-07,NJD,PIT,New Jersey Devils,Pittsburgh Penguins,1.75,4.5,3.3,52.1,27.6
+2025-11-07,DET,NYR,Detroit Red Wings,NY Rangers,2.2,4.0,2.5,41.2,36.2
+2025-11-07,CGY,CHI,Calgary Flames,Chicago Blackhawks,1.91,4.2,2.9,47.3,31.2
+2025-11-07,NYI,MIN,NY Islanders,Minnesota Wild,1.95,4.2,2.8,46.3,32.2
+2025-11-07,SJS,WPG,San Jose Sharks,Winnipeg Jets,3.25,4.2,1.75,27.5,51.1
+2025-11-08,TBL,WSH,Tampa Bay Lightning,Washington Capitals,1.91,4.2,2.9,47.3,31.2
+2025-11-08,NYR,NYI,NY Rangers,NY Islanders,1.91,4.2,2.9,47.3,31.2
+2025-11-08,STL,SEA,St. Louis Blues,Seattle Kraken,1.85,4.2,3.0,48.6,30.0
+2025-11-08,CAR,BUF,Carolina Hurricanes,Buffalo Sabres,1.6,4.2,4.0,56.1,22.5
+2025-11-08,TOR,BOS,Toronto Maple Leafs,Boston Bruins,1.67,4.4,3.5,53.9,25.7
+2025-11-08,SJS,FLA,San Jose Sharks,Florida Panthers,4.2,4.2,1.6,21.6,56.8
+2025-11-08,VAN,CBJ,Vancouver Canucks,Columbus Blue Jackets,2.25,4.0,2.45,40.3,37.0
+2025-11-08,VGK,ANA,Vegas Golden Knights,Anaheim Ducks,1.67,4.6,3.6,54.7,25.4
+2025-11-08,EDM,COL,Edmonton Oilers,Colorado Avalanche,2.5,4.0,2.2,36.2,41.2
+2025-11-08,DET,CHI,Detroit Red Wings,Chicago Blackhawks,1.8,4.2,3.2,50.2,28.3
+2025-11-08,PIT,LAK,Pittsburgh Penguins,Los Angeles Kings,2.88,4.2,1.95,31.6,46.7
+2025-11-08,MTL,UTA,Montreal Canadiens,Utah Mammoth,2.5,4.0,2.2,36.2,41.2
+2025-11-09,MIN,CGY,Minnesota Wild,Calgary Flames,1.91,4.2,2.8,46.8,31.9
+2025-11-09,VAN,COL,Vancouver Canucks,Colorado Avalanche,3.3,4.2,1.75,27.2,51.4
+2025-11-09,ANA,WPG,Anaheim Ducks,Winnipeg Jets,2.62,4.0,2.1,34.5,43.0
+2025-11-09,OTT,UTA,Ottawa Senators,Utah Mammoth,2.3,4.0,2.4,39.5,37.8
+2025-11-09,DAL,SEA,Dallas Stars,Seattle Kraken,1.67,4.5,3.5,54.1,25.8
+2025-11-09,TOR,CAR,Toronto Maple Leafs,Carolina Hurricanes,2.5,4.2,2.15,36.3,42.2
+2025-11-10,NJD,NYI,New Jersey Devils,NY Islanders,1.95,4.2,2.88,46.7,31.6
+2025-11-10,NYR,NSH,NY Rangers,Nashville Predators,1.8,4.2,3.2,50.2,28.3
+2025-11-10,EDM,CBJ,Edmonton Oilers,Columbus Blue Jackets,1.8,4.4,3.1,50.3,29.2
+2025-11-10,VGK,FLA,Vegas Golden Knights,Florida Panthers,2.05,4.0,2.75,44.3,33.0
+2025-11-11,SEA,CBJ,Seattle Kraken,Columbus Blue Jackets,2.2,4.0,2.5,41.2,36.2
+2025-11-11,VAN,WPG,Vancouver Canucks,Winnipeg Jets,2.5,4.0,2.2,36.2,41.2
+2025-11-11,COL,ANA,Colorado Avalanche,Anaheim Ducks,1.6,4.6,3.8,56.5,23.8
+2025-11-11,MIN,SJS,Minnesota Wild,San Jose Sharks,1.67,4.5,3.5,54.1,25.8
+2025-11-11,OTT,DAL,Ottawa Senators,Dallas Stars,2.2,4.0,2.5,41.2,36.2
+2025-11-11,BOS,TOR,Boston Bruins,Toronto Maple Leafs,2.62,4.0,2.05,34.1,43.6
+2025-11-11,CAR,WSH,Carolina Hurricanes,Washington Capitals,1.85,4.2,3.0,48.6,30.0
+2025-11-11,MTL,LAK,Montreal Canadiens,Los Angeles Kings,2.4,4.0,2.25,37.5,40.0
+2025-11-11,STL,CGY,St. Louis Blues,Calgary Flames,2.0,4.0,2.8,45.2,32.3
+2025-11-12,CHI,NJD,Chicago Blackhawks,New Jersey Devils,2.88,4.0,1.95,31.3,46.2
+2025-11-12,UTA,BUF,Utah Mammoth,Buffalo Sabres,1.67,4.4,3.5,53.9,25.7
+2025-11-12,PHI,EDM,Philadelphia Flyers,Edmonton Oilers,2.5,4.0,2.2,36.2,41.2
+2025-11-12,TBL,NYR,Tampa Bay Lightning,NY Rangers,2.0,4.0,2.8,45.2,32.3
+2025-11-13,SEA,WPG,Seattle Kraken,Winnipeg Jets,2.8,4.0,2.05,32.6,44.6
+2025-11-13,CGY,SJS,Calgary Flames,San Jose Sharks,1.85,4.2,3.0,48.6,30.0
+2025-11-13,VGK,NYI,Vegas Golden Knights,NY Islanders,1.75,4.4,3.25,51.6,27.8
+2025-11-13,NSH,PIT,Nashville Predators,Pittsburgh Penguins,2.5,4.0,2.2,36.2,41.2
+2025-11-13,COL,BUF,Colorado Avalanche,Buffalo Sabres,1.4,5.0,5.0,64.1,17.9
+2025-11-13,TOR,LAK,Toronto Maple Leafs,Los Angeles Kings,2.6,4.0,2.1,34.6,42.9
+2025-11-13,OTT,BOS,Ottawa Senators,Boston Bruins,1.85,4.2,2.9,48.1,30.7
+2025-11-13,MTL,DAL,Montreal Canadiens,Dallas Stars,2.25,4.0,2.45,40.3,37.0
+2025-11-13,DET,ANA,Detroit Red Wings,Anaheim Ducks,2.0,4.2,2.75,45.4,33.0
+2025-11-13,FLA,WSH,Florida Panthers,Washington Capitals,2.2,4.0,2.5,41.2,36.2
+2025-11-13,CBJ,EDM,Columbus Blue Jackets,Edmonton Oilers,2.15,4.2,2.5,42.2,36.3
+2025-11-14,CAR,VAN,Carolina Hurricanes,Vancouver Canucks,1.55,4.2,4.2,57.5,21.2
+2025-11-14,STL,PHI,St. Louis Blues,Philadelphia Flyers,2.05,4.0,2.75,44.3,33.0
+2025-11-14,UTA,NYI,Utah Mammoth,NY Islanders,1.67,4.5,3.5,54.1,25.8
+2025-11-14,FLA,TBL,Florida Panthers,Tampa Bay Lightning,2.1,4.0,2.62,43.0,34.5
+2025-11-15,TBL,VAN,Tampa Bay Lightning,Vancouver Canucks,1.83,4.2,3.0,48.9,29.8
+2025-11-15,PIT,NSH,Pittsburgh Penguins,Nashville Predators,2.1,4.0,2.6,42.9,34.6
+2025-11-15,CGY,WPG,Calgary Flames,Winnipeg Jets,2.5,4.0,2.15,35.9,41.7
+2025-11-15,SEA,SJS,Seattle Kraken,San Jose Sharks,1.95,4.2,2.8,46.3,32.2
+2025-11-15,DAL,PHI,Dallas Stars,Philadelphia Flyers,1.67,4.4,3.5,53.9,25.7
+2025-11-15,DET,BUF,Detroit Red Wings,Buffalo Sabres,1.8,4.4,3.1,50.3,29.2
+2025-11-15,STL,VGK,St. Louis Blues,Vegas Golden Knights,2.9,4.2,1.91,31.2,47.3
+2025-11-15,CBJ,NYR,Columbus Blue Jackets,NY Rangers,2.38,4.0,2.3,38.0,39.3
+2025-11-15,CHI,TOR,Chicago Blackhawks,Toronto Maple Leafs,2.5,4.2,2.2,36.6,41.6
+2025-11-15,WSH,NJD,Washington Capitals,New Jersey Devils,1.91,4.2,2.9,47.3,31.2
+2025-11-15,OTT,LAK,Ottawa Senators,Los Angeles Kings,2.3,4.0,2.38,39.3,38.0
+2025-11-15,CAR,EDM,Carolina Hurricanes,Edmonton Oilers,2.15,4.0,2.5,41.7,35.9
+2025-11-15,MTL,BOS,Montreal Canadiens,Boston Bruins,1.85,4.2,2.9,48.1,30.7
+2025-11-15,MIN,ANA,Minnesota Wild,Anaheim Ducks,2.1,4.2,2.62,43.4,34.8
+2025-11-16,NYR,DET,NY Rangers,Detroit Red Wings,2.0,4.0,2.75,44.9,32.7
+2025-11-16,COL,NYI,Colorado Avalanche,NY Islanders,1.6,4.2,4.2,56.8,21.6
+2025-11-16,MIN,VGK,Minnesota Wild,Vegas Golden Knights,2.5,4.0,2.15,35.9,41.7
+2025-11-17,BUF,EDM,Buffalo Sabres,Edmonton Oilers,2.8,4.2,1.95,32.2,46.3
+2025-11-17,BOS,CAR,Boston Bruins,Carolina Hurricanes,3.25,4.2,1.8,27.9,50.4
+2025-11-17,WSH,LAK,Washington Capitals,Los Angeles Kings,2.25,4.0,2.5,40.6,36.5
+2025-11-17,FLA,VAN,Florida Panthers,Vancouver Canucks,1.5,4.8,4.2,59.9,21.4
+2025-11-17,CBJ,MTL,Columbus Blue Jackets,Montreal Canadiens,2.05,4.2,2.62,44.0,34.5
+2025-11-17,ANA,UTA,Anaheim Ducks,Utah Mammoth,2.45,4.0,2.25,37.0,40.3
+2025-11-18,CHI,CGY,Chicago Blackhawks,Calgary Flames,2.45,4.0,2.25,37.0,40.3
+2025-11-18,VGK,NYR,Vegas Golden Knights,NY Rangers,2.05,4.0,2.7,44.0,33.4
+2025-11-18,SJS,UTA,San Jose Sharks,Utah Mammoth,2.62,4.2,2.05,34.5,44.0
+2025-11-18,DAL,NYI,Dallas Stars,NY Islanders,1.8,4.2,3.1,49.8,28.9
+2025-11-18,DET,SEA,Detroit Red Wings,Seattle Kraken,1.85,4.0,3.1,48.6,29.0
+2025-11-18,TBL,NJD,Tampa Bay Lightning,New Jersey Devils,1.85,4.2,3.0,48.6,30.0
+2025-11-18,TOR,STL,Toronto Maple Leafs,St. Louis Blues,2.3,4.0,2.45,39.8,37.3
+2025-11-18,WPG,CBJ,Winnipeg Jets,Columbus Blue Jackets,1.8,4.4,3.1,50.3,29.2
+2025-11-19,WSH,EDM,Washington Capitals,Edmonton Oilers,2.2,4.0,2.5,41.2,36.2
+2025-11-19,BUF,CGY,Buffalo Sabres,Calgary Flames,1.91,4.2,2.9,47.3,31.2
+2025-11-19,MIN,CAR,Minnesota Wild,Carolina Hurricanes,3.1,4.2,1.85,29.3,49.1
+2025-11-19,ANA,BOS,Anaheim Ducks,Boston Bruins,1.8,4.2,3.1,49.8,28.9
+2025-11-20,ANA,OTT,Anaheim Ducks,Ottawa Senators,2.5,4.0,2.15,35.9,41.7
+2025-11-20,VAN,DAL,Vancouver Canucks,Dallas Stars,2.75,4.2,2.0,33.0,45.4
+2025-11-20,SJS,LAK,San Jose Sharks,Los Angeles Kings,3.0,4.2,1.85,30.0,48.6
+2025-11-20,COL,NYR,Colorado Avalanche,NY Rangers,1.75,4.2,3.3,51.4,27.2
+2025-11-20,CHI,SEA,Chicago Blackhawks,Seattle Kraken,2.25,4.0,2.5,40.6,36.5
+2025-11-20,UTA,VGK,Utah Mammoth,Vegas Golden Knights,2.4,4.0,2.3,37.8,39.5
+2025-11-20,MTL,WSH,Montreal Canadiens,Washington Capitals,2.1,4.0,2.62,43.0,34.5
+2025-11-20,DET,NYI,Detroit Red Wings,NY Islanders,2.1,4.2,2.62,43.4,34.8
+2025-11-20,PHI,STL,Philadelphia Flyers,St. Louis Blues,2.15,4.0,2.6,42.3,35.0
+2025-11-20,FLA,NJD,Florida Panthers,New Jersey Devils,1.95,4.0,2.9,46.3,31.1
+2025-11-20,TOR,CBJ,Toronto Maple Leafs,Columbus Blue Jackets,2.38,4.0,2.3,38.0,39.3
+2025-11-20,TBL,EDM,Tampa Bay Lightning,Edmonton Oilers,1.85,4.0,3.0,48.1,29.7
+2025-11-21,NYI,STL,NY Islanders,St. Louis Blues,2.15,4.0,2.6,42.3,35.0
+2025-11-21,DET,CBJ,Detroit Red Wings,Columbus Blue Jackets,2.05,4.2,2.7,44.5,33.8
+2025-11-21,LAK,BOS,Los Angeles Kings,Boston Bruins,1.75,4.2,3.4,51.8,26.6
+2025-11-21,WPG,CAR,Winnipeg Jets,Carolina Hurricanes,2.8,4.2,1.95,32.2,46.3
+2025-11-21,PIT,MIN,Pittsburgh Penguins,Minnesota Wild,2.2,4.0,2.5,41.2,36.2
+2025-11-21,BUF,CHI,Buffalo Sabres,Chicago Blackhawks,1.8,4.2,3.1,49.8,28.9
+2025-11-22,UTA,NYR,Utah Mammoth,NY Rangers,2.1,4.0,2.62,43.0,34.5
+2025-11-22,WPG,MIN,Winnipeg Jets,Minnesota Wild,2.1,4.0,2.62,43.0,34.5
+2025-11-22,BUF,CAR,Buffalo Sabres,Carolina Hurricanes,3.25,4.2,1.75,27.5,51.1
+2025-11-22,CGY,DAL,Calgary Flames,Dallas Stars,2.75,4.0,2.05,33.0,44.3
+2025-11-22,ANA,VGK,Anaheim Ducks,Vegas Golden Knights,2.7,4.2,2.05,33.8,44.5
+2025-11-22,NSH,COL,Nashville Predators,Colorado Avalanche,3.6,4.5,1.67,25.3,54.5
+2025-11-22,NYI,SEA,NY Islanders,Seattle Kraken,1.85,4.2,2.9,48.1,30.7
+2025-11-22,WSH,TBL,Washington Capitals,Tampa Bay Lightning,2.2,4.0,2.5,41.2,36.2
+2025-11-22,MTL,TOR,Montreal Canadiens,Toronto Maple Leafs,2.0,4.0,2.75,44.9,32.7
+2025-11-22,SJS,OTT,San Jose Sharks,Ottawa Senators,3.0,4.0,1.85,29.7,48.1
+2025-11-22,PIT,SEA,Pittsburgh Penguins,Seattle Kraken,2.15,4.0,2.5,41.7,35.9
+2025-11-22,FLA,EDM,Florida Panthers,Edmonton Oilers,2.1,4.0,2.62,43.0,34.5
+2025-11-22,PHI,NJD,Philadelphia Flyers,New Jersey Devils,2.4,4.0,2.3,37.8,39.5
+2025-11-23,VAN,CGY,Vancouver Canucks,Calgary Flames,2.1,4.0,2.62,43.0,34.5
+2025-11-23,CHI,COL,Chicago Blackhawks,Colorado Avalanche,3.75,4.2,1.65,24.0,54.6
+2025-11-23,SJS,BOS,San Jose Sharks,Boston Bruins,2.62,4.0,2.1,34.5,43.0
+2025-11-24,WSH,CBJ,Washington Capitals,Columbus Blue Jackets,1.85,4.2,3.0,48.6,30.0
+2025-11-24,NYR,STL,NY Rangers,St. Louis Blues,2.0,4.0,2.8,45.2,32.3
+2025-11-24,TBL,PHI,Tampa Bay Lightning,Philadelphia Flyers,1.8,4.2,3.1,49.8,28.9
+2025-11-24,NJD,DET,New Jersey Devils,Detroit Red Wings,2.05,4.0,2.75,44.3,33.0
+2025-11-24,NSH,FLA,Nashville Predators,Florida Panthers,2.62,4.0,2.1,34.5,43.0
+2025-11-24,LAK,OTT,Los Angeles Kings,Ottawa Senators,1.85,4.0,3.0,48.1,29.7
+2025-11-24,UTA,VGK,Utah Mammoth,Vegas Golden Knights,2.38,4.0,2.3,38.0,39.3
+2025-11-25,EDM,DAL,Edmonton Oilers,Dallas Stars,2.05,4.2,2.7,44.5,33.8
+2025-11-26,ANA,VAN,Anaheim Ducks,Vancouver Canucks,1.91,4.2,2.88,47.2,31.3
+2025-11-26,SEA,DAL,Seattle Kraken,Dallas Stars,2.6,4.0,2.15,35.0,42.3
+2025-11-26,VGK,OTT,Vegas Golden Knights,Ottawa Senators,1.8,4.2,3.2,50.2,28.3
+2025-11-26,UTA,MTL,Utah Mammoth,Montreal Canadiens,2.0,4.2,2.8,45.7,32.6
+2025-11-26,COL,SJS,Colorado Avalanche,San Jose Sharks,1.4,4.75,5.8,65.1,15.7
+2025-11-26,CHI,MIN,Chicago Blackhawks,Minnesota Wild,2.62,4.0,2.1,34.5,43.0
+2025-11-26,PIT,BUF,Pittsburgh Penguins,Buffalo Sabres,2.2,4.0,2.5,41.2,36.2
+2025-11-26,FLA,PHI,Florida Panthers,Philadelphia Flyers,1.8,4.2,3.1,49.8,28.9
+2025-11-26,CAR,NYR,Carolina Hurricanes,NY Rangers,1.75,4.2,3.4,51.8,26.6
+2025-11-26,NYI,BOS,NY Islanders,Boston Bruins,1.85,4.2,2.9,48.1,30.7
+2025-11-26,DET,NSH,Detroit Red Wings,Nashville Predators,1.95,4.2,2.9,46.8,31.5
+2025-11-26,CBJ,TOR,Columbus Blue Jackets,Toronto Maple Leafs,2.3,4.0,2.38,39.3,38.0
+2025-11-26,TBL,CGY,Tampa Bay Lightning,Calgary Flames,1.8,4.2,3.2,50.2,28.3
+2025-11-26,WSH,WPG,Washington Capitals,Winnipeg Jets,1.95,4.2,2.8,46.3,32.2
+2025-11-26,NJD,STL,New Jersey Devils,St. Louis Blues,2.05,4.0,2.7,44.0,33.4
+2025-11-28,CAR,WPG,Carolina Hurricanes,Winnipeg Jets,1.67,4.2,3.6,53.7,24.9
+2025-11-28,SEA,EDM,Seattle Kraken,Edmonton Oilers,2.8,4.0,1.95,31.9,45.8
+2025-11-28,COL,MTL,Colorado Avalanche,Montreal Canadiens,1.57,4.2,4.2,57.2,21.4
+2025-11-28,NYR,TBL,NY Rangers,Tampa Bay Lightning,2.15,4.0,2.5,41.7,35.9
+2025-11-28,CHI,NSH,Chicago Blackhawks,Nashville Predators,2.4,4.0,2.3,37.8,39.5
+2025-11-28,CBJ,PIT,Columbus Blue Jackets,Pittsburgh Penguins,2.05,4.2,2.75,44.8,33.4
+2025-11-28,WSH,TOR,Washington Capitals,Toronto Maple Leafs,1.85,4.2,3.0,48.6,30.0
+2025-11-28,FLA,CGY,Florida Panthers,Calgary Flames,1.8,4.2,3.3,50.7,27.6
+2025-11-28,DAL,UTA,Dallas Stars,Utah Mammoth,2.1,4.0,2.62,43.0,34.5
+2025-11-28,STL,OTT,St. Louis Blues,Ottawa Senators,2.4,4.0,2.3,37.8,39.5
+2025-11-28,DET,TBL,Detroit Red Wings,Tampa Bay Lightning,2.45,4.0,2.2,36.7,40.9
+2025-11-28,BOS,NYR,Boston Bruins,NY Rangers,3.0,4.0,1.91,30.1,47.3
+2025-11-28,MIN,COL,Minnesota Wild,Colorado Avalanche,3.2,4.2,1.8,28.3,50.2
+2025-11-28,SJS,VAN,San Jose Sharks,Vancouver Canucks,2.4,4.2,2.25,37.9,40.4
+2025-11-28,BUF,NJD,Buffalo Sabres,New Jersey Devils,2.3,4.0,2.4,39.5,37.8
+2025-11-28,VGK,MTL,Vegas Golden Knights,Montreal Canadiens,1.75,4.2,3.2,50.9,27.9
+2025-11-28,NYI,PHI,NY Islanders,Philadelphia Flyers,2.05,4.0,2.75,44.3,33.0
+2025-11-28,ANA,LAK,Anaheim Ducks,Los Angeles Kings,2.5,4.0,2.15,35.9,41.7
+2025-11-29,MIN,BUF,Minnesota Wild,Buffalo Sabres,2.0,4.0,2.8,45.2,32.3
+2025-11-29,CAR,CGY,Carolina Hurricanes,Calgary Flames,1.53,4.4,4.4,59.0,20.5
+2025-11-29,CHI,ANA,Chicago Blackhawks,Anaheim Ducks,2.45,4.2,2.2,37.1,41.3
+2025-11-29,NYI,WSH,NY Islanders,Washington Capitals,2.5,4.0,2.15,35.9,41.7
+2025-11-29,VGK,SJS,Vegas Golden Knights,San Jose Sharks,1.44,4.6,5.0,62.5,18.0
+2025-11-29,LAK,VAN,Los Angeles Kings,Vancouver Canucks,1.85,4.2,3.1,49.1,29.3
+2025-11-29,NSH,WPG,Nashville Predators,Winnipeg Jets,2.5,4.0,2.2,36.2,41.2
+2025-11-29,NJD,PHI,New Jersey Devils,Philadelphia Flyers,2.0,4.0,2.8,45.2,32.3
+2025-11-29,PIT,TOR,Pittsburgh Penguins,Toronto Maple Leafs,2.3,4.0,2.38,39.3,38.0
+2025-11-29,BOS,DET,Boston Bruins,Detroit Red Wings,2.8,4.0,1.95,31.9,45.8
+2025-11-29,STL,UTA,St. Louis Blues,Utah Mammoth,2.45,4.0,2.3,37.3,39.8
+2025-11-30,DAL,OTT,Dallas Stars,Ottawa Senators,2.0,4.0,2.8,45.2,32.3
+2025-12-01,STL,ANA,St. Louis Blues,Anaheim Ducks,2.05,4.2,2.6,43.9,34.6
+2025-12-01,SJS,UTA,San Jose Sharks,Utah Mammoth,3.0,4.2,1.85,30.0,48.6
+2025-12-01,NJD,CBJ,New Jersey Devils,Columbus Blue Jackets,1.95,4.2,2.8,46.3,32.2
+2025-12-01,PHI,PIT,Philadelphia Flyers,Pittsburgh Penguins,2.05,4.0,2.7,44.0,33.4
+2025-12-01,BUF,WPG,Buffalo Sabres,Winnipeg Jets,2.25,4.2,2.3,39.8,38.9
+2025-12-02,LAK,WSH,Los Angeles Kings,Washington Capitals,2.25,3.9,2.5,40.4,36.3
+2025-12-02,EDM,MIN,Edmonton Oilers,Minnesota Wild,1.95,4.2,2.8,46.3,32.2
+2025-12-02,COL,VAN,Colorado Avalanche,Vancouver Canucks,1.4,5.0,5.0,64.1,17.9
+2025-12-02,NSH,CGY,Nashville Predators,Calgary Flames,2.2,4.0,2.5,41.2,36.2
+2025-12-02,VGK,CHI,Vegas Golden Knights,Chicago Blackhawks,1.55,4.2,4.2,57.5,21.2
+2025-12-02,NYR,DAL,NY Rangers,Dallas Stars,2.3,4.0,2.3,38.8,38.8
+2025-12-02,NYI,TBL,NY Islanders,Tampa Bay Lightning,2.4,4.0,2.25,37.5,40.0
+2025-12-02,MTL,OTT,Montreal Canadiens,Ottawa Senators,2.45,4.0,2.15,36.3,41.4
+2025-12-02,DET,BOS,Detroit Red Wings,Boston Bruins,1.73,4.2,3.3,51.6,27.1
+2025-12-02,FLA,TOR,Florida Panthers,Toronto Maple Leafs,1.85,4.2,3.0,48.6,30.0
+2025-12-03,NJD,DAL,New Jersey Devils,Dallas Stars,2.25,4.0,2.45,40.3,37.0
+2025-12-03,PHI,BUF,Philadelphia Flyers,Buffalo Sabres,2.5,4.0,2.15,35.9,41.7
+2025-12-03,MTL,WPG,Montreal Canadiens,Winnipeg Jets,2.5,4.0,2.15,35.9,41.7
+2025-12-03,SJS,WSH,San Jose Sharks,Washington Capitals,2.88,4.2,1.95,31.6,46.7
+2025-12-03,ANA,UTA,Anaheim Ducks,Utah Mammoth,2.38,4.0,2.3,38.0,39.3
+2025-12-04,CGY,MIN,Calgary Flames,Minnesota Wild,2.5,4.0,2.2,36.2,41.2
+2025-12-04,LAK,CHI,Los Angeles Kings,Chicago Blackhawks,1.67,4.2,3.6,53.7,24.9
+2025-12-04,EDM,SEA,Edmonton Oilers,Seattle Kraken,1.7,4.2,3.5,52.9,25.7
+2025-12-04,CBJ,DET,Columbus Blue Jackets,Detroit Red Wings,2.2,4.0,2.5,41.2,36.2
+2025-12-04,CAR,TOR,Carolina Hurricanes,Toronto Maple Leafs,1.67,4.5,3.5,54.1,25.8
+2025-12-04,TBL,PIT,Tampa Bay Lightning,Pittsburgh Penguins,1.85,4.2,2.9,48.1,30.7
+2025-12-04,BOS,STL,Boston Bruins,St. Louis Blues,2.7,4.0,2.05,33.4,44.0
+2025-12-04,OTT,NYR,Ottawa Senators,NY Rangers,2.1,4.0,2.62,43.0,34.5
+2025-12-04,FLA,NSH,Florida Panthers,Nashville Predators,1.75,4.4,3.25,51.6,27.8
+2025-12-04,NYI,COL,NY Islanders,Colorado Avalanche,3.1,4.2,1.8,28.9,49.8
+2025-12-05,FLA,CBJ,Florida Panthers,Columbus Blue Jackets,1.85,4.2,3.0,48.6,30.0
+2025-12-05,NYR,COL,NY Rangers,Colorado Avalanche,3.1,4.2,1.83,29.1,49.4
+2025-12-05,ANA,WSH,Anaheim Ducks,Washington Capitals,2.75,4.0,2.05,33.0,44.3
+2025-12-05,VAN,UTA,Vancouver Canucks,Utah Mammoth,2.6,4.0,2.15,35.0,42.3
+2025-12-05,DAL,SJS,Dallas Stars,San Jose Sharks,1.5,4.4,4.5,59.7,19.9
+2025-12-05,WPG,BUF,Winnipeg Jets,Buffalo Sabres,2.15,4.0,2.6,42.3,35.0
+2025-12-05,NJD,VGK,New Jersey Devils,Vegas Golden Knights,2.6,4.0,2.15,35.0,42.3
+2025-12-06,FLA,NYI,Florida Panthers,NY Islanders,1.85,4.0,3.0,48.1,29.7
+2025-12-06,CAR,SJS,Carolina Hurricanes,San Jose Sharks,1.44,4.5,5.0,62.2,17.9
+2025-12-06,PHI,COL,Philadelphia Flyers,Colorado Avalanche,3.0,4.0,1.91,30.1,47.3
+2025-12-06,SEA,DET,Seattle Kraken,Detroit Red Wings,2.45,4.0,2.25,37.0,40.3
+2025-12-06,EDM,WPG,Edmonton Oilers,Winnipeg Jets,1.75,4.2,3.3,51.4,27.2
+2025-12-06,LAK,CHI,Los Angeles Kings,Chicago Blackhawks,1.75,4.2,3.4,51.8,26.6
+2025-12-06,VAN,MIN,Vancouver Canucks,Minnesota Wild,2.8,4.0,2.05,32.6,44.6
+2025-12-06,BOS,NJD,Boston Bruins,New Jersey Devils,2.5,3.9,2.2,36.0,40.9
+2025-12-06,TBL,NYI,Tampa Bay Lightning,NY Islanders,1.95,4.0,2.8,45.8,31.9
+2025-12-06,OTT,STL,Ottawa Senators,St. Louis Blues,1.95,4.0,2.9,46.3,31.1
+2025-12-06,TOR,MTL,Toronto Maple Leafs,Montreal Canadiens,2.05,4.0,2.7,44.0,33.4
+2025-12-06,CAR,NSH,Carolina Hurricanes,Nashville Predators,1.62,4.4,3.8,55.7,23.8
+2025-12-06,CGY,UTA,Calgary Flames,Utah Mammoth,2.2,3.9,2.5,40.9,36.0
+2025-12-07,ANA,CHI,Anaheim Ducks,Chicago Blackhawks,1.75,4.4,3.25,51.6,27.8
+2025-12-07,MTL,STL,Montreal Canadiens,St. Louis Blues,2.1,4.0,2.7,43.4,33.8
+2025-12-07,NYR,VGK,NY Rangers,Vegas Golden Knights,2.9,4.0,1.91,30.8,46.8
+2025-12-07,WSH,CBJ,Washington Capitals,Columbus Blue Jackets,1.75,4.2,3.25,51.1,27.5
+2025-12-07,DAL,PIT,Dallas Stars,Pittsburgh Penguins,1.85,4.2,3.0,48.6,30.0
+2025-12-08,TOR,TBL,Toronto Maple Leafs,Tampa Bay Lightning,2.5,4.0,2.2,36.2,41.2
+2025-12-08,CGY,BUF,Calgary Flames,Buffalo Sabres,2.3,4.0,2.4,39.5,37.8
+2025-12-08,UTA,LAK,Utah Mammoth,Los Angeles Kings,2.38,3.9,2.38,38.3,38.3
+2025-12-08,SEA,MIN,Seattle Kraken,Minnesota Wild,2.62,3.9,2.1,34.3,42.7
+2025-12-08,VAN,DET,Vancouver Canucks,Detroit Red Wings,2.5,4.0,2.2,36.2,41.2
+2025-12-09,WPG,DAL,Winnipeg Jets,Dallas Stars,2.8,4.0,2.0,32.3,45.2
+2025-12-09,STL,BOS,St. Louis Blues,Boston Bruins,2.1,3.9,2.62,42.7,34.3
+2025-12-09,NSH,COL,Nashville Predators,Colorado Avalanche,3.4,4.2,1.7,26.2,52.5
+2025-12-09,EDM,BUF,Edmonton Oilers,Buffalo Sabres,1.67,4.4,3.5,53.9,25.7
+2025-12-09,OTT,NJD,Ottawa Senators,New Jersey Devils,2.0,4.0,2.8,45.2,32.3
+2025-12-09,PHI,SJS,Philadelphia Flyers,San Jose Sharks,1.8,4.2,3.2,50.2,28.3
+2025-12-09,NYI,VGK,NY Islanders,Vegas Golden Knights,2.7,4.0,2.1,33.8,43.4
+2025-12-09,PIT,ANA,Pittsburgh Penguins,Anaheim Ducks,2.25,4.0,2.45,40.3,37.0
+2025-12-09,MTL,TBL,Montreal Canadiens,Tampa Bay Lightning,2.38,4.0,2.38,38.5,38.5
+2025-12-09,CAR,CBJ,Carolina Hurricanes,Columbus Blue Jackets,1.67,4.4,3.5,53.9,25.7
+2025-12-10,CHI,NYR,Chicago Blackhawks,NY Rangers,2.8,4.0,2.05,32.6,44.6
+2025-12-10,CGY,DET,Calgary Flames,Detroit Red Wings,2.38,4.0,2.3,38.0,39.3
+2025-12-10,UTA,FLA,Utah Mammoth,Florida Panthers,2.38,4.0,2.38,38.5,38.5
+2025-12-10,SEA,LAK,Seattle Kraken,Los Angeles Kings,2.88,4.0,2.0,31.6,45.6
+2025-12-11,VAN,BUF,Vancouver Canucks,Buffalo Sabres,2.4,3.9,2.3,37.6,39.2
+2025-12-11,COL,FLA,Colorado Avalanche,Florida Panthers,1.6,4.4,3.9,56.4,23.1
+2025-12-11,EDM,DET,Edmonton Oilers,Detroit Red Wings,1.8,4.2,3.1,49.8,28.9
+2025-12-11,WPG,BOS,Winnipeg Jets,Boston Bruins,1.95,4.0,2.9,46.3,31.1
+2025-12-11,MIN,DAL,Minnesota Wild,Dallas Stars,2.75,4.0,2.05,33.0,44.3
+2025-12-11,NSH,STL,Nashville Predators,St. Louis Blues,2.15,4.0,2.6,42.3,35.0
+2025-12-11,CBJ,OTT,Columbus Blue Jackets,Ottawa Senators,2.5,4.0,2.2,36.2,41.2
+2025-12-11,NYI,ANA,NY Islanders,Anaheim Ducks,2.2,4.0,2.5,41.2,36.2
+2025-12-11,PHI,VGK,Philadelphia Flyers,Vegas Golden Knights,2.8,4.0,2.0,32.3,45.2
+2025-12-11,TOR,SJS,Toronto Maple Leafs,San Jose Sharks,1.7,4.2,3.5,52.9,25.7
+2025-12-11,WSH,CAR,Washington Capitals,Carolina Hurricanes,2.4,4.0,2.3,37.8,39.5
+2025-12-11,NJD,TBL,New Jersey Devils,Tampa Bay Lightning,2.62,4.0,2.1,34.5,43.0
+2025-12-12,NYI,TBL,NY Islanders,Tampa Bay Lightning,2.6,4.0,2.15,35.0,42.3
+2025-12-12,PIT,SJS,Pittsburgh Penguins,San Jose Sharks,1.85,4.0,3.1,48.6,29.0
+2025-12-12,MIN,OTT,Minnesota Wild,Ottawa Senators,2.25,3.9,2.5,40.4,36.3
+2025-12-12,NJD,ANA,New Jersey Devils,Anaheim Ducks,2.2,4.0,2.5,41.2,36.2
+2025-12-12,STL,CHI,St. Louis Blues,Chicago Blackhawks,2.4,4.0,2.3,37.8,39.5
+2025-12-12,UTA,SEA,Utah Mammoth,Seattle Kraken,1.8,4.0,3.25,49.9,27.6
+2025-12-13,COL,NSH,Colorado Avalanche,Nashville Predators,1.4,4.6,5.5,64.1,16.3
+2025-12-13,PIT,UTA,Pittsburgh Penguins,Utah Mammoth,2.62,4.0,2.1,34.5,43.0
+2025-12-13,NJD,VAN,New Jersey Devils,Vancouver Canucks,2.15,4.0,2.62,42.4,34.8
+2025-12-13,LAK,CGY,Los Angeles Kings,Calgary Flames,1.85,4.0,3.2,49.0,28.3
+2025-12-13,DAL,FLA,Dallas Stars,Florida Panthers,2.1,4.0,2.7,43.4,33.8
+2025-12-13,CAR,PHI,Carolina Hurricanes,Philadelphia Flyers,1.62,4.2,3.9,55.5,23.1
+2025-12-13,TOR,EDM,Toronto Maple Leafs,Edmonton Oilers,2.6,4.0,2.15,35.0,42.3
+2025-12-13,NYR,MTL,NY Rangers,Montreal Canadiens,2.05,4.0,2.75,44.3,33.0
+2025-12-13,PHI,CAR,Philadelphia Flyers,Carolina Hurricanes,3.0,4.0,1.91,30.1,47.3
+2025-12-13,CBJ,VGK,Columbus Blue Jackets,Vegas Golden Knights,2.75,4.0,2.0,32.7,44.9
+2025-12-13,WPG,WSH,Winnipeg Jets,Washington Capitals,2.5,4.0,2.2,36.2,41.2
+2025-12-13,CHI,DET,Chicago Blackhawks,Detroit Red Wings,3.3,4.2,1.8,27.6,50.7
+2025-12-14,SEA,BUF,Seattle Kraken,Buffalo Sabres,2.5,4.0,2.2,36.2,41.2
+2025-12-14,MIN,BOS,Minnesota Wild,Boston Bruins,2.1,4.0,2.7,43.4,33.8
+2025-12-14,MTL,EDM,Montreal Canadiens,Edmonton Oilers,2.6,4.0,2.15,35.0,42.3
+2025-12-15,TBL,FLA,Tampa Bay Lightning,Florida Panthers,2.2,3.9,2.6,41.5,35.1
+2025-12-15,NYR,ANA,NY Rangers,Anaheim Ducks,2.3,3.9,2.45,39.5,37.1
+2025-12-15,WPG,OTT,Winnipeg Jets,Ottawa Senators,2.15,3.9,2.62,42.2,34.6
+2025-12-15,STL,NSH,St. Louis Blues,Nashville Predators,2.38,3.9,2.4,38.4,38.1
+2025-12-15,DAL,LAK,Dallas Stars,Los Angeles Kings,2.15,3.75,2.7,42.2,33.6
+2025-12-16,SJS,CGY,San Jose Sharks,Calgary Flames,2.7,3.9,2.1,33.6,43.2
+2025-12-16,SEA,COL,Seattle Kraken,Colorado Avalanche,4.8,4.5,1.5,19.0,60.8
+2025-12-16,MIN,WSH,Minnesota Wild,Washington Capitals,2.25,3.9,2.5,40.4,36.3
+2025-12-16,PIT,EDM,Pittsburgh Penguins,Edmonton Oilers,2.75,4.0,2.05,33.0,44.3
+2025-12-16,BOS,UTA,Boston Bruins,Utah Mammoth,2.38,3.9,2.38,38.3,38.3
+2025-12-16,MTL,PHI,Montreal Canadiens,Philadelphia Flyers,2.2,3.8,2.6,41.2,34.9
+2025-12-16,CBJ,ANA,Columbus Blue Jackets,Anaheim Ducks,2.0,4.0,2.8,45.2,32.3
+2025-12-16,DET,NYI,Detroit Red Wings,NY Islanders,2.15,3.9,2.62,42.2,34.6
+2025-12-16,NYR,VAN,NY Rangers,Vancouver Canucks,2.25,3.8,2.5,40.1,36.1
+2025-12-16,TOR,CHI,Toronto Maple Leafs,Chicago Blackhawks,1.75,4.0,3.5,51.6,25.8
+2025-12-17,VGK,NJD,Vegas Golden Knights,New Jersey Devils,1.91,3.9,3.1,47.5,29.3
+2025-12-17,NSH,CAR,Nashville Predators,Carolina Hurricanes,3.2,4.0,1.83,28.2,49.3
+2025-12-17,DET,UTA,Detroit Red Wings,Utah Mammoth,2.2,3.9,2.5,40.9,36.0
+2025-12-17,FLA,LAK,Florida Panthers,Los Angeles Kings,2.05,3.9,2.8,44.3,32.4
+2025-12-17,STL,WPG,St. Louis Blues,Winnipeg Jets,2.8,3.9,2.05,32.4,44.3
+2025-12-18,OTT,PIT,Ottawa Senators,Pittsburgh Penguins,1.91,4.0,3.0,47.3,30.1
+2025-12-18,BOS,EDM,Boston Bruins,Edmonton Oilers,2.6,4.0,2.15,35.0,42.3
+2025-12-18,TBL,LAK,Tampa Bay Lightning,Los Angeles Kings,1.75,4.0,3.6,52.0,25.3
+2025-12-18,CBJ,MIN,Columbus Blue Jackets,Minnesota Wild,2.45,3.9,2.3,37.1,39.5
+2025-12-18,MTL,CHI,Montreal Canadiens,Chicago Blackhawks,1.85,4.0,3.1,48.6,29.0
+2025-12-18,WSH,TOR,Washington Capitals,Toronto Maple Leafs,1.95,3.9,2.9,46.0,31.0
+2025-12-18,BUF,PHI,Buffalo Sabres,Philadelphia Flyers,2.0,3.9,2.88,45.3,31.5
+2025-12-18,STL,NYR,St. Louis Blues,NY Rangers,2.8,3.75,2.1,32.5,43.3
+2025-12-18,CGY,SEA,Calgary Flames,Seattle Kraken,1.85,3.9,3.1,48.3,28.8
+2025-12-18,SJS,DAL,San Jose Sharks,Dallas Stars,3.6,4.0,1.7,24.9,52.7
+2025-12-19,NYR,PHI,NY Rangers,Philadelphia Flyers,2.05,3.8,2.88,44.4,31.6
+2025-12-19,BUF,NYI,Buffalo Sabres,NY Islanders,1.85,4.0,3.2,49.0,28.3
+2025-12-19,OTT,CHI,Ottawa Senators,Chicago Blackhawks,1.62,4.2,4.0,55.8,22.6
+2025-12-19,WSH,DET,Washington Capitals,Detroit Red Wings,1.91,4.0,3.0,47.3,30.1
+2025-12-19,MIN,EDM,Minnesota Wild,Edmonton Oilers,2.15,3.9,2.62,42.2,34.6
+2025-12-19,UTA,NJD,Utah Mammoth,New Jersey Devils,2.1,3.8,2.75,43.2,33.0
+2025-12-19,COL,WPG,Colorado Avalanche,Winnipeg Jets,1.6,4.2,4.0,56.1,22.5
+2025-12-19,ANA,DAL,Anaheim Ducks,Dallas Stars,2.3,4.0,2.38,39.3,38.0
+2025-12-19,NYI,VAN,NY Islanders,Vancouver Canucks,2.1,3.8,2.75,43.2,33.0
+2025-12-19,FLA,CAR,Florida Panthers,Carolina Hurricanes,2.62,3.9,2.15,34.6,42.2
+2025-12-20,DET,WSH,Detroit Red Wings,Washington Capitals,2.3,4.0,2.4,39.5,37.8
+2025-12-20,SJS,SEA,San Jose Sharks,Seattle Kraken,2.2,3.9,2.6,41.5,35.1
+2025-12-20,ANA,CBJ,Anaheim Ducks,Columbus Blue Jackets,2.3,4.0,2.4,39.5,37.8
+2025-12-20,CGY,VGK,Calgary Flames,Vegas Golden Knights,2.6,3.8,2.2,34.9,41.2
+2025-12-20,FLA,STL,Florida Panthers,St. Louis Blues,1.85,4.0,3.2,49.0,28.3
+2025-12-20,TBL,CAR,Tampa Bay Lightning,Carolina Hurricanes,2.25,3.75,2.5,40.0,36.0
+2025-12-20,BOS,VAN,Boston Bruins,Vancouver Canucks,1.85,4.0,3.1,48.6,29.0
+2025-12-20,NSH,TOR,Nashville Predators,Toronto Maple Leafs,2.3,3.9,2.4,39.2,37.6
+2025-12-20,MTL,PIT,Montreal Canadiens,Pittsburgh Penguins,2.1,3.9,2.7,43.2,33.6
+2025-12-21,EDM,VGK,Edmonton Oilers,Vegas Golden Knights,2.05,4.0,2.7,44.0,33.4
+2025-12-21,DAL,TOR,Dallas Stars,Toronto Maple Leafs,1.7,4.2,3.6,53.3,25.2
+2025-12-21,PIT,MTL,Pittsburgh Penguins,Montreal Canadiens,2.3,4.0,2.4,39.5,37.8
+2025-12-21,UTA,WPG,Utah Mammoth,Winnipeg Jets,2.25,3.9,2.5,40.4,36.3
+2025-12-21,NJD,BUF,New Jersey Devils,Buffalo Sabres,1.91,4.0,3.0,47.3,30.1
+2025-12-21,BOS,OTT,Boston Bruins,Ottawa Senators,2.75,4.0,2.05,33.0,44.3
+2025-12-21,NSH,NYR,Nashville Predators,NY Rangers,2.38,3.9,2.38,38.3,38.3
+2025-12-21,MIN,COL,Minnesota Wild,Colorado Avalanche,3.0,4.0,1.85,29.7,48.1
+2025-12-22,TOR,PIT,Toronto Maple Leafs,Pittsburgh Penguins,2.15,3.9,2.62,42.2,34.6
+2025-12-22,ANA,SEA,Anaheim Ducks,Seattle Kraken,1.85,4.0,3.1,48.6,29.0
+2025-12-22,LAK,CBJ,Los Angeles Kings,Columbus Blue Jackets,1.95,3.9,3.0,46.5,30.2
+2025-12-22,TBL,STL,Tampa Bay Lightning,St. Louis Blues,1.6,4.2,4.0,56.1,22.5
+2025-12-22,PHI,VAN,Philadelphia Flyers,Vancouver Canucks,2.15,3.8,2.7,42.3,33.7
+2025-12-23,MIN,NSH,Minnesota Wild,Nashville Predators,1.8,4.0,3.25,49.9,27.6
+2025-12-23,LAK,SEA,Los Angeles Kings,Seattle Kraken,1.65,4.0,4.0,54.8,22.6
+2025-12-23,VGK,SJS,Vegas Golden Knights,San Jose Sharks,1.7,4.0,3.5,52.3,25.4
+2025-12-23,COL,UTA,Colorado Avalanche,Utah Mammoth,1.57,4.2,4.2,57.2,21.4
+2025-12-23,CHI,PHI,Chicago Blackhawks,Philadelphia Flyers,2.5,3.8,2.25,36.1,40.1
+2025-12-23,EDM,CGY,Edmonton Oilers,Calgary Flames,2.05,4.0,2.75,44.3,33.0
+2025-12-23,BOS,MTL,Boston Bruins,Montreal Canadiens,2.25,3.9,2.5,40.4,36.3
+2025-12-23,OTT,BUF,Ottawa Senators,Buffalo Sabres,1.95,4.0,2.9,46.3,31.1
+2025-12-23,CAR,FLA,Carolina Hurricanes,Florida Panthers,2.1,3.9,2.75,43.4,33.2
+2025-12-23,WSH,NYR,Washington Capitals,NY Rangers,2.0,3.9,2.9,45.4,31.3
+2025-12-23,DET,DAL,Detroit Red Wings,Dallas Stars,2.5,3.9,2.2,36.0,40.9
+2025-12-23,NYI,NJD,NY Islanders,New Jersey Devils,2.6,3.9,2.2,35.1,41.5
+2025-12-27,VGK,COL,Vegas Golden Knights,Colorado Avalanche,2.9,4.0,1.95,31.1,46.3
+2025-12-27,VAN,SJS,Vancouver Canucks,San Jose Sharks,2.0,4.0,2.8,45.2,32.3
+2025-12-27,CGY,EDM,Calgary Flames,Edmonton Oilers,2.8,4.0,2.0,32.3,45.2
+2025-12-27,NJD,WSH,New Jersey Devils,Washington Capitals,2.25,3.8,2.5,40.1,36.1
+2025-12-27,CBJ,NYI,Columbus Blue Jackets,NY Islanders,2.15,3.9,2.7,42.6,33.9
+2025-12-27,LAK,ANA,Los Angeles Kings,Anaheim Ducks,2.15,3.9,2.62,42.2,34.6
+2025-12-27,TBL,MTL,Tampa Bay Lightning,Montreal Canadiens,2.0,4.0,2.8,45.2,32.3
+2025-12-27,STL,NSH,St. Louis Blues,Nashville Predators,2.3,3.9,2.4,39.2,37.6
+2025-12-27,NYI,NYR,NY Islanders,NY Rangers,2.4,3.8,2.38,37.9,38.2
+2025-12-27,TOR,OTT,Toronto Maple Leafs,Ottawa Senators,2.6,3.9,2.15,34.8,42.0
+2025-12-27,FLA,TBL,Florida Panthers,Tampa Bay Lightning,2.45,3.9,2.3,37.1,39.5
+2025-12-27,WPG,MIN,Winnipeg Jets,Minnesota Wild,2.4,3.8,2.38,37.9,38.2
+2025-12-27,DAL,CHI,Dallas Stars,Chicago Blackhawks,1.4,4.6,5.5,64.1,16.3
+2025-12-27,BUF,BOS,Buffalo Sabres,Boston Bruins,2.15,3.9,2.62,42.2,34.6
+2025-12-27,CAR,DET,Carolina Hurricanes,Detroit Red Wings,1.85,4.0,3.1,48.6,29.0
+2025-12-28,DET,TOR,Detroit Red Wings,Toronto Maple Leafs,2.15,4.0,2.62,42.4,34.8
+2025-12-28,CHI,PIT,Chicago Blackhawks,Pittsburgh Penguins,3.0,4.0,1.95,30.4,46.8
+2025-12-28,SEA,PHI,Seattle Kraken,Philadelphia Flyers,2.8,3.8,2.1,32.6,43.4
+2025-12-29,VGK,MIN,Vegas Golden Knights,Minnesota Wild,2.38,3.9,2.4,38.4,38.1
+2025-12-29,SEA,VAN,Seattle Kraken,Vancouver Canucks,2.5,3.8,2.25,36.1,40.1
+2025-12-29,UTA,NSH,Utah Mammoth,Nashville Predators,2.05,3.9,2.8,44.3,32.4
+2025-12-29,CGY,BOS,Calgary Flames,Boston Bruins,2.15,3.9,2.7,42.6,33.9
+2025-12-29,ANA,SJS,Anaheim Ducks,San Jose Sharks,1.8,4.2,3.25,50.4,27.9
+2025-12-29,WPG,EDM,Winnipeg Jets,Edmonton Oilers,2.45,3.9,2.25,36.8,40.1
+2025-12-29,STL,BUF,St. Louis Blues,Buffalo Sabres,2.45,3.9,2.3,37.1,39.5
+2025-12-29,FLA,WSH,Florida Panthers,Washington Capitals,2.2,3.9,2.6,41.5,35.1
+2025-12-29,COL,LAK,Colorado Avalanche,Los Angeles Kings,1.67,4.0,3.9,54.2,23.2
+2025-12-29,OTT,CBJ,Ottawa Senators,Columbus Blue Jackets,1.67,4.2,3.6,53.7,24.9
+2025-12-29,CAR,NYR,Carolina Hurricanes,NY Rangers,1.85,4.0,3.2,49.0,28.3
+2025-12-30,FLA,MTL,Florida Panthers,Montreal Canadiens,2.15,3.9,2.6,42.0,34.8
+2025-12-30,TOR,NJD,Toronto Maple Leafs,New Jersey Devils,2.62,3.9,2.15,34.6,42.2
+2025-12-30,CHI,NYI,Chicago Blackhawks,NY Islanders,2.75,3.9,2.1,33.2,43.4
+2025-12-30,VAN,PHI,Vancouver Canucks,Philadelphia Flyers,2.8,3.9,2.05,32.4,44.3
+2025-12-30,WSH,NYR,Washington Capitals,NY Rangers,2.0,3.9,2.9,45.4,31.3
+2025-12-30,VGK,NSH,Vegas Golden Knights,Nashville Predators,1.85,4.0,3.2,49.0,28.3
+2025-12-30,SJS,MIN,San Jose Sharks,Minnesota Wild,3.2,4.0,1.85,28.3,49.0
+2025-12-30,ANA,TBL,Anaheim Ducks,Tampa Bay Lightning,2.9,4.0,1.95,31.1,46.3
+2025-12-30,PIT,CAR,Pittsburgh Penguins,Carolina Hurricanes,2.6,4.0,2.15,35.0,42.3
+2025-12-31,NYI,UTA,NY Islanders,Utah Mammoth,2.5,3.8,2.25,36.1,40.1
+2025-12-31,CGY,PHI,Calgary Flames,Philadelphia Flyers,2.1,3.8,2.8,43.4,32.6
+2025-12-31,OTT,WSH,Ottawa Senators,Washington Capitals,2.1,3.9,2.75,43.4,33.2
+2025-12-31,EDM,BOS,Edmonton Oilers,Boston Bruins,1.83,4.0,3.2,49.3,28.2
+2025-12-31,DAL,BUF,Dallas Stars,Buffalo Sabres,1.95,4.0,2.9,46.3,31.1
+2025-12-31,CBJ,NJD,Columbus Blue Jackets,New Jersey Devils,2.2,3.9,2.5,40.9,36.0
+2025-12-31,DET,WPG,Detroit Red Wings,Winnipeg Jets,2.5,3.9,2.25,36.3,40.4
+2025-12-31,COL,STL,Colorado Avalanche,St. Louis Blues,1.4,4.75,5.5,64.5,16.4
+2026-01-01,TOR,WPG,Toronto Maple Leafs,Winnipeg Jets,2.1,3.9,2.7,43.2,33.6
+2026-01-01,CAR,MTL,Carolina Hurricanes,Montreal Canadiens,1.85,4.0,3.1,48.6,29.0
+2026-01-01,PIT,DET,Pittsburgh Penguins,Detroit Red Wings,2.15,3.9,2.62,42.2,34.6
+2026-01-01,LAK,TBL,Los Angeles Kings,Tampa Bay Lightning,2.25,3.8,2.5,40.1,36.1
+2026-01-01,CHI,DAL,Chicago Blackhawks,Dallas Stars,3.1,4.0,1.85,29.0,48.6
+2026-01-01,SEA,NSH,Seattle Kraken,Nashville Predators,2.4,3.9,2.3,37.6,39.2
+2026-01-01,STL,VGK,St. Louis Blues,Vegas Golden Knights,2.8,4.0,2.0,32.3,45.2
+2026-01-02,SJS,TBL,San Jose Sharks,Tampa Bay Lightning,3.6,4.2,1.7,25.2,53.3
+2026-01-02,STL,MTL,St. Louis Blues,Montreal Canadiens,2.9,3.9,2.0,31.3,45.4
+2026-01-02,EDM,PHI,Edmonton Oilers,Philadelphia Flyers,1.91,4.0,3.0,47.3,30.1
+2026-01-02,CBJ,BUF,Columbus Blue Jackets,Buffalo Sabres,2.38,4.0,2.38,38.5,38.5
+2026-01-02,NJD,UTA,New Jersey Devils,Utah Mammoth,2.2,3.8,2.6,41.2,34.9
+2026-01-02,VAN,SEA,Vancouver Canucks,Seattle Kraken,2.05,3.9,2.8,44.3,32.4
+2026-01-02,ANA,MIN,Anaheim Ducks,Minnesota Wild,2.6,4.0,2.15,35.0,42.3
+2026-01-02,FLA,NYR,Florida Panthers,NY Rangers,2.05,3.9,2.8,44.3,32.4
+2026-01-02,DET,PIT,Detroit Red Wings,Pittsburgh Penguins,2.05,3.9,2.75,44.0,32.8
+2026-01-03,FLA,COL,Florida Panthers,Colorado Avalanche,2.75,4.0,2.05,33.0,44.3
+2026-01-03,CBJ,PIT,Columbus Blue Jackets,Pittsburgh Penguins,2.1,4.0,2.62,43.0,34.5
+2026-01-03,DAL,MTL,Dallas Stars,Montreal Canadiens,1.8,4.0,3.3,50.1,27.3
+2026-01-03,VAN,BOS,Vancouver Canucks,Boston Bruins,2.62,3.9,2.15,34.6,42.2
+2026-01-03,LAK,MIN,Los Angeles Kings,Minnesota Wild,2.2,3.8,2.6,41.2,34.9
+2026-01-03,OTT,WPG,Ottawa Senators,Winnipeg Jets,2.2,3.9,2.6,41.5,35.1
+2026-01-03,WSH,CHI,Washington Capitals,Chicago Blackhawks,1.6,4.2,4.0,56.1,22.5
+2026-01-03,CGY,NSH,Calgary Flames,Nashville Predators,2.3,3.8,2.45,39.3,36.9
+2026-01-03,CAR,COL,Carolina Hurricanes,Colorado Avalanche,2.7,4.0,2.1,33.8,43.4
+2026-01-03,NYI,TOR,NY Islanders,Toronto Maple Leafs,2.4,3.9,2.38,38.1,38.4
+2026-01-04,NJD,CAR,New Jersey Devils,Carolina Hurricanes,2.5,3.9,2.2,36.0,40.9
+2026-01-04,CHI,VGK,Chicago Blackhawks,Vegas Golden Knights,4.0,4.2,1.6,22.5,56.1
+2026-01-05,CGY,SEA,Calgary Flames,Seattle Kraken,2.05,3.9,2.8,44.3,32.4
+2026-01-05,OTT,DET,Ottawa Senators,Detroit Red Wings,1.95,4.0,2.9,46.3,31.1
+2026-01-05,LAK,MIN,Los Angeles Kings,Minnesota Wild,2.5,3.8,2.25,36.1,40.1
+2026-01-05,WSH,ANA,Washington Capitals,Anaheim Ducks,2.05,4.0,2.75,44.3,33.0
+2026-01-05,NYR,UTA,NY Rangers,Utah Mammoth,2.38,3.8,2.38,38.1,38.1
+2026-01-06,SJS,CBJ,San Jose Sharks,Columbus Blue Jackets,2.7,4.0,2.1,33.8,43.4
+2026-01-06,EDM,NSH,Edmonton Oilers,Nashville Predators,2.0,4.0,2.8,45.2,32.3
+2026-01-06,SEA,BOS,Seattle Kraken,Boston Bruins,2.5,3.9,2.25,36.3,40.4
+2026-01-06,WPG,VGK,Winnipeg Jets,Vegas Golden Knights,2.38,3.8,2.4,38.2,37.9
+2026-01-06,TOR,FLA,Toronto Maple Leafs,Florida Panthers,2.5,3.9,2.25,36.3,40.4
+2026-01-06,NYI,NJD,NY Islanders,New Jersey Devils,2.5,3.8,2.3,36.4,39.6
+2026-01-06,PHI,ANA,Philadelphia Flyers,Anaheim Ducks,2.0,4.0,2.88,45.6,31.6
+2026-01-06,TBL,COL,Tampa Bay Lightning,Colorado Avalanche,2.45,4.0,2.3,37.3,39.8
+2026-01-06,CAR,DAL,Carolina Hurricanes,Dallas Stars,2.05,3.9,2.8,44.3,32.4
+2026-01-06,BUF,VAN,Buffalo Sabres,Vancouver Canucks,1.85,4.0,3.1,48.6,29.0
+2026-01-07,WSH,DAL,Washington Capitals,Dallas Stars,2.25,3.9,2.5,40.4,36.3
+2026-01-07,MTL,CGY,Montreal Canadiens,Calgary Flames,2.0,4.0,2.8,45.2,32.3
+2026-01-07,CHI,STL,Chicago Blackhawks,St. Louis Blues,2.45,3.75,2.38,37.3,38.4
+2026-01-07,UTA,OTT,Utah Mammoth,Ottawa Senators,2.2,3.9,2.5,40.9,36.0
+2026-01-07,LAK,SJS,Los Angeles Kings,San Jose Sharks,1.6,4.2,4.0,56.1,22.5
+2026-01-08,VGK,CBJ,Vegas Golden Knights,Columbus Blue Jackets,1.95,4.0,2.9,46.3,31.1
+2026-01-08,SEA,MIN,Seattle Kraken,Minnesota Wild,2.9,3.9,1.95,31.0,46.0
+2026-01-08,COL,OTT,Colorado Avalanche,Ottawa Senators,1.53,4.2,4.5,58.7,19.9
+2026-01-08,WPG,EDM,Winnipeg Jets,Edmonton Oilers,2.4,3.9,2.3,37.6,39.2
+2026-01-08,NSH,NYI,Nashville Predators,NY Islanders,2.2,3.8,2.6,41.2,34.9
+2026-01-08,BOS,CGY,Boston Bruins,Calgary Flames,2.1,4.0,2.7,43.4,33.8
+2026-01-08,DET,VAN,Detroit Red Wings,Vancouver Canucks,2.0,3.9,2.9,45.4,31.3
+2026-01-08,NYR,BUF,NY Rangers,Buffalo Sabres,2.5,3.9,2.25,36.3,40.4
+2026-01-08,PIT,NJD,Pittsburgh Penguins,New Jersey Devils,2.3,3.9,2.4,39.2,37.6
+2026-01-08,MTL,FLA,Montreal Canadiens,Florida Panthers,2.4,3.9,2.3,37.6,39.2
+2026-01-08,PHI,TOR,Philadelphia Flyers,Toronto Maple Leafs,2.2,3.8,2.6,41.2,34.9
+2026-01-08,CAR,ANA,Carolina Hurricanes,Anaheim Ducks,1.67,4.2,3.6,53.7,24.9
+2026-01-09,UTA,STL,Utah Mammoth,St. Louis Blues,1.8,4.0,3.3,50.1,27.3
+2026-01-09,CHI,WSH,Chicago Blackhawks,Washington Capitals,2.62,3.9,2.15,34.6,42.2
+2026-01-09,WPG,LAK,Winnipeg Jets,Los Angeles Kings,2.62,3.8,2.15,34.4,41.9
+2026-01-09,BOS,NYR,Boston Bruins,NY Rangers,2.15,4.0,2.6,42.3,35.0
+2026-01-09,PIT,CGY,Pittsburgh Penguins,Calgary Flames,1.95,4.0,2.9,46.3,31.1
+2026-01-09,COL,CBJ,Colorado Avalanche,Columbus Blue Jackets,1.53,4.2,4.5,58.7,19.9
+2026-01-09,SJS,DAL,San Jose Sharks,Dallas Stars,3.1,4.2,1.85,29.3,49.1
+2026-01-10,EDM,LAK,Edmonton Oilers,Los Angeles Kings,1.8,4.0,3.25,49.9,27.6
+2026-01-10,VGK,STL,Vegas Golden Knights,St. Louis Blues,1.53,4.2,4.5,58.7,19.9
+2026-01-10,BOS,PIT,Boston Bruins,Pittsburgh Penguins,2.45,3.9,2.25,36.8,40.1
+2026-01-10,WPG,NJD,Winnipeg Jets,New Jersey Devils,2.2,3.9,2.62,41.6,34.9
+2026-01-10,MIN,NYI,Minnesota Wild,NY Islanders,1.95,3.9,2.9,46.0,31.0
+2026-01-10,NSH,CHI,Nashville Predators,Chicago Blackhawks,1.7,4.2,3.7,53.6,24.6
+2026-01-10,PHI,TBL,Philadelphia Flyers,Tampa Bay Lightning,3.2,4.0,1.85,28.3,49.0
+2026-01-10,CAR,SEA,Carolina Hurricanes,Seattle Kraken,1.5,4.4,4.75,60.4,19.1
+2026-01-10,TOR,VAN,Toronto Maple Leafs,Vancouver Canucks,1.85,4.0,3.1,48.6,29.0
+2026-01-10,BUF,ANA,Buffalo Sabres,Anaheim Ducks,1.95,4.0,2.9,46.3,31.1
+2026-01-10,OTT,FLA,Ottawa Senators,Florida Panthers,2.25,3.9,2.5,40.4,36.3
+2026-01-10,MTL,DET,Montreal Canadiens,Detroit Red Wings,2.1,3.9,2.7,43.2,33.6
+2026-01-11,NSH,WSH,Nashville Predators,Washington Capitals,2.7,3.9,2.1,33.6,43.2
+2026-01-11,UTA,CBJ,Utah Mammoth,Columbus Blue Jackets,1.8,4.0,3.3,50.1,27.3
+2026-01-11,SJS,VGK,San Jose Sharks,Vegas Golden Knights,2.8,4.0,2.0,32.3,45.2
+2026-01-12,LAK,DAL,Los Angeles Kings,Dallas Stars,2.5,3.9,2.25,36.3,40.4
+2026-01-12,CHI,EDM,Chicago Blackhawks,Edmonton Oilers,2.9,4.0,1.95,31.1,46.3
+2026-01-12,MIN,NJD,Minnesota Wild,New Jersey Devils,1.85,4.0,3.1,48.6,29.0
+2026-01-12,MTL,VAN,Montreal Canadiens,Vancouver Canucks,1.75,4.0,3.4,51.2,26.4
+2026-01-12,COL,TOR,Colorado Avalanche,Toronto Maple Leafs,1.62,4.2,3.9,55.5,23.1
+2026-01-12,NYR,SEA,NY Rangers,Seattle Kraken,2.1,3.9,2.75,43.4,33.2
+2026-01-12,BUF,FLA,Buffalo Sabres,Florida Panthers,2.25,3.9,2.5,40.4,36.3
+2026-01-12,DET,CAR,Detroit Red Wings,Carolina Hurricanes,2.8,4.0,2.0,32.3,45.2
+2026-01-12,PHI,TBL,Philadelphia Flyers,Tampa Bay Lightning,2.8,3.9,2.05,32.4,44.3
+2026-01-13,UTA,TOR,Utah Mammoth,Toronto Maple Leafs,2.0,4.0,2.8,45.2,32.3
+2026-01-13,ANA,DAL,Anaheim Ducks,Dallas Stars,2.5,4.0,2.25,36.5,40.6
+2026-01-13,NSH,EDM,Nashville Predators,Edmonton Oilers,2.6,3.9,2.2,35.1,41.5
+2026-01-13,WPG,NYI,Winnipeg Jets,NY Islanders,2.2,3.8,2.62,41.3,34.7
+2026-01-13,STL,CAR,St. Louis Blues,Carolina Hurricanes,3.1,4.0,1.85,29.0,48.6
+2026-01-13,PIT,TBL,Pittsburgh Penguins,Tampa Bay Lightning,2.62,3.9,2.15,34.6,42.2
+2026-01-13,WSH,MTL,Washington Capitals,Montreal Canadiens,1.95,3.9,2.9,46.0,31.0
+2026-01-13,OTT,VAN,Ottawa Senators,Vancouver Canucks,1.67,4.2,3.8,54.4,23.9
+2026-01-13,CBJ,CGY,Columbus Blue Jackets,Calgary Flames,2.05,4.0,2.8,44.6,32.6
+2026-01-13,BOS,DET,Boston Bruins,Detroit Red Wings,2.1,3.9,2.7,43.2,33.6
+2026-01-14,LAK,VGK,Los Angeles Kings,Vegas Golden Knights,2.45,3.9,2.25,36.8,40.1
+2026-01-14,NJD,SEA,New Jersey Devils,Seattle Kraken,1.95,4.0,2.9,46.3,31.1
+2026-01-14,NYR,OTT,NY Rangers,Ottawa Senators,2.4,4.0,2.3,37.8,39.5
+2026-01-14,BUF,PHI,Buffalo Sabres,Philadelphia Flyers,2.1,4.0,2.7,43.4,33.8
+2026-01-15,EDM,NYI,Edmonton Oilers,NY Islanders,1.85,4.0,3.0,48.1,29.7
+2026-01-15,CHI,CGY,Chicago Blackhawks,Calgary Flames,2.25,3.9,2.5,40.4,36.3
+2026-01-15,UTA,DAL,Utah Mammoth,Dallas Stars,2.2,3.9,2.5,40.9,36.0
+2026-01-15,MIN,WPG,Minnesota Wild,Winnipeg Jets,2.1,3.9,2.7,43.2,33.6
+2026-01-15,VGK,TOR,Vegas Golden Knights,Toronto Maple Leafs,2.15,3.9,2.62,42.2,34.6
+2026-01-15,CBJ,VAN,Columbus Blue Jackets,Vancouver Canucks,1.85,4.0,3.0,48.1,29.7
+2026-01-15,BUF,MTL,Buffalo Sabres,Montreal Canadiens,2.5,3.9,2.25,36.3,40.4
+2026-01-15,BOS,SEA,Boston Bruins,Seattle Kraken,1.85,4.0,3.2,49.0,28.3
+2026-01-15,PIT,PHI,Pittsburgh Penguins,Philadelphia Flyers,1.85,4.0,3.1,48.6,29.0
+2026-01-15,WSH,SJS,Washington Capitals,San Jose Sharks,1.85,4.0,3.1,48.6,29.0
+2026-01-16,DET,SJS,Detroit Red Wings,San Jose Sharks,1.8,4.0,3.25,49.9,27.6
+2026-01-16,CAR,FLA,Carolina Hurricanes,Florida Panthers,1.85,4.0,3.25,49.2,28.0
+2026-01-16,STL,TBL,St. Louis Blues,Tampa Bay Lightning,3.4,4.0,1.8,26.7,50.5
+2026-01-16,COL,NSH,Colorado Avalanche,Nashville Predators,1.5,4.4,4.6,60.0,19.6
+2026-01-16,LAK,ANA,Los Angeles Kings,Anaheim Ducks,2.0,4.0,2.88,45.6,31.6
+2026-01-16,BUF,MIN,Buffalo Sabres,Minnesota Wild,2.15,3.9,2.6,42.0,34.8
+2026-01-16,PHI,NYR,Philadelphia Flyers,NY Rangers,2.15,3.9,2.62,42.2,34.6
+2026-01-16,CGY,NYI,Calgary Flames,NY Islanders,2.38,3.9,2.38,38.3,38.3
+2026-01-16,UTA,SEA,Utah Mammoth,Seattle Kraken,1.75,4.0,3.5,51.6,25.8
+2026-01-17,DET,OTT,Detroit Red Wings,Ottawa Senators,2.2,4.0,2.5,41.2,36.2
+2026-01-17,DAL,TBL,Dallas Stars,Tampa Bay Lightning,2.5,3.9,2.25,36.3,40.4
+2026-01-17,VGK,NSH,Vegas Golden Knights,Nashville Predators,1.7,4.0,3.6,52.7,24.9
+2026-01-17,ANA,LAK,Anaheim Ducks,Los Angeles Kings,2.5,3.9,2.25,36.3,40.4
+2026-01-17,VAN,EDM,Vancouver Canucks,Edmonton Oilers,3.1,4.0,1.85,29.0,48.6
+2026-01-17,CHI,BOS,Chicago Blackhawks,Boston Bruins,2.45,4.0,2.25,37.0,40.3
+2026-01-17,WSH,FLA,Washington Capitals,Florida Panthers,2.05,3.9,2.8,44.3,32.4
+2026-01-17,WPG,TOR,Winnipeg Jets,Toronto Maple Leafs,2.1,3.9,2.75,43.4,33.2
+2026-01-17,PIT,CBJ,Pittsburgh Penguins,Columbus Blue Jackets,2.15,4.0,2.6,42.3,35.0
+2026-01-17,OTT,MTL,Ottawa Senators,Montreal Canadiens,2.3,3.9,2.45,39.5,37.1
+2026-01-17,NJD,CAR,New Jersey Devils,Carolina Hurricanes,2.45,3.9,2.3,37.1,39.5
+2026-01-18,COL,WSH,Colorado Avalanche,Washington Capitals,1.67,4.2,3.7,54.1,24.4
+2026-01-18,SEA,PIT,Seattle Kraken,Pittsburgh Penguins,2.6,3.8,2.2,34.9,41.2
+2026-01-18,EDM,STL,Edmonton Oilers,St. Louis Blues,1.91,4.0,3.0,47.3,30.1
+2026-01-18,CAR,BUF,Carolina Hurricanes,Buffalo Sabres,1.8,4.0,3.3,50.1,27.3
+2026-01-19,FLA,SJS,Florida Panthers,San Jose Sharks,1.8,4.0,3.25,49.9,27.6
+2026-01-19,TOR,MIN,Toronto Maple Leafs,Minnesota Wild,2.38,3.9,2.4,38.4,38.1
+2026-01-19,VGK,PHI,Vegas Golden Knights,Philadelphia Flyers,1.7,4.2,3.6,53.3,25.2
+2026-01-19,CHI,WPG,Chicago Blackhawks,Winnipeg Jets,2.7,3.9,2.1,33.6,43.2
+2026-01-19,CGY,NJD,Calgary Flames,New Jersey Devils,2.5,3.9,2.25,36.3,40.4
+2026-01-19,VAN,NYI,Vancouver Canucks,NY Islanders,2.8,3.9,2.05,32.4,44.3
+2026-01-19,ANA,NYR,Anaheim Ducks,NY Rangers,2.1,4.0,2.7,43.4,33.8
+2026-01-20,LAK,NYR,Los Angeles Kings,NY Rangers,1.8,4.0,3.3,50.1,27.3
+2026-01-20,EDM,NJD,Edmonton Oilers,New Jersey Devils,1.83,4.0,3.2,49.3,28.2
+2026-01-20,NSH,BUF,Nashville Predators,Buffalo Sabres,2.2,3.9,2.6,41.5,35.1
+2026-01-20,WPG,STL,Winnipeg Jets,St. Louis Blues,2.2,3.9,2.6,41.5,35.1
+2026-01-20,MTL,MIN,Montreal Canadiens,Minnesota Wild,2.1,4.0,2.62,43.0,34.5
+2026-01-20,TBL,SJS,Tampa Bay Lightning,San Jose Sharks,1.5,4.4,4.6,60.0,19.6
+2026-01-20,CBJ,OTT,Columbus Blue Jackets,Ottawa Senators,2.38,4.0,2.3,38.0,39.3
+2026-01-20,DAL,BOS,Dallas Stars,Boston Bruins,2.05,3.9,2.8,44.3,32.4
+2026-01-21,TOR,DET,Toronto Maple Leafs,Detroit Red Wings,2.25,3.9,2.5,40.4,36.3
+2026-01-21,COL,ANA,Colorado Avalanche,Anaheim Ducks,1.44,4.5,5.0,62.2,17.9
+2026-01-21,UTA,PHI,Utah Mammoth,Philadelphia Flyers,1.85,4.0,3.2,49.0,28.3
+2026-01-21,CGY,PIT,Calgary Flames,Pittsburgh Penguins,2.5,3.9,2.25,36.3,40.4
+2026-01-21,SEA,NYI,Seattle Kraken,NY Islanders,2.45,3.8,2.3,36.9,39.3
+2026-01-21,VAN,WSH,Vancouver Canucks,Washington Capitals,3.1,4.0,1.85,29.0,48.6
+2026-01-22,MIN,DET,Minnesota Wild,Detroit Red Wings,1.91,4.0,3.0,47.3,30.1
+2026-01-22,EDM,PIT,Edmonton Oilers,Pittsburgh Penguins,1.85,4.0,3.1,48.6,29.0
+2026-01-22,WPG,FLA,Winnipeg Jets,Florida Panthers,2.38,3.8,2.4,38.2,37.9
+2026-01-22,NSH,OTT,Nashville Predators,Ottawa Senators,2.4,3.9,2.3,37.6,39.2
+2026-01-22,CBJ,DAL,Columbus Blue Jackets,Dallas Stars,2.38,4.0,2.38,38.5,38.5
+2026-01-22,BOS,VGK,Boston Bruins,Vegas Golden Knights,2.8,3.9,2.0,32.1,44.9
+2026-01-22,CAR,CHI,Carolina Hurricanes,Chicago Blackhawks,1.5,4.4,4.6,60.0,19.6
+2026-01-22,MTL,BUF,Montreal Canadiens,Buffalo Sabres,2.2,4.0,2.5,41.2,36.2
+2026-01-23,VAN,NJD,Vancouver Canucks,New Jersey Devils,2.8,3.9,2.05,32.4,44.3
+2026-01-23,NYI,BUF,NY Islanders,Buffalo Sabres,2.38,3.8,2.4,38.2,37.9
+2026-01-23,SJS,NYR,San Jose Sharks,NY Rangers,2.2,4.0,2.5,41.2,36.2
+2026-01-23,NSH,UTA,Nashville Predators,Utah Mammoth,2.45,3.9,2.25,36.8,40.1
+2026-01-23,SEA,ANA,Seattle Kraken,Anaheim Ducks,2.25,3.9,2.5,40.4,36.3
+2026-01-23,DAL,STL,Dallas Stars,St. Louis Blues,1.85,4.0,3.1,48.6,29.0
+2026-01-23,COL,PHI,Colorado Avalanche,Philadelphia Flyers,1.44,4.5,4.8,61.7,18.5
+2026-01-23,CHI,TBL,Chicago Blackhawks,Tampa Bay Lightning,4.5,4.2,1.53,19.9,58.7
+2026-01-23,TOR,VGK,Toronto Maple Leafs,Vegas Golden Knights,2.5,3.9,2.25,36.3,40.4
+2026-01-23,CGY,WSH,Calgary Flames,Washington Capitals,2.62,3.9,2.15,34.6,42.2
+2026-01-24,OTT,VGK,Ottawa Senators,Vegas Golden Knights,2.62,4.0,2.1,34.5,43.0
+2026-01-24,SEA,NJD,Seattle Kraken,New Jersey Devils,2.5,3.9,2.2,36.0,40.9
+2026-01-24,TOR,COL,Toronto Maple Leafs,Colorado Avalanche,3.25,4.2,1.8,27.9,50.4
+2026-01-24,EDM,WSH,Edmonton Oilers,Washington Capitals,1.85,4.0,3.1,48.6,29.0
+2026-01-24,MIN,FLA,Minnesota Wild,Florida Panthers,2.2,3.9,2.5,40.9,36.0
+2026-01-24,STL,LAK,St. Louis Blues,Los Angeles Kings,2.7,3.8,2.15,33.7,42.3
+2026-01-24,OTT,CAR,Ottawa Senators,Carolina Hurricanes,2.62,3.9,2.15,34.6,42.2
+2026-01-24,CBJ,TBL,Columbus Blue Jackets,Tampa Bay Lightning,2.5,4.0,2.2,36.2,41.2
+2026-01-24,WPG,DET,Winnipeg Jets,Detroit Red Wings,2.2,3.9,2.6,41.5,35.1
+2026-01-24,BOS,MTL,Boston Bruins,Montreal Canadiens,2.3,3.9,2.4,39.2,37.6
+2026-01-25,CGY,ANA,Calgary Flames,Anaheim Ducks,2.45,3.9,2.3,37.1,39.5
+2026-01-25,VAN,PIT,Vancouver Canucks,Pittsburgh Penguins,2.8,4.0,2.0,32.3,45.2
+2026-01-25,CHI,FLA,Chicago Blackhawks,Florida Panthers,2.62,3.9,2.15,34.6,42.2
+2026-01-26,EDM,ANA,Edmonton Oilers,Anaheim Ducks,1.55,4.2,4.4,58.1,20.5
+2026-01-26,TBL,UTA,Tampa Bay Lightning,Utah Mammoth,1.91,4.0,3.0,47.3,30.1
+2026-01-26,PHI,NYI,Philadelphia Flyers,NY Islanders,2.25,3.9,2.5,40.4,36.3
+2026-01-26,NYR,BOS,NY Rangers,Boston Bruins,2.5,3.9,2.25,36.3,40.4
+2026-01-27,SEA,WSH,Seattle Kraken,Washington Capitals,2.6,3.9,2.2,35.1,41.5
+2026-01-27,VAN,SJS,Vancouver Canucks,San Jose Sharks,2.6,4.0,2.15,35.0,42.3
+2026-01-27,STL,DAL,St. Louis Blues,Dallas Stars,3.0,3.9,1.95,30.2,46.5
+2026-01-27,MIN,CHI,Minnesota Wild,Chicago Blackhawks,1.75,4.0,3.5,51.6,25.8
+2026-01-27,FLA,UTA,Florida Panthers,Utah Mammoth,2.0,3.9,2.88,45.3,31.5
+2026-01-27,DET,LAK,Detroit Red Wings,Los Angeles Kings,2.15,3.8,2.62,41.9,34.4
+2026-01-27,BOS,NSH,Boston Bruins,Nashville Predators,2.3,4.0,2.4,39.5,37.8
+2026-01-27,TOR,BUF,Toronto Maple Leafs,Buffalo Sabres,2.25,4.0,2.45,40.3,37.0
+2026-01-27,MTL,VGK,Montreal Canadiens,Vegas Golden Knights,2.45,4.0,2.3,37.3,39.8
+2026-01-27,NJD,WPG,New Jersey Devils,Winnipeg Jets,2.2,3.8,2.62,41.3,34.7
+2026-01-28,NYI,NYR,NY Islanders,NY Rangers,2.1,3.9,2.75,43.4,33.2
+2026-01-28,CBJ,PHI,Columbus Blue Jackets,Philadelphia Flyers,2.25,4.0,2.5,40.6,36.5
+2026-01-28,OTT,COL,Ottawa Senators,Colorado Avalanche,2.8,4.0,2.0,32.3,45.2
+2026-01-29,VGK,DAL,Vegas Golden Knights,Dallas Stars,2.25,3.9,2.5,40.4,36.3
+2026-01-29,VAN,ANA,Vancouver Canucks,Anaheim Ducks,2.8,4.0,2.05,32.6,44.6
+2026-01-29,SEA,TOR,Seattle Kraken,Toronto Maple Leafs,2.4,4.0,2.3,37.8,39.5
+2026-01-29,EDM,SJS,Edmonton Oilers,San Jose Sharks,1.75,4.2,3.4,51.8,26.6
+2026-01-29,STL,FLA,St. Louis Blues,Florida Panthers,2.9,3.9,1.95,31.0,46.0
+2026-01-29,DET,WSH,Detroit Red Wings,Washington Capitals,2.1,4.0,2.62,43.0,34.5
+2026-01-29,CAR,UTA,Carolina Hurricanes,Utah Mammoth,1.85,4.0,3.1,48.6,29.0
+2026-01-29,MIN,CGY,Minnesota Wild,Calgary Flames,1.75,4.0,3.4,51.2,26.4
+2026-01-29,TBL,WPG,Tampa Bay Lightning,Winnipeg Jets,1.75,4.0,3.5,51.6,25.8
+2026-01-29,BOS,PHI,Boston Bruins,Philadelphia Flyers,2.1,3.8,2.75,43.2,33.0
+2026-01-29,PIT,CHI,Pittsburgh Penguins,Chicago Blackhawks,1.85,4.0,3.2,49.0,28.3
+2026-01-29,NJD,NSH,New Jersey Devils,Nashville Predators,2.1,3.8,2.75,43.2,33.0
+2026-01-29,NYR,NYI,NY Rangers,NY Islanders,2.75,3.9,2.05,32.8,44.0
+2026-01-29,MTL,COL,Montreal Canadiens,Colorado Avalanche,2.5,4.0,2.2,36.2,41.2
+2026-01-29,BUF,LAK,Buffalo Sabres,Los Angeles Kings,2.2,3.9,2.5,40.9,36.0
+2026-01-30,WSH,CAR,Washington Capitals,Carolina Hurricanes,3.25,4.0,1.8,27.6,49.9
+2026-01-30,CGY,SJS,Calgary Flames,San Jose Sharks,2.38,3.9,2.38,38.3,38.3
+2026-01-30,FLA,WPG,Florida Panthers,Winnipeg Jets,2.1,3.9,2.75,43.4,33.2
+2026-01-30,PHI,LAK,Philadelphia Flyers,Los Angeles Kings,2.4,3.8,2.38,37.9,38.2
+2026-01-30,DET,COL,Detroit Red Wings,Colorado Avalanche,2.8,4.0,2.0,32.3,45.2
+2026-01-30,CHI,CBJ,Chicago Blackhawks,Columbus Blue Jackets,2.88,4.0,2.0,31.6,45.6
+2026-01-30,PIT,NYR,Pittsburgh Penguins,NY Rangers,1.75,4.0,3.5,51.6,25.8
+2026-01-31,CAR,LAK,Carolina Hurricanes,Los Angeles Kings,1.85,4.0,3.2,49.0,28.3
+2026-01-31,EDM,MIN,Edmonton Oilers,Minnesota Wild,2.2,4.0,2.5,41.2,36.2
+2026-01-31,VGK,SEA,Vegas Golden Knights,Seattle Kraken,1.75,4.0,3.5,51.6,25.8
+2026-01-31,BUF,MTL,Buffalo Sabres,Montreal Canadiens,2.15,4.0,2.6,42.3,35.0
+2026-01-31,UTA,DAL,Utah Mammoth,Dallas Stars,2.3,3.9,2.45,39.5,37.1
+2026-01-31,VAN,TOR,Vancouver Canucks,Toronto Maple Leafs,2.8,4.0,2.0,32.3,45.2
+2026-01-31,NYI,NSH,NY Islanders,Nashville Predators,2.15,3.8,2.62,41.9,34.4
+2026-01-31,OTT,NJD,Ottawa Senators,New Jersey Devils,1.91,3.9,3.1,47.5,29.3
+2026-01-31,STL,CBJ,St. Louis Blues,Columbus Blue Jackets,2.3,3.9,2.4,39.2,37.6
+2026-02-01,TBL,BOS,Tampa Bay Lightning,Boston Bruins,1.75,4.0,3.6,52.0,25.3
+2026-02-01,ANA,VGK,Anaheim Ducks,Vegas Golden Knights,2.3,4.0,2.4,39.5,37.8
+2026-02-02,CGY,TOR,Calgary Flames,Toronto Maple Leafs,2.45,4.0,2.25,37.0,40.3
+2026-02-02,UTA,VAN,Utah Mammoth,Vancouver Canucks,1.57,4.2,4.2,57.2,21.4
+2026-02-02,COL,DET,Colorado Avalanche,Detroit Red Wings,1.75,4.0,3.5,51.6,25.8
+2026-02-02,CHI,SJS,Chicago Blackhawks,San Jose Sharks,2.4,3.9,2.3,37.6,39.2
+2026-02-02,DAL,WPG,Dallas Stars,Winnipeg Jets,2.0,3.9,2.9,45.4,31.3
+2026-02-02,MIN,MTL,Minnesota Wild,Montreal Canadiens,2.1,3.9,2.62,42.7,34.3
+2026-02-02,PIT,OTT,Pittsburgh Penguins,Ottawa Senators,2.45,3.9,2.3,37.1,39.5
+2026-02-02,FLA,BUF,Florida Panthers,Buffalo Sabres,2.3,3.9,2.45,39.5,37.1
+2026-02-02,WSH,NYI,Washington Capitals,NY Islanders,2.15,4.0,2.6,42.3,35.0
+2026-02-02,NSH,STL,Nashville Predators,St. Louis Blues,2.05,3.9,2.8,44.3,32.4
+2026-02-03,TBL,BUF,Tampa Bay Lightning,Buffalo Sabres,1.75,4.0,3.4,51.2,26.4
+2026-02-03,ANA,SEA,Anaheim Ducks,Seattle Kraken,2.1,4.0,2.7,43.4,33.8
+2026-02-03,EDM,TOR,Edmonton Oilers,Toronto Maple Leafs,1.8,4.2,3.2,50.2,28.3
+2026-02-03,NYI,PIT,NY Islanders,Pittsburgh Penguins,2.4,3.8,2.38,37.9,38.2
+2026-02-03,PHI,WSH,Philadelphia Flyers,Washington Capitals,2.1,3.9,2.7,43.2,33.6
+2026-02-03,CAR,OTT,Carolina Hurricanes,Ottawa Senators,1.85,4.0,3.2,49.0,28.3
+2026-02-03,NJD,CBJ,New Jersey Devils,Columbus Blue Jackets,2.38,3.9,2.4,38.4,38.1
+2026-02-04,FLA,BOS,Florida Panthers,Boston Bruins,1.95,4.0,2.9,46.3,31.1
+2026-02-04,CBJ,CHI,Columbus Blue Jackets,Chicago Blackhawks,2.0,3.9,2.9,45.4,31.3
+2026-02-04,WPG,MTL,Winnipeg Jets,Montreal Canadiens,2.25,3.9,2.5,40.4,36.3
+2026-02-04,NSH,MIN,Nashville Predators,Minnesota Wild,2.5,4.0,2.2,36.2,41.2
+2026-02-04,COL,SJS,Colorado Avalanche,San Jose Sharks,1.53,4.2,4.6,58.9,19.6
+2026-02-04,UTA,DET,Utah Mammoth,Detroit Red Wings,2.1,3.9,2.7,43.2,33.6
+2026-02-04,DAL,STL,Dallas Stars,St. Louis Blues,1.7,4.0,3.6,52.7,24.9
+2026-02-04,CGY,EDM,Calgary Flames,Edmonton Oilers,2.7,4.0,2.1,33.8,43.4
+2026-02-04,VGK,VAN,Vegas Golden Knights,Vancouver Canucks,1.5,4.5,4.6,60.3,19.7
+2026-02-04,LAK,SEA,Los Angeles Kings,Seattle Kraken,1.85,3.9,3.25,48.9,27.9
+2026-02-05,NJD,NYI,New Jersey Devils,NY Islanders,2.38,3.8,2.4,38.2,37.9
+2026-02-05,TBL,FLA,Tampa Bay Lightning,Florida Panthers,1.75,4.0,3.4,51.2,26.4
+2026-02-05,VGK,LAK,Vegas Golden Knights,Los Angeles Kings,2.15,3.8,2.7,42.3,33.7
+2026-02-05,BUF,PIT,Buffalo Sabres,Pittsburgh Penguins,2.2,4.0,2.5,41.2,36.2
+2026-02-05,PHI,OTT,Philadelphia Flyers,Ottawa Senators,2.62,3.9,2.15,34.6,42.2
+2026-02-05,NYR,CAR,NY Rangers,Carolina Hurricanes,3.6,4.2,1.7,25.2,53.3
+2026-02-05,WSH,NSH,Washington Capitals,Nashville Predators,1.91,4.0,3.0,47.3,30.1
+2026-02-25,NJD,BUF,New Jersey Devils,Buffalo Sabres,2.38,3.9,2.4,38.4,38.1
+2026-02-25,WSH,PHI,Washington Capitals,Philadelphia Flyers,2.0,3.9,2.9,45.4,31.3
+2026-02-25,TBL,TOR,Tampa Bay Lightning,Toronto Maple Leafs,1.67,4.2,3.75,54.3,24.2
+2026-02-25,DAL,SEA,Dallas Stars,Seattle Kraken,1.85,3.9,3.1,48.3,28.8
+2026-02-25,UTA,COL,Utah Mammoth,Colorado Avalanche,2.5,3.9,2.2,36.0,40.9
+2026-02-25,VAN,WPG,Vancouver Canucks,Winnipeg Jets,2.62,4.0,2.15,34.8,42.4
+2026-02-25,LAK,VGK,Los Angeles Kings,Vegas Golden Knights,1.95,3.9,3.0,46.5,30.2
+2026-02-25,ANA,EDM,Anaheim Ducks,Edmonton Oilers,2.5,4.0,2.2,36.2,41.2
+2026-02-26,LAK,EDM,Los Angeles Kings,Edmonton Oilers,2.38,3.9,2.38,38.3,38.3
+2026-02-26,SJS,CGY,San Jose Sharks,Calgary Flames,2.15,3.9,2.62,42.2,34.6
+2026-02-26,COL,MIN,Colorado Avalanche,Minnesota Wild,1.95,4.0,2.9,46.3,31.1
+2026-02-26,STL,SEA,St. Louis Blues,Seattle Kraken,2.1,3.9,2.75,43.4,33.2
+2026-02-26,NYR,PHI,NY Rangers,Philadelphia Flyers,2.1,3.9,2.75,43.4,33.2
+2026-02-26,NSH,CHI,Nashville Predators,Chicago Blackhawks,1.85,4.0,3.1,48.6,29.0
+2026-02-26,MTL,NYI,Montreal Canadiens,NY Islanders,2.0,3.9,2.8,44.9,32.1
+2026-02-26,OTT,DET,Ottawa Senators,Detroit Red Wings,1.95,3.9,2.9,46.0,31.0
+2026-02-26,CAR,TBL,Carolina Hurricanes,Tampa Bay Lightning,2.0,3.9,2.88,45.3,31.5
+2026-02-26,BOS,CBJ,Boston Bruins,Columbus Blue Jackets,2.3,3.9,2.4,39.2,37.6
+2026-02-26,FLA,TOR,Florida Panthers,Toronto Maple Leafs,1.95,4.0,2.9,46.3,31.1
+2026-02-26,PIT,NJD,Pittsburgh Penguins,New Jersey Devils,1.95,3.9,3.0,46.5,30.2
+2026-02-27,STL,NJD,St. Louis Blues,New Jersey Devils,2.4,3.8,2.38,37.9,38.2
+2026-02-27,SJS,EDM,San Jose Sharks,Edmonton Oilers,2.9,4.0,1.95,31.1,46.3
+2026-02-27,PHI,BOS,Philadelphia Flyers,Boston Bruins,2.25,3.9,2.5,40.4,36.3
+2026-02-27,NYR,PIT,NY Rangers,Pittsburgh Penguins,2.6,3.9,2.2,35.1,41.5
+2026-02-27,ANA,WPG,Anaheim Ducks,Winnipeg Jets,2.15,3.9,2.62,42.2,34.6
+2026-02-27,FLA,BUF,Florida Panthers,Buffalo Sabres,2.3,3.9,2.45,39.5,37.1
+2026-02-27,WSH,VGK,Washington Capitals,Vegas Golden Knights,2.3,3.9,2.45,39.5,37.1
+2026-02-27,UTA,MIN,Utah Mammoth,Minnesota Wild,2.1,4.0,2.7,43.4,33.8
+2026-02-28,MIN,STL,Minnesota Wild,St. Louis Blues,1.67,4.2,3.75,54.3,24.2
+2026-02-28,UTA,CHI,Utah Mammoth,Chicago Blackhawks,1.5,4.4,4.75,60.4,19.1
+2026-02-28,SJS,WPG,San Jose Sharks,Winnipeg Jets,2.45,3.9,2.3,37.1,39.5
+2026-02-28,PIT,VGK,Pittsburgh Penguins,Vegas Golden Knights,2.88,4.0,2.0,31.6,45.6
+2026-02-28,SEA,VAN,Seattle Kraken,Vancouver Canucks,1.91,4.0,3.0,47.3,30.1
+2026-02-28,MTL,WSH,Montreal Canadiens,Washington Capitals,1.91,4.0,2.9,46.8,30.8
+2026-02-28,DAL,NSH,Dallas Stars,Nashville Predators,2.0,3.9,2.9,45.4,31.3
+2026-02-28,LAK,CGY,Los Angeles Kings,Calgary Flames,2.0,3.9,2.9,45.4,31.3
+2026-02-28,COL,CHI,Colorado Avalanche,Chicago Blackhawks,1.4,4.6,5.5,64.1,16.3
+2026-02-28,CBJ,NYI,Columbus Blue Jackets,NY Islanders,2.1,3.9,2.75,43.4,33.2
+2026-02-28,CAR,DET,Carolina Hurricanes,Detroit Red Wings,1.8,4.0,3.4,50.5,26.7
+2026-02-28,TOR,OTT,Toronto Maple Leafs,Ottawa Senators,2.5,4.0,2.2,36.2,41.2
+2026-02-28,TBL,BUF,Tampa Bay Lightning,Buffalo Sabres,1.6,4.2,4.0,56.1,22.5
+2026-03-01,NYI,FLA,NY Islanders,Florida Panthers,2.88,3.9,2.0,31.5,45.3
+2026-03-01,ANA,CGY,Anaheim Ducks,Calgary Flames,1.8,4.0,3.3,50.1,27.3
+2026-03-01,NSH,DET,Nashville Predators,Detroit Red Wings,2.38,3.9,2.38,38.3,38.3
+2026-03-02,TOR,PHI,Toronto Maple Leafs,Philadelphia Flyers,2.15,3.9,2.62,42.2,34.6
+2026-03-02,VAN,DAL,Vancouver Canucks,Dallas Stars,3.5,4.0,1.75,25.8,51.6
+2026-03-02,SEA,CAR,Seattle Kraken,Carolina Hurricanes,3.25,4.0,1.83,27.9,49.5
+2026-03-02,LAK,COL,Los Angeles Kings,Colorado Avalanche,3.2,4.0,1.85,28.3,49.0
+2026-03-02,NYR,CBJ,NY Rangers,Columbus Blue Jackets,2.5,3.9,2.25,36.3,40.4
+2026-03-03,ANA,COL,Anaheim Ducks,Colorado Avalanche,2.88,4.0,2.0,31.6,45.6
+2026-03-03,EDM,OTT,Edmonton Oilers,Ottawa Senators,2.25,4.0,2.45,40.3,37.0
+2026-03-03,SJS,MTL,San Jose Sharks,Montreal Canadiens,2.62,4.0,2.1,34.5,43.0
+2026-03-03,MIN,TBL,Minnesota Wild,Tampa Bay Lightning,2.75,3.9,2.1,33.2,43.4
+2026-03-03,CGY,DAL,Calgary Flames,Dallas Stars,2.6,3.8,2.15,34.6,41.8
+2026-03-03,WPG,CHI,Winnipeg Jets,Chicago Blackhawks,1.95,3.9,3.0,46.5,30.2
+2026-03-03,BUF,VGK,Buffalo Sabres,Vegas Golden Knights,2.05,3.9,2.8,44.3,32.4
+2026-03-03,CBJ,NSH,Columbus Blue Jackets,Nashville Predators,2.1,3.9,2.75,43.4,33.2
+2026-03-03,NJD,FLA,New Jersey Devils,Florida Panthers,2.45,3.9,2.3,37.1,39.5
+2026-03-03,BOS,PIT,Boston Bruins,Pittsburgh Penguins,2.2,3.9,2.5,40.9,36.0
+2026-03-03,WSH,UTA,Washington Capitals,Utah Mammoth,2.25,3.9,2.5,40.4,36.3
+2026-03-04,SEA,STL,Seattle Kraken,St. Louis Blues,2.05,3.9,2.8,44.3,32.4
+2026-03-04,VAN,CAR,Vancouver Canucks,Carolina Hurricanes,5.0,4.6,1.44,18.0,62.5
+2026-03-04,ANA,NYI,Anaheim Ducks,NY Islanders,2.45,4.0,2.3,37.3,39.8
+2026-03-04,NJD,TOR,New Jersey Devils,Toronto Maple Leafs,2.25,3.8,2.5,40.1,36.1
+2026-03-04,DET,VGK,Detroit Red Wings,Vegas Golden Knights,2.15,3.9,2.62,42.2,34.6
+2026-03-05,PIT,BUF,Pittsburgh Penguins,Buffalo Sabres,2.4,3.9,2.3,37.6,39.2
+2026-03-05,CBJ,FLA,Columbus Blue Jackets,Florida Panthers,2.3,4.0,2.4,39.5,37.8
+2026-03-05,NYR,TOR,NY Rangers,Toronto Maple Leafs,2.15,3.9,2.6,42.0,34.8
+2026-03-05,PHI,UTA,Philadelphia Flyers,Utah Mammoth,2.5,3.9,2.2,36.0,40.9
+2026-03-05,NSH,BOS,Nashville Predators,Boston Bruins,2.45,4.0,2.3,37.3,39.8
+2026-03-05,WPG,TBL,Winnipeg Jets,Tampa Bay Lightning,3.3,4.0,1.75,26.9,50.8
+2026-03-05,CGY,OTT,Calgary Flames,Ottawa Senators,3.1,4.0,1.85,29.0,48.6
+2026-03-05,LAK,NYI,Los Angeles Kings,NY Islanders,2.15,3.8,2.7,42.3,33.7
+2026-03-06,BOS,WSH,Boston Bruins,Washington Capitals,2.15,3.8,2.62,41.9,34.4
+2026-03-06,PIT,PHI,Pittsburgh Penguins,Philadelphia Flyers,2.05,3.9,2.75,44.0,32.8
+2026-03-06,SJS,STL,San Jose Sharks,St. Louis Blues,2.1,3.9,2.75,43.4,33.2
+2026-03-06,BUF,NSH,Buffalo Sabres,Nashville Predators,1.75,4.0,3.3,50.8,26.9
+2026-03-06,VGK,MIN,Vegas Golden Knights,Minnesota Wild,2.38,3.9,2.38,38.3,38.3
+2026-03-06,NJD,NYR,New Jersey Devils,NY Rangers,1.91,3.9,3.0,47.0,29.9
+2026-03-06,ANA,MTL,Anaheim Ducks,Montreal Canadiens,2.3,4.0,2.38,39.3,38.0
+2026-03-06,CHI,VAN,Chicago Blackhawks,Vancouver Canucks,1.95,3.9,2.9,46.0,31.0
+2026-03-06,EDM,CAR,Edmonton Oilers,Carolina Hurricanes,2.4,4.0,2.3,37.8,39.5
+2026-03-06,DAL,COL,Dallas Stars,Colorado Avalanche,2.5,3.9,2.25,36.3,40.4
+2026-03-06,DET,FLA,Detroit Red Wings,Florida Panthers,1.95,4.0,2.9,46.3,31.1
+2026-03-07,DAL,CHI,Dallas Stars,Chicago Blackhawks,1.5,4.4,4.6,60.0,19.6
+2026-03-07,PIT,BOS,Pittsburgh Penguins,Boston Bruins,2.2,3.9,2.45,40.6,36.5
+2026-03-07,COL,MIN,Colorado Avalanche,Minnesota Wild,1.8,4.0,3.25,49.9,27.6
+2026-03-07,SEA,OTT,Seattle Kraken,Ottawa Senators,2.9,3.9,2.0,31.3,45.4
+2026-03-07,SJS,NYI,San Jose Sharks,NY Islanders,2.62,3.9,2.15,34.6,42.2
+2026-03-07,CBJ,UTA,Columbus Blue Jackets,Utah Mammoth,2.45,3.9,2.3,37.1,39.5
+2026-03-07,BUF,TBL,Buffalo Sabres,Tampa Bay Lightning,2.4,3.9,2.25,37.3,39.8
+2026-03-07,WPG,VAN,Winnipeg Jets,Vancouver Canucks,1.55,4.2,4.4,58.1,20.5
+2026-03-07,LAK,MTL,Los Angeles Kings,Montreal Canadiens,2.25,3.9,2.5,40.4,36.3
+2026-03-07,TOR,TBL,Toronto Maple Leafs,Tampa Bay Lightning,3.5,4.2,1.75,26.1,52.2
+2026-03-07,CGY,CAR,Calgary Flames,Carolina Hurricanes,3.9,4.0,1.65,23.0,54.5
+2026-03-08,CBJ,LAK,Columbus Blue Jackets,Los Angeles Kings,1.95,4.0,2.88,46.2,31.3
+2026-03-08,VGK,EDM,Vegas Golden Knights,Edmonton Oilers,2.3,4.0,2.38,39.3,38.0
+2026-03-08,NJD,DET,New Jersey Devils,Detroit Red Wings,2.4,3.8,2.3,37.4,39.0
+2026-03-08,ANA,STL,Anaheim Ducks,St. Louis Blues,1.85,4.0,3.0,48.1,29.7
+2026-03-09,WSH,CGY,Washington Capitals,Calgary Flames,1.8,4.0,3.4,50.5,26.7
+2026-03-09,PHI,NYR,Philadelphia Flyers,NY Rangers,2.05,3.8,2.75,43.8,32.6
+2026-03-09,CHI,UTA,Chicago Blackhawks,Utah Mammoth,3.75,4.2,1.67,24.2,54.3
+2026-03-09,VAN,OTT,Vancouver Canucks,Ottawa Senators,3.75,4.2,1.65,24.0,54.6
+2026-03-10,COL,EDM,Colorado Avalanche,Edmonton Oilers,1.8,4.0,3.1,49.2,28.6
+2026-03-10,WPG,ANA,Winnipeg Jets,Anaheim Ducks,2.1,3.9,2.7,43.2,33.6
+2026-03-10,MIN,UTA,Minnesota Wild,Utah Mammoth,1.95,3.9,2.9,46.0,31.0
+2026-03-10,DAL,VGK,Dallas Stars,Vegas Golden Knights,2.0,3.9,2.9,45.4,31.3
+2026-03-10,STL,NYI,St. Louis Blues,NY Islanders,2.6,3.8,2.15,34.6,41.8
+2026-03-10,TBL,CBJ,Tampa Bay Lightning,Columbus Blue Jackets,1.62,4.33,3.9,55.9,23.2
+2026-03-10,MTL,TOR,Montreal Canadiens,Toronto Maple Leafs,1.85,4.0,3.1,48.6,29.0
+2026-03-10,CAR,PIT,Carolina Hurricanes,Pittsburgh Penguins,1.7,4.0,3.6,52.7,24.9
+2026-03-10,BOS,LAK,Boston Bruins,Los Angeles Kings,1.95,4.0,2.8,45.8,31.9
+2026-03-10,NYR,CGY,NY Rangers,Calgary Flames,2.2,4.0,2.5,41.2,36.2
+2026-03-10,BUF,SJS,Buffalo Sabres,San Jose Sharks,1.75,4.2,3.5,52.2,26.1
+2026-03-10,FLA,DET,Florida Panthers,Detroit Red Wings,2.3,3.8,2.4,39.0,37.4
+2026-03-10,SEA,NSH,Seattle Kraken,Nashville Predators,2.38,3.9,2.38,38.3,38.3
+2026-03-11,PHI,WSH,Philadelphia Flyers,Washington Capitals,2.6,3.8,2.2,34.9,41.2
+2026-03-11,OTT,MTL,Ottawa Senators,Montreal Canadiens,1.8,4.0,3.3,50.1,27.3
+2026-03-12,VAN,NSH,Vancouver Canucks,Nashville Predators,3.0,3.9,1.91,29.9,47.0
+2026-03-12,SEA,COL,Seattle Kraken,Colorado Avalanche,3.6,4.2,1.7,25.2,53.3
+2026-03-12,VGK,PIT,Vegas Golden Knights,Pittsburgh Penguins,1.91,4.0,3.0,47.3,30.1
+2026-03-12,UTA,CHI,Utah Mammoth,Chicago Blackhawks,1.67,4.0,3.8,53.9,23.7
+2026-03-12,DAL,EDM,Dallas Stars,Edmonton Oilers,2.1,4.0,2.5,42.3,35.5
+2026-03-12,MIN,PHI,Minnesota Wild,Philadelphia Flyers,1.67,4.2,3.75,54.3,24.2
+2026-03-12,WPG,NYR,Winnipeg Jets,NY Rangers,1.95,3.9,3.0,46.5,30.2
+2026-03-12,FLA,CBJ,Florida Panthers,Columbus Blue Jackets,2.5,3.9,2.25,36.3,40.4
+2026-03-12,BUF,WSH,Buffalo Sabres,Washington Capitals,1.67,4.2,3.6,53.7,24.9
+2026-03-12,TBL,DET,Tampa Bay Lightning,Detroit Red Wings,1.65,4.0,3.8,54.2,23.5
+2026-03-12,CAR,STL,Carolina Hurricanes,St. Louis Blues,1.57,4.33,4.2,57.6,21.5
+2026-03-12,NJD,CGY,New Jersey Devils,Calgary Flames,1.83,3.9,3.25,49.2,27.7
+2026-03-12,TOR,ANA,Toronto Maple Leafs,Anaheim Ducks,2.3,4.0,2.45,39.8,37.3
+2026-03-12,BOS,SJS,Boston Bruins,San Jose Sharks,1.95,4.0,2.9,46.3,31.1
+2026-03-13,MIN,NYR,Minnesota Wild,NY Rangers,1.73,4.0,3.5,51.9,25.7
+2026-03-13,WPG,COL,Winnipeg Jets,Colorado Avalanche,3.3,4.0,1.8,27.3,50.1
+2026-03-13,WSH,BOS,Washington Capitals,Boston Bruins,2.15,3.9,2.62,42.2,34.6
+2026-03-13,STL,EDM,St. Louis Blues,Edmonton Oilers,2.8,4.0,2.0,32.3,45.2
+2026-03-13,NYI,LAK,NY Islanders,Los Angeles Kings,2.05,3.8,2.75,43.8,32.6
+2026-03-13,OTT,ANA,Ottawa Senators,Anaheim Ducks,1.85,4.0,3.0,48.1,29.7
+2026-03-14,DAL,DET,Dallas Stars,Detroit Red Wings,1.8,4.0,3.3,50.1,27.3
+2026-03-14,NYI,CGY,NY Islanders,Calgary Flames,2.05,3.9,2.8,44.3,32.4
+2026-03-14,BUF,TOR,Buffalo Sabres,Toronto Maple Leafs,1.62,4.2,3.9,55.5,23.1
+2026-03-14,NJD,LAK,New Jersey Devils,Los Angeles Kings,2.0,3.8,2.9,45.1,31.1
+2026-03-14,MTL,SJS,Montreal Canadiens,San Jose Sharks,1.91,4.0,3.0,47.3,30.1
+2026-03-14,TBL,CAR,Tampa Bay Lightning,Carolina Hurricanes,2.2,4.2,2.4,41.0,37.6
+2026-03-14,PHI,CBJ,Philadelphia Flyers,Columbus Blue Jackets,2.7,3.8,2.1,33.4,42.9
+2026-03-14,UTA,PIT,Utah Mammoth,Pittsburgh Penguins,1.95,3.9,2.88,45.9,31.1
+2026-03-14,VGK,CHI,Vegas Golden Knights,Chicago Blackhawks,1.62,4.2,3.8,55.2,23.5
+2026-03-14,VAN,SEA,Vancouver Canucks,Seattle Kraken,2.75,3.9,2.1,33.2,43.4
+2026-03-14,WPG,STL,Winnipeg Jets,St. Louis Blues,2.38,3.8,2.45,38.5,37.4
+2026-03-14,OTT,SJS,Ottawa Senators,San Jose Sharks,1.67,4.6,3.5,54.3,25.9
+2026-03-15,MIN,TOR,Minnesota Wild,Toronto Maple Leafs,1.6,4.2,4.0,56.1,22.5
+2026-03-15,EDM,NSH,Edmonton Oilers,Nashville Predators,1.8,4.2,3.1,49.8,28.9
+2026-03-15,MTL,ANA,Montreal Canadiens,Anaheim Ducks,1.95,4.0,2.8,45.8,31.9
+2026-03-15,SEA,FLA,Seattle Kraken,Florida Panthers,2.5,3.8,2.2,35.8,40.7
+2026-03-16,COL,PIT,Colorado Avalanche,Pittsburgh Penguins,1.65,4.2,3.8,54.7,23.8
+2026-03-16,DAL,UTA,Dallas Stars,Utah Mammoth,1.95,3.9,3.0,46.5,30.2
+2026-03-16,NYR,LAK,NY Rangers,Los Angeles Kings,2.38,3.8,2.38,38.1,38.1
+2026-03-16,NJD,BOS,New Jersey Devils,Boston Bruins,2.2,3.9,2.6,41.5,35.1
+2026-03-16,DET,CGY,Detroit Red Wings,Calgary Flames,1.8,4.0,3.3,50.1,27.3
+2026-03-17,MTL,BOS,Montreal Canadiens,Boston Bruins,1.95,3.9,2.9,46.0,31.0
+2026-03-17,TOR,NYI,Toronto Maple Leafs,NY Islanders,2.88,3.9,2.05,31.8,44.7
+2026-03-17,CBJ,CAR,Columbus Blue Jackets,Carolina Hurricanes,2.5,4.0,2.2,36.2,41.2
+2026-03-17,CHI,MIN,Chicago Blackhawks,Minnesota Wild,3.0,3.9,1.91,29.9,47.0
+2026-03-17,WPG,NSH,Winnipeg Jets,Nashville Predators,2.1,4.0,2.5,42.3,35.5
+2026-03-17,EDM,SJS,Edmonton Oilers,San Jose Sharks,1.85,4.2,3.1,49.1,29.3
+2026-03-17,VGK,BUF,Vegas Golden Knights,Buffalo Sabres,2.1,4.2,2.5,42.7,35.9
+2026-03-17,VAN,FLA,Vancouver Canucks,Florida Panthers,2.9,3.9,1.95,31.0,46.0
+2026-03-17,SEA,TBL,Seattle Kraken,Tampa Bay Lightning,3.25,4.0,1.8,27.6,49.9
+2026-03-18,CGY,STL,Calgary Flames,St. Louis Blues,2.5,4.0,2.15,35.9,41.7
+2026-03-18,COL,DAL,Colorado Avalanche,Dallas Stars,2.0,4.0,2.7,44.6,33.1
+2026-03-18,ANA,PHI,Anaheim Ducks,Philadelphia Flyers,2.0,4.0,2.8,45.2,32.3
+2026-03-18,CAR,PIT,Carolina Hurricanes,Pittsburgh Penguins,2.05,4.0,2.8,44.6,32.6
+2026-03-18,NYR,NJD,NY Rangers,New Jersey Devils,2.5,3.9,2.2,36.0,40.9
+2026-03-18,WSH,OTT,Washington Capitals,Ottawa Senators,2.62,4.2,2.05,34.5,44.0
+2026-03-19,LAK,PHI,Los Angeles Kings,Philadelphia Flyers,1.85,4.0,3.2,49.0,28.3
+2026-03-19,VGK,UTA,Vegas Golden Knights,Utah Mammoth,2.15,3.9,2.62,42.2,34.6
+2026-03-19,VAN,TBL,Vancouver Canucks,Tampa Bay Lightning,4.8,4.5,1.44,18.5,61.7
+2026-03-19,SJS,BUF,San Jose Sharks,Buffalo Sabres,2.75,4.0,2.05,33.0,44.3
+2026-03-19,NSH,SEA,Nashville Predators,Seattle Kraken,2.2,3.9,2.5,40.9,36.0
+2026-03-19,EDM,FLA,Edmonton Oilers,Florida Panthers,1.95,4.0,2.9,46.3,31.1
+2026-03-19,DET,MTL,Detroit Red Wings,Montreal Canadiens,2.4,3.9,2.38,38.1,38.4
+2026-03-19,BOS,WPG,Boston Bruins,Winnipeg Jets,2.1,3.9,2.7,43.2,33.6
+2026-03-19,CBJ,NYR,Columbus Blue Jackets,NY Rangers,1.7,4.2,3.6,53.3,25.2
+2026-03-19,OTT,NYI,Ottawa Senators,NY Islanders,2.15,3.9,2.62,42.2,34.6
+2026-03-19,MIN,CHI,Minnesota Wild,Chicago Blackhawks,1.75,4.2,3.5,52.2,26.1
+2026-03-20,NSH,VGK,Nashville Predators,Vegas Golden Knights,2.8,4.0,2.0,32.3,45.2
+2026-03-20,SJS,PHI,San Jose Sharks,Philadelphia Flyers,2.3,3.9,2.45,39.5,37.1
+2026-03-20,MIN,DAL,Minnesota Wild,Dallas Stars,2.62,3.9,2.1,34.3,42.7
+2026-03-20,LAK,BUF,Los Angeles Kings,Buffalo Sabres,2.5,3.9,2.2,36.0,40.9
+2026-03-20,PIT,WPG,Pittsburgh Penguins,Winnipeg Jets,1.95,4.0,2.9,46.3,31.1
+2026-03-20,CBJ,SEA,Columbus Blue Jackets,Seattle Kraken,1.85,4.0,3.2,49.0,28.3
+2026-03-20,CGY,FLA,Calgary Flames,Florida Panthers,2.38,3.9,2.4,38.4,38.1
+2026-03-20,CHI,COL,Chicago Blackhawks,Colorado Avalanche,5.5,4.6,1.4,16.3,64.1
+2026-03-20,WSH,NJD,Washington Capitals,New Jersey Devils,2.15,3.9,2.62,42.2,34.6
+2026-03-20,TOR,CAR,Toronto Maple Leafs,Carolina Hurricanes,3.6,4.2,1.7,25.2,53.3
+2026-03-20,UTA,ANA,Utah Mammoth,Anaheim Ducks,2.0,4.2,2.8,45.7,32.6
+2026-03-21,PIT,CAR,Pittsburgh Penguins,Carolina Hurricanes,2.75,4.0,2.05,33.0,44.3
+2026-03-21,WSH,COL,Washington Capitals,Colorado Avalanche,3.0,4.0,1.91,30.1,47.3
+2026-03-21,NYR,WPG,NY Rangers,Winnipeg Jets,2.25,3.8,2.5,40.1,36.1
+2026-03-21,EDM,TBL,Edmonton Oilers,Tampa Bay Lightning,2.6,4.0,2.1,34.6,42.9
+2026-03-21,CHI,NSH,Chicago Blackhawks,Nashville Predators,2.38,3.9,2.38,38.3,38.3
+2026-03-21,OTT,TOR,Ottawa Senators,Toronto Maple Leafs,1.5,4.4,4.6,60.0,19.6
+2026-03-21,MTL,NYI,Montreal Canadiens,NY Islanders,2.2,3.9,2.5,40.9,36.0
+2026-03-21,VAN,STL,Vancouver Canucks,St. Louis Blues,2.8,3.9,2.05,32.4,44.3
+2026-03-21,DET,BOS,Detroit Red Wings,Boston Bruins,2.25,4.0,2.5,40.6,36.5
+2026-03-22,CGY,TBL,Calgary Flames,Tampa Bay Lightning,3.1,4.0,1.85,29.0,48.6
+2026-03-22,ANA,BUF,Anaheim Ducks,Buffalo Sabres,2.4,4.0,2.3,37.8,39.5
+2026-03-22,UTA,LAK,Utah Mammoth,Los Angeles Kings,1.85,4.0,3.1,48.6,29.0
+2026-03-22,NYI,CBJ,NY Islanders,Columbus Blue Jackets,2.5,4.0,2.2,36.2,41.2
+2026-03-22,DAL,VGK,Dallas Stars,Vegas Golden Knights,2.05,3.9,2.8,44.3,32.4
+2026-03-23,NYR,OTT,NY Rangers,Ottawa Senators,3.3,4.0,1.8,27.3,50.1
+2026-03-24,STL,WSH,St. Louis Blues,Washington Capitals,2.38,3.8,2.38,38.1,38.1
+2026-03-24,UTA,EDM,Utah Mammoth,Edmonton Oilers,2.15,3.9,2.62,42.2,34.6
+2026-03-24,VAN,ANA,Vancouver Canucks,Anaheim Ducks,3.2,4.2,1.8,28.3,50.2
+2026-03-24,CGY,LAK,Calgary Flames,Los Angeles Kings,2.75,3.9,2.1,33.2,43.4
+2026-03-24,NSH,SJS,Nashville Predators,San Jose Sharks,2.1,3.9,2.7,43.2,33.6
+2026-03-24,DAL,NJD,Dallas Stars,New Jersey Devils,1.95,3.9,2.9,46.0,31.0
+2026-03-24,WPG,VGK,Winnipeg Jets,Vegas Golden Knights,2.62,3.9,2.15,34.6,42.2
+2026-03-24,BOS,TOR,Boston Bruins,Toronto Maple Leafs,1.8,4.0,3.4,50.5,26.7
+2026-03-24,MTL,CAR,Montreal Canadiens,Carolina Hurricanes,2.62,4.0,2.15,34.8,42.4
+2026-03-24,PHI,CBJ,Philadelphia Flyers,Columbus Blue Jackets,2.7,3.9,2.1,33.6,43.2
+2026-03-24,FLA,SEA,Florida Panthers,Seattle Kraken,2.15,3.9,2.62,42.2,34.6
+2026-03-24,PIT,COL,Pittsburgh Penguins,Colorado Avalanche,3.0,4.0,1.85,29.7,48.1
+2026-03-24,NYI,CHI,NY Islanders,Chicago Blackhawks,1.91,4.0,3.0,47.3,30.1
+2026-03-24,DET,OTT,Detroit Red Wings,Ottawa Senators,2.2,3.9,2.6,41.5,35.1
+2026-03-24,TBL,MIN,Tampa Bay Lightning,Minnesota Wild,1.95,4.0,2.9,46.3,31.1
+2026-03-25,BUF,BOS,Buffalo Sabres,Boston Bruins,1.75,4.2,3.5,52.2,26.1
+2026-03-25,TOR,NYR,Toronto Maple Leafs,NY Rangers,2.6,3.9,2.2,35.1,41.5
+2026-03-26,NSH,NJD,Nashville Predators,New Jersey Devils,2.38,3.9,2.38,38.3,38.3
+2026-03-26,VAN,LAK,Vancouver Canucks,Los Angeles Kings,3.2,4.0,1.85,28.3,49.0
+2026-03-26,UTA,WSH,Utah Mammoth,Washington Capitals,2.15,3.9,2.62,42.2,34.6
+2026-03-26,CGY,ANA,Calgary Flames,Anaheim Ducks,2.62,4.0,2.1,34.5,43.0
+2026-03-26,WPG,COL,Winnipeg Jets,Colorado Avalanche,3.2,4.0,1.83,28.2,49.3
+2026-03-26,STL,SJS,St. Louis Blues,San Jose Sharks,2.1,4.0,2.62,43.0,34.5
+2026-03-26,VGK,EDM,Vegas Golden Knights,Edmonton Oilers,2.1,4.0,2.62,43.0,34.5
+2026-03-26,MTL,CBJ,Montreal Canadiens,Columbus Blue Jackets,2.25,3.9,2.45,40.1,36.8
+2026-03-26,PHI,CHI,Philadelphia Flyers,Chicago Blackhawks,2.05,3.9,2.8,44.3,32.4
+2026-03-26,NYI,DAL,NY Islanders,Dallas Stars,2.6,3.8,2.2,34.9,41.2
+2026-03-26,OTT,PIT,Ottawa Senators,Pittsburgh Penguins,2.05,3.9,2.8,44.3,32.4
+2026-03-26,FLA,MIN,Florida Panthers,Minnesota Wild,2.9,4.0,1.95,31.1,46.3
+2026-03-26,TBL,SEA,Tampa Bay Lightning,Seattle Kraken,1.5,4.4,4.6,60.0,19.6
+2026-03-27,BUF,SEA,Buffalo Sabres,Seattle Kraken,1.75,4.0,3.4,51.2,26.4
+2026-03-27,CBJ,SJS,Columbus Blue Jackets,San Jose Sharks,1.75,4.0,3.5,51.6,25.8
+2026-03-27,BOS,MIN,Boston Bruins,Minnesota Wild,2.5,3.8,2.25,36.1,40.1
+2026-03-27,CAR,NJD,Carolina Hurricanes,New Jersey Devils,1.7,4.0,3.7,53.1,24.4
+2026-03-27,PIT,DAL,Pittsburgh Penguins,Dallas Stars,2.75,3.8,2.1,33.0,43.2
+2026-03-27,TBL,OTT,Tampa Bay Lightning,Ottawa Senators,2.05,3.9,2.8,44.3,32.4
+2026-03-27,NYI,FLA,NY Islanders,Florida Panthers,1.8,4.0,3.4,50.5,26.7
+2026-03-27,NYR,CHI,NY Rangers,Chicago Blackhawks,1.85,3.9,3.2,48.7,28.2
+2026-03-27,BUF,DET,Buffalo Sabres,Detroit Red Wings,2.05,3.9,2.8,44.3,32.4
+2026-03-27,EDM,ANA,Edmonton Oilers,Anaheim Ducks,2.0,4.0,2.8,45.2,32.3
+2026-03-28,NYR,FLA,NY Rangers,Florida Panthers,1.85,4.0,3.1,48.6,29.0
+2026-03-28,CAR,MTL,Carolina Hurricanes,Montreal Canadiens,1.85,4.0,3.1,48.6,29.0
+2026-03-28,TBL,NSH,Tampa Bay Lightning,Nashville Predators,1.8,4.0,3.3,50.1,27.3
+2026-03-28,CBJ,BOS,Columbus Blue Jackets,Boston Bruins,1.91,4.0,3.0,47.3,30.1
+2026-03-28,VGK,WSH,Vegas Golden Knights,Washington Capitals,2.0,3.9,2.9,45.4,31.3
+2026-03-28,LAK,UTA,Los Angeles Kings,Utah Mammoth,2.3,3.8,2.45,39.3,36.9
+2026-03-28,DET,PHI,Detroit Red Wings,Philadelphia Flyers,2.1,3.9,2.75,43.4,33.2
+2026-03-28,STL,TOR,St. Louis Blues,Toronto Maple Leafs,2.05,3.8,2.8,44.0,32.2
+2026-03-28,NSH,MTL,Nashville Predators,Montreal Canadiens,2.5,3.9,2.25,36.3,40.4
+2026-03-28,COL,WPG,Colorado Avalanche,Winnipeg Jets,1.57,4.2,4.2,57.2,21.4
+2026-03-28,CGY,VAN,Calgary Flames,Vancouver Canucks,1.91,3.9,3.0,47.0,29.9
+2026-03-29,PHI,DAL,Philadelphia Flyers,Dallas Stars,3.1,3.9,1.85,28.8,48.3
+2026-03-29,NJD,CHI,New Jersey Devils,Chicago Blackhawks,1.91,3.9,3.1,47.5,29.3
+2026-03-30,NYI,PIT,NY Islanders,Pittsburgh Penguins,2.2,3.9,2.6,41.5,35.1
+2026-03-30,COL,CGY,Colorado Avalanche,Calgary Flames,1.4,4.75,5.5,64.5,16.4
+2026-03-30,VGK,VAN,Vegas Golden Knights,Vancouver Canucks,1.4,4.6,5.5,64.1,16.3
+2026-03-30,ANA,TOR,Anaheim Ducks,Toronto Maple Leafs,1.8,4.2,3.25,50.4,27.9
+2026-03-30,SJS,STL,San Jose Sharks,St. Louis Blues,2.38,3.9,2.4,38.4,38.1
+2026-03-31,WSH,PHI,Washington Capitals,Philadelphia Flyers,2.2,3.8,2.6,41.2,34.9
+2026-03-31,CHI,WPG,Chicago Blackhawks,Winnipeg Jets,2.8,3.9,2.0,32.1,44.9
+2026-03-31,FLA,OTT,Florida Panthers,Ottawa Senators,3.2,4.0,1.85,28.3,49.0
+2026-03-31,TBL,MTL,Tampa Bay Lightning,Montreal Canadiens,1.85,4.0,3.1,48.6,29.0
+2026-03-31,EDM,SEA,Edmonton Oilers,Seattle Kraken,1.8,4.2,3.2,50.2,28.3
+2026-03-31,BOS,DAL,Boston Bruins,Dallas Stars,2.62,3.9,2.15,34.6,42.2
+2026-03-31,PIT,DET,Pittsburgh Penguins,Detroit Red Wings,2.4,3.9,2.3,37.6,39.2
+2026-03-31,NYR,NJD,NY Rangers,New Jersey Devils,2.5,3.9,2.2,36.0,40.9
+2026-03-31,CBJ,CAR,Columbus Blue Jackets,Carolina Hurricanes,2.62,3.9,2.15,34.6,42.2
+2026-03-31,BUF,NYI,Buffalo Sabres,NY Islanders,1.85,4.0,3.1,48.6,29.0
+2026-04-01,COL,VAN,Colorado Avalanche,Vancouver Canucks,1.35,4.8,6.0,66.4,14.9
+2026-04-01,LAK,STL,Los Angeles Kings,St. Louis Blues,2.05,3.8,2.8,44.0,32.2
+2026-04-01,SJS,ANA,San Jose Sharks,Anaheim Ducks,2.3,4.0,2.38,39.3,38.0
+2026-04-02,LAK,NSH,Los Angeles Kings,Nashville Predators,2.25,3.8,2.5,40.1,36.1
+2026-04-02,SEA,UTA,Seattle Kraken,Utah Mammoth,2.7,3.9,2.1,33.6,43.2
+2026-04-02,VGK,CGY,Vegas Golden Knights,Calgary Flames,1.6,4.2,4.0,56.1,22.5
+2026-04-02,SJS,TOR,San Jose Sharks,Toronto Maple Leafs,2.1,4.0,2.62,43.0,34.5
+2026-04-02,EDM,CHI,Edmonton Oilers,Chicago Blackhawks,1.7,4.2,3.5,52.9,25.7
+2026-04-02,DAL,WPG,Dallas Stars,Winnipeg Jets,1.95,3.9,3.0,46.5,30.2
+2026-04-02,MIN,VAN,Minnesota Wild,Vancouver Canucks,1.36,5.0,6.0,66.7,15.1
+2026-04-02,NJD,WSH,New Jersey Devils,Washington Capitals,2.4,3.9,2.38,38.1,38.4
+2026-04-02,PHI,DET,Philadelphia Flyers,Detroit Red Wings,2.45,3.8,2.3,36.9,39.3
+2026-04-02,FLA,BOS,Florida Panthers,Boston Bruins,3.0,4.0,1.91,30.1,47.3
+2026-04-02,NYR,MTL,NY Rangers,Montreal Canadiens,2.5,3.9,2.2,36.0,40.9
+2026-04-02,OTT,BUF,Ottawa Senators,Buffalo Sabres,2.3,3.9,2.45,39.5,37.1
+2026-04-02,CAR,CBJ,Carolina Hurricanes,Columbus Blue Jackets,1.8,4.0,3.25,49.9,27.6
+2026-04-02,TBL,PIT,Tampa Bay Lightning,Pittsburgh Penguins,1.85,4.0,3.0,48.1,29.7
+2026-04-03,TBL,BOS,Tampa Bay Lightning,Boston Bruins,1.8,4.0,3.2,49.7,28.0
+2026-04-03,PIT,FLA,Pittsburgh Penguins,Florida Panthers,1.67,4.2,3.7,54.1,24.4
+2026-04-03,DAL,COL,Dallas Stars,Colorado Avalanche,2.45,4.0,2.25,37.0,40.3
+2026-04-03,ANA,STL,Anaheim Ducks,St. Louis Blues,2.1,3.9,2.7,43.2,33.6
+2026-04-03,NYR,DET,NY Rangers,Detroit Red Wings,2.75,3.9,2.1,33.2,43.4
+2026-04-03,NYI,PHI,NY Islanders,Philadelphia Flyers,2.05,3.9,2.8,44.3,32.4
+2026-04-03,OTT,MIN,Ottawa Senators,Minnesota Wild,2.3,3.9,2.45,39.5,37.1
+2026-04-04,PHI,BOS,Philadelphia Flyers,Boston Bruins,2.0,4.0,2.8,45.2,32.3
+2026-04-04,PIT,FLA,Pittsburgh Penguins,Florida Panthers,1.65,4.2,3.8,54.7,23.8
+2026-04-04,DET,MIN,Detroit Red Wings,Minnesota Wild,2.5,3.9,2.25,36.3,40.4
+2026-04-04,EDM,VGK,Edmonton Oilers,Vegas Golden Knights,2.38,3.9,2.38,38.3,38.3
+2026-04-04,ANA,CGY,Anaheim Ducks,Calgary Flames,2.0,4.0,2.8,45.2,32.3
+2026-04-04,SJS,NSH,San Jose Sharks,Nashville Predators,2.3,3.9,2.45,39.5,37.1
+2026-04-04,VAN,UTA,Vancouver Canucks,Utah Mammoth,3.6,4.2,1.67,24.9,53.7
+2026-04-04,NJD,MTL,New Jersey Devils,Montreal Canadiens,2.5,3.9,2.2,36.0,40.9
+2026-04-04,WSH,BUF,Washington Capitals,Buffalo Sabres,2.3,4.0,2.38,39.3,38.0
+2026-04-04,LAK,TOR,Los Angeles Kings,Toronto Maple Leafs,1.8,4.0,3.4,50.5,26.7
+2026-04-04,CAR,NYI,Carolina Hurricanes,NY Islanders,1.6,4.4,4.0,56.7,22.7
+2026-04-04,CBJ,WPG,Columbus Blue Jackets,Winnipeg Jets,2.05,4.0,2.7,44.0,33.4
+2026-04-04,OTT,CAR,Ottawa Senators,Carolina Hurricanes,2.5,3.9,2.2,36.0,40.9
+2026-04-04,SEA,CHI,Seattle Kraken,Chicago Blackhawks,1.85,4.0,3.0,48.1,29.7
+2026-04-05,COL,STL,Colorado Avalanche,St. Louis Blues,1.75,4.0,3.5,51.6,25.8
+2026-04-05,MTL,NJD,Montreal Canadiens,New Jersey Devils,2.0,4.0,2.8,45.2,32.3
+2026-04-05,NYR,WSH,NY Rangers,Washington Capitals,2.38,3.9,2.38,38.3,38.3
+2026-04-06,BUF,TBL,Buffalo Sabres,Tampa Bay Lightning,2.45,4.0,2.25,37.0,40.3
+2026-04-06,WPG,SEA,Winnipeg Jets,Seattle Kraken,1.85,4.0,3.0,48.1,29.7
+2026-04-06,SJS,CHI,San Jose Sharks,Chicago Blackhawks,1.85,4.0,3.0,48.1,29.7
+2026-04-06,LAK,NSH,Los Angeles Kings,Nashville Predators,2.15,3.8,2.7,42.3,33.7
+2026-04-07,VAN,VGK,Vancouver Canucks,Vegas Golden Knights,4.0,4.5,1.6,22.8,57.0
+2026-04-07,ANA,NSH,Anaheim Ducks,Nashville Predators,2.0,4.0,2.8,45.2,32.3
+2026-04-07,UTA,EDM,Utah Mammoth,Edmonton Oilers,2.1,4.0,2.62,43.0,34.5
+2026-04-07,STL,COL,St. Louis Blues,Colorado Avalanche,2.9,4.0,1.95,31.1,46.3
+2026-04-07,DAL,CGY,Dallas Stars,Calgary Flames,1.62,4.2,4.0,55.8,22.6
+2026-04-07,MIN,SEA,Minnesota Wild,Seattle Kraken,1.6,4.2,4.0,56.1,22.5
+2026-04-07,MTL,FLA,Montreal Canadiens,Florida Panthers,1.55,4.2,4.2,57.5,21.2
+2026-04-07,OTT,TBL,Ottawa Senators,Tampa Bay Lightning,2.1,3.9,2.62,42.7,34.3
+2026-04-07,CAR,BOS,Carolina Hurricanes,Boston Bruins,1.8,4.0,3.3,50.1,27.3
+2026-04-07,DET,CBJ,Detroit Red Wings,Columbus Blue Jackets,2.38,3.9,2.4,38.4,38.1
+2026-04-07,NJD,PHI,New Jersey Devils,Philadelphia Flyers,2.25,3.8,2.5,40.1,36.1
+2026-04-08,NYR,BUF,NY Rangers,Buffalo Sabres,2.8,4.0,2.05,32.6,44.6
+2026-04-08,TOR,WSH,Toronto Maple Leafs,Washington Capitals,2.9,4.0,1.95,31.1,46.3
+2026-04-08,SJS,EDM,San Jose Sharks,Edmonton Oilers,2.45,4.0,2.25,37.0,40.3
+2026-04-09,DAL,MIN,Dallas Stars,Minnesota Wild,2.25,3.9,2.5,40.4,36.3
+2026-04-09,LAK,VAN,Los Angeles Kings,Vancouver Canucks,1.53,4.4,4.5,59.3,20.1
+2026-04-09,SEA,VGK,Seattle Kraken,Vegas Golden Knights,3.25,4.0,1.8,27.6,49.9
+2026-04-09,ANA,SJS,Anaheim Ducks,San Jose Sharks,1.85,4.2,2.9,48.1,30.7
+2026-04-09,UTA,NSH,Utah Mammoth,Nashville Predators,1.85,4.0,3.0,48.1,29.7
+2026-04-09,COL,CGY,Colorado Avalanche,Calgary Flames,1.44,4.6,5.0,62.5,18.0
+2026-04-09,CHI,CAR,Chicago Blackhawks,Carolina Hurricanes,3.1,4.0,1.85,29.0,48.6
+2026-04-09,DET,PHI,Detroit Red Wings,Philadelphia Flyers,2.3,3.9,2.45,39.5,37.1
+2026-04-09,OTT,FLA,Ottawa Senators,Florida Panthers,1.44,4.6,5.0,62.5,18.0
+2026-04-09,MTL,TBL,Montreal Canadiens,Tampa Bay Lightning,2.45,3.9,2.3,37.1,39.5
+2026-04-09,NJD,PIT,New Jersey Devils,Pittsburgh Penguins,2.3,4.0,2.38,39.3,38.0
+2026-04-09,BUF,CBJ,Buffalo Sabres,Columbus Blue Jackets,2.38,3.9,2.38,38.3,38.3
+2026-04-09,NYI,TOR,NY Islanders,Toronto Maple Leafs,1.5,4.5,4.8,60.8,19.0
+2026-04-09,STL,WPG,St. Louis Blues,Winnipeg Jets,2.4,3.8,2.38,37.9,38.2
+2026-04-11,TOR,FLA,Toronto Maple Leafs,Florida Panthers,2.05,4.0,2.75,44.3,33.0
+2026-04-11,WSH,PIT,Washington Capitals,Pittsburgh Penguins,2.0,4.0,2.8,45.2,32.3
+2026-04-11,SJS,VAN,San Jose Sharks,Vancouver Canucks,1.7,4.2,3.5,52.9,25.7
+2026-04-11,COL,VGK,Colorado Avalanche,Vegas Golden Knights,2.15,3.9,2.62,42.2,34.6
+2026-04-11,MTL,CBJ,Montreal Canadiens,Columbus Blue Jackets,2.1,3.9,2.7,43.2,33.6
+2026-04-11,SEA,CGY,Seattle Kraken,Calgary Flames,2.15,3.9,2.62,42.2,34.6
+2026-04-11,WPG,PHI,Winnipeg Jets,Philadelphia Flyers,2.2,3.8,2.5,40.7,35.8
+2026-04-11,DAL,NYR,Dallas Stars,NY Rangers,1.8,4.0,3.3,50.1,27.3
+2026-04-11,DET,NJD,Detroit Red Wings,New Jersey Devils,2.1,4.0,2.7,43.4,33.8
+2026-04-11,NSH,MIN,Nashville Predators,Minnesota Wild,2.45,3.9,2.3,37.1,39.5
+2026-04-11,CHI,STL,Chicago Blackhawks,St. Louis Blues,2.8,3.9,2.05,32.4,44.3
+2026-04-11,LAK,EDM,Los Angeles Kings,Edmonton Oilers,2.38,3.9,2.4,38.4,38.1
+2026-04-11,PIT,WSH,Pittsburgh Penguins,Washington Capitals,2.8,4.0,2.05,32.6,44.6
+2026-04-11,NYI,OTT,NY Islanders,Ottawa Senators,2.62,3.9,2.15,34.6,42.2
+2026-04-11,BOS,TBL,Boston Bruins,Tampa Bay Lightning,2.45,3.9,2.3,37.1,39.5
+2026-04-11,UTA,CAR,Utah Mammoth,Carolina Hurricanes,2.2,4.0,2.6,41.7,35.3
+2026-04-12,NYI,MTL,NY Islanders,Montreal Canadiens,2.3,4.0,2.4,39.5,37.8
+2026-04-12,CBJ,BOS,Columbus Blue Jackets,Boston Bruins,1.75,4.2,3.3,51.4,27.2
+2026-04-12,NJD,OTT,New Jersey Devils,Ottawa Senators,2.38,4.0,2.38,38.5,38.5
+2026-04-12,ANA,VAN,Anaheim Ducks,Vancouver Canucks,1.5,4.75,4.6,60.9,19.9
+2026-04-12,CGY,UTA,Calgary Flames,Utah Mammoth,3.0,4.0,1.91,30.1,47.3
+2026-04-13,EDM,COL,Edmonton Oilers,Colorado Avalanche,2.45,4.0,2.25,37.0,40.3
+2026-04-13,CHI,BUF,Chicago Blackhawks,Buffalo Sabres,3.5,4.2,1.75,26.1,52.2
+2026-04-13,VGK,WPG,Vegas Golden Knights,Winnipeg Jets,1.85,4.0,3.1,48.6,29.0
+2026-04-13,SEA,LAK,Seattle Kraken,Los Angeles Kings,3.0,3.9,1.91,29.9,47.0
+2026-04-13,NSH,SJS,Nashville Predators,San Jose Sharks,2.0,4.0,2.8,45.2,32.3
+2026-04-13,STL,MIN,St. Louis Blues,Minnesota Wild,1.8,4.0,3.25,49.9,27.6
+2026-04-13,TOR,DAL,Toronto Maple Leafs,Dallas Stars,3.25,4.2,1.8,27.9,50.4
+2026-04-13,PHI,CAR,Philadelphia Flyers,Carolina Hurricanes,1.91,4.0,3.0,47.3,30.1
+2026-04-13,FLA,NYR,Florida Panthers,NY Rangers,2.88,4.0,2.0,31.6,45.6
+2026-04-13,TBL,DET,Tampa Bay Lightning,Detroit Red Wings,1.75,4.0,3.4,51.2,26.4
+2026-04-14,CBJ,WSH,Columbus Blue Jackets,Washington Capitals,2.05,4.0,2.7,44.0,33.4
+2026-04-14,BOS,NJD,Boston Bruins,New Jersey Devils,2.0,4.0,2.88,45.6,31.6
+2026-04-14,PHI,MTL,Philadelphia Flyers,Montreal Canadiens,4.0,4.5,1.6,22.8,57.0
+2026-04-14,NYI,CAR,NY Islanders,Carolina Hurricanes,1.91,4.0,2.9,46.8,30.8
+2026-04-14,MIN,ANA,Minnesota Wild,Anaheim Ducks,3.0,4.0,1.85,29.7,48.1
+2026-04-14,CGY,COL,Calgary Flames,Colorado Avalanche,2.8,4.0,2.0,32.3,45.2
+2026-04-14,UTA,WPG,Utah Mammoth,Winnipeg Jets,1.75,4.0,3.4,51.2,26.4
+2026-04-14,STL,PIT,St. Louis Blues,Pittsburgh Penguins,1.83,4.0,3.2,49.3,28.2
+2026-04-14,VAN,LAK,Vancouver Canucks,Los Angeles Kings,2.9,4.0,1.91,30.8,46.8
+2026-04-15,OTT,TOR,Ottawa Senators,Toronto Maple Leafs,1.75,4.2,3.4,51.8,26.6
+2026-04-15,TBL,NYR,Tampa Bay Lightning,NY Rangers,2.05,4.0,2.8,44.6,32.6
+2026-04-15,CHI,SJS,Chicago Blackhawks,San Jose Sharks,2.5,4.0,2.25,36.5,40.6
+2026-04-15,FLA,DET,Florida Panthers,Detroit Red Wings,2.9,4.0,1.95,31.1,46.3
+2026-04-15,BUF,DAL,Buffalo Sabres,Dallas Stars,2.8,3.9,2.05,32.4,44.3
+2026-04-15,VGK,SEA,Vegas Golden Knights,Seattle Kraken,1.44,4.5,5.0,62.2,17.9
+2026-04-16,CGY,LAK,Calgary Flames,Los Angeles Kings,2.9,4.0,1.95,31.1,46.3
+2026-04-16,NSH,ANA,Nashville Predators,Anaheim Ducks,2.5,4.0,2.2,36.2,41.2
+2026-04-16,EDM,VAN,Edmonton Oilers,Vancouver Canucks,1.44,4.6,5.0,62.5,18.0
+2026-04-16,UTA,STL,Utah Mammoth,St. Louis Blues,2.2,4.0,2.5,41.2,36.2
+2026-04-16,WPG,SJS,Winnipeg Jets,San Jose Sharks,1.95,4.0,2.9,46.3,31.1
+2026-04-16,COL,SEA,Colorado Avalanche,Seattle Kraken,1.75,4.0,3.4,51.2,26.4

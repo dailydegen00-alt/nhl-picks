@@ -1,0 +1,1445 @@
+09 October 2025	1	X	2
+16:00 Pittsburgh Penguins - NY Islanders	2.60	4.20	2.10
+16:00 Detroit Red Wings - Montreal Canadiens	2.05	4.00	2.70
+16:00 Buffalo Sabres - NY Rangers	2.40	4.00	2.25
+16:00 Florida Panthers - Philadelphia Flyers	1.70	4.20	3.50
+16:00 Tampa Bay Lightning - Ottawa Senators	1.85	4.20	3.00
+11 October 2025	1	X	2
+10:30 Winnipeg Jets - Los Angeles Kings	2.05	4.00	2.70
+13:00 Calgary Flames - St. Louis Blues	2.50	4.00	2.15
+12 October 2025	1	X	2
+16:00 NY Rangers - Washington Capitals	2.38	4.00	2.30
+09:30 Buffalo Sabres - Colorado Avalanche	3.10	4.20	1.80
+10:00 NY Islanders - Winnipeg Jets	2.45	4.00	2.25
+10:00 Ottawa Senators - Nashville Predators	1.85	4.20	3.10
+10:00 Boston Bruins - Tampa Bay Lightning	3.00	4.20	1.85
+13 October 2025	1	X	2
+16:00 Philadelphia Flyers - Florida Panthers	2.80	4.00	2.00
+16:00 Columbus Blue Jackets - New Jersey Devils	2.50	4.20	2.20
+16:30 Vancouver Canucks - St. Louis Blues	2.15	4.00	2.50
+17:00 Minnesota Wild - Los Angeles Kings	2.38	4.00	2.30
+17:30 Chicago Blackhawks - Utah Mammoth	2.90	4.20	1.85
+14 October 2025	1	X	2
+16:00 Montreal Canadiens - Seattle Kraken	1.95	4.00	2.88
+16:00 Toronto Maple Leafs - Nashville Predators	1.80	4.20	3.20
+16:00 NY Rangers - Edmonton Oilers	2.70	4.00	2.05
+16:00 Washington Capitals - Tampa Bay Lightning	2.30	4.00	2.40
+18:00 Calgary Flames - Vegas Golden Knights	3.10	4.00	1.85
+18:30 Dallas Stars - Minnesota Wild	1.75	4.20	3.40
+19:00 San Jose Sharks - Carolina Hurricanes	4.20	4.20	1.57
+19:30 Anaheim Ducks - Pittsburgh Penguins	2.00	4.20	2.70
+15 October 2025	1	X	2
+16:00 Buffalo Sabres - Ottawa Senators	2.45	4.00	2.25
+16:00 Detroit Red Wings - Florida Panthers	2.80	4.00	1.95
+18:30 St. Louis Blues - Chicago Blackhawks	1.60	4.20	4.20
+18:30 Utah Mammoth - Calgary Flames	1.62	4.50	3.80
+16 October 2025	1	X	2
+16:00 New Jersey Devils - Florida Panthers	1.91	4.20	2.90
+16:00 Columbus Blue Jackets - Colorado Avalanche	2.90	4.20	1.85
+16:00 Ottawa Senators - Seattle Kraken	1.95	4.20	2.80
+16:00 Philadelphia Flyers - Winnipeg Jets	2.70	4.00	2.05
+16:00 Toronto Maple Leafs - NY Rangers	2.05	4.00	2.70
+16:00 Montreal Canadiens - Nashville Predators	1.95	4.00	2.80
+16:30 NY Islanders - Edmonton Oilers	3.00	4.20	1.85
+17:00 Dallas Stars - Vancouver Canucks	1.80	4.20	3.10
+19:00 Los Angeles Kings - Pittsburgh Penguins	1.70	4.40	3.40
+19:00 Vegas Golden Knights - Boston Bruins	1.62	4.40	3.80
+19:00 Anaheim Ducks - Carolina Hurricanes	3.20	4.20	1.75
+17 October 2025	1	X	2
+16:00 Washington Capitals - Minnesota Wild	2.15	4.00	2.50
+16:00 Detroit Red Wings - Tampa Bay Lightning	2.70	4.00	2.05
+17:30 Chicago Blackhawks - Vancouver Canucks	2.60	4.20	2.10
+18:00 Utah Mammoth - San Jose Sharks	1.60	4.60	3.90
+10:00 Buffalo Sabres - Florida Panthers	2.80	4.00	2.00
+12:00 Ottawa Senators - NY Islanders	2.00	4.00	2.80
+12:30 New Jersey Devils - Edmonton Oilers	2.38	4.00	2.30
+18 October 2025	1	X	2
+16:00 St. Louis Blues - Dallas Stars	2.50	4.00	2.20
+16:00 Columbus Blue Jackets - Tampa Bay Lightning	2.15	4.00	2.50
+16:00 Winnipeg Jets - Nashville Predators	1.80	4.20	3.20
+16:00 Montreal Canadiens - NY Rangers	2.15	4.00	2.60
+16:00 Philadelphia Flyers - Minnesota Wild	2.25	4.00	2.40
+16:00 Toronto Maple Leafs - Seattle Kraken	1.70	4.40	3.40
+18:00 Los Angeles Kings - Carolina Hurricanes	2.70	4.00	2.05
+18:00 Colorado Avalanche - Boston Bruins	1.60	4.20	4.00
+19:00 Vegas Golden Knights - Calgary Flames	1.60	4.50	3.90
+19:00 San Jose Sharks - Pittsburgh Penguins	2.80	4.20	1.95
+09:30 Washington Capitals - Vancouver Canucks	1.85	4.20	3.00
+12:00 Detroit Red Wings - Edmonton Oilers	2.62	4.00	2.05
+19 October 2025	1	X	2
+16:00 Chicago Blackhawks - Anaheim Ducks	2.50	4.20	2.10
+16:00 Utah Mammoth - Boston Bruins	1.67	4.40	3.50
+20 October 2025	1	X	2
+16:00 NY Rangers - Minnesota Wild	2.00	4.00	2.80
+16:00 Philadelphia Flyers - Seattle Kraken	2.10	4.00	2.70
+16:30 Montreal Canadiens - Buffalo Sabres	1.95	4.20	2.80
+18:30 Calgary Flames - Winnipeg Jets	2.75	4.00	2.00
+19:00 Vegas Golden Knights - Carolina Hurricanes	2.30	4.00	2.38
+21 October 2025	1	X	2
+16:00 NY Islanders - San Jose Sharks	1.65	4.50	3.70
+16:00 Toronto Maple Leafs - New Jersey Devils	2.20	4.00	2.50
+16:00 Washington Capitals - Seattle Kraken	1.50	4.75	4.20
+16:00 Pittsburgh Penguins - Vancouver Canucks	2.30	4.00	2.38
+16:00 Ottawa Senators - Edmonton Oilers	2.60	4.00	2.15
+16:30 Boston Bruins - Florida Panthers	2.88	4.00	1.95
+17:00 St. Louis Blues - Los Angeles Kings	2.10	4.00	2.70
+17:00 Nashville Predators - Anaheim Ducks	2.05	4.00	2.70
+17:00 Dallas Stars - Columbus Blue Jackets	1.80	4.40	3.20
+19:00 Utah Mammoth - Colorado Avalanche	2.80	4.00	2.00
+22 October 2025	1	X	2
+16:00 New Jersey Devils - Minnesota Wild	2.10	4.00	2.60
+16:30 Buffalo Sabres - Detroit Red Wings	2.25	4.00	2.45
+17:30 Calgary Flames - Montreal Canadiens	2.45	4.00	2.25
+23 October 2025	1	X	2
+15:45 Tampa Bay Lightning - Chicago Blackhawks	1.50	5.00	4.20
+16:00 Ottawa Senators - Philadelphia Flyers	1.95	3.90	2.90
+16:00 Florida Panthers - Pittsburgh Penguins	1.75	4.00	3.40
+16:00 NY Rangers - San Jose Sharks	1.53	4.40	4.50
+16:00 NY Islanders - Detroit Red Wings	2.15	4.00	2.50
+16:00 Boston Bruins - Anaheim Ducks	2.30	3.90	2.40
+17:00 Nashville Predators - Vancouver Canucks	2.25	4.00	2.45
+17:00 Winnipeg Jets - Seattle Kraken	1.65	4.40	3.70
+17:00 St. Louis Blues - Utah Mammoth	2.30	4.00	2.30
+18:00 Dallas Stars - Los Angeles Kings	2.00	4.00	2.80
+18:00 Colorado Avalanche - Carolina Hurricanes	2.05	4.00	2.70
+18:00 Edmonton Oilers - Montreal Canadiens	1.60	4.60	3.80
+24 October 2025	1	X	2
+16:00 New Jersey Devils - San Jose Sharks	1.40	4.75	5.00
+16:00 Columbus Blue Jackets - Washington Capitals	2.40	3.90	2.30
+16:00 Buffalo Sabres - Toronto Maple Leafs	2.50	4.00	2.20
+17:00 Winnipeg Jets - Calgary Flames	2.00	4.00	2.75
+09:30 Philadelphia Flyers - NY Islanders	2.15	4.00	2.60
+12:00 Boston Bruins - Colorado Avalanche	3.30	4.20	1.75
+14:00 Tampa Bay Lightning - Anaheim Ducks	1.75	4.50	3.25
+14:00 Toronto Maple Leafs - Buffalo Sabres	2.00	4.20	2.75
+25 October 2025	1	X	2
+15:00 Florida Panthers - Vegas Golden Knights	2.40	4.00	2.25
+15:00 Minnesota Wild - Utah Mammoth	2.25	4.00	2.45
+16:00 Detroit Red Wings - St. Louis Blues	2.30	4.00	2.38
+16:00 Vancouver Canucks - Montreal Canadiens	2.25	4.00	2.45
+16:00 Washington Capitals - Ottawa Senators	2.10	3.80	2.62
+16:00 Pittsburgh Penguins - Columbus Blue Jackets	2.15	3.90	2.50
+17:00 Dallas Stars - Carolina Hurricanes	2.20	3.90	2.50
+17:00 Nashville Predators - Los Angeles Kings	2.80	3.80	2.00
+19:00 Seattle Kraken - Edmonton Oilers	3.10	4.20	1.85
+10:00 New Jersey Devils - Colorado Avalanche	2.10	4.00	2.62
+14:00 Tampa Bay Lightning - Vegas Golden Knights	2.00	4.20	2.75
+15:00 Minnesota Wild - San Jose Sharks	1.67	4.50	3.60
+15:00 Winnipeg Jets - Utah Mammoth	1.85	4.00	3.00
+26 October 2025	1	X	2
+16:00 Nashville Predators - Dallas Stars	2.75	3.90	2.00
+16:00 Chicago Blackhawks - Los Angeles Kings	2.90	4.20	1.91
+17:00 Calgary Flames - NY Rangers	2.50	3.80	2.20
+19:00 Vancouver Canucks - Edmonton Oilers	3.10	4.00	1.85
+27 October 2025	1	X	2
+16:00 Pittsburgh Penguins - St. Louis Blues	2.38	3.90	2.30
+16:30 Ottawa Senators - Boston Bruins	1.85	4.33	3.00
+15:00 Philadelphia Flyers - Pittsburgh Penguins	1.85	4.20	3.00
+15:00 Toronto Maple Leafs - Calgary Flames	1.85	4.20	3.10
+15:30 Carolina Hurricanes - Vegas Golden Knights	1.95	4.00	2.80
+15:45 Buffalo Sabres - Columbus Blue Jackets	2.20	4.20	2.30
+28 October 2025	1	X	2
+16:00 Florida Panthers - Anaheim Ducks	1.75	4.20	3.20
+16:15 Boston Bruins - NY Islanders	2.60	4.20	2.05
+16:45 Nashville Predators - Tampa Bay Lightning	3.10	4.20	1.85
+17:00 Minnesota Wild - Winnipeg Jets	2.40	3.80	2.30
+17:15 St. Louis Blues - Detroit Red Wings	2.38	3.80	2.30
+17:30 Dallas Stars - Washington Capitals	2.15	4.00	2.50
+17:45 Chicago Blackhawks - Ottawa Senators	2.80	3.90	2.00
+18:00 Colorado Avalanche - New Jersey Devils	1.85	4.33	2.90
+18:30 Edmonton Oilers - Utah Mammoth	1.95	4.00	2.80
+19:00 Vancouver Canucks - NY Rangers	2.50	4.00	2.20
+19:30 Seattle Kraken - Montreal Canadiens	2.40	4.00	2.25
+20:00 San Jose Sharks - Los Angeles Kings	3.60	4.00	1.70
+29 October 2025	1	X	2
+16:30 Columbus Blue Jackets - Toronto Maple Leafs	2.20	4.00	2.50
+30 October 2025	1	X	2
+16:00 Ottawa Senators - Calgary Flames	1.91	4.20	2.80
+16:00 Philadelphia Flyers - Nashville Predators	2.05	4.00	2.62
+16:00 Tampa Bay Lightning - Dallas Stars	2.05	4.00	2.62
+16:00 Boston Bruins - Buffalo Sabres	2.50	4.00	2.15
+16:30 Carolina Hurricanes - NY Islanders	1.67	4.50	3.60
+17:00 Winnipeg Jets - Chicago Blackhawks	1.70	4.33	3.50
+17:00 Minnesota Wild - Pittsburgh Penguins	1.85	4.20	3.00
+17:00 St. Louis Blues - Vancouver Canucks	1.85	4.00	3.00
+18:00 Edmonton Oilers - NY Rangers	2.00	4.00	2.75
+19:00 San Jose Sharks - New Jersey Devils	3.50	4.60	1.65
+19:30 Los Angeles Kings - Detroit Red Wings	2.00	3.90	2.80
+13:00 Vegas Golden Knights - Colorado Avalanche	2.50	3.90	2.15
+31 October 2025	1	X	2
+16:00 Washington Capitals - NY Islanders	1.65	4.20	3.80
+19:00 Anaheim Ducks - Detroit Red Wings	2.10	3.90	2.62
+10:00 Boston Bruins - Carolina Hurricanes	3.20	4.40	1.75
+12:00 Winnipeg Jets - Pittsburgh Penguins	1.80	4.20	3.10
+12:30 Nashville Predators - Calgary Flames	2.20	4.00	2.50
+13:00 San Jose Sharks - Colorado Avalanche	3.80	4.50	1.62
+15:00 Florida Panthers - Dallas Stars	2.05	4.00	2.75
+01 November 2025	1	X	2
+16:00 Minnesota Wild - Vancouver Canucks	1.85	4.20	3.00
+16:00 Buffalo Sabres - Washington Capitals	2.15	4.00	2.50
+16:00 Philadelphia Flyers - Toronto Maple Leafs	2.45	4.00	2.25
+16:00 Columbus Blue Jackets - St. Louis Blues	1.91	4.20	2.80
+16:00 Montreal Canadiens - Ottawa Senators	2.20	4.00	2.50
+18:00 Los Angeles Kings - New Jersey Devils	2.20	4.00	2.45
+19:00 Edmonton Oilers - Chicago Blackhawks	1.50	4.50	4.75
+19:00 Seattle Kraken - NY Rangers	2.70	4.00	2.05
+12:30 Utah Mammoth - Tampa Bay Lightning	2.38	4.00	2.30
+14:00 NY Islanders - Columbus Blue Jackets	2.00	4.20	2.70
+02 November 2025	1	X	2
+16:00 Philadelphia Flyers - Calgary Flames	2.15	4.00	2.60
+17:00 Anaheim Ducks - New Jersey Devils	2.50	4.20	2.15
+17:00 San Jose Sharks - Detroit Red Wings	3.30	4.50	1.75
+03 November 2025	1	X	2
+16:30 Toronto Maple Leafs - Pittsburgh Penguins	1.75	4.40	3.20
+17:30 St. Louis Blues - Edmonton Oilers	2.60	4.20	2.10
+17:30 Nashville Predators - Vancouver Canucks	2.25	4.00	2.45
+19:00 Seattle Kraken - Chicago Blackhawks	1.95	4.00	2.90
+04 November 2025	1	X	2
+16:00 NY Rangers - Carolina Hurricanes	2.45	4.00	2.25
+16:00 Montreal Canadiens - Philadelphia Flyers	1.91	4.00	2.90
+16:00 NY Islanders - Boston Bruins	1.85	4.20	3.00
+16:00 Buffalo Sabres - Utah Mammoth	2.62	4.20	2.10
+17:00 Dallas Stars - Edmonton Oilers	2.15	4.00	2.50
+17:00 Minnesota Wild - Nashville Predators	1.65	4.50	3.60
+18:30 Colorado Avalanche - Tampa Bay Lightning	1.95	4.20	2.80
+19:00 Vegas Golden Knights - Detroit Red Wings	1.75	4.40	3.25
+19:00 Anaheim Ducks - Florida Panthers	2.90	4.20	1.91
+19:30 Los Angeles Kings - Winnipeg Jets	2.10	4.00	2.62
+05 November 2025	1	X	2
+16:00 Toronto Maple Leafs - Utah Mammoth	1.85	4.20	2.90
+16:30 Washington Capitals - St. Louis Blues	2.00	4.20	2.80
+18:30 Calgary Flames - Columbus Blue Jackets	2.25	4.00	2.45
+19:00 Vancouver Canucks - Chicago Blackhawks	1.85	4.20	2.90
+19:00 Seattle Kraken - San Jose Sharks	1.85	4.20	3.00
+06 November 2025	1	X	2
+16:00 Buffalo Sabres - St. Louis Blues	2.05	4.00	2.70
+16:00 Carolina Hurricanes - Minnesota Wild	1.75	4.50	3.25
+16:00 New Jersey Devils - Montreal Canadiens	1.95	4.20	2.80
+16:00 Boston Bruins - Ottawa Senators	2.80	4.20	1.95
+16:30 Pittsburgh Penguins - Washington Capitals	2.38	4.00	2.30
+17:00 Nashville Predators - Philadelphia Flyers	2.15	4.00	2.50
+17:00 Dallas Stars - Anaheim Ducks	1.80	4.20	3.10
+19:00 Vegas Golden Knights - Tampa Bay Lightning	2.20	4.00	2.50
+19:00 Los Angeles Kings - Florida Panthers	2.30	4.00	2.40
+07 November 2025	1	X	2
+16:00 NY Islanders - Minnesota Wild	1.95	4.20	2.80
+16:00 Detroit Red Wings - NY Rangers	2.20	4.00	2.50
+18:00 Calgary Flames - Chicago Blackhawks	1.91	4.20	2.90
+19:00 San Jose Sharks - Winnipeg Jets	3.25	4.20	1.75
+09:30 New Jersey Devils - Pittsburgh Penguins	1.75	4.50	3.30
+10:00 Philadelphia Flyers - Ottawa Senators	2.45	4.00	2.25
+12:30 Nashville Predators - Dallas Stars	2.90	4.00	1.95
+08 November 2025	1	X	2
+16:00 Tampa Bay Lightning - Washington Capitals	1.91	4.20	2.90
+16:00 NY Rangers - NY Islanders	1.91	4.20	2.90
+16:00 St. Louis Blues - Seattle Kraken	1.85	4.20	3.00
+16:00 Carolina Hurricanes - Buffalo Sabres	1.60	4.20	4.00
+16:00 Toronto Maple Leafs - Boston Bruins	1.67	4.40	3.50
+16:00 Montreal Canadiens - Utah Mammoth	2.50	4.00	2.20
+19:00 San Jose Sharks - Florida Panthers	4.20	4.20	1.60
+19:00 Vancouver Canucks - Columbus Blue Jackets	2.25	4.00	2.45
+19:00 Vegas Golden Knights - Anaheim Ducks	1.67	4.60	3.60
+19:00 Edmonton Oilers - Colorado Avalanche	2.50	4.00	2.20
+10:00 Detroit Red Wings - Chicago Blackhawks	1.80	4.20	3.20
+11:00 Pittsburgh Penguins - Los Angeles Kings	2.88	4.20	1.95
+09 November 2025	1	X	2
+16:00 Dallas Stars - Seattle Kraken	1.67	4.50	3.50
+16:00 Toronto Maple Leafs - Carolina Hurricanes	2.50	4.20	2.15
+16:00 Ottawa Senators - Utah Mammoth	2.30	4.00	2.40
+17:00 Minnesota Wild - Calgary Flames	1.91	4.20	2.80
+19:00 Vancouver Canucks - Colorado Avalanche	3.30	4.20	1.75
+19:00 Anaheim Ducks - Winnipeg Jets	2.62	4.00	2.10
+10 November 2025	1	X	2
+16:00 New Jersey Devils - NY Islanders	1.95	4.20	2.88
+16:00 NY Rangers - Nashville Predators	1.80	4.20	3.20
+17:30 Edmonton Oilers - Columbus Blue Jackets	1.80	4.40	3.10
+19:00 Vegas Golden Knights - Florida Panthers	2.05	4.00	2.75
+11 November 2025	1	X	2
+16:00 Montreal Canadiens - Los Angeles Kings	2.40	4.00	2.25
+16:00 Carolina Hurricanes - Washington Capitals	1.85	4.20	3.00
+16:00 Ottawa Senators - Dallas Stars	2.20	4.00	2.50
+16:00 Boston Bruins - Toronto Maple Leafs	2.62	4.00	2.05
+17:00 St. Louis Blues - Calgary Flames	2.00	4.00	2.80
+17:00 Minnesota Wild - San Jose Sharks	1.67	4.50	3.50
+18:30 Colorado Avalanche - Anaheim Ducks	1.60	4.60	3.80
+19:00 Vancouver Canucks - Winnipeg Jets	2.50	4.00	2.20
+19:00 Seattle Kraken - Columbus Blue Jackets	2.20	4.00	2.50
+12 November 2025	1	X	2
+16:00 Tampa Bay Lightning - NY Rangers	2.00	4.00	2.80
+16:30 Philadelphia Flyers - Edmonton Oilers	2.50	4.00	2.20
+18:00 Utah Mammoth - Buffalo Sabres	1.67	4.40	3.50
+18:30 Chicago Blackhawks - New Jersey Devils	2.88	4.00	1.95
+13 November 2025	1	X	2
+16:00 Florida Panthers - Washington Capitals	2.20	4.00	2.50
+16:00 Toronto Maple Leafs - Los Angeles Kings	2.60	4.00	2.10
+16:00 Detroit Red Wings - Anaheim Ducks	2.00	4.20	2.75
+16:00 Montreal Canadiens - Dallas Stars	2.25	4.00	2.45
+16:00 Ottawa Senators - Boston Bruins	1.85	4.20	2.90
+16:30 Columbus Blue Jackets - Edmonton Oilers	2.15	4.20	2.50
+18:00 Colorado Avalanche - Buffalo Sabres	1.40	5.00	5.00
+18:00 Calgary Flames - San Jose Sharks	1.85	4.20	3.00
+19:00 Vegas Golden Knights - NY Islanders	1.75	4.40	3.25
+19:00 Seattle Kraken - Winnipeg Jets	2.80	4.00	2.05
+11:00 Nashville Predators - Pittsburgh Penguins	2.50	4.00	2.20
+14 November 2025	1	X	2
+16:00 Carolina Hurricanes - Vancouver Canucks	1.55	4.20	4.20
+17:00 St. Louis Blues - Philadelphia Flyers	2.05	4.00	2.75
+18:00 Utah Mammoth - NY Islanders	1.67	4.50	3.50
+14:00 Florida Panthers - Tampa Bay Lightning	2.10	4.00	2.62
+15 November 2025	1	X	2
+15:00 Minnesota Wild - Anaheim Ducks	2.10	4.20	2.62
+16:00 Montreal Canadiens - Boston Bruins	1.85	4.20	2.90
+16:00 Carolina Hurricanes - Edmonton Oilers	2.15	4.00	2.50
+16:00 Ottawa Senators - Los Angeles Kings	2.30	4.00	2.38
+16:00 Washington Capitals - New Jersey Devils	1.91	4.20	2.90
+16:00 Columbus Blue Jackets - NY Rangers	2.38	4.00	2.30
+16:00 Chicago Blackhawks - Toronto Maple Leafs	2.50	4.20	2.20
+16:00 Detroit Red Wings - Buffalo Sabres	1.80	4.40	3.10
+17:00 St. Louis Blues - Vegas Golden Knights	2.90	4.20	1.91
+17:00 Dallas Stars - Philadelphia Flyers	1.67	4.40	3.50
+19:00 Seattle Kraken - San Jose Sharks	1.95	4.20	2.80
+19:00 Calgary Flames - Winnipeg Jets	2.50	4.00	2.15
+06:00 Pittsburgh Penguins - Nashville Predators	2.10	4.00	2.60
+14:00 Tampa Bay Lightning - Vancouver Canucks	1.83	4.20	3.00
+16 November 2025	1	X	2
+15:00 Minnesota Wild - Vegas Golden Knights	2.50	4.00	2.15
+16:00 NY Rangers - Detroit Red Wings	2.00	4.00	2.75
+18:00 Colorado Avalanche - NY Islanders	1.60	4.20	4.20
+17 November 2025	1	X	2
+16:00 Buffalo Sabres - Edmonton Oilers	2.80	4.20	1.95
+16:00 Boston Bruins - Carolina Hurricanes	3.25	4.20	1.80
+16:00 Washington Capitals - Los Angeles Kings	2.25	4.00	2.50
+16:00 Florida Panthers - Vancouver Canucks	1.50	4.80	4.20
+16:30 Columbus Blue Jackets - Montreal Canadiens	2.05	4.20	2.62
+19:00 Anaheim Ducks - Utah Mammoth	2.45	4.00	2.25
+18 November 2025	1	X	2
+16:00 Toronto Maple Leafs - St. Louis Blues	2.30	4.00	2.45
+16:00 Detroit Red Wings - Seattle Kraken	1.85	4.00	3.10
+16:00 Tampa Bay Lightning - New Jersey Devils	1.85	4.20	3.00
+17:00 Winnipeg Jets - Columbus Blue Jackets	1.80	4.40	3.10
+17:00 Dallas Stars - NY Islanders	1.80	4.20	3.10
+17:30 Chicago Blackhawks - Calgary Flames	2.45	4.00	2.25
+19:00 Vegas Golden Knights - NY Rangers	2.05	4.00	2.70
+19:00 San Jose Sharks - Utah Mammoth	2.62	4.20	2.05
+19 November 2025	1	X	2
+16:00 Washington Capitals - Edmonton Oilers	2.20	4.00	2.50
+16:30 Buffalo Sabres - Calgary Flames	1.91	4.20	2.90
+18:30 Minnesota Wild - Carolina Hurricanes	3.10	4.20	1.85
+19:00 Anaheim Ducks - Boston Bruins	1.80	4.20	3.10
+20 November 2025	1	X	2
+16:00 Toronto Maple Leafs - Columbus Blue Jackets	2.38	4.00	2.30
+16:00 Florida Panthers - New Jersey Devils	1.95	4.00	2.90
+16:00 Philadelphia Flyers - St. Louis Blues	2.15	4.00	2.60
+16:00 Detroit Red Wings - NY Islanders	2.10	4.20	2.62
+16:00 Montreal Canadiens - Washington Capitals	2.10	4.00	2.62
+16:30 Tampa Bay Lightning - Edmonton Oilers	1.85	4.00	3.00
+17:00 Chicago Blackhawks - Seattle Kraken	2.25	4.00	2.50
+18:00 Colorado Avalanche - NY Rangers	1.75	4.20	3.30
+18:00 Utah Mammoth - Vegas Golden Knights	2.40	4.00	2.30
+19:00 San Jose Sharks - Los Angeles Kings	3.00	4.20	1.85
+19:00 Vancouver Canucks - Dallas Stars	2.75	4.20	2.00
+19:00 Anaheim Ducks - Ottawa Senators	2.50	4.00	2.15
+21 November 2025	1	X	2
+16:00 Pittsburgh Penguins - Minnesota Wild	2.20	4.00	2.50
+16:00 Buffalo Sabres - Chicago Blackhawks	1.80	4.20	3.10
+17:00 Winnipeg Jets - Carolina Hurricanes	2.80	4.20	1.95
+19:30 Los Angeles Kings - Boston Bruins	1.75	4.20	3.40
+10:00 Detroit Red Wings - Columbus Blue Jackets	2.05	4.20	2.70
+12:30 NY Islanders - St. Louis Blues	2.15	4.00	2.60
+22 November 2025	1	X	2
+16:00 Florida Panthers - Edmonton Oilers	2.10	4.00	2.62
+16:00 Pittsburgh Penguins - Seattle Kraken	2.15	4.00	2.50
+16:00 San Jose Sharks - Ottawa Senators	3.00	4.00	1.85
+16:00 Montreal Canadiens - Toronto Maple Leafs	2.00	4.00	2.75
+16:00 Washington Capitals - Tampa Bay Lightning	2.20	4.00	2.50
+16:00 Philadelphia Flyers - New Jersey Devils	2.40	4.00	2.30
+17:00 Nashville Predators - Colorado Avalanche	3.60	4.50	1.67
+18:00 Utah Mammoth - NY Rangers	2.10	4.00	2.62
+19:00 Anaheim Ducks - Vegas Golden Knights	2.70	4.20	2.05
+19:00 Calgary Flames - Dallas Stars	2.75	4.00	2.05
+10:00 Buffalo Sabres - Carolina Hurricanes	3.25	4.20	1.75
+13:00 Winnipeg Jets - Minnesota Wild	2.10	4.00	2.62
+14:00 NY Islanders - Seattle Kraken	1.85	4.20	2.90
+23 November 2025	1	X	2
+16:00 Chicago Blackhawks - Colorado Avalanche	3.75	4.20	1.65
+17:00 San Jose Sharks - Boston Bruins	2.62	4.00	2.10
+18:00 Vancouver Canucks - Calgary Flames	2.10	4.00	2.62
+24 November 2025	1	X	2
+16:00 Washington Capitals - Columbus Blue Jackets	1.85	4.20	3.00
+16:00 NY Rangers - St. Louis Blues	2.00	4.00	2.80
+16:00 Tampa Bay Lightning - Philadelphia Flyers	1.80	4.20	3.10
+16:00 New Jersey Devils - Detroit Red Wings	2.05	4.00	2.75
+17:00 Nashville Predators - Florida Panthers	2.62	4.00	2.10
+18:00 Los Angeles Kings - Ottawa Senators	1.85	4.00	3.00
+18:00 Utah Mammoth - Vegas Golden Knights	2.38	4.00	2.30
+25 November 2025	1	X	2
+18:00 Edmonton Oilers - Dallas Stars	2.05	4.20	2.70
+26 November 2025	1	X	2
+16:00 Washington Capitals - Winnipeg Jets	1.95	4.20	2.80
+16:00 Tampa Bay Lightning - Calgary Flames	1.80	4.20	3.20
+16:00 Columbus Blue Jackets - Toronto Maple Leafs	2.30	4.00	2.38
+16:00 Detroit Red Wings - Nashville Predators	1.95	4.20	2.90
+16:00 NY Islanders - Boston Bruins	1.85	4.20	2.90
+16:00 Carolina Hurricanes - NY Rangers	1.75	4.20	3.40
+16:00 Florida Panthers - Philadelphia Flyers	1.80	4.20	3.10
+16:00 New Jersey Devils - St. Louis Blues	2.05	4.00	2.70
+16:00 Pittsburgh Penguins - Buffalo Sabres	2.20	4.00	2.50
+17:30 Chicago Blackhawks - Minnesota Wild	2.62	4.00	2.10
+18:00 Colorado Avalanche - San Jose Sharks	1.40	4.75	5.80
+18:30 Utah Mammoth - Montreal Canadiens	2.00	4.20	2.80
+19:00 Vegas Golden Knights - Ottawa Senators	1.80	4.20	3.20
+19:00 Seattle Kraken - Dallas Stars	2.60	4.00	2.15
+19:00 Anaheim Ducks - Vancouver Canucks	1.91	4.20	2.88
+28 November 2025	1	X	2
+09:00 Detroit Red Wings - Tampa Bay Lightning	2.45	4.00	2.20
+10:00 Boston Bruins - NY Rangers	3.00	4.00	1.91
+12:30 Minnesota Wild - Colorado Avalanche	3.20	4.20	1.80
+13:00 Anaheim Ducks - Los Angeles Kings	2.50	4.00	2.15
+13:00 Buffalo Sabres - New Jersey Devils	2.30	4.00	2.40
+13:00 Vegas Golden Knights - Montreal Canadiens	1.75	4.20	3.20
+13:00 NY Islanders - Philadelphia Flyers	2.05	4.00	2.75
+13:00 St. Louis Blues - Ottawa Senators	2.40	4.00	2.30
+13:00 San Jose Sharks - Vancouver Canucks	2.40	4.20	2.25
+13:00 Florida Panthers - Calgary Flames	1.80	4.20	3.30
+14:00 Carolina Hurricanes - Winnipeg Jets	1.67	4.20	3.60
+14:00 Washington Capitals - Toronto Maple Leafs	1.85	4.20	3.00
+16:00 Columbus Blue Jackets - Pittsburgh Penguins	2.05	4.20	2.75
+17:00 Chicago Blackhawks - Nashville Predators	2.40	4.00	2.30
+17:00 Dallas Stars - Utah Mammoth	2.10	4.00	2.62
+11:00 NY Rangers - Tampa Bay Lightning	2.15	4.00	2.50
+12:00 Colorado Avalanche - Montreal Canadiens	1.57	4.20	4.20
+13:00 Seattle Kraken - Edmonton Oilers	2.80	4.00	1.95
+29 November 2025	1	X	2
+16:00 Boston Bruins - Detroit Red Wings	2.80	4.00	1.95
+16:00 Pittsburgh Penguins - Toronto Maple Leafs	2.30	4.00	2.38
+16:00 Nashville Predators - Winnipeg Jets	2.50	4.00	2.20
+16:00 New Jersey Devils - Philadelphia Flyers	2.00	4.00	2.80
+17:00 Minnesota Wild - Buffalo Sabres	2.00	4.00	2.80
+17:00 St. Louis Blues - Utah Mammoth	2.45	4.00	2.30
+19:00 Los Angeles Kings - Vancouver Canucks	1.85	4.20	3.10
+19:00 Vegas Golden Knights - San Jose Sharks	1.44	4.60	5.00
+10:00 NY Islanders - Washington Capitals	2.50	4.00	2.15
+12:30 Chicago Blackhawks - Anaheim Ducks	2.45	4.20	2.20
+14:00 Carolina Hurricanes - Calgary Flames	1.53	4.40	4.40
+30 November 2025	1	X	2
+15:00 Dallas Stars - Ottawa Senators	2.00	4.00	2.80
+01 December 2025	1	X	2
+16:00 Philadelphia Flyers - Pittsburgh Penguins	2.05	4.00	2.70
+16:00 New Jersey Devils - Columbus Blue Jackets	1.95	4.20	2.80
+16:30 Buffalo Sabres - Winnipeg Jets	2.25	4.20	2.30
+17:00 St. Louis Blues - Anaheim Ducks	2.05	4.20	2.60
+19:00 San Jose Sharks - Utah Mammoth	3.00	4.20	1.85
+02 December 2025	1	X	2
+16:00 Detroit Red Wings - Boston Bruins	1.73	4.20	3.30
+16:00 Montreal Canadiens - Ottawa Senators	2.45	4.00	2.15
+16:00 NY Islanders - Tampa Bay Lightning	2.40	4.00	2.25
+16:00 NY Rangers - Dallas Stars	2.30	4.00	2.30
+16:30 Florida Panthers - Toronto Maple Leafs	1.85	4.20	3.00
+17:00 Nashville Predators - Calgary Flames	2.20	4.00	2.50
+18:00 Colorado Avalanche - Vancouver Canucks	1.40	5.00	5.00
+18:00 Edmonton Oilers - Minnesota Wild	1.95	4.20	2.80
+19:00 Vegas Golden Knights - Chicago Blackhawks	1.55	4.20	4.20
+19:30 Los Angeles Kings - Washington Capitals	2.25	3.90	2.50
+03 December 2025	1	X	2
+16:00 New Jersey Devils - Dallas Stars	2.25	4.00	2.45
+16:30 Philadelphia Flyers - Buffalo Sabres	2.50	4.00	2.15
+16:30 Montreal Canadiens - Winnipeg Jets	2.50	4.00	2.15
+19:00 San Jose Sharks - Washington Capitals	2.88	4.20	1.95
+19:00 Anaheim Ducks - Utah Mammoth	2.38	4.00	2.30
+04 December 2025	1	X	2
+16:00 NY Islanders - Colorado Avalanche	3.10	4.20	1.80
+16:00 Florida Panthers - Nashville Predators	1.75	4.40	3.25
+16:00 Ottawa Senators - NY Rangers	2.10	4.00	2.62
+16:00 Boston Bruins - St. Louis Blues	2.70	4.00	2.05
+16:00 Tampa Bay Lightning - Pittsburgh Penguins	1.85	4.20	2.90
+16:00 Carolina Hurricanes - Toronto Maple Leafs	1.67	4.50	3.50
+16:30 Columbus Blue Jackets - Detroit Red Wings	2.20	4.00	2.50
+18:00 Calgary Flames - Minnesota Wild	2.50	4.00	2.20
+18:00 Edmonton Oilers - Seattle Kraken	1.70	4.20	3.50
+19:00 Los Angeles Kings - Chicago Blackhawks	1.67	4.20	3.60
+05 December 2025	1	X	2
+16:00 New Jersey Devils - Vegas Golden Knights	2.60	4.00	2.15
+16:00 Winnipeg Jets - Buffalo Sabres	2.15	4.00	2.60
+17:00 Dallas Stars - San Jose Sharks	1.50	4.40	4.50
+18:00 Vancouver Canucks - Utah Mammoth	2.60	4.00	2.15
+19:00 Anaheim Ducks - Washington Capitals	2.75	4.00	2.05
+09:30 NY Rangers - Colorado Avalanche	3.10	4.20	1.83
+12:30 Florida Panthers - Columbus Blue Jackets	1.85	4.20	3.00
+06 December 2025	1	X	2
+16:00 Carolina Hurricanes - Nashville Predators	1.62	4.40	3.80
+16:00 Toronto Maple Leafs - Montreal Canadiens	2.05	4.00	2.70
+16:00 Ottawa Senators - St. Louis Blues	1.95	4.00	2.90
+16:00 Tampa Bay Lightning - NY Islanders	1.95	4.00	2.80
+16:00 Boston Bruins - New Jersey Devils	2.50	3.90	2.20
+16:00 Calgary Flames - Utah Mammoth	2.20	3.90	2.50
+18:00 Los Angeles Kings - Chicago Blackhawks	1.75	4.20	3.40
+19:00 Vancouver Canucks - Minnesota Wild	2.80	4.00	2.05
+19:00 Edmonton Oilers - Winnipeg Jets	1.75	4.20	3.30
+19:00 Seattle Kraken - Detroit Red Wings	2.45	4.00	2.25
+10:00 Philadelphia Flyers - Colorado Avalanche	3.00	4.00	1.91
+14:00 Carolina Hurricanes - San Jose Sharks	1.44	4.50	5.00
+14:00 Florida Panthers - NY Islanders	1.85	4.00	3.00
+07 December 2025	1	X	2
+15:00 Dallas Stars - Pittsburgh Penguins	1.85	4.20	3.00
+16:00 Washington Capitals - Columbus Blue Jackets	1.75	4.20	3.25
+16:00 NY Rangers - Vegas Golden Knights	2.90	4.00	1.91
+16:00 Montreal Canadiens - St. Louis Blues	2.10	4.00	2.70
+17:00 Anaheim Ducks - Chicago Blackhawks	1.75	4.40	3.25
+08 December 2025	1	X	2
+16:30 Toronto Maple Leafs - Tampa Bay Lightning	2.50	4.00	2.20
+18:00 Calgary Flames - Buffalo Sabres	2.30	4.00	2.40
+18:00 Utah Mammoth - Los Angeles Kings	2.38	3.90	2.38
+19:00 Seattle Kraken - Minnesota Wild	2.62	3.90	2.10
+19:00 Vancouver Canucks - Detroit Red Wings	2.50	4.00	2.20
+09 December 2025	1	X	2
+16:00 Philadelphia Flyers - San Jose Sharks	1.80	4.20	3.20
+16:00 Montreal Canadiens - Tampa Bay Lightning	2.38	4.00	2.38
+16:00 Pittsburgh Penguins - Anaheim Ducks	2.25	4.00	2.45
+16:00 NY Islanders - Vegas Golden Knights	2.70	4.00	2.10
+16:00 Ottawa Senators - New Jersey Devils	2.00	4.00	2.80
+16:30 Carolina Hurricanes - Columbus Blue Jackets	1.67	4.40	3.50
+17:00 St. Louis Blues - Boston Bruins	2.10	3.90	2.62
+17:00 Winnipeg Jets - Dallas Stars	2.80	4.00	2.00
+18:00 Edmonton Oilers - Buffalo Sabres	1.67	4.40	3.50
+18:30 Nashville Predators - Colorado Avalanche	3.40	4.20	1.70
+10 December 2025	1	X	2
+16:30 Chicago Blackhawks - NY Rangers	2.80	4.00	2.05
+17:30 Calgary Flames - Detroit Red Wings	2.38	4.00	2.30
+18:00 Utah Mammoth - Florida Panthers	2.38	4.00	2.38
+19:00 Seattle Kraken - Los Angeles Kings	2.88	4.00	2.00
+11 December 2025	1	X	2
+16:00 Washington Capitals - Carolina Hurricanes	2.40	4.00	2.30
+16:00 Toronto Maple Leafs - San Jose Sharks	1.70	4.20	3.50
+16:00 Philadelphia Flyers - Vegas Golden Knights	2.80	4.00	2.00
+16:00 NY Islanders - Anaheim Ducks	2.20	4.00	2.50
+16:00 Columbus Blue Jackets - Ottawa Senators	2.50	4.00	2.20
+16:00 New Jersey Devils - Tampa Bay Lightning	2.62	4.00	2.10
+17:00 Minnesota Wild - Dallas Stars	2.75	4.00	2.05
+17:00 Nashville Predators - St. Louis Blues	2.15	4.00	2.60
+17:00 Winnipeg Jets - Boston Bruins	1.95	4.00	2.90
+18:00 Edmonton Oilers - Detroit Red Wings	1.80	4.20	3.10
+18:30 Colorado Avalanche - Florida Panthers	1.60	4.40	3.90
+19:00 Vancouver Canucks - Buffalo Sabres	2.40	3.90	2.30
+12 December 2025	1	X	2
+17:00 St. Louis Blues - Chicago Blackhawks	2.40	4.00	2.30
+18:00 Utah Mammoth - Seattle Kraken	1.80	4.00	3.25
+09:30 New Jersey Devils - Anaheim Ducks	2.20	4.00	2.50
+11:00 Minnesota Wild - Ottawa Senators	2.25	3.90	2.50
+12:00 Pittsburgh Penguins - San Jose Sharks	1.85	4.00	3.10
+12:30 NY Islanders - Tampa Bay Lightning	2.60	4.00	2.15
+13 December 2025	1	X	2
+16:00 Winnipeg Jets - Washington Capitals	2.50	4.00	2.20
+16:00 Columbus Blue Jackets - Vegas Golden Knights	2.75	4.00	2.00
+16:00 Philadelphia Flyers - Carolina Hurricanes	3.00	4.00	1.91
+16:00 NY Rangers - Montreal Canadiens	2.05	4.00	2.75
+16:00 Toronto Maple Leafs - Edmonton Oilers	2.60	4.00	2.15
+17:00 Chicago Blackhawks - Detroit Red Wings	3.30	4.20	1.80
+17:00 Dallas Stars - Florida Panthers	2.10	4.00	2.70
+18:00 Colorado Avalanche - Nashville Predators	1.40	4.60	5.50
+19:00 Los Angeles Kings - Calgary Flames	1.85	4.00	3.20
+09:30 New Jersey Devils - Vancouver Canucks	2.15	4.00	2.62
+12:00 Pittsburgh Penguins - Utah Mammoth	2.62	4.00	2.10
+14:00 Carolina Hurricanes - Philadelphia Flyers	1.62	4.20	3.90
+14 December 2025	1	X	2
+15:00 Minnesota Wild - Boston Bruins	2.10	4.00	2.70
+16:00 Montreal Canadiens - Edmonton Oilers	2.60	4.00	2.15
+17:00 Seattle Kraken - Buffalo Sabres	2.50	4.00	2.20
+15 December 2025	1	X	2
+16:00 Tampa Bay Lightning - Florida Panthers	2.20	3.90	2.60
+16:00 NY Rangers - Anaheim Ducks	2.30	3.90	2.45
+16:30 Winnipeg Jets - Ottawa Senators	2.15	3.90	2.62
+17:00 St. Louis Blues - Nashville Predators	2.38	3.90	2.40
+17:00 Dallas Stars - Los Angeles Kings	2.15	3.75	2.70
+16 December 2025	1	X	2
+16:00 NY Rangers - Vancouver Canucks	2.25	3.80	2.50
+16:00 Detroit Red Wings - NY Islanders	2.15	3.90	2.62
+16:00 Montreal Canadiens - Philadelphia Flyers	2.20	3.80	2.60
+16:00 Columbus Blue Jackets - Anaheim Ducks	2.00	4.00	2.80
+16:00 Toronto Maple Leafs - Chicago Blackhawks	1.75	4.00	3.50
+16:00 Boston Bruins - Utah Mammoth	2.38	3.90	2.38
+16:30 Pittsburgh Penguins - Edmonton Oilers	2.75	4.00	2.05
+17:00 Minnesota Wild - Washington Capitals	2.25	3.90	2.50
+19:00 Seattle Kraken - Colorado Avalanche	4.80	4.50	1.50
+19:00 San Jose Sharks - Calgary Flames	2.70	3.90	2.10
+17 December 2025	1	X	2
+16:00 Florida Panthers - Los Angeles Kings	2.05	3.90	2.80
+16:30 Detroit Red Wings - Utah Mammoth	2.20	3.90	2.50
+17:00 St. Louis Blues - Winnipeg Jets	2.80	3.90	2.05
+17:00 Nashville Predators - Carolina Hurricanes	3.20	4.00	1.83
+19:00 Vegas Golden Knights - New Jersey Devils	1.91	3.90	3.10
+18 December 2025	1	X	2
+16:00 Ottawa Senators - Pittsburgh Penguins	1.91	4.00	3.00
+16:00 Boston Bruins - Edmonton Oilers	2.60	4.00	2.15
+16:00 Tampa Bay Lightning - Los Angeles Kings	1.75	4.00	3.60
+16:00 Columbus Blue Jackets - Minnesota Wild	2.45	3.90	2.30
+16:00 Montreal Canadiens - Chicago Blackhawks	1.85	4.00	3.10
+16:00 Washington Capitals - Toronto Maple Leafs	1.95	3.90	2.90
+16:30 Buffalo Sabres - Philadelphia Flyers	2.00	3.90	2.88
+17:00 St. Louis Blues - NY Rangers	2.80	3.75	2.10
+18:00 Calgary Flames - Seattle Kraken	1.85	3.90	3.10
+19:00 San Jose Sharks - Dallas Stars	3.60	4.00	1.70
+19 December 2025	1	X	2
+16:00 Florida Panthers - Carolina Hurricanes	2.62	3.90	2.15
+16:00 NY Islanders - Vancouver Canucks	2.10	3.80	2.75
+18:00 Colorado Avalanche - Winnipeg Jets	1.60	4.20	4.00
+18:00 Utah Mammoth - New Jersey Devils	2.10	3.80	2.75
+19:00 Anaheim Ducks - Dallas Stars	2.30	4.00	2.38
+09:30 Washington Capitals - Detroit Red Wings	1.91	4.00	3.00
+09:30 NY Rangers - Philadelphia Flyers	2.05	3.80	2.88
+12:00 Minnesota Wild - Edmonton Oilers	2.15	3.90	2.62
+12:00 Ottawa Senators - Chicago Blackhawks	1.62	4.20	4.00
+14:00 Buffalo Sabres - NY Islanders	1.85	4.00	3.20
+20 December 2025	1	X	2
+15:00 Florida Panthers - St. Louis Blues	1.85	4.00	3.20
+16:00 Nashville Predators - Toronto Maple Leafs	2.30	3.90	2.40
+16:00 Boston Bruins - Vancouver Canucks	1.85	4.00	3.10
+16:00 Tampa Bay Lightning - Carolina Hurricanes	2.25	3.75	2.50
+16:00 Montreal Canadiens - Pittsburgh Penguins	2.10	3.90	2.70
+19:00 Calgary Flames - Vegas Golden Knights	2.60	3.80	2.20
+19:00 Anaheim Ducks - Columbus Blue Jackets	2.30	4.00	2.40
+19:00 San Jose Sharks - Seattle Kraken	2.20	3.90	2.60
+10:00 Detroit Red Wings - Washington Capitals	2.30	4.00	2.40
+21 December 2025	1	X	2
+15:00 Minnesota Wild - Colorado Avalanche	3.00	4.00	1.85
+16:00 Boston Bruins - Ottawa Senators	2.75	4.00	2.05
+16:00 New Jersey Devils - Buffalo Sabres	1.91	4.00	3.00
+16:00 Nashville Predators - NY Rangers	2.38	3.90	2.38
+16:00 Pittsburgh Penguins - Montreal Canadiens	2.30	4.00	2.40
+16:00 Dallas Stars - Toronto Maple Leafs	1.70	4.20	3.60
+16:00 Utah Mammoth - Winnipeg Jets	2.25	3.90	2.50
+17:00 Edmonton Oilers - Vegas Golden Knights	2.05	4.00	2.70
+22 December 2025	1	X	2
+16:00 Tampa Bay Lightning - St. Louis Blues	1.60	4.20	4.00
+16:30 Philadelphia Flyers - Vancouver Canucks	2.15	3.80	2.70
+19:00 Anaheim Ducks - Seattle Kraken	1.85	4.00	3.10
+19:00 Los Angeles Kings - Columbus Blue Jackets	1.95	3.90	3.00
+13:00 Toronto Maple Leafs - Pittsburgh Penguins	2.15	3.90	2.62
+23 December 2025	1	X	2
+15:30 Detroit Red Wings - Dallas Stars	2.50	3.90	2.20
+16:00 Washington Capitals - NY Rangers	2.00	3.90	2.90
+16:00 Boston Bruins - Montreal Canadiens	2.25	3.90	2.50
+16:00 Carolina Hurricanes - Florida Panthers	2.10	3.90	2.75
+16:00 Ottawa Senators - Buffalo Sabres	1.95	4.00	2.90
+16:00 NY Islanders - New Jersey Devils	2.60	3.90	2.20
+17:00 Minnesota Wild - Nashville Predators	1.80	4.00	3.25
+18:00 Edmonton Oilers - Calgary Flames	2.05	4.00	2.75
+18:00 Chicago Blackhawks - Philadelphia Flyers	2.50	3.80	2.25
+18:00 Colorado Avalanche - Utah Mammoth	1.57	4.20	4.20
+19:00 Vegas Golden Knights - San Jose Sharks	1.70	4.00	3.50
+19:00 Los Angeles Kings - Seattle Kraken	1.65	4.00	4.00
+27 December 2025	1	X	2
+15:00 NY Islanders - NY Rangers	2.40	3.80	2.38
+16:00 Florida Panthers - Tampa Bay Lightning	2.45	3.90	2.30
+16:00 New Jersey Devils - Washington Capitals	2.25	3.80	2.50
+16:00 Winnipeg Jets - Minnesota Wild	2.40	3.80	2.38
+16:00 Carolina Hurricanes - Detroit Red Wings	1.85	4.00	3.10
+16:00 Buffalo Sabres - Boston Bruins	2.15	3.90	2.62
+16:00 Toronto Maple Leafs - Ottawa Senators	2.60	3.90	2.15
+17:00 Dallas Stars - Chicago Blackhawks	1.40	4.60	5.50
+17:00 St. Louis Blues - Nashville Predators	2.30	3.90	2.40
+18:00 Los Angeles Kings - Anaheim Ducks	2.15	3.90	2.62
+19:00 Calgary Flames - Edmonton Oilers	2.80	4.00	2.00
+19:00 Vancouver Canucks - San Jose Sharks	2.00	4.00	2.80
+19:00 Vegas Golden Knights - Colorado Avalanche	2.90	4.00	1.95
+14:00 Tampa Bay Lightning - Montreal Canadiens	2.00	4.00	2.80
+14:00 Columbus Blue Jackets - NY Islanders	2.15	3.90	2.70
+28 December 2025	1	X	2
+16:00 Detroit Red Wings - Toronto Maple Leafs	2.15	4.00	2.62
+16:00 Chicago Blackhawks - Pittsburgh Penguins	3.00	4.00	1.95
+17:00 Seattle Kraken - Philadelphia Flyers	2.80	3.80	2.10
+29 December 2025	1	X	2
+16:00 Florida Panthers - Washington Capitals	2.20	3.90	2.60
+16:00 Carolina Hurricanes - NY Rangers	1.85	4.00	3.20
+16:30 Ottawa Senators - Columbus Blue Jackets	1.67	4.20	3.60
+16:30 Winnipeg Jets - Edmonton Oilers	2.45	3.90	2.25
+17:00 St. Louis Blues - Buffalo Sabres	2.45	3.90	2.30
+18:00 Calgary Flames - Boston Bruins	2.15	3.90	2.70
+18:00 Colorado Avalanche - Los Angeles Kings	1.67	4.00	3.90
+18:00 Utah Mammoth - Nashville Predators	2.05	3.90	2.80
+19:00 Anaheim Ducks - San Jose Sharks	1.80	4.20	3.25
+19:00 Seattle Kraken - Vancouver Canucks	2.50	3.80	2.25
+19:00 Vegas Golden Knights - Minnesota Wild	2.38	3.90	2.40
+30 December 2025	1	X	2
+16:00 Florida Panthers - Montreal Canadiens	2.15	3.90	2.60
+16:00 Toronto Maple Leafs - New Jersey Devils	2.62	3.90	2.15
+16:00 Pittsburgh Penguins - Carolina Hurricanes	2.60	4.00	2.15
+17:30 Chicago Blackhawks - NY Islanders	2.75	3.90	2.10
+19:00 Vancouver Canucks - Philadelphia Flyers	2.80	3.90	2.05
+09:30 Washington Capitals - NY Rangers	2.00	3.90	2.90
+12:00 Vegas Golden Knights - Nashville Predators	1.85	4.00	3.20
+13:00 San Jose Sharks - Minnesota Wild	3.20	4.00	1.85
+13:00 Anaheim Ducks - Tampa Bay Lightning	2.90	4.00	1.95
+31 December 2025	1	X	2
+15:30 Detroit Red Wings - Winnipeg Jets	2.50	3.90	2.25
+16:00 Columbus Blue Jackets - New Jersey Devils	2.20	3.90	2.50
+17:00 Dallas Stars - Buffalo Sabres	1.95	4.00	2.90
+18:00 Colorado Avalanche - St. Louis Blues	1.40	4.75	5.50
+18:30 Edmonton Oilers - Boston Bruins	1.83	4.00	3.20
+18:30 Calgary Flames - Philadelphia Flyers	2.10	3.80	2.80
+10:00 Ottawa Senators - Washington Capitals	2.10	3.90	2.75
+12:00 NY Islanders - Utah Mammoth	2.50	3.80	2.25
+01 January 2026	1	X	2
+16:00 Toronto Maple Leafs - Winnipeg Jets	2.10	3.90	2.70
+16:00 Carolina Hurricanes - Montreal Canadiens	1.85	4.00	3.10
+16:00 Pittsburgh Penguins - Detroit Red Wings	2.15	3.90	2.62
+16:00 Los Angeles Kings - Tampa Bay Lightning	2.25	3.80	2.50
+17:30 Chicago Blackhawks - Dallas Stars	3.10	4.00	1.85
+19:00 Seattle Kraken - Nashville Predators	2.40	3.90	2.30
+12:00 St. Louis Blues - Vegas Golden Knights	2.80	4.00	2.00
+02 January 2026	1	X	2
+17:00 Florida Panthers - NY Rangers	2.05	3.90	2.80
+19:30 Anaheim Ducks - Minnesota Wild	2.60	4.00	2.15
+19:30 Vancouver Canucks - Seattle Kraken	2.05	3.90	2.80
+09:00 Detroit Red Wings - Pittsburgh Penguins	2.05	3.90	2.75
+12:00 Columbus Blue Jackets - Buffalo Sabres	2.38	4.00	2.38
+12:00 New Jersey Devils - Utah Mammoth	2.20	3.80	2.60
+12:30 Edmonton Oilers - Philadelphia Flyers	1.91	4.00	3.00
+13:00 St. Louis Blues - Montreal Canadiens	2.90	3.90	2.00
+13:00 San Jose Sharks - Tampa Bay Lightning	3.60	4.20	1.70
+03 January 2026	1	X	2
+16:00 Carolina Hurricanes - Colorado Avalanche	2.70	4.00	2.10
+16:00 Calgary Flames - Nashville Predators	2.30	3.80	2.45
+16:00 Washington Capitals - Chicago Blackhawks	1.60	4.20	4.00
+16:00 NY Islanders - Toronto Maple Leafs	2.40	3.90	2.38
+16:00 Ottawa Senators - Winnipeg Jets	2.20	3.90	2.60
+18:00 Los Angeles Kings - Minnesota Wild	2.20	3.80	2.60
+19:00 Vancouver Canucks - Boston Bruins	2.62	3.90	2.15
+11:00 Dallas Stars - Montreal Canadiens	1.80	4.00	3.30
+12:00 Columbus Blue Jackets - Pittsburgh Penguins	2.10	4.00	2.62
+14:00 Florida Panthers - Colorado Avalanche	2.75	4.00	2.05
+04 January 2026	1	X	2
+16:00 New Jersey Devils - Carolina Hurricanes	2.50	3.90	2.20
+16:00 Chicago Blackhawks - Vegas Golden Knights	4.00	4.20	1.60
+05 January 2026	1	X	2
+16:00 Washington Capitals - Anaheim Ducks	2.05	4.00	2.75
+16:00 NY Rangers - Utah Mammoth	2.38	3.80	2.38
+16:30 Ottawa Senators - Detroit Red Wings	1.95	4.00	2.90
+18:30 Calgary Flames - Seattle Kraken	2.05	3.90	2.80
+19:30 Los Angeles Kings - Minnesota Wild	2.50	3.80	2.25
+06 January 2026	1	X	2
+16:00 Buffalo Sabres - Vancouver Canucks	1.85	4.00	3.10
+16:00 Carolina Hurricanes - Dallas Stars	2.05	3.90	2.80
+16:00 Tampa Bay Lightning - Colorado Avalanche	2.45	4.00	2.30
+16:00 Philadelphia Flyers - Anaheim Ducks	2.00	4.00	2.88
+16:30 NY Islanders - New Jersey Devils	2.50	3.80	2.30
+16:30 Toronto Maple Leafs - Florida Panthers	2.50	3.90	2.25
+17:00 Winnipeg Jets - Vegas Golden Knights	2.38	3.80	2.40
+18:00 Edmonton Oilers - Nashville Predators	2.00	4.00	2.80
+19:00 San Jose Sharks - Columbus Blue Jackets	2.70	4.00	2.10
+19:00 Seattle Kraken - Boston Bruins	2.50	3.90	2.25
+07 January 2026	1	X	2
+16:00 Washington Capitals - Dallas Stars	2.25	3.90	2.50
+16:30 Montreal Canadiens - Calgary Flames	2.00	4.00	2.80
+18:30 Chicago Blackhawks - St. Louis Blues	2.45	3.75	2.38
+18:30 Utah Mammoth - Ottawa Senators	2.20	3.90	2.50
+19:30 Los Angeles Kings - San Jose Sharks	1.60	4.20	4.00
+08 January 2026	1	X	2
+16:00 Philadelphia Flyers - Toronto Maple Leafs	2.20	3.80	2.60
+16:00 Montreal Canadiens - Florida Panthers	2.40	3.90	2.30
+16:00 Pittsburgh Penguins - New Jersey Devils	2.30	3.90	2.40
+16:00 NY Rangers - Buffalo Sabres	2.50	3.90	2.25
+16:00 Detroit Red Wings - Vancouver Canucks	2.00	3.90	2.90
+16:00 Carolina Hurricanes - Anaheim Ducks	1.67	4.20	3.60
+16:00 Boston Bruins - Calgary Flames	2.10	4.00	2.70
+17:00 Nashville Predators - NY Islanders	2.20	3.80	2.60
+17:00 Winnipeg Jets - Edmonton Oilers	2.40	3.90	2.30
+18:00 Colorado Avalanche - Ottawa Senators	1.53	4.20	4.50
+19:00 Seattle Kraken - Minnesota Wild	2.90	3.90	1.95
+19:00 Vegas Golden Knights - Columbus Blue Jackets	1.95	4.00	2.90
+09 January 2026	1	X	2
+17:00 Chicago Blackhawks - Washington Capitals	2.62	3.90	2.15
+17:00 Winnipeg Jets - Los Angeles Kings	2.62	3.80	2.15
+18:00 Utah Mammoth - St. Louis Blues	1.80	4.00	3.30
+10:00 Boston Bruins - NY Rangers	2.15	4.00	2.60
+12:30 Pittsburgh Penguins - Calgary Flames	1.95	4.00	2.90
+13:00 Colorado Avalanche - Columbus Blue Jackets	1.53	4.20	4.50
+13:00 San Jose Sharks - Dallas Stars	3.10	4.20	1.85
+10 January 2026	1	X	2
+16:00 Ottawa Senators - Florida Panthers	2.25	3.90	2.50
+16:00 Buffalo Sabres - Anaheim Ducks	1.95	4.00	2.90
+16:00 Toronto Maple Leafs - Vancouver Canucks	1.85	4.00	3.10
+16:00 Carolina Hurricanes - Seattle Kraken	1.50	4.40	4.75
+16:00 Philadelphia Flyers - Tampa Bay Lightning	3.20	4.00	1.85
+16:00 Montreal Canadiens - Detroit Red Wings	2.10	3.90	2.70
+17:00 Nashville Predators - Chicago Blackhawks	1.70	4.20	3.70
+17:00 Minnesota Wild - NY Islanders	1.95	3.90	2.90
+19:00 Vegas Golden Knights - St. Louis Blues	1.53	4.20	4.50
+19:00 Edmonton Oilers - Los Angeles Kings	1.80	4.00	3.25
+11:00 Winnipeg Jets - New Jersey Devils	2.20	3.90	2.62
+14:00 Boston Bruins - Pittsburgh Penguins	2.45	3.90	2.25
+11 January 2026	1	X	2
+16:00 Nashville Predators - Washington Capitals	2.70	3.90	2.10
+16:00 Utah Mammoth - Columbus Blue Jackets	1.80	4.00	3.30
+17:00 San Jose Sharks - Vegas Golden Knights	2.80	4.00	2.00
+12 January 2026	1	X	2
+16:00 Detroit Red Wings - Carolina Hurricanes	2.80	4.00	2.00
+16:00 Buffalo Sabres - Florida Panthers	2.25	3.90	2.50
+16:00 NY Rangers - Seattle Kraken	2.10	3.90	2.75
+16:00 Philadelphia Flyers - Tampa Bay Lightning	2.80	3.90	2.05
+16:30 Montreal Canadiens - Vancouver Canucks	1.75	4.00	3.40
+17:00 Minnesota Wild - New Jersey Devils	1.85	4.00	3.10
+17:30 Chicago Blackhawks - Edmonton Oilers	2.90	4.00	1.95
+19:00 Colorado Avalanche - Toronto Maple Leafs	1.62	4.20	3.90
+19:00 Los Angeles Kings - Dallas Stars	2.50	3.90	2.25
+13 January 2026	1	X	2
+16:00 Columbus Blue Jackets - Calgary Flames	2.05	4.00	2.80
+16:00 Ottawa Senators - Vancouver Canucks	1.67	4.20	3.80
+16:00 Washington Capitals - Montreal Canadiens	1.95	3.90	2.90
+16:00 Pittsburgh Penguins - Tampa Bay Lightning	2.62	3.90	2.15
+16:30 Boston Bruins - Detroit Red Wings	2.10	3.90	2.70
+16:30 St. Louis Blues - Carolina Hurricanes	3.10	4.00	1.85
+17:00 Winnipeg Jets - NY Islanders	2.20	3.80	2.62
+17:00 Nashville Predators - Edmonton Oilers	2.60	3.90	2.20
+19:00 Anaheim Ducks - Dallas Stars	2.50	4.00	2.25
+19:00 Utah Mammoth - Toronto Maple Leafs	2.00	4.00	2.80
+14 January 2026	1	X	2
+16:00 New Jersey Devils - Seattle Kraken	1.95	4.00	2.90
+16:30 NY Rangers - Ottawa Senators	2.40	4.00	2.30
+16:30 Buffalo Sabres - Philadelphia Flyers	2.10	4.00	2.70
+19:00 Los Angeles Kings - Vegas Golden Knights	2.45	3.90	2.25
+15 January 2026	1	X	2
+16:00 Buffalo Sabres - Montreal Canadiens	2.50	3.90	2.25
+16:00 Washington Capitals - San Jose Sharks	1.85	4.00	3.10
+16:00 Pittsburgh Penguins - Philadelphia Flyers	1.85	4.00	3.10
+16:00 Columbus Blue Jackets - Vancouver Canucks	1.85	4.00	3.00
+17:00 Boston Bruins - Seattle Kraken	1.85	4.00	3.20
+17:00 Minnesota Wild - Winnipeg Jets	2.10	3.90	2.70
+17:30 Chicago Blackhawks - Calgary Flames	2.25	3.90	2.50
+18:00 Edmonton Oilers - NY Islanders	1.85	4.00	3.00
+18:00 Utah Mammoth - Dallas Stars	2.20	3.90	2.50
+18:30 Vegas Golden Knights - Toronto Maple Leafs	2.15	3.90	2.62
+16 January 2026	1	X	2
+16:00 Detroit Red Wings - San Jose Sharks	1.80	4.00	3.25
+16:00 Carolina Hurricanes - Florida Panthers	1.85	4.00	3.25
+17:00 St. Louis Blues - Tampa Bay Lightning	3.40	4.00	1.80
+18:00 Colorado Avalanche - Nashville Predators	1.50	4.40	4.60
+19:30 Los Angeles Kings - Anaheim Ducks	2.00	4.00	2.88
+09:30 Buffalo Sabres - Minnesota Wild	2.15	3.90	2.60
+10:00 Philadelphia Flyers - NY Rangers	2.15	3.90	2.62
+12:00 Calgary Flames - NY Islanders	2.38	3.90	2.38
+14:00 Utah Mammoth - Seattle Kraken	1.75	4.00	3.50
+17 January 2026	1	X	2
+16:00 Ottawa Senators - Montreal Canadiens	2.30	3.90	2.45
+16:00 Pittsburgh Penguins - Columbus Blue Jackets	2.15	4.00	2.60
+16:00 Winnipeg Jets - Toronto Maple Leafs	2.10	3.90	2.75
+16:00 Washington Capitals - Florida Panthers	2.05	3.90	2.80
+16:00 New Jersey Devils - Carolina Hurricanes	2.45	3.90	2.30
+17:00 Chicago Blackhawks - Boston Bruins	2.45	4.00	2.25
+19:00 Vancouver Canucks - Edmonton Oilers	3.10	4.00	1.85
+19:00 Anaheim Ducks - Los Angeles Kings	2.50	3.90	2.25
+19:00 Vegas Golden Knights - Nashville Predators	1.70	4.00	3.60
+11:00 Dallas Stars - Tampa Bay Lightning	2.50	3.90	2.25
+14:00 Detroit Red Wings - Ottawa Senators	2.20	4.00	2.50
+18 January 2026	1	X	2
+17:00 Edmonton Oilers - St. Louis Blues	1.91	4.00	3.00
+10:30 Carolina Hurricanes - Buffalo Sabres	1.80	4.00	3.30
+13:00 Colorado Avalanche - Washington Capitals	1.67	4.20	3.70
+14:00 Seattle Kraken - Pittsburgh Penguins	2.60	3.80	2.20
+19 January 2026	1	X	2
+15:00 Florida Panthers - San Jose Sharks	1.80	4.00	3.25
+16:30 Toronto Maple Leafs - Minnesota Wild	2.38	3.90	2.40
+17:00 Vegas Golden Knights - Philadelphia Flyers	1.70	4.20	3.60
+17:30 Chicago Blackhawks - Winnipeg Jets	2.70	3.90	2.10
+18:00 Calgary Flames - New Jersey Devils	2.50	3.90	2.25
+19:00 Vancouver Canucks - NY Islanders	2.80	3.90	2.05
+19:00 Anaheim Ducks - NY Rangers	2.10	4.00	2.70
+20 January 2026	1	X	2
+16:00 Columbus Blue Jackets - Ottawa Senators	2.38	4.00	2.30
+16:00 Tampa Bay Lightning - San Jose Sharks	1.50	4.40	4.60
+16:00 Montreal Canadiens - Minnesota Wild	2.10	4.00	2.62
+16:30 Dallas Stars - Boston Bruins	2.05	3.90	2.80
+17:00 Winnipeg Jets - St. Louis Blues	2.20	3.90	2.60
+17:00 Nashville Predators - Buffalo Sabres	2.20	3.90	2.60
+19:00 Edmonton Oilers - New Jersey Devils	1.83	4.00	3.20
+19:00 Los Angeles Kings - NY Rangers	1.80	4.00	3.30
+21 January 2026	1	X	2
+16:00 Toronto Maple Leafs - Detroit Red Wings	2.25	3.90	2.50
+18:00 Colorado Avalanche - Anaheim Ducks	1.44	4.50	5.00
+18:00 Utah Mammoth - Philadelphia Flyers	1.85	4.00	3.20
+18:30 Calgary Flames - Pittsburgh Penguins	2.50	3.90	2.25
+18:30 Seattle Kraken - NY Islanders	2.45	3.80	2.30
+19:00 Vancouver Canucks - Washington Capitals	3.10	4.00	1.85
+22 January 2026	1	X	2
+16:00 Carolina Hurricanes - Chicago Blackhawks	1.50	4.40	4.60
+16:00 Columbus Blue Jackets - Dallas Stars	2.38	4.00	2.38
+16:00 Boston Bruins - Vegas Golden Knights	2.80	3.90	2.00
+16:00 Montreal Canadiens - Buffalo Sabres	2.20	4.00	2.50
+17:00 Nashville Predators - Ottawa Senators	2.40	3.90	2.30
+17:00 Winnipeg Jets - Florida Panthers	2.38	3.80	2.40
+18:00 Edmonton Oilers - Pittsburgh Penguins	1.85	4.00	3.10
+18:30 Minnesota Wild - Detroit Red Wings	1.91	4.00	3.00
+23 January 2026	1	X	2
+16:00 Toronto Maple Leafs - Vegas Golden Knights	2.50	3.90	2.25
+16:00 Chicago Blackhawks - Tampa Bay Lightning	4.50	4.20	1.53
+17:00 Dallas Stars - St. Louis Blues	1.85	4.00	3.10
+18:00 Colorado Avalanche - Philadelphia Flyers	1.44	4.50	4.80
+18:00 Calgary Flames - Washington Capitals	2.62	3.90	2.15
+19:00 Seattle Kraken - Anaheim Ducks	2.25	3.90	2.50
+19:00 Vancouver Canucks - New Jersey Devils	2.80	3.90	2.05
+19:00 San Jose Sharks - NY Rangers	2.20	4.00	2.50
+10:00 NY Islanders - Buffalo Sabres	2.38	3.80	2.40
+10:30 Nashville Predators - Utah Mammoth	2.45	3.90	2.25
+24 January 2026	1	X	2
+16:00 Winnipeg Jets - Detroit Red Wings	2.20	3.90	2.60
+16:00 Columbus Blue Jackets - Tampa Bay Lightning	2.50	4.00	2.20
+16:00 Ottawa Senators - Carolina Hurricanes	2.62	3.90	2.15
+16:00 Boston Bruins - Montreal Canadiens	2.30	3.90	2.40
+17:00 St. Louis Blues - Los Angeles Kings	2.70	3.80	2.15
+18:00 Minnesota Wild - Florida Panthers	2.20	3.90	2.50
+19:00 Edmonton Oilers - Washington Capitals	1.85	4.00	3.10
+10:30 Toronto Maple Leafs - Colorado Avalanche	3.25	4.20	1.80
+12:00 Seattle Kraken - New Jersey Devils	2.50	3.90	2.20
+14:00 Ottawa Senators - Vegas Golden Knights	2.62	4.00	2.10
+25 January 2026	1	X	2
+15:00 Vancouver Canucks - Pittsburgh Penguins	2.80	4.00	2.00
+16:00 Chicago Blackhawks - Florida Panthers	2.62	3.90	2.15
+17:00 Calgary Flames - Anaheim Ducks	2.45	3.90	2.30
+26 January 2026	1	X	2
+16:00 NY Rangers - Boston Bruins	2.50	3.90	2.25
+16:00 Philadelphia Flyers - NY Islanders	2.25	3.90	2.50
+16:00 Tampa Bay Lightning - Utah Mammoth	1.91	4.00	3.00
+17:30 Edmonton Oilers - Anaheim Ducks	1.55	4.20	4.40
+27 January 2026	1	X	2
+16:00 Detroit Red Wings - Los Angeles Kings	2.15	3.80	2.62
+16:00 Montreal Canadiens - Vegas Golden Knights	2.45	4.00	2.30
+16:00 Toronto Maple Leafs - Buffalo Sabres	2.25	4.00	2.45
+16:00 Boston Bruins - Nashville Predators	2.30	4.00	2.40
+16:00 New Jersey Devils - Winnipeg Jets	2.20	3.80	2.62
+16:00 Florida Panthers - Utah Mammoth	2.00	3.90	2.88
+17:00 Minnesota Wild - Chicago Blackhawks	1.75	4.00	3.50
+17:00 St. Louis Blues - Dallas Stars	3.00	3.90	1.95
+19:00 Vancouver Canucks - San Jose Sharks	2.60	4.00	2.15
+19:00 Seattle Kraken - Washington Capitals	2.60	3.90	2.20
+28 January 2026	1	X	2
+16:00 NY Islanders - NY Rangers	2.10	3.90	2.75
+16:30 Columbus Blue Jackets - Philadelphia Flyers	2.25	4.00	2.50
+16:30 Ottawa Senators - Colorado Avalanche	2.80	4.00	2.00
+29 January 2026	1	X	2
+16:00 Montreal Canadiens - Colorado Avalanche	2.50	4.00	2.20
+16:00 NY Rangers - NY Islanders	2.75	3.90	2.05
+16:00 New Jersey Devils - Nashville Predators	2.10	3.80	2.75
+16:00 Pittsburgh Penguins - Chicago Blackhawks	1.85	4.00	3.20
+16:00 Boston Bruins - Philadelphia Flyers	2.10	3.80	2.75
+16:00 Tampa Bay Lightning - Winnipeg Jets	1.75	4.00	3.50
+16:00 Buffalo Sabres - Los Angeles Kings	2.20	3.90	2.50
+16:00 Carolina Hurricanes - Utah Mammoth	1.85	4.00	3.10
+16:30 Detroit Red Wings - Washington Capitals	2.10	4.00	2.62
+17:00 Minnesota Wild - Calgary Flames	1.75	4.00	3.40
+17:00 St. Louis Blues - Florida Panthers	2.90	3.90	1.95
+18:00 Edmonton Oilers - San Jose Sharks	1.75	4.20	3.40
+19:00 Seattle Kraken - Toronto Maple Leafs	2.40	4.00	2.30
+19:00 Vancouver Canucks - Anaheim Ducks	2.80	4.00	2.05
+19:00 Vegas Golden Knights - Dallas Stars	2.25	3.90	2.50
+30 January 2026	1	X	2
+17:30 Chicago Blackhawks - Columbus Blue Jackets	2.88	4.00	2.00
+09:30 Philadelphia Flyers - Los Angeles Kings	2.40	3.80	2.38
+10:00 Detroit Red Wings - Colorado Avalanche	2.80	4.00	2.00
+12:30 Pittsburgh Penguins - NY Rangers	1.75	4.00	3.50
+13:00 Florida Panthers - Winnipeg Jets	2.10	3.90	2.75
+13:00 Calgary Flames - San Jose Sharks	2.38	3.90	2.38
+14:00 Washington Capitals - Carolina Hurricanes	3.25	4.00	1.80
+31 January 2026	1	X	2
+16:00 St. Louis Blues - Columbus Blue Jackets	2.30	3.90	2.40
+16:00 Ottawa Senators - New Jersey Devils	1.91	3.90	3.10
+16:00 Vancouver Canucks - Toronto Maple Leafs	2.80	4.00	2.00
+16:00 NY Islanders - Nashville Predators	2.15	3.80	2.62
+16:00 Buffalo Sabres - Montreal Canadiens	2.15	4.00	2.60
+18:00 Utah Mammoth - Dallas Stars	2.30	3.90	2.45
+19:00 Vegas Golden Knights - Seattle Kraken	1.75	4.00	3.50
+19:00 Edmonton Oilers - Minnesota Wild	2.20	4.00	2.50
+12:00 Carolina Hurricanes - Los Angeles Kings	1.85	4.00	3.20
+01 February 2026	1	X	2
+15:30 Tampa Bay Lightning - Boston Bruins	1.75	4.00	3.60
+18:30 Anaheim Ducks - Vegas Golden Knights	2.30	4.00	2.40
+02 February 2026	1	X	2
+16:00 Washington Capitals - NY Islanders	2.15	4.00	2.60
+16:00 Florida Panthers - Buffalo Sabres	2.30	3.90	2.45
+16:00 Pittsburgh Penguins - Ottawa Senators	2.45	3.90	2.30
+16:30 Minnesota Wild - Montreal Canadiens	2.10	3.90	2.62
+17:00 Nashville Predators - St. Louis Blues	2.05	3.90	2.80
+17:30 Dallas Stars - Winnipeg Jets	2.00	3.90	2.90
+17:30 Chicago Blackhawks - San Jose Sharks	2.40	3.90	2.30
+18:00 Colorado Avalanche - Detroit Red Wings	1.75	4.00	3.50
+18:30 Utah Mammoth - Vancouver Canucks	1.57	4.20	4.20
+19:00 Calgary Flames - Toronto Maple Leafs	2.45	4.00	2.25
+03 February 2026	1	X	2
+16:00 Carolina Hurricanes - Ottawa Senators	1.85	4.00	3.20
+16:00 Philadelphia Flyers - Washington Capitals	2.10	3.90	2.70
+16:00 New Jersey Devils - Columbus Blue Jackets	2.38	3.90	2.40
+16:30 NY Islanders - Pittsburgh Penguins	2.40	3.80	2.38
+16:30 Tampa Bay Lightning - Buffalo Sabres	1.75	4.00	3.40
+17:30 Edmonton Oilers - Toronto Maple Leafs	1.80	4.20	3.20
+19:00 Anaheim Ducks - Seattle Kraken	2.10	4.00	2.70
+04 February 2026	1	X	2
+16:00 Florida Panthers - Boston Bruins	1.95	4.00	2.90
+16:00 Columbus Blue Jackets - Chicago Blackhawks	2.00	3.90	2.90
+16:00 Winnipeg Jets - Montreal Canadiens	2.25	3.90	2.50
+17:00 Nashville Predators - Minnesota Wild	2.50	4.00	2.20
+18:00 Colorado Avalanche - San Jose Sharks	1.53	4.20	4.60
+18:00 Utah Mammoth - Detroit Red Wings	2.10	3.90	2.70
+18:30 Dallas Stars - St. Louis Blues	1.70	4.00	3.60
+19:00 Calgary Flames - Edmonton Oilers	2.70	4.00	2.10
+19:00 Vegas Golden Knights - Vancouver Canucks	1.50	4.50	4.60
+19:00 Los Angeles Kings - Seattle Kraken	1.85	3.90	3.25
+05 February 2026	1	X	2
+16:00 NY Rangers - Carolina Hurricanes	3.60	4.20	1.70
+16:00 Philadelphia Flyers - Ottawa Senators	2.62	3.90	2.15
+16:00 Buffalo Sabres - Pittsburgh Penguins	2.20	4.00	2.50
+16:00 Washington Capitals - Nashville Predators	1.91	4.00	3.00
+16:00 New Jersey Devils - NY Islanders	2.38	3.80	2.40
+16:30 Tampa Bay Lightning - Florida Panthers	1.75	4.00	3.40
+19:00 Vegas Golden Knights - Los Angeles Kings	2.15	3.80	2.70
+25 February 2026	1	X	2
+16:00 New Jersey Devils - Buffalo Sabres	2.38	3.90	2.40
+16:00 Washington Capitals - Philadelphia Flyers	2.00	3.90	2.90
+16:30 Tampa Bay Lightning - Toronto Maple Leafs	1.67	4.20	3.75
+17:00 Dallas Stars - Seattle Kraken	1.85	3.90	3.10
+18:00 Utah Mammoth - Colorado Avalanche	2.50	3.90	2.20
+19:00 Vancouver Canucks - Winnipeg Jets	2.62	4.00	2.15
+19:00 Los Angeles Kings - Vegas Golden Knights	1.95	3.90	3.00
+19:30 Anaheim Ducks - Edmonton Oilers	2.50	4.00	2.20
+26 February 2026	1	X	2
+16:00 Florida Panthers - Toronto Maple Leafs	1.95	4.00	2.90
+16:00 Boston Bruins - Columbus Blue Jackets	2.30	3.90	2.40
+16:00 Carolina Hurricanes - Tampa Bay Lightning	2.00	3.90	2.88
+16:00 Ottawa Senators - Detroit Red Wings	1.95	3.90	2.90
+16:00 Montreal Canadiens - NY Islanders	2.00	3.90	2.80
+16:00 Pittsburgh Penguins - New Jersey Devils	1.95	3.90	3.00
+17:00 NY Rangers - Philadelphia Flyers	2.10	3.90	2.75
+17:00 Nashville Predators - Chicago Blackhawks	1.85	4.00	3.10
+17:00 St. Louis Blues - Seattle Kraken	2.10	3.90	2.75
+18:00 Colorado Avalanche - Minnesota Wild	1.95	4.00	2.90
+19:00 San Jose Sharks - Calgary Flames	2.15	3.90	2.62
+19:30 Los Angeles Kings - Edmonton Oilers	2.38	3.90	2.38
+27 February 2026	1	X	2
+16:00 Washington Capitals - Vegas Golden Knights	2.30	3.90	2.45
+16:00 Florida Panthers - Buffalo Sabres	2.30	3.90	2.45
+18:00 Utah Mammoth - Minnesota Wild	2.10	4.00	2.70
+19:00 Anaheim Ducks - Winnipeg Jets	2.15	3.90	2.62
+09:30 NY Rangers - Pittsburgh Penguins	2.60	3.90	2.20
+12:00 Philadelphia Flyers - Boston Bruins	2.25	3.90	2.50
+13:00 San Jose Sharks - Edmonton Oilers	2.90	4.00	1.95
+14:00 St. Louis Blues - New Jersey Devils	2.40	3.80	2.38
+28 February 2026	1	X	2
+15:00 Colorado Avalanche - Chicago Blackhawks	1.40	4.60	5.50
+15:00 Columbus Blue Jackets - NY Islanders	2.10	3.90	2.75
+16:00 Tampa Bay Lightning - Buffalo Sabres	1.60	4.20	4.00
+16:00 Toronto Maple Leafs - Ottawa Senators	2.50	4.00	2.20
+16:00 Los Angeles Kings - Calgary Flames	2.00	3.90	2.90
+16:00 Carolina Hurricanes - Detroit Red Wings	1.80	4.00	3.40
+16:00 Montreal Canadiens - Washington Capitals	1.91	4.00	2.90
+17:00 Dallas Stars - Nashville Predators	2.00	3.90	2.90
+19:00 Seattle Kraken - Vancouver Canucks	1.91	4.00	3.00
+10:00 Pittsburgh Penguins - Vegas Golden Knights	2.88	4.00	2.00
+13:00 San Jose Sharks - Winnipeg Jets	2.45	3.90	2.30
+13:00 Utah Mammoth - Chicago Blackhawks	1.50	4.40	4.75
+14:00 Minnesota Wild - St. Louis Blues	1.67	4.20	3.75
+01 March 2026	1	X	2
+15:30 NY Islanders - Florida Panthers	2.88	3.90	2.00
+17:00 Anaheim Ducks - Calgary Flames	1.80	4.00	3.30
+11:00 Nashville Predators - Detroit Red Wings	2.38	3.90	2.38
+02 March 2026	1	X	2
+16:00 NY Rangers - Columbus Blue Jackets	2.50	3.90	2.25
+16:30 Toronto Maple Leafs - Philadelphia Flyers	2.15	3.90	2.62
+19:00 Vancouver Canucks - Dallas Stars	3.50	4.00	1.75
+19:00 Seattle Kraken - Carolina Hurricanes	3.25	4.00	1.83
+19:30 Los Angeles Kings - Colorado Avalanche	3.20	4.00	1.85
+03 March 2026	1	X	2
+16:00 Boston Bruins - Pittsburgh Penguins	2.20	3.90	2.50
+16:00 New Jersey Devils - Florida Panthers	2.45	3.90	2.30
+16:00 Columbus Blue Jackets - Nashville Predators	2.10	3.90	2.75
+16:00 Buffalo Sabres - Vegas Golden Knights	2.05	3.90	2.80
+16:00 Washington Capitals - Utah Mammoth	2.25	3.90	2.50
+17:00 Winnipeg Jets - Chicago Blackhawks	1.95	3.90	3.00
+18:00 Edmonton Oilers - Ottawa Senators	2.25	4.00	2.45
+18:00 Calgary Flames - Dallas Stars	2.60	3.80	2.15
+18:30 Minnesota Wild - Tampa Bay Lightning	2.75	3.90	2.10
+19:00 San Jose Sharks - Montreal Canadiens	2.62	4.00	2.10
+19:00 Anaheim Ducks - Colorado Avalanche	2.88	4.00	2.00
+04 March 2026	1	X	2
+16:00 New Jersey Devils - Toronto Maple Leafs	2.25	3.80	2.50
+16:00 Detroit Red Wings - Vegas Golden Knights	2.15	3.90	2.62
+19:00 Vancouver Canucks - Carolina Hurricanes	5.00	4.60	1.44
+19:00 Seattle Kraken - St. Louis Blues	2.05	3.90	2.80
+19:00 Anaheim Ducks - NY Islanders	2.45	4.00	2.30
+05 March 2026	1	X	2
+16:00 Pittsburgh Penguins - Buffalo Sabres	2.40	3.90	2.30
+16:00 Columbus Blue Jackets - Florida Panthers	2.30	4.00	2.40
+16:00 NY Rangers - Toronto Maple Leafs	2.15	3.90	2.60
+16:00 Philadelphia Flyers - Utah Mammoth	2.50	3.90	2.20
+17:00 Nashville Predators - Boston Bruins	2.45	4.00	2.30
+17:00 Winnipeg Jets - Tampa Bay Lightning	3.30	4.00	1.75
+18:00 Calgary Flames - Ottawa Senators	3.10	4.00	1.85
+18:30 Los Angeles Kings - NY Islanders	2.15	3.80	2.70
+06 March 2026	1	X	2
+16:00 Detroit Red Wings - Florida Panthers	1.95	4.00	2.90
+17:00 Dallas Stars - Colorado Avalanche	2.50	3.90	2.25
+17:30 Chicago Blackhawks - Vancouver Canucks	1.95	3.90	2.90
+18:00 Anaheim Ducks - Montreal Canadiens	2.30	4.00	2.38
+18:00 Edmonton Oilers - Carolina Hurricanes	2.40	4.00	2.30
+19:00 Vegas Golden Knights - Minnesota Wild	2.38	3.90	2.38
+19:00 San Jose Sharks - St. Louis Blues	2.10	3.90	2.75
+09:30 Boston Bruins - Washington Capitals	2.15	3.80	2.62
+12:00 New Jersey Devils - NY Rangers	1.91	3.90	3.00
+14:30 Buffalo Sabres - Nashville Predators	1.75	4.00	3.30
+14:30 Pittsburgh Penguins - Philadelphia Flyers	2.05	3.90	2.75
+07 March 2026	1	X	2
+16:00 Toronto Maple Leafs - Tampa Bay Lightning	3.50	4.20	1.75
+16:00 Los Angeles Kings - Montreal Canadiens	2.25	3.90	2.50
+16:00 Winnipeg Jets - Vancouver Canucks	1.55	4.20	4.40
+16:00 Columbus Blue Jackets - Utah Mammoth	2.45	3.90	2.30
+19:00 Calgary Flames - Carolina Hurricanes	3.90	4.00	1.65
+19:00 San Jose Sharks - NY Islanders	2.62	3.90	2.15
+19:00 Seattle Kraken - Ottawa Senators	2.90	3.90	2.00
+11:00 Colorado Avalanche - Minnesota Wild	1.80	4.00	3.25
+13:30 Pittsburgh Penguins - Boston Bruins	2.20	3.90	2.45
+15:00 Dallas Stars - Chicago Blackhawks	1.50	4.40	4.60
+15:00 Buffalo Sabres - Tampa Bay Lightning	2.40	3.90	2.25
+08 March 2026	1	X	2
+16:00 New Jersey Devils - Detroit Red Wings	2.40	3.80	2.30
+18:00 Anaheim Ducks - St. Louis Blues	1.85	4.00	3.00
+18:30 Vegas Golden Knights - Edmonton Oilers	2.30	4.00	2.38
+13:00 Columbus Blue Jackets - Los Angeles Kings	1.95	4.00	2.88
+09 March 2026	1	X	2
+16:00 Washington Capitals - Calgary Flames	1.80	4.00	3.40
+16:00 Philadelphia Flyers - NY Rangers	2.05	3.80	2.75
+17:30 Chicago Blackhawks - Utah Mammoth	3.75	4.20	1.67
+18:00 Vancouver Canucks - Ottawa Senators	3.75	4.20	1.65
+10 March 2026	1	X	2
+16:00 Buffalo Sabres - San Jose Sharks	1.75	4.20	3.50
+16:00 NY Rangers - Calgary Flames	2.20	4.00	2.50
+16:00 Boston Bruins - Los Angeles Kings	1.95	4.00	2.80
+16:00 Montreal Canadiens - Toronto Maple Leafs	1.85	4.00	3.10
+16:00 Carolina Hurricanes - Pittsburgh Penguins	1.70	4.00	3.60
+16:00 Florida Panthers - Detroit Red Wings	2.30	3.80	2.40
+16:00 Tampa Bay Lightning - Columbus Blue Jackets	1.62	4.33	3.90
+16:30 St. Louis Blues - NY Islanders	2.60	3.80	2.15
+17:00 Dallas Stars - Vegas Golden Knights	2.00	3.90	2.90
+17:00 Minnesota Wild - Utah Mammoth	1.95	3.90	2.90
+17:30 Winnipeg Jets - Anaheim Ducks	2.10	3.90	2.70
+19:00 Colorado Avalanche - Edmonton Oilers	1.80	4.00	3.10
+19:00 Seattle Kraken - Nashville Predators	2.38	3.90	2.38
+11 March 2026	1	X	2
+16:30 Ottawa Senators - Montreal Canadiens	1.80	4.00	3.30
+16:30 Philadelphia Flyers - Washington Capitals	2.60	3.80	2.20
+12 March 2026	1	X	2
+16:00 Toronto Maple Leafs - Anaheim Ducks	2.30	4.00	2.45
+16:00 New Jersey Devils - Calgary Flames	1.83	3.90	3.25
+16:00 Carolina Hurricanes - St. Louis Blues	1.57	4.33	4.20
+16:00 Tampa Bay Lightning - Detroit Red Wings	1.65	4.00	3.80
+16:00 Buffalo Sabres - Washington Capitals	1.67	4.20	3.60
+16:00 Florida Panthers - Columbus Blue Jackets	2.50	3.90	2.25
+16:00 Boston Bruins - San Jose Sharks	1.95	4.00	2.90
+17:00 Winnipeg Jets - NY Rangers	1.95	3.90	3.00
+17:00 Minnesota Wild - Philadelphia Flyers	1.67	4.20	3.75
+17:00 Dallas Stars - Edmonton Oilers	2.10	4.00	2.50
+18:00 Utah Mammoth - Chicago Blackhawks	1.67	4.00	3.80
+19:00 Vegas Golden Knights - Pittsburgh Penguins	1.91	4.00	3.00
+19:00 Seattle Kraken - Colorado Avalanche	3.60	4.20	1.70
+19:00 Vancouver Canucks - Nashville Predators	3.00	3.90	1.91
+13 March 2026	1	X	2
+16:00 NY Islanders - Los Angeles Kings	2.05	3.80	2.75
+17:00 St. Louis Blues - Edmonton Oilers	2.80	4.00	2.00
+10:00 Ottawa Senators - Anaheim Ducks	1.85	4.00	3.00
+12:00 Washington Capitals - Boston Bruins	2.15	3.90	2.62
+13:00 Winnipeg Jets - Colorado Avalanche	3.30	4.00	1.80
+15:00 Minnesota Wild - NY Rangers	1.73	4.00	3.50
+14 March 2026	1	X	2
+16:00 NY Islanders - Calgary Flames	2.05	3.90	2.80
+16:00 Buffalo Sabres - Toronto Maple Leafs	1.62	4.20	3.90
+16:00 New Jersey Devils - Los Angeles Kings	2.00	3.80	2.90
+16:00 Montreal Canadiens - San Jose Sharks	1.91	4.00	3.00
+16:00 Tampa Bay Lightning - Carolina Hurricanes	2.20	4.20	2.40
+16:30 Philadelphia Flyers - Columbus Blue Jackets	2.70	3.80	2.10
+17:00 Dallas Stars - Detroit Red Wings	1.80	4.00	3.30
+18:00 Utah Mammoth - Pittsburgh Penguins	1.95	3.90	2.88
+19:00 Vegas Golden Knights - Chicago Blackhawks	1.62	4.20	3.80
+19:00 Vancouver Canucks - Seattle Kraken	2.75	3.90	2.10
+12:00 Winnipeg Jets - St. Louis Blues	2.38	3.80	2.45
+14:00 Ottawa Senators - San Jose Sharks	1.67	4.60	3.50
+15 March 2026	1	X	2
+16:00 Montreal Canadiens - Anaheim Ducks	1.95	4.00	2.80
+16:30 Minnesota Wild - Toronto Maple Leafs	1.60	4.20	4.00
+17:00 Edmonton Oilers - Nashville Predators	1.80	4.20	3.10
+17:00 Seattle Kraken - Florida Panthers	2.50	3.80	2.20
+16 March 2026	1	X	2
+16:00 Detroit Red Wings - Calgary Flames	1.80	4.00	3.30
+16:00 New Jersey Devils - Boston Bruins	2.20	3.90	2.60
+16:00 NY Rangers - Los Angeles Kings	2.38	3.80	2.38
+17:00 Dallas Stars - Utah Mammoth	1.95	3.90	3.00
+18:30 Colorado Avalanche - Pittsburgh Penguins	1.65	4.20	3.80
+17 March 2026	1	X	2
+16:00 Montreal Canadiens - Boston Bruins	1.95	3.90	2.90
+16:00 Toronto Maple Leafs - NY Islanders	2.88	3.90	2.05
+16:00 Columbus Blue Jackets - Carolina Hurricanes	2.50	4.00	2.20
+16:30 Chicago Blackhawks - Minnesota Wild	3.00	3.90	1.91
+17:00 Winnipeg Jets - Nashville Predators	2.10	4.00	2.50
+18:00 Edmonton Oilers - San Jose Sharks	1.85	4.20	3.10
+19:00 Vegas Golden Knights - Buffalo Sabres	2.10	4.20	2.50
+19:00 Vancouver Canucks - Florida Panthers	2.90	3.90	1.95
+19:00 Seattle Kraken - Tampa Bay Lightning	3.25	4.00	1.80
+18 March 2026	1	X	2
+16:00 NY Rangers - New Jersey Devils	2.50	3.90	2.20
+16:00 Carolina Hurricanes - Pittsburgh Penguins	2.05	4.00	2.80
+16:30 Washington Capitals - Ottawa Senators	2.62	4.20	2.05
+18:30 Colorado Avalanche - Dallas Stars	2.00	4.00	2.70
+18:30 Calgary Flames - St. Louis Blues	2.50	4.00	2.15
+19:00 Anaheim Ducks - Philadelphia Flyers	2.00	4.00	2.80
+19 March 2026	1	X	2
+16:00 Ottawa Senators - NY Islanders	2.15	3.90	2.62
+16:00 Columbus Blue Jackets - NY Rangers	1.70	4.20	3.60
+16:00 Boston Bruins - Winnipeg Jets	2.10	3.90	2.70
+16:00 Detroit Red Wings - Montreal Canadiens	2.40	3.90	2.38
+16:30 Minnesota Wild - Chicago Blackhawks	1.75	4.20	3.50
+17:00 Nashville Predators - Seattle Kraken	2.20	3.90	2.50
+18:00 Edmonton Oilers - Florida Panthers	1.95	4.00	2.90
+19:00 San Jose Sharks - Buffalo Sabres	2.75	4.00	2.05
+19:00 Vancouver Canucks - Tampa Bay Lightning	4.80	4.50	1.44
+19:00 Vegas Golden Knights - Utah Mammoth	2.15	3.90	2.62
+19:30 Los Angeles Kings - Philadelphia Flyers	1.85	4.00	3.20
+20 March 2026	1	X	2
+16:00 Toronto Maple Leafs - Carolina Hurricanes	3.60	4.20	1.70
+16:00 Washington Capitals - New Jersey Devils	2.15	3.90	2.62
+17:30 Chicago Blackhawks - Colorado Avalanche	5.50	4.60	1.40
+18:00 Calgary Flames - Florida Panthers	2.38	3.90	2.40
+19:00 Utah Mammoth - Anaheim Ducks	2.00	4.20	2.80
+10:00 Pittsburgh Penguins - Winnipeg Jets	1.95	4.00	2.90
+11:00 Nashville Predators - Vegas Golden Knights	2.80	4.00	2.00
+13:00 Los Angeles Kings - Buffalo Sabres	2.50	3.90	2.20
+13:00 Minnesota Wild - Dallas Stars	2.62	3.90	2.10
+13:00 San Jose Sharks - Philadelphia Flyers	2.30	3.90	2.45
+14:00 Columbus Blue Jackets - Seattle Kraken	1.85	4.00	3.20
+21 March 2026	1	X	2
+16:00 Vancouver Canucks - St. Louis Blues	2.80	3.90	2.05
+16:00 Montreal Canadiens - NY Islanders	2.20	3.90	2.50
+16:00 Ottawa Senators - Toronto Maple Leafs	1.50	4.40	4.60
+17:00 Detroit Red Wings - Boston Bruins	2.25	4.00	2.50
+19:00 Edmonton Oilers - Tampa Bay Lightning	2.60	4.00	2.10
+09:00 NY Rangers - Winnipeg Jets	2.25	3.80	2.50
+09:30 Washington Capitals - Colorado Avalanche	3.00	4.00	1.91
+12:00 Pittsburgh Penguins - Carolina Hurricanes	2.75	4.00	2.05
+12:00 Chicago Blackhawks - Nashville Predators	2.38	3.90	2.38
+22 March 2026	1	X	2
+16:00 NY Islanders - Columbus Blue Jackets	2.50	4.00	2.20
+16:00 Dallas Stars - Vegas Golden Knights	2.05	3.90	2.80
+17:00 Anaheim Ducks - Buffalo Sabres	2.40	4.00	2.30
+17:00 Calgary Flames - Tampa Bay Lightning	3.10	4.00	1.85
+18:00 Utah Mammoth - Los Angeles Kings	1.85	4.00	3.10
+23 March 2026	1	X	2
+16:30 NY Rangers - Ottawa Senators	3.30	4.00	1.80
+24 March 2026	1	X	2
+16:00 Detroit Red Wings - Ottawa Senators	2.20	3.90	2.60
+16:00 Boston Bruins - Toronto Maple Leafs	1.80	4.00	3.40
+16:00 NY Islanders - Chicago Blackhawks	1.91	4.00	3.00
+16:00 Pittsburgh Penguins - Colorado Avalanche	3.00	4.00	1.85
+16:00 Florida Panthers - Seattle Kraken	2.15	3.90	2.62
+16:00 Philadelphia Flyers - Columbus Blue Jackets	2.70	3.90	2.10
+16:00 Montreal Canadiens - Carolina Hurricanes	2.62	4.00	2.15
+16:30 Tampa Bay Lightning - Minnesota Wild	1.95	4.00	2.90
+17:00 Winnipeg Jets - Vegas Golden Knights	2.62	3.90	2.15
+17:00 St. Louis Blues - Washington Capitals	2.38	3.80	2.38
+17:00 Dallas Stars - New Jersey Devils	1.95	3.90	2.90
+17:00 Nashville Predators - San Jose Sharks	2.10	3.90	2.70
+18:00 Calgary Flames - Los Angeles Kings	2.75	3.90	2.10
+18:30 Utah Mammoth - Edmonton Oilers	2.15	3.90	2.62
+19:00 Vancouver Canucks - Anaheim Ducks	3.20	4.20	1.80
+25 March 2026	1	X	2
+16:30 Buffalo Sabres - Boston Bruins	1.75	4.20	3.50
+16:30 Toronto Maple Leafs - NY Rangers	2.60	3.90	2.20
+26 March 2026	1	X	2
+16:00 Philadelphia Flyers - Chicago Blackhawks	2.05	3.90	2.80
+16:00 NY Islanders - Dallas Stars	2.60	3.80	2.20
+16:00 Tampa Bay Lightning - Seattle Kraken	1.50	4.40	4.60
+16:00 Florida Panthers - Minnesota Wild	2.90	4.00	1.95
+16:00 Montreal Canadiens - Columbus Blue Jackets	2.25	3.90	2.45
+16:00 Ottawa Senators - Pittsburgh Penguins	2.05	3.90	2.80
+17:00 St. Louis Blues - San Jose Sharks	2.10	4.00	2.62
+17:00 Nashville Predators - New Jersey Devils	2.38	3.90	2.38
+17:00 Winnipeg Jets - Colorado Avalanche	3.20	4.00	1.83
+18:00 Calgary Flames - Anaheim Ducks	2.62	4.00	2.10
+18:00 Utah Mammoth - Washington Capitals	2.15	3.90	2.62
+18:30 Vegas Golden Knights - Edmonton Oilers	2.10	4.00	2.62
+19:00 Vancouver Canucks - Los Angeles Kings	3.20	4.00	1.85
+27 March 2026	1	X	2
+16:00 Buffalo Sabres - Detroit Red Wings	2.05	3.90	2.80
+16:00 NY Rangers - Chicago Blackhawks	1.85	3.90	3.20
+10:00 NY Islanders - Florida Panthers	1.80	4.00	3.40
+10:00 Tampa Bay Lightning - Ottawa Senators	2.05	3.90	2.80
+12:30 Edmonton Oilers - Anaheim Ducks	2.00	4.00	2.80
+14:00 Carolina Hurricanes - New Jersey Devils	1.70	4.00	3.70
+14:00 Pittsburgh Penguins - Dallas Stars	2.75	3.80	2.10
+14:00 Boston Bruins - Minnesota Wild	2.50	3.80	2.25
+14:00 Columbus Blue Jackets - San Jose Sharks	1.75	4.00	3.50
+14:30 Buffalo Sabres - Seattle Kraken	1.75	4.00	3.40
+28 March 2026	1	X	2
+16:00 Colorado Avalanche - Winnipeg Jets	1.57	4.20	4.20
+16:00 Nashville Predators - Montreal Canadiens	2.50	3.90	2.25
+16:00 St. Louis Blues - Toronto Maple Leafs	2.05	3.80	2.80
+17:00 Detroit Red Wings - Philadelphia Flyers	2.10	3.90	2.75
+18:00 Los Angeles Kings - Utah Mammoth	2.30	3.80	2.45
+19:00 Calgary Flames - Vancouver Canucks	1.91	3.90	3.00
+19:30 Vegas Golden Knights - Washington Capitals	2.00	3.90	2.90
+10:00 NY Rangers - Florida Panthers	1.85	4.00	3.10
+14:00 Columbus Blue Jackets - Boston Bruins	1.91	4.00	3.00
+14:00 Tampa Bay Lightning - Nashville Predators	1.80	4.00	3.30
+14:00 Carolina Hurricanes - Montreal Canadiens	1.85	4.00	3.10
+29 March 2026	1	X	2
+16:00 Philadelphia Flyers - Dallas Stars	3.10	3.90	1.85
+16:00 New Jersey Devils - Chicago Blackhawks	1.91	3.90	3.10
+30 March 2026	1	X	2
+16:00 NY Islanders - Pittsburgh Penguins	2.20	3.90	2.60
+17:30 Colorado Avalanche - Calgary Flames	1.40	4.75	5.50
+19:00 Vegas Golden Knights - Vancouver Canucks	1.40	4.60	5.50
+19:00 Anaheim Ducks - Toronto Maple Leafs	1.80	4.20	3.25
+19:00 San Jose Sharks - St. Louis Blues	2.38	3.90	2.40
+31 March 2026	1	X	2
+16:00 NY Rangers - New Jersey Devils	2.50	3.90	2.20
+16:00 Buffalo Sabres - NY Islanders	1.85	4.00	3.10
+16:00 Boston Bruins - Dallas Stars	2.62	3.90	2.15
+16:00 Pittsburgh Penguins - Detroit Red Wings	2.40	3.90	2.30
+16:00 Tampa Bay Lightning - Montreal Canadiens	1.85	4.00	3.10
+16:00 Washington Capitals - Philadelphia Flyers	2.20	3.80	2.60
+16:00 Florida Panthers - Ottawa Senators	3.20	4.00	1.85
+16:30 Columbus Blue Jackets - Carolina Hurricanes	2.62	3.90	2.15
+17:30 Chicago Blackhawks - Winnipeg Jets	2.80	3.90	2.00
+18:00 Edmonton Oilers - Seattle Kraken	1.80	4.20	3.20
+01 April 2026	1	X	2
+17:30 Colorado Avalanche - Vancouver Canucks	1.35	4.80	6.00
+18:00 Los Angeles Kings - St. Louis Blues	2.05	3.80	2.80
+18:00 San Jose Sharks - Anaheim Ducks	2.30	4.00	2.38
+02 April 2026	1	X	2
+16:00 Tampa Bay Lightning - Pittsburgh Penguins	1.85	4.00	3.00
+16:00 Carolina Hurricanes - Columbus Blue Jackets	1.80	4.00	3.25
+16:00 Ottawa Senators - Buffalo Sabres	2.30	3.90	2.45
+16:00 NY Rangers - Montreal Canadiens	2.50	3.90	2.20
+16:00 Florida Panthers - Boston Bruins	3.00	4.00	1.91
+16:00 Philadelphia Flyers - Detroit Red Wings	2.45	3.80	2.30
+16:30 New Jersey Devils - Washington Capitals	2.40	3.90	2.38
+17:00 Minnesota Wild - Vancouver Canucks	1.36	5.00	6.00
+17:00 Dallas Stars - Winnipeg Jets	1.95	3.90	3.00
+18:00 Edmonton Oilers - Chicago Blackhawks	1.70	4.20	3.50
+19:00 San Jose Sharks - Toronto Maple Leafs	2.10	4.00	2.62
+19:00 Vegas Golden Knights - Calgary Flames	1.60	4.20	4.00
+19:00 Seattle Kraken - Utah Mammoth	2.70	3.90	2.10
+19:30 Los Angeles Kings - Nashville Predators	2.25	3.80	2.50
+03 April 2026	1	X	2
+16:00 NY Islanders - Philadelphia Flyers	2.05	3.90	2.80
+19:00 Anaheim Ducks - St. Louis Blues	2.10	3.90	2.70
+09:30 NY Rangers - Detroit Red Wings	2.75	3.90	2.10
+10:00 Ottawa Senators - Minnesota Wild	2.30	3.90	2.45
+12:00 Dallas Stars - Colorado Avalanche	2.45	4.00	2.25
+14:00 Pittsburgh Penguins - Florida Panthers	1.67	4.20	3.70
+14:00 Tampa Bay Lightning - Boston Bruins	1.80	4.00	3.20
+04 April 2026	1	X	2
+16:00 Columbus Blue Jackets - Winnipeg Jets	2.05	4.00	2.70
+16:00 Carolina Hurricanes - NY Islanders	1.60	4.40	4.00
+16:00 Los Angeles Kings - Toronto Maple Leafs	1.80	4.00	3.40
+16:00 Washington Capitals - Buffalo Sabres	2.30	4.00	2.38
+16:00 New Jersey Devils - Montreal Canadiens	2.50	3.90	2.20
+16:00 Vancouver Canucks - Utah Mammoth	3.60	4.20	1.67
+19:00 Seattle Kraken - Chicago Blackhawks	1.85	4.00	3.00
+19:00 San Jose Sharks - Nashville Predators	2.30	3.90	2.45
+19:00 Anaheim Ducks - Calgary Flames	2.00	4.00	2.80
+19:00 Edmonton Oilers - Vegas Golden Knights	2.38	3.90	2.38
+10:00 Detroit Red Wings - Minnesota Wild	2.50	3.90	2.25
+12:00 Pittsburgh Penguins - Florida Panthers	1.65	4.20	3.80
+12:30 Philadelphia Flyers - Boston Bruins	2.00	4.00	2.80
+14:00 Ottawa Senators - Carolina Hurricanes	2.50	3.90	2.20
+05 April 2026	1	X	2
+16:00 Montreal Canadiens - New Jersey Devils	2.00	4.00	2.80
+16:00 NY Rangers - Washington Capitals	2.38	3.90	2.38
+18:30 Colorado Avalanche - St. Louis Blues	1.75	4.00	3.50
+06 April 2026	1	X	2
+16:00 Buffalo Sabres - Tampa Bay Lightning	2.45	4.00	2.25
+16:30 Winnipeg Jets - Seattle Kraken	1.85	4.00	3.00
+19:00 San Jose Sharks - Chicago Blackhawks	1.85	4.00	3.00
+19:30 Los Angeles Kings - Nashville Predators	2.15	3.80	2.70
+07 April 2026	1	X	2
+16:00 Detroit Red Wings - Columbus Blue Jackets	2.38	3.90	2.40
+16:00 Carolina Hurricanes - Boston Bruins	1.80	4.00	3.30
+16:00 Ottawa Senators - Tampa Bay Lightning	2.10	3.90	2.62
+16:00 Montreal Canadiens - Florida Panthers	1.55	4.20	4.20
+16:00 New Jersey Devils - Philadelphia Flyers	2.25	3.80	2.50
+17:00 Dallas Stars - Calgary Flames	1.62	4.20	4.00
+17:00 St. Louis Blues - Colorado Avalanche	2.90	4.00	1.95
+17:00 Minnesota Wild - Seattle Kraken	1.60	4.20	4.00
+18:30 Utah Mammoth - Edmonton Oilers	2.10	4.00	2.62
+19:00 Anaheim Ducks - Nashville Predators	2.00	4.00	2.80
+19:00 Vancouver Canucks - Vegas Golden Knights	4.00	4.50	1.60
+08 April 2026	1	X	2
+16:00 NY Rangers - Buffalo Sabres	2.80	4.00	2.05
+16:30 Toronto Maple Leafs - Washington Capitals	2.90	4.00	1.95
+19:00 San Jose Sharks - Edmonton Oilers	2.45	4.00	2.25
+09 April 2026	1	X	2
+15:45 NY Islanders - Toronto Maple Leafs	1.50	4.50	4.80
+16:00 Detroit Red Wings - Philadelphia Flyers	2.30	3.90	2.45
+16:00 Buffalo Sabres - Columbus Blue Jackets	2.38	3.90	2.38
+16:00 New Jersey Devils - Pittsburgh Penguins	2.30	4.00	2.38
+16:00 Montreal Canadiens - Tampa Bay Lightning	2.45	3.90	2.30
+16:00 Ottawa Senators - Florida Panthers	1.44	4.60	5.00
+17:00 St. Louis Blues - Winnipeg Jets	2.40	3.80	2.38
+17:30 Chicago Blackhawks - Carolina Hurricanes	3.10	4.00	1.85
+18:00 Dallas Stars - Minnesota Wild	2.25	3.90	2.50
+18:00 Colorado Avalanche - Calgary Flames	1.44	4.60	5.00
+18:00 Utah Mammoth - Nashville Predators	1.85	4.00	3.00
+19:00 Anaheim Ducks - San Jose Sharks	1.85	4.20	2.90
+19:00 Seattle Kraken - Vegas Golden Knights	3.25	4.00	1.80
+19:30 Los Angeles Kings - Vancouver Canucks	1.53	4.40	4.50
+11 April 2026	1	X	2
+09:30 Boston Bruins - Tampa Bay Lightning	2.45	3.90	2.30
+10:00 NY Islanders - Ottawa Senators	2.62	3.90	2.15
+12:00 Pittsburgh Penguins - Washington Capitals	2.80	4.00	2.05
+13:00 Los Angeles Kings - Edmonton Oilers	2.38	3.90	2.40
+14:00 Chicago Blackhawks - St. Louis Blues	2.80	3.90	2.05
+14:00 Nashville Predators - Minnesota Wild	2.45	3.90	2.30
+14:00 Detroit Red Wings - New Jersey Devils	2.10	4.00	2.70
+14:00 Dallas Stars - NY Rangers	1.80	4.00	3.30
+14:00 Utah Mammoth - Carolina Hurricanes	2.20	4.00	2.60
+16:00 Toronto Maple Leafs - Florida Panthers	2.05	4.00	2.75
+16:00 Winnipeg Jets - Philadelphia Flyers	2.20	3.80	2.50
+16:00 Seattle Kraken - Calgary Flames	2.15	3.90	2.62
+16:00 Montreal Canadiens - Columbus Blue Jackets	2.10	3.90	2.70
+17:00 Colorado Avalanche - Vegas Golden Knights	2.15	3.90	2.62
+19:00 San Jose Sharks - Vancouver Canucks	1.70	4.20	3.50
+12:00 Washington Capitals - Pittsburgh Penguins	2.00	4.00	2.80
+12 April 2026	1	X	2
+15:00 Columbus Blue Jackets - Boston Bruins	1.75	4.20	3.30
+15:00 NY Islanders - Montreal Canadiens	2.30	4.00	2.40
+16:00 New Jersey Devils - Ottawa Senators	2.38	4.00	2.38
+17:00 Anaheim Ducks - Vancouver Canucks	1.50	4.75	4.60
+18:00 Calgary Flames - Utah Mammoth	3.00	4.00	1.91
+13 April 2026	1	X	2
+16:00 Tampa Bay Lightning - Detroit Red Wings	1.75	4.00	3.40
+16:00 Florida Panthers - NY Rangers	2.88	4.00	2.00
+16:00 Philadelphia Flyers - Carolina Hurricanes	1.91	4.00	3.00
+16:30 Toronto Maple Leafs - Dallas Stars	3.25	4.20	1.80
+17:00 St. Louis Blues - Minnesota Wild	1.80	4.00	3.25
+17:00 Nashville Predators - San Jose Sharks	2.00	4.00	2.80
+17:30 Chicago Blackhawks - Buffalo Sabres	3.50	4.20	1.75
+18:30 Edmonton Oilers - Colorado Avalanche	2.45	4.00	2.25
+18:30 Seattle Kraken - Los Angeles Kings	3.00	3.90	1.91
+19:00 Vegas Golden Knights - Winnipeg Jets	1.85	4.00	3.10
+14 April 2026	1	X	2
+16:00 Columbus Blue Jackets - Washington Capitals	2.05	4.00	2.70
+16:00 Boston Bruins - New Jersey Devils	2.00	4.00	2.88
+16:00 Philadelphia Flyers - Montreal Canadiens	4.00	4.50	1.60
+16:00 NY Islanders - Carolina Hurricanes	1.91	4.00	2.90
+17:00 Minnesota Wild - Anaheim Ducks	3.00	4.00	1.85
+18:00 Calgary Flames - Colorado Avalanche	2.80	4.00	2.00
+18:00 Utah Mammoth - Winnipeg Jets	1.75	4.00	3.40
+18:30 St. Louis Blues - Pittsburgh Penguins	1.83	4.00	3.20
+19:00 Vancouver Canucks - Los Angeles Kings	2.90	4.00	1.91
+15 April 2026	1	X	2
+16:00 Florida Panthers - Detroit Red Wings	2.90	4.00	1.95
+16:00 Buffalo Sabres - Dallas Stars	2.80	3.90	2.05
+16:00 Tampa Bay Lightning - NY Rangers	2.05	4.00	2.80
+16:30 Ottawa Senators - Toronto Maple Leafs	1.75	4.20	3.40
+17:30 Chicago Blackhawks - San Jose Sharks	2.50	4.00	2.25
+19:00 Vegas Golden Knights - Seattle Kraken	1.44	4.50	5.00
+16 April 2026	1	X	2
+16:30 Utah Mammoth - St. Louis Blues	2.20	4.00	2.50
+17:00 Winnipeg Jets - San Jose Sharks	1.95	4.00	2.90
+17:00 Nashville Predators - Anaheim Ducks	2.50	4.00	2.20
+18:00 Calgary Flames - Los Angeles Kings	2.90	4.00	1.95
+18:00 Edmonton Oilers - Vancouver Canucks	1.44	4.60	5.00
+19:00 Colorado Avalanche - Seattle Kraken	1.75	4.00	3.40

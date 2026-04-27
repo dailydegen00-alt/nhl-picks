@@ -1,0 +1,1531 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>NHL Picks</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;background:#f3f4f6;color:#111;min-height:100vh}
+  .wrap{max-width:680px;margin:0 auto;padding:20px 14px 60px}
+  a{cursor:pointer}
+  @media(max-width:480px){.wrap{padding:14px 10px 40px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div style="margin-bottom:20px;">
+    <h1 style="font-size:22px;font-weight:500;">NHL Picks</h1>
+    <div style="font-size:13px;color:#9ca3af;margin-top:3px;">Friday, April 24 2026 · 3 games</div>
+  </div>
+
+  <div style="overflow-x:auto;white-space:nowrap;margin-bottom:16px;padding-bottom:4px;"><a href="picks.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#111;color:#fff;">Today</a><a href="history/picks_2026-04-23.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">Apr 23<span style="font-size:11px;color:#dc2626;"> 1-2</span></a><a href="history/picks_2026-04-22.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">Apr 22<span style="font-size:11px;color:#16a34a;"> 2-1</span></a><a href="history/picks_2026-04-21.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">Apr 21<span style="font-size:11px;color:#9ca3af;"> 2-2</span></a><a href="history/picks_2026-04-20.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">Apr 20<span style="font-size:11px;color:#16a34a;"> 3-1</span></a><a href="history/picks_2026-04-19.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">Apr 19<span style="font-size:11px;color:#16a34a;"> 1-0</span></a><a href="history/picks_2026-04-18.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">Apr 18<span style="font-size:11px;color:#dc2626;"> 1-2</span></a><a href="history/picks_2026-04-16.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">Apr 16<span style="font-size:11px;color:#9ca3af;"> 3-3</span></a></div>
+
+  <!-- VIEW TABS -->
+  <div style="display:flex;gap:6px;margin-bottom:20px;">
+    <button onclick="showView('ml')" id="tab-ml"
+      style="flex:1;padding:8px;border-radius:8px;border:0.5px solid #e5e7eb;
+             background:#111;color:#fff;font-size:13px;font-weight:500;cursor:pointer;">
+      Moneyline
+    </button>
+    <button onclick="showView('ou')" id="tab-ou"
+      style="flex:1;padding:8px;border-radius:8px;border:0.5px solid #e5e7eb;
+             background:#f3f4f6;color:#374151;font-size:13px;font-weight:500;cursor:pointer;">
+      Over / Under
+    </button>
+    <button onclick="showView('props')" id="tab-props"
+      style="flex:1;padding:8px;border-radius:8px;border:0.5px solid #e5e7eb;
+             background:#f3f4f6;color:#374151;font-size:13px;font-weight:500;cursor:pointer;">
+      Props
+    </button>
+  </div>
+
+  <!-- MONEYLINE SECTION -->
+  <div id="view-ml">
+  <div style="font-size:13px;font-weight:600;color:#111;margin-bottom:10px;padding-bottom:8px;border-bottom:1px solid #e5e7eb;">
+    Moneyline Picks
+  </div>
+
+  
+<div style="background:#f9fafb;border-radius:12px;border:0.5px solid #e5e7eb;padding:16px 18px;margin-bottom:20px;">
+  <div style="font-size:10px;font-weight:500;text-transform:uppercase;letter-spacing:.08em;color:#9ca3af;margin-bottom:12px;">Moneyline Record</div>
+  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:14px;">
+    <div style="text-align:center;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">All time</div>
+      <div style="font-size:22px;font-weight:500;color:#111;">35-25</div>
+      <div style="font-size:11px;color:#16a34a;">58.3%</div></div>
+    <div style="text-align:center;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">This month</div>
+      <div style="font-size:22px;font-weight:500;color:#111;">35-25</div></div>
+    <div style="text-align:center;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">Yesterday</div>
+      <div style="font-size:22px;font-weight:500;color:#111;">1-2</div></div>
+    <div style="text-align:center;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">Today</div>
+      <div style="font-size:22px;font-weight:500;color:#111;">3</div></div>
+  </div>
+  <div style="height:5px;background:#e5e7eb;border-radius:99px;overflow:hidden;margin-bottom:4px;">
+    <div style="width:58.3%;height:100%;background:#16a34a;border-radius:99px;"></div></div>
+  <div style="display:flex;justify-content:space-between;font-size:10px;color:#9ca3af;margin-bottom:14px;">
+    <span>Hit rate</span><span>Break-even ~52%</span></div>
+  <div style="font-size:10px;font-weight:500;text-transform:uppercase;letter-spacing:.07em;color:#9ca3af;margin-bottom:8px;">Record by confidence</div>
+  <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:6px;"><div style="background:#fff;border-radius:8px;padding:10px 6px;text-align:center;border:0.5px solid #e5e7eb;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">50-55%</div><div style="font-size:13px;font-weight:500;">7-8</div><div style="font-size:10px;color:#dc2626;margin-top:1px;">47%</div></div><div style="background:#fff;border-radius:8px;padding:10px 6px;text-align:center;border:0.5px solid #e5e7eb;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">55-60%</div><div style="font-size:13px;font-weight:500;">8-7</div><div style="font-size:10px;color:#dc2626;margin-top:1px;">53%</div></div><div style="background:#fff;border-radius:8px;padding:10px 6px;text-align:center;border:0.5px solid #e5e7eb;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">60-65%</div><div style="font-size:13px;font-weight:500;">5-4</div><div style="font-size:10px;color:#16a34a;margin-top:1px;">56%</div></div><div style="background:#fff;border-radius:8px;padding:10px 6px;text-align:center;border:0.5px solid #e5e7eb;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">65-70%</div><div style="font-size:13px;font-weight:500;">6-3</div><div style="font-size:10px;color:#16a34a;margin-top:1px;">67%</div></div><div style="background:#fff;border-radius:8px;padding:10px 6px;text-align:center;border:0.5px solid #e5e7eb;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">70%+</div><div style="font-size:13px;font-weight:500;">9-3</div><div style="font-size:10px;color:#16a34a;margin-top:1px;">75%</div></div></div>
+</div>
+
+  <div style="display:flex;justify-content:flex-end;margin-bottom:12px;font-size:11px;color:#9ca3af;gap:5px;">
+    EV: <span style="color:#16a34a;">+8 excellent</span> · <span style="color:#65a30d;">+3 good</span> · <span style="color:#d97706;">marginal</span> · <span style="color:#dc2626;">neg = skip</span>
+  </div>
+
+  
+<div style="background:#fff;border-radius:12px;border:0.5px solid #e5e7eb;margin-bottom:12px;overflow:hidden;">
+  <div onclick="toggle(0)" style="padding:16px 18px;cursor:pointer;user-select:none;">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">
+      <span style="font-size:11px;color:#9ca3af;">Must Win — Both In Playoff Race</span>
+      <span style="font-size:13px;font-weight:500;color:#16a34a;">60% confidence</span>
+    </div>
+    <div style="display:flex;align-items:center;justify-content:space-between;gap:6px;">
+      <div style="flex:1;min-width:0;">
+        <div style="font-size:15px;font-weight:500;color:#111;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Montréal Canadiens</div>
+        <div style="font-size:11px;color:#9ca3af;">L10: 7-3 · 2d rest · Home</div>
+        <div style="font-size:11px;color:#9ca3af;margin-top:1px;">Jakub Dobes <span style="color:#16a34a;">GSAx +19.1</span></div>
+      </div>
+      <div style="text-align:center;padding:0 10px;flex-shrink:0;">
+        <div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">VS</div>
+        <div style="font-size:22px;font-weight:500;color:#111;">–</div>
+      </div>
+      <div style="flex:1;min-width:0;text-align:right;">
+        <div style="font-size:15px;font-weight:500;color:#111;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Tampa Bay Lightning</div>
+        <div style="font-size:11px;color:#9ca3af;">L10: 5-5 · 2d rest · Away</div>
+        <div style="font-size:11px;color:#9ca3af;margin-top:1px;">Andrei Vasilevskiy <span style="color:#16a34a;">GSAx +22.8</span></div>
+      </div>
+    </div>
+    <div style="margin-top:10px;">
+      <div style="height:5px;background:#f3f4f6;border-radius:99px;overflow:hidden;display:flex;">
+        <div style="width:40%;background:#d1d5db;border-radius:99px 0 0 99px;"></div>
+        <div style="width:60%;background:#3b82f6;border-radius:0 99px 99px 0;"></div>
+      </div>
+      <div style="display:flex;justify-content:space-between;font-size:10px;color:#9ca3af;margin-top:3px;">
+        <span>Canadiens 40%</span>
+        <span style="color:#374151;font-weight:500;">Pick: Tampa Bay Lightning</span>
+        <span>Lightning 60%</span>
+      </div>
+    </div>
+    
+        <div style="display:flex;align-items:center;gap:10px;margin-top:6px;padding:6px 10px;background:#f9fafb;border-radius:6px;">
+          <div><div style="font-size:10px;color:#9ca3af;">ODDS</div><div style="font-size:14px;font-weight:500;color:#111;">-121</div></div>
+          <div><div style="font-size:10px;color:#9ca3af;">BOOK</div><div style="font-size:14px;font-weight:500;color:#111;">53%</div></div>
+          <div><div style="font-size:10px;color:#9ca3af;">MODEL</div><div style="font-size:14px;font-weight:500;color:#111;">60%</div></div>
+          <div style="margin-left:auto;"><div style="font-size:10px;color:#9ca3af;">EV/$100</div><div style="font-size:15px;font-weight:600;color:#16a34a;">+9.5</div></div>
+        </div>
+    <div style="margin-top:8px;border-top:0.5px solid #f3f4f6;padding-top:8px;">
+      <div style="display:flex;align-items:center;justify-content:space-between;">
+        <div><div style="font-size:10px;color:#9ca3af;margin-bottom:2px;">MODEL PICK</div>
+        <div style="font-size:15px;font-weight:600;color:#111;">Tampa Bay Lightning</div></div>
+        <div style="font-size:11px;color:#d1d5db;" id="hint0">tap for details ▾</div>
+      </div>
+    </div>
+  </div>
+  <div id="body0" style="display:none;border-top:0.5px solid #f3f4f6;padding:16px 18px;">
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px;">
+      <div style="background:#f9fafb;border-radius:8px;padding:10px;">
+        <div style="font-size:10px;color:#9ca3af;margin-bottom:4px;font-weight:500;text-transform:uppercase;">HOME — MTL</div>
+        <div style="font-size:12px;color:#374151;">🥅 Jakub Dobes</div>
+        <div style="font-size:12px;color:#16a34a;">GSAx: +19.1</div>
+        <div style="font-size:12px;color:#374151;">Last 10: 7-3</div>
+        <div style="font-size:12px;color:#374151;">Rest: 2d rest</div>
+        <div style="margin-top:8px;"><div style="font-size:10px;color:#9ca3af;font-weight:500;text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px;">Injuries</div><div style="font-size:11px;color:#dc2626;padding:2px 0;border-bottom:0.5px solid #f9fafb;">Noah Dobson — Upper Body (OUT)  gs/gm 0.6</div><div style="font-size:10px;color:#dc2626;margin-top:3px;">Prob adj: +0.3%</div></div>
+      </div>
+      <div style="background:#f9fafb;border-radius:8px;padding:10px;">
+        <div style="font-size:10px;color:#9ca3af;margin-bottom:4px;font-weight:500;text-transform:uppercase;">AWAY — TBL</div>
+        <div style="font-size:12px;color:#374151;">🥅 Andrei Vasilevskiy</div>
+        <div style="font-size:12px;color:#16a34a;">GSAx: +22.8</div>
+        <div style="font-size:12px;color:#374151;">Last 10: 5-5</div>
+        <div style="font-size:12px;color:#374151;">Rest: 2d rest</div>
+        <div style="margin-top:8px;"><div style="font-size:10px;color:#9ca3af;font-weight:500;text-transform:uppercase;letter-spacing:.05em;margin-bottom:4px;">Injuries</div><div style="font-size:11px;color:#dc2626;padding:2px 0;border-bottom:0.5px solid #f9fafb;">Victor Hedman — Personal (OUT)  gs/gm 0.6</div><div style="font-size:10px;color:#dc2626;margin-top:3px;">Prob adj: -0.6%</div></div>
+      </div>
+    </div>
+    <div style="text-align:center;margin-top:8px;">
+      <span onclick="toggle(0)" style="font-size:11px;color:#d1d5db;cursor:pointer;">collapse ▴</span>
+    </div>
+  </div>
+</div>
+
+<div style="background:#fff;border-radius:12px;border:0.5px solid #e5e7eb;margin-bottom:12px;overflow:hidden;">
+  <div onclick="toggle(1)" style="padding:16px 18px;cursor:pointer;user-select:none;">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">
+      <span style="font-size:11px;color:#9ca3af;">Must Win — Both In Playoff Race</span>
+      <span style="font-size:13px;font-weight:500;color:#16a34a;">60% confidence</span>
+    </div>
+    <div style="display:flex;align-items:center;justify-content:space-between;gap:6px;">
+      <div style="flex:1;min-width:0;">
+        <div style="font-size:15px;font-weight:500;color:#111;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Anaheim Ducks</div>
+        <div style="font-size:11px;color:#9ca3af;">L10: 2-6 · 1d rest · Home</div>
+        <div style="font-size:11px;color:#9ca3af;margin-top:1px;">Lukas Dostal <span style="color:#dc2626;">GSAx -1.6</span></div>
+      </div>
+      <div style="text-align:center;padding:0 10px;flex-shrink:0;">
+        <div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">VS</div>
+        <div style="font-size:22px;font-weight:500;color:#111;">–</div>
+      </div>
+      <div style="flex:1;min-width:0;text-align:right;">
+        <div style="font-size:15px;font-weight:500;color:#111;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Edmonton Oilers</div>
+        <div style="font-size:11px;color:#9ca3af;">L10: 6-2 · 1d rest · Away</div>
+        <div style="font-size:11px;color:#9ca3af;margin-top:1px;">Connor Ingram <span style="color:#dc2626;">GSAx -2.0</span></div>
+      </div>
+    </div>
+    <div style="margin-top:10px;">
+      <div style="height:5px;background:#f3f4f6;border-radius:99px;overflow:hidden;display:flex;">
+        <div style="width:40%;background:#d1d5db;border-radius:99px 0 0 99px;"></div>
+        <div style="width:60%;background:#3b82f6;border-radius:0 99px 99px 0;"></div>
+      </div>
+      <div style="display:flex;justify-content:space-between;font-size:10px;color:#9ca3af;margin-top:3px;">
+        <span>Ducks 40%</span>
+        <span style="color:#374151;font-weight:500;">Pick: Edmonton Oilers</span>
+        <span>Oilers 60%</span>
+      </div>
+    </div>
+    
+        <div style="display:flex;align-items:center;gap:10px;margin-top:6px;padding:6px 10px;background:#f9fafb;border-radius:6px;">
+          <div><div style="font-size:10px;color:#9ca3af;">ODDS</div><div style="font-size:14px;font-weight:500;color:#111;">-129</div></div>
+          <div><div style="font-size:10px;color:#9ca3af;">BOOK</div><div style="font-size:14px;font-weight:500;color:#111;">54%</div></div>
+          <div><div style="font-size:10px;color:#9ca3af;">MODEL</div><div style="font-size:14px;font-weight:500;color:#111;">60%</div></div>
+          <div style="margin-left:auto;"><div style="font-size:10px;color:#9ca3af;">EV/$100</div><div style="font-size:15px;font-weight:600;color:#16a34a;">+6.5</div></div>
+        </div>
+    <div style="margin-top:8px;border-top:0.5px solid #f3f4f6;padding-top:8px;">
+      <div style="display:flex;align-items:center;justify-content:space-between;">
+        <div><div style="font-size:10px;color:#9ca3af;margin-bottom:2px;">MODEL PICK</div>
+        <div style="font-size:15px;font-weight:600;color:#111;">Edmonton Oilers</div></div>
+        <div style="font-size:11px;color:#d1d5db;" id="hint1">tap for details ▾</div>
+      </div>
+    </div>
+  </div>
+  <div id="body1" style="display:none;border-top:0.5px solid #f3f4f6;padding:16px 18px;">
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px;">
+      <div style="background:#f9fafb;border-radius:8px;padding:10px;">
+        <div style="font-size:10px;color:#9ca3af;margin-bottom:4px;font-weight:500;text-transform:uppercase;">HOME — ANA</div>
+        <div style="font-size:12px;color:#374151;">🥅 Lukas Dostal</div>
+        <div style="font-size:12px;color:#dc2626;">GSAx: -1.6</div>
+        <div style="font-size:12px;color:#374151;">Last 10: 2-6</div>
+        <div style="font-size:12px;color:#374151;">Rest: 1d rest</div>
+        
+      </div>
+      <div style="background:#f9fafb;border-radius:8px;padding:10px;">
+        <div style="font-size:10px;color:#9ca3af;margin-bottom:4px;font-weight:500;text-transform:uppercase;">AWAY — EDM</div>
+        <div style="font-size:12px;color:#374151;">🥅 Connor Ingram</div>
+        <div style="font-size:12px;color:#dc2626;">GSAx: -2.0</div>
+        <div style="font-size:12px;color:#374151;">Last 10: 6-2</div>
+        <div style="font-size:12px;color:#374151;">Rest: 1d rest</div>
+        
+      </div>
+    </div>
+    <div style="text-align:center;margin-top:8px;">
+      <span onclick="toggle(1)" style="font-size:11px;color:#d1d5db;cursor:pointer;">collapse ▴</span>
+    </div>
+  </div>
+</div>
+
+<div style="background:#fff;border-radius:12px;border:0.5px solid #e5e7eb;margin-bottom:12px;overflow:hidden;">
+  <div onclick="toggle(2)" style="padding:16px 18px;cursor:pointer;user-select:none;">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">
+      <span style="font-size:11px;color:#9ca3af;">Must Win — Both In Playoff Race</span>
+      <span style="font-size:13px;font-weight:500;color:#374151;">54% confidence</span>
+    </div>
+    <div style="display:flex;align-items:center;justify-content:space-between;gap:6px;">
+      <div style="flex:1;min-width:0;">
+        <div style="font-size:15px;font-weight:500;color:#111;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Utah Mammoth</div>
+        <div style="font-size:11px;color:#9ca3af;">L10: 6-4 · 2d rest · Home</div>
+        <div style="font-size:11px;color:#9ca3af;margin-top:1px;">Karel Vejmelka <span style="color:#16a34a;">GSAx +6.2</span></div>
+      </div>
+      <div style="text-align:center;padding:0 10px;flex-shrink:0;">
+        <div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">VS</div>
+        <div style="font-size:22px;font-weight:500;color:#111;">–</div>
+      </div>
+      <div style="flex:1;min-width:0;text-align:right;">
+        <div style="font-size:15px;font-weight:500;color:#111;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Vegas Golden Knights</div>
+        <div style="font-size:11px;color:#9ca3af;">L10: 7-0 · 2d rest · Away</div>
+        <div style="font-size:11px;color:#9ca3af;margin-top:1px;">Carter Hart <span style="color:#dc2626;">GSAx -7.5</span></div>
+      </div>
+    </div>
+    <div style="margin-top:10px;">
+      <div style="height:5px;background:#f3f4f6;border-radius:99px;overflow:hidden;display:flex;">
+        <div style="width:54%;background:#16a34a;border-radius:99px 0 0 99px;"></div>
+        <div style="width:46%;background:#d1d5db;border-radius:0 99px 99px 0;"></div>
+      </div>
+      <div style="display:flex;justify-content:space-between;font-size:10px;color:#9ca3af;margin-top:3px;">
+        <span>Mammoth 54%</span>
+        <span style="color:#374151;font-weight:500;">Pick: Utah Mammoth</span>
+        <span>Knights 46%</span>
+      </div>
+    </div>
+    
+        <div style="display:flex;align-items:center;gap:10px;margin-top:6px;padding:6px 10px;background:#f9fafb;border-radius:6px;">
+          <div><div style="font-size:10px;color:#9ca3af;">ODDS</div><div style="font-size:14px;font-weight:500;color:#111;">-107</div></div>
+          <div><div style="font-size:10px;color:#9ca3af;">BOOK</div><div style="font-size:14px;font-weight:500;color:#111;">49%</div></div>
+          <div><div style="font-size:10px;color:#9ca3af;">MODEL</div><div style="font-size:14px;font-weight:500;color:#111;">54%</div></div>
+          <div style="margin-left:auto;"><div style="font-size:10px;color:#9ca3af;">EV/$100</div><div style="font-size:15px;font-weight:600;color:#d97706;">+3.9</div></div>
+        </div>
+    <div style="margin-top:8px;border-top:0.5px solid #f3f4f6;padding-top:8px;">
+      <div style="display:flex;align-items:center;justify-content:space-between;">
+        <div><div style="font-size:10px;color:#9ca3af;margin-bottom:2px;">MODEL PICK</div>
+        <div style="font-size:15px;font-weight:600;color:#111;">Utah Mammoth</div></div>
+        <div style="font-size:11px;color:#d1d5db;" id="hint2">tap for details ▾</div>
+      </div>
+    </div>
+  </div>
+  <div id="body2" style="display:none;border-top:0.5px solid #f3f4f6;padding:16px 18px;">
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:12px;">
+      <div style="background:#f9fafb;border-radius:8px;padding:10px;">
+        <div style="font-size:10px;color:#9ca3af;margin-bottom:4px;font-weight:500;text-transform:uppercase;">HOME — UTA</div>
+        <div style="font-size:12px;color:#374151;">🥅 Karel Vejmelka</div>
+        <div style="font-size:12px;color:#16a34a;">GSAx: +6.2</div>
+        <div style="font-size:12px;color:#374151;">Last 10: 6-4</div>
+        <div style="font-size:12px;color:#374151;">Rest: 2d rest</div>
+        
+      </div>
+      <div style="background:#f9fafb;border-radius:8px;padding:10px;">
+        <div style="font-size:10px;color:#9ca3af;margin-bottom:4px;font-weight:500;text-transform:uppercase;">AWAY — VGK</div>
+        <div style="font-size:12px;color:#374151;">🥅 Carter Hart</div>
+        <div style="font-size:12px;color:#dc2626;">GSAx: -7.5</div>
+        <div style="font-size:12px;color:#374151;">Last 10: 7-0</div>
+        <div style="font-size:12px;color:#374151;">Rest: 2d rest</div>
+        
+      </div>
+    </div>
+    <div style="text-align:center;margin-top:8px;">
+      <span onclick="toggle(2)" style="font-size:11px;color:#d1d5db;cursor:pointer;">collapse ▴</span>
+    </div>
+  </div>
+</div>
+
+  </div><!-- end view-ml -->
+
+  <!-- O/U SECTION -->
+  <div id="view-ou" style="display:none;">
+  <div style="font-size:13px;font-weight:600;color:#111;margin-bottom:10px;padding-bottom:8px;border-bottom:1px solid #e5e7eb;">
+    Over / Under Picks
+  </div>
+
+  
+<div style="background:#f9fafb;border-radius:12px;border:0.5px solid #e5e7eb;padding:16px 18px;margin-bottom:20px;">
+  <div style="font-size:10px;font-weight:500;text-transform:uppercase;letter-spacing:.08em;color:#9ca3af;margin-bottom:12px;">O/U Record</div>
+  <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:8px;margin-bottom:14px;">
+    <div style="text-align:center;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">All time</div>
+      <div style="font-size:22px;font-weight:500;color:#111;">16-14</div>
+      <div style="font-size:11px;color:#dc2626;">53.3%</div></div>
+    <div style="text-align:center;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">This month</div>
+      <div style="font-size:22px;font-weight:500;color:#111;">16-14</div></div>
+    <div style="text-align:center;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">Yesterday</div>
+      <div style="font-size:22px;font-weight:500;color:#111;">2-1</div></div>
+    <div style="text-align:center;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">Today</div>
+      <div style="font-size:22px;font-weight:500;color:#111;">3</div></div>
+  </div>
+  <div style="height:5px;background:#e5e7eb;border-radius:99px;overflow:hidden;margin-bottom:4px;">
+    <div style="width:53.3%;height:100%;background:#16a34a;border-radius:99px;"></div></div>
+  <div style="display:flex;justify-content:space-between;font-size:10px;color:#9ca3af;margin-bottom:14px;">
+    <span>Hit rate</span><span>Break-even ~52%</span></div>
+  <div style="font-size:10px;font-weight:500;text-transform:uppercase;letter-spacing:.07em;color:#9ca3af;margin-bottom:8px;">Record by confidence</div>
+  <div style="display:grid;grid-template-columns:repeat(5,1fr);gap:6px;"><div style="background:#fff;border-radius:8px;padding:10px 6px;text-align:center;border:0.5px solid #e5e7eb;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">50-55%</div><div style="font-size:13px;font-weight:500;">3-4</div><div style="font-size:10px;color:#dc2626;margin-top:1px;">43%</div></div><div style="background:#fff;border-radius:8px;padding:10px 6px;text-align:center;border:0.5px solid #e5e7eb;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">55-60%</div><div style="font-size:13px;font-weight:500;">2-6</div><div style="font-size:10px;color:#dc2626;margin-top:1px;">25%</div></div><div style="background:#fff;border-radius:8px;padding:10px 6px;text-align:center;border:0.5px solid #e5e7eb;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">60-65%</div><div style="font-size:13px;font-weight:500;">4-2</div><div style="font-size:10px;color:#16a34a;margin-top:1px;">67%</div></div><div style="background:#fff;border-radius:8px;padding:10px 6px;text-align:center;border:0.5px solid #e5e7eb;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">65-70%</div><div style="font-size:13px;font-weight:500;">1-0</div><div style="font-size:10px;color:#16a34a;margin-top:1px;">100%</div></div><div style="background:#fff;border-radius:8px;padding:10px 6px;text-align:center;border:0.5px solid #e5e7eb;"><div style="font-size:10px;color:#9ca3af;margin-bottom:3px;">70%+</div><div style="font-size:13px;font-weight:500;">6-2</div><div style="font-size:10px;color:#16a34a;margin-top:1px;">75%</div></div></div>
+</div>
+
+  <div style="display:flex;justify-content:flex-end;margin-bottom:12px;font-size:11px;color:#9ca3af;">
+    60%+ confidence recommended · grey = low confidence, use caution
+  </div>
+
+  
+<div style="background:#fff;border-radius:12px;border:0.5px solid #e5e7eb;margin-bottom:12px;padding:14px 18px;">
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">
+    <span style="font-size:11px;color:#9ca3af;">Must Win — Both In Playoff Race</span>
+    <span style="font-size:13px;font-weight:500;color:#16a34a;">63% confidence</span>
+  </div>
+  <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;">
+    <div style="font-size:15px;font-weight:500;color:#111;">Utah Mammoth</div>
+    <div style="font-size:13px;color:#9ca3af;">vs</div>
+    <div style="font-size:15px;font-weight:500;color:#111;">Vegas Golden Knights</div>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px;padding:8px 10px;background:#f9fafb;border-radius:6px;border-left:3px solid #16a34a;">
+    <div style="font-size:10px;color:#9ca3af;font-weight:500;text-transform:uppercase;">O/U PICK</div>
+    <div style="font-size:16px;font-weight:700;color:#16a34a;">Over 5.5</div>
+    <div style="font-size:12px;color:#16a34a;">63%</div>
+  </div>
+  
+        <div style="display:flex;align-items:center;gap:10px;margin-top:6px;padding:6px 10px;background:#f9fafb;border-radius:6px;">
+          <div><div style="font-size:10px;color:#9ca3af;">ODDS</div><div style="font-size:14px;font-weight:500;color:#111;">-129</div></div>
+          <div><div style="font-size:10px;color:#9ca3af;">BOOK</div><div style="font-size:14px;font-weight:500;color:#111;">54%</div></div>
+          <div><div style="font-size:10px;color:#9ca3af;">MODEL</div><div style="font-size:14px;font-weight:500;color:#111;">63%</div></div>
+          <div style="margin-left:auto;"><div style="font-size:10px;color:#9ca3af;">EV/$100</div><div style="font-size:15px;font-weight:600;color:#16a34a;">+11.5</div></div>
+        </div>
+  <div style="margin-top:8px;display:flex;gap:16px;font-size:11px;color:#9ca3af;">
+    <span>🥅 Karel Vejmelka <span style="color:#16a34a;">GSAx +6.2</span></span>
+    <span>🥅 Carter Hart <span style="color:#dc2626;">GSAx -7.5</span></span>
+  </div>
+</div>
+
+<div style="background:#fff;border-radius:12px;border:0.5px solid #e5e7eb;margin-bottom:12px;padding:14px 18px;">
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">
+    <span style="font-size:11px;color:#9ca3af;">Must Win — Both In Playoff Race</span>
+    <span style="font-size:13px;font-weight:500;color:#16a34a;">61% confidence</span>
+  </div>
+  <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;">
+    <div style="font-size:15px;font-weight:500;color:#111;">Montréal Canadiens</div>
+    <div style="font-size:13px;color:#9ca3af;">vs</div>
+    <div style="font-size:15px;font-weight:500;color:#111;">Tampa Bay Lightning</div>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px;padding:8px 10px;background:#f9fafb;border-radius:6px;border-left:3px solid #16a34a;">
+    <div style="font-size:10px;color:#9ca3af;font-weight:500;text-transform:uppercase;">O/U PICK</div>
+    <div style="font-size:16px;font-weight:700;color:#16a34a;">Over 5.5</div>
+    <div style="font-size:12px;color:#16a34a;">61%</div>
+  </div>
+  
+        <div style="display:flex;align-items:center;gap:10px;margin-top:6px;padding:6px 10px;background:#f9fafb;border-radius:6px;">
+          <div><div style="font-size:10px;color:#9ca3af;">ODDS</div><div style="font-size:14px;font-weight:500;color:#111;">-135</div></div>
+          <div><div style="font-size:10px;color:#9ca3af;">BOOK</div><div style="font-size:14px;font-weight:500;color:#111;">55%</div></div>
+          <div><div style="font-size:10px;color:#9ca3af;">MODEL</div><div style="font-size:14px;font-weight:500;color:#111;">61%</div></div>
+          <div style="margin-left:auto;"><div style="font-size:10px;color:#9ca3af;">EV/$100</div><div style="font-size:15px;font-weight:600;color:#16a34a;">+5.7</div></div>
+        </div>
+  <div style="margin-top:8px;display:flex;gap:16px;font-size:11px;color:#9ca3af;">
+    <span>🥅 Jakub Dobes <span style="color:#16a34a;">GSAx +19.1</span></span>
+    <span>🥅 Andrei Vasilevskiy <span style="color:#16a34a;">GSAx +22.8</span></span>
+  </div>
+</div>
+
+<div style="background:#fff;border-radius:12px;border:0.5px solid #e5e7eb;margin-bottom:12px;padding:14px 18px;">
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:10px;">
+    <span style="font-size:11px;color:#9ca3af;">Must Win — Both In Playoff Race</span>
+    <span style="font-size:13px;font-weight:500;color:#16a34a;">61% confidence</span>
+  </div>
+  <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:10px;">
+    <div style="font-size:15px;font-weight:500;color:#111;">Anaheim Ducks</div>
+    <div style="font-size:13px;color:#9ca3af;">vs</div>
+    <div style="font-size:15px;font-weight:500;color:#111;">Edmonton Oilers</div>
+  </div>
+  <div style="display:flex;align-items:center;gap:8px;padding:8px 10px;background:#f9fafb;border-radius:6px;border-left:3px solid #16a34a;">
+    <div style="font-size:10px;color:#9ca3af;font-weight:500;text-transform:uppercase;">O/U PICK</div>
+    <div style="font-size:16px;font-weight:700;color:#16a34a;">Under 6.5</div>
+    <div style="font-size:12px;color:#16a34a;">61%</div>
+  </div>
+  
+        <div style="display:flex;align-items:center;gap:10px;margin-top:6px;padding:6px 10px;background:#f9fafb;border-radius:6px;">
+          <div><div style="font-size:10px;color:#9ca3af;">ODDS</div><div style="font-size:14px;font-weight:500;color:#111;">+129</div></div>
+          <div><div style="font-size:10px;color:#9ca3af;">BOOK</div><div style="font-size:14px;font-weight:500;color:#111;">42%</div></div>
+          <div><div style="font-size:10px;color:#9ca3af;">MODEL</div><div style="font-size:14px;font-weight:500;color:#111;">61%</div></div>
+          <div style="margin-left:auto;"><div style="font-size:10px;color:#9ca3af;">EV/$100</div><div style="font-size:15px;font-weight:600;color:#16a34a;">+39.4</div></div>
+        </div>
+  <div style="margin-top:8px;display:flex;gap:16px;font-size:11px;color:#9ca3af;">
+    <span>🥅 Lukas Dostal <span style="color:#dc2626;">GSAx -1.6</span></span>
+    <span>🥅 Connor Ingram <span style="color:#dc2626;">GSAx -2.0</span></span>
+  </div>
+</div>
+
+  </div><!-- end view-ou -->
+
+  <!-- PROPS SECTION -->
+  <div id="view-props" style="display:none;">
+  <div style="font-size:13px;font-weight:600;color:#111;margin-bottom:6px;padding-bottom:8px;border-bottom:1px solid #e5e7eb;">
+    Player Props
+  </div>
+  <div style="font-size:11px;color:#9ca3af;margin-bottom:14px;">
+    Model edge vs DraftKings implied probability · sorted by EV · +EV only shown
+  </div>
+  <div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:#9ca3af;margin:18px 0 8px;">Shots on Goal</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Jack Quinn</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Buffalo Sabres @ Boston Bruins
+        · 1.96 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 2.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+140</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">42%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">69%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+27.1%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+65.1</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Tage Thompson</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Buffalo Sabres @ Boston Bruins
+        · 2.84 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 3.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+120</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">45%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">68%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+22.8%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+50.2</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Juraj Slafkovsky</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Tampa Bay Lightning @ Montréal Canadiens
+        · 1.86 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 2.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+110</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">48%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">71%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+23.7%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+49.9</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Ivan Demidov</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Tampa Bay Lightning @ Montréal Canadiens
+        · 1.31 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 1.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+135</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">43%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">62%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+19.9%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+46.7</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Wyatt Johnston</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Dallas Stars @ Minnesota Wild
+        · 2.16 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 2.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+129</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">43%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">63%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+19.9%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+45.8</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Matt Savoie</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Edmonton Oilers @ Anaheim Ducks
+        · 1.38 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 1.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+140</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">42%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">60%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+18.3%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+43.9</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Elias Lindholm</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Buffalo Sabres @ Boston Bruins
+        · 1.46 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 1.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+150</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">40%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">57%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+17.3%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+43.2</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Alex Tuch</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Buffalo Sabres @ Boston Bruins
+        · 2.11 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 2.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+120</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">45%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">65%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+19.1%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+42.1</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Nicholas Paul</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Tampa Bay Lightning @ Montréal Canadiens
+        · 0.77 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 1.5</div>
+      <div style="font-size:12px;color:#9ca3af;">-140</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">58%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">82%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+23.6%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+40.3</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Porter Martone</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Pittsburgh Penguins @ Philadelphia Flyers
+        · 3.74 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Over 2.5</div>
+      <div style="font-size:12px;color:#9ca3af;">-109</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">52%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">72%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+19.8%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+37.8</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Leo Carlsson</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Edmonton Oilers @ Anaheim Ducks
+        · 2.23 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 3.5</div>
+      <div style="font-size:12px;color:#9ca3af;">-144</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">59%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">81%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+22.2%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+37.5</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Matt Duchene</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Dallas Stars @ Minnesota Wild
+        · 1.32 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 1.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+120</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">45%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">62%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+16.7%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+36.7</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Nikita Kucherov</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Tampa Bay Lightning @ Montréal Canadiens
+        · 2.64 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 3.5</div>
+      <div style="font-size:12px;color:#9ca3af;">-114</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">53%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">73%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+19.1%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+35.8</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Cale Makar</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Colorado Avalanche @ Los Angeles Kings
+        · 2.24 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 2.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+120</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">45%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">61%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+15.9%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+34.9</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Lawson Crouse</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Vegas Golden Knights @ Utah Mammoth
+        · 1.47 sog/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 1.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+135</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">43%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">57%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+14.4%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+33.9</div>
+    </div>
+  </div>
+</div><div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.08em;color:#9ca3af;margin:18px 0 8px;">Points</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Oliver Kapanen</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Tampa Bay Lightning @ Montréal Canadiens
+        · 0.42 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Over 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+300</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">25%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">34%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+9.1%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+36.5</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Alex Laferriere</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Colorado Avalanche @ Los Angeles Kings
+        · 0.43 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">-105</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">51%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">65%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+13.5%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+26.3</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Jamie Benn</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Dallas Stars @ Minnesota Wild
+        · 0.55 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Over 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+195</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">34%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">42%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+8.4%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+24.8</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Devon Toews</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Colorado Avalanche @ Los Angeles Kings
+        · 0.32 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">-140</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">58%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">73%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+14.4%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+24.6</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Shayne Gostisbehere</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Carolina Hurricanes @ Ottawa Senators
+        · 0.80 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Over 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+124</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">45%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">55%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+10.2%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+22.9</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Alex Killorn</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Edmonton Oilers @ Anaheim Ducks
+        · 0.34 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">-144</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">59%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">71%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+12.1%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+20.5</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Anze Kopitar</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Colorado Avalanche @ Los Angeles Kings
+        · 0.51 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+100</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">50%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">60%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+10.0%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+20.0</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Anthony Mantha</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Pittsburgh Penguins @ Philadelphia Flyers
+        · 0.69 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Over 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+140</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">42%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">50%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+8.1%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+19.4</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Matt Savoie</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Edmonton Oilers @ Anaheim Ducks
+        · 0.37 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">-140</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">58%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">69%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+10.8%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+18.4</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Ryan Hartman</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Dallas Stars @ Minnesota Wild
+        · 0.50 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">-105</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">51%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">61%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+9.4%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+18.3</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Trevor Moore</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Colorado Avalanche @ Los Angeles Kings
+        · 0.37 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">-140</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">58%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">69%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+10.5%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+18.0</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Rasmus Ristolainen</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Pittsburgh Penguins @ Philadelphia Flyers
+        · 0.26 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">-196</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">66%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">77%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+11.1%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+16.7</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Logan Stankoven</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Carolina Hurricanes @ Ottawa Senators
+        · 0.44 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">-125</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">56%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">64%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+8.8%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+15.9</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Alex Tuch</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Buffalo Sabres @ Boston Bruins
+        · 0.73 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Under 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+140</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">42%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">48%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+6.5%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+15.7</div>
+    </div>
+  </div>
+</div>
+<div style="background:#fff;border-radius:10px;border:0.5px solid #e5e7eb;
+            margin-bottom:8px;padding:12px 14px;">
+  <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+    <div style="flex:1;min-width:0;">
+      <div style="font-size:14px;font-weight:500;color:#111;
+                  overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">Kirby Dach</div>
+      <div style="font-size:11px;color:#9ca3af;margin-top:2px;">
+        Tampa Bay Lightning @ Montréal Canadiens
+        · 0.37 pts/gm (playoff adj)
+      </div>
+    </div>
+    <div style="text-align:right;flex-shrink:0;margin-left:10px;">
+      <div style="font-size:14px;font-weight:600;color:#111;">Over 0.5</div>
+      <div style="font-size:12px;color:#9ca3af;">+270</div>
+    </div>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;margin-top:8px;
+              padding:6px 10px;background:#f9fafb;border-radius:6px;">
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">BOOK</div>
+      <div style="font-size:13px;font-weight:500;">27%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">MODEL</div>
+      <div style="font-size:13px;font-weight:500;">31%</div>
+    </div>
+    <div>
+      <div style="font-size:9px;color:#9ca3af;">EDGE</div>
+      <div style="font-size:13px;font-weight:500;color:#16a34a;">+4.1%</div>
+    </div>
+    <div style="margin-left:auto;">
+      <div style="font-size:9px;color:#9ca3af;">EV/$100</div>
+      <div style="font-size:15px;font-weight:600;color:#16a34a;">+15.3</div>
+    </div>
+  </div>
+</div>
+  </div><!-- end view-props -->
+
+  <div style="margin-top:20px;padding:12px 14px;background:#fffbeb;border-radius:8px;border:0.5px solid #fde68a;">
+    <p style="font-size:11px;color:#92400e;line-height:1.6;">For informational purposes only. Gamble responsibly.</p>
+  </div>
+</div>
+<script>
+function showView(v){
+  document.getElementById('view-ml').style.display    = v==='ml'    ? 'block' : 'none';
+  document.getElementById('view-ou').style.display    = v==='ou'    ? 'block' : 'none';
+  document.getElementById('view-props').style.display = v==='props' ? 'block' : 'none';
+  ['ml','ou','props'].forEach(t=>{
+    var btn = document.getElementById('tab-'+t);
+    btn.style.background = v===t ? '#111' : '#f3f4f6';
+    btn.style.color      = v===t ? '#fff' : '#374151';
+  });
+}
+function toggle(i){
+  var b=document.getElementById('body'+i);
+  var h=document.getElementById('hint'+i);
+  var o=b.style.display!=='none';
+  b.style.display=o?'none':'block';
+  h.innerHTML=o?'tap for details &#9662;':'collapse &#9652;';
+}
+</script>
+</body></html>

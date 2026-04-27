@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>NHL Picks · 2026-04-22</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#f3f4f6;color:#111;min-height:100vh}
+.wrap{max-width:680px;margin:0 auto;padding:20px 14px 60px}
+.card{background:#fff;border-radius:12px;border:0.5px solid #e5e7eb;margin-bottom:10px;padding:14px 18px;}
+.badge{display:inline-block;padding:2px 8px;border-radius:6px;font-size:12px;font-weight:600;}
+.win{background:#dcfce7;color:#16a34a;} .loss{background:#fee2e2;color:#dc2626;} .pending{background:#f3f4f6;color:#9ca3af;}
+.tab-btn{flex:1;padding:8px;border-radius:8px;border:0.5px solid #e5e7eb;font-size:13px;font-weight:500;cursor:pointer;}
+.sort-btn{padding:6px 12px;border-radius:8px;border:0.5px solid #e5e7eb;background:#fff;font-size:12px;cursor:pointer;color:#374151;}
+.sort-btn.active{background:#111;color:#fff;border-color:#111;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div style="margin-bottom:16px;">
+    <h1 style="font-size:22px;font-weight:500;">NHL Picks</h1>
+    <div style="font-size:13px;color:#9ca3af;margin-top:3px;">Wednesday, April 22 2026</div>
+  </div>
+  <div style="overflow-x:auto;white-space:nowrap;margin-bottom:16px;padding-bottom:4px;"><a href="../picks.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">Today</a><a href="picks_2026-04-23.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">Apr 23<span style="font-size:11px;color:#dc2626;"> 1-2</span></a><a href="picks_2026-04-22.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#111;color:#fff;">Apr 22<span style="font-size:11px;color:#16a34a;"> 2-1</span></a><a href="picks_2026-04-21.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">Apr 21<span style="font-size:11px;color:#9ca3af;"> 2-2</span></a><a href="picks_2026-04-20.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">Apr 20<span style="font-size:11px;color:#16a34a;"> 3-1</span></a><a href="picks_2026-04-19.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">Apr 19<span style="font-size:11px;color:#16a34a;"> 1-0</span></a><a href="picks_2026-04-18.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">Apr 18<span style="font-size:11px;color:#dc2626;"> 1-2</span></a><a href="picks_2026-04-16.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">Apr 16<span style="font-size:11px;color:#9ca3af;"> 3-3</span></a></div>
+  <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:20px;"><div style="background:#fff;border-radius:12px;border:0.5px solid #e5e7eb;padding:14px;text-align:center;"><div style="font-size:11px;color:#9ca3af;text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;">Moneyline</div><div style="font-size:26px;font-weight:500;">2-1</div><div style="font-size:12px;color:#16a34a;margin-top:2px;">✓ Win</div></div><div style="background:#fff;border-radius:12px;border:0.5px solid #e5e7eb;padding:14px;text-align:center;"><div style="font-size:11px;color:#9ca3af;text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;">Over/Under</div><div style="font-size:26px;font-weight:500;">2-1</div><div style="font-size:12px;color:#16a34a;margin-top:2px;">✓ Win</div></div><div style="background:#fff;border-radius:12px;border:0.5px solid #e5e7eb;padding:14px;text-align:center;"><div style="font-size:11px;color:#9ca3af;text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px;">Props</div><div style="font-size:26px;font-weight:500;">0-0</div><div style="font-size:12px;color:#9ca3af;margin-top:2px;">Even</div></div></div>
+
+  <!-- Tabs -->
+  <div style="display:flex;gap:6px;margin-bottom:16px;">
+    <button class="tab-btn" id="tab-ml" onclick="showTab('ml')" style="background:#111;color:#fff;">Moneyline</button>
+    <button class="tab-btn" id="tab-ou" onclick="showTab('ou')" style="background:#f3f4f6;color:#374151;">Over/Under</button>
+    <button class="tab-btn" id="tab-props" onclick="showTab('props')" style="background:#f3f4f6;color:#374151;">Props</button>
+  </div>
+
+  <div id="view-ml"></div>
+  <div id="view-ou" style="display:none;"></div>
+  <div id="view-props" style="display:none;"></div>
+</div>
+
+<script>
+var ML_DATA    = [{"away": "DAL", "home": "MIN", "pick": "DAL", "conf": 55.4, "result": "W", "score": "4-3", "ou_pick": "Over", "ou_line": 5.5, "ou_conf": 53.6, "ou_result": "W", "total": 7}, {"away": "ANA", "home": "EDM", "pick": "EDM", "conf": 73.7, "result": "L", "score": "6-4", "ou_pick": "Under", "ou_line": 6.5, "ou_conf": 54.1, "ou_result": "L", "total": 10}, {"away": "PIT", "home": "PHI", "pick": "PHI", "conf": 57.4, "result": "W", "score": "2-5", "ou_pick": "Over", "ou_line": 5.5, "ou_conf": 57.8, "ou_result": "W", "total": 7}];
+var PROP_DATA  = [];
+var currentTab = 'ml';
+
+function badge(r){
+  if(r==='W') return '<span class="badge win">W</span>';
+  if(r==='L') return '<span class="badge loss">L</span>';
+  return '<span class="badge pending">–</span>';
+}
+
+function showTab(t){
+  currentTab = t;
+  ['ml','ou','props'].forEach(function(x){
+    document.getElementById('view-'+x).style.display = x===t?'block':'none';
+    var b = document.getElementById('tab-'+x);
+    b.style.background = x===t?'#111':'#f3f4f6';
+    b.style.color      = x===t?'#fff':'#374151';
+  });
+}
+
+function renderML(){
+  var html = '';
+  ML_DATA.forEach(function(p){
+    html += '<div class="card"><div style="display:flex;justify-content:space-between;align-items:flex-start;">'
+      + '<div><div style="font-size:13px;color:#9ca3af;margin-bottom:2px;">'+p.away+' @ '+p.home+'</div>'
+      + '<div style="font-size:16px;font-weight:500;">Pick: '+p.pick+'</div>'
+      + '<div style="font-size:12px;color:#9ca3af;margin-top:3px;">'+p.conf.toFixed(0)+'% confidence</div></div>'
+      + '<div style="text-align:right;">'+badge(p.result)
+      + '<div style="font-size:12px;color:#9ca3af;margin-top:6px;">'+p.score+'</div></div>'
+      + '</div></div>';
+  });
+  document.getElementById('view-ml').innerHTML = html || '<div style="color:#9ca3af;padding:20px 0;">No picks.</div>';
+}
+
+function renderOU(){
+  var html = '';
+  ML_DATA.forEach(function(p){
+    html += '<div class="card"><div style="display:flex;justify-content:space-between;align-items:flex-start;">'
+      + '<div><div style="font-size:13px;color:#9ca3af;margin-bottom:2px;">'+p.away+' @ '+p.home+'</div>'
+      + '<div style="font-size:16px;font-weight:500;">'+p.ou_pick+' '+p.ou_line+'</div>'
+      + '<div style="font-size:12px;color:#9ca3af;margin-top:3px;">'+p.ou_conf.toFixed(0)+'% confidence</div></div>'
+      + '<div style="text-align:right;">'+badge(p.ou_result)
+      + '<div style="font-size:12px;color:#9ca3af;margin-top:6px;">Total: '+p.total+'</div></div>'
+      + '</div></div>';
+  });
+  document.getElementById('view-ou').innerHTML = html || '<div style="color:#9ca3af;padding:20px 0;">No picks.</div>';
+}
+
+function renderProps(){
+  if(!PROP_DATA.length){
+    document.getElementById('view-props').innerHTML = '<div style="color:#9ca3af;padding:20px 0;">No props saved for this day.</div>';
+    return;
+  }
+  var sorted = PROP_DATA.slice().sort(function(a,b){return b.conf-a.conf;});
+  var html = '';
+  sorted.forEach(function(p){
+    var confCol = p.conf>=65?'#15803d':p.conf>=60?'#16a34a':p.conf>=55?'#d97706':'#374151';
+    var mkt = p.market.replace('player_','').replace(/_/g,' ');
+    html += '<div class="card"><div style="display:flex;justify-content:space-between;align-items:flex-start;">'
+      + '<div><div style="font-size:14px;font-weight:500;">'+p.player+'</div>'
+      + '<div style="font-size:11px;color:#9ca3af;margin-top:2px;">'+mkt+'</div></div>'
+      + '<div style="text-align:right;"><div style="font-size:14px;font-weight:600;">'+p.pick+'</div>'
+      + '<div style="font-size:11px;font-weight:500;color:'+confCol+';">'+p.conf.toFixed(0)+'% conf</div>'
+      + badge(p.result)
+      + (p.actual!==undefined&&p.actual!=='–'?'<div style="font-size:11px;color:#9ca3af;">actual: '+p.actual+'</div>':'')
+      + '</div></div></div>';
+  });
+  document.getElementById('view-props').innerHTML = html;
+}
+
+renderML(); renderOU(); renderProps();
+</script>
+</body></html>
