@@ -1,18 +1,18 @@
 {
   "alltime": {
-    "W": 37,
-    "L": 28
+    "W": 38,
+    "L": 29
   },
   "by_month": {
     "2026-04": {
-      "W": 37,
-      "L": 28
+      "W": 38,
+      "L": 29
     }
   },
   "by_conf": {
     "50": {
-      "W": 8,
-      "L": 8
+      "W": 9,
+      "L": 9
     },
     "55": {
       "W": 8,
@@ -4295,8 +4295,8 @@
       ]
     },
     "2026-04-27": {
-      "W": 0,
-      "L": 0,
+      "W": 1,
+      "L": 1,
       "picks": [
         {
           "home_abbr": "UTA",
@@ -4306,11 +4306,11 @@
           "ou_pick": "Over",
           "ou_line": 5.5,
           "ou_conf": 85.9,
-          "result": "",
-          "ou_result": "",
-          "home_score": 0,
-          "away_score": 0,
-          "total": 0
+          "result": "L",
+          "ou_result": "W",
+          "home_score": 4,
+          "away_score": 5,
+          "total": 9
         },
         {
           "home_abbr": "PIT",
@@ -4320,6 +4320,54 @@
           "ou_pick": "Over",
           "ou_line": 5.5,
           "ou_conf": 94.4,
+          "result": "W",
+          "ou_result": "L",
+          "home_score": 3,
+          "away_score": 2,
+          "total": 5
+        }
+      ]
+    },
+    "2026-04-28": {
+      "W": 0,
+      "L": 0,
+      "picks": [
+        {
+          "home_abbr": "EDM",
+          "away_abbr": "ANA",
+          "pick_abbr": "EDM",
+          "conf": 73.7,
+          "ou_pick": "Over",
+          "ou_line": 6.5,
+          "ou_conf": 63.4,
+          "result": "",
+          "ou_result": "",
+          "home_score": 0,
+          "away_score": 0,
+          "total": 0
+        },
+        {
+          "home_abbr": "DAL",
+          "away_abbr": "MIN",
+          "pick_abbr": "DAL",
+          "conf": 65.4,
+          "ou_pick": "Over",
+          "ou_line": 5.5,
+          "ou_conf": 92.6,
+          "result": "",
+          "ou_result": "",
+          "home_score": 0,
+          "away_score": 0,
+          "total": 0
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "BOS",
+          "pick_abbr": "BUF",
+          "conf": 60.1,
+          "ou_pick": "Over",
+          "ou_line": 5.5,
+          "ou_conf": 93.5,
           "result": "",
           "ou_result": "",
           "home_score": 0,
@@ -4330,13 +4378,13 @@
     }
   },
   "ou_alltime": {
-    "W": 19,
-    "L": 16
+    "W": 20,
+    "L": 17
   },
   "ou_by_conf": {
     "70": {
-      "W": 8,
-      "L": 2
+      "W": 9,
+      "L": 3
     },
     "55": {
       "W": 2,
@@ -4357,8 +4405,8 @@
   },
   "ou_by_month": {
     "2026-04": {
-      "W": 19,
-      "L": 16
+      "W": 20,
+      "L": 17
     }
   },
   "prop_alltime": {
