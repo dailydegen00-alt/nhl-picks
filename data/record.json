@@ -1,12 +1,12 @@
 {
   "alltime": {
-    "W": 39,
-    "L": 31
+    "W": 41,
+    "L": 32
   },
   "by_month": {
     "2026-04": {
-      "W": 39,
-      "L": 31
+      "W": 41,
+      "L": 32
     }
   },
   "by_conf": {
@@ -15,16 +15,16 @@
       "L": 9
     },
     "55": {
-      "W": 8,
+      "W": 9,
       "L": 8
     },
     "60": {
-      "W": 6,
+      "W": 7,
       "L": 7
     },
     "65": {
       "W": 6,
-      "L": 4
+      "L": 5
     },
     "70": {
       "W": 10,
@@ -4377,8 +4377,8 @@
       ]
     },
     "2026-04-29": {
-      "W": 0,
-      "L": 0,
+      "W": 2,
+      "L": 1,
       "picks": [
         {
           "home_abbr": "PHI",
@@ -4388,11 +4388,11 @@
           "ou_pick": "Over",
           "ou_line": 5.5,
           "ou_conf": 84.3,
-          "result": "",
-          "ou_result": "",
-          "home_score": 0,
+          "result": "W",
+          "ou_result": "L",
+          "home_score": 1,
           "away_score": 0,
-          "total": 0
+          "total": 1
         },
         {
           "home_abbr": "TBL",
@@ -4402,11 +4402,11 @@
           "ou_pick": "Over",
           "ou_line": 5.5,
           "ou_conf": 78.9,
-          "result": "",
-          "ou_result": "",
-          "home_score": 0,
-          "away_score": 0,
-          "total": 0
+          "result": "L",
+          "ou_result": "L",
+          "home_score": 2,
+          "away_score": 3,
+          "total": 5
         },
         {
           "home_abbr": "VGK",
@@ -4416,6 +4416,40 @@
           "ou_pick": "Over",
           "ou_line": 5.5,
           "ou_conf": 95.0,
+          "result": "W",
+          "ou_result": "W",
+          "home_score": 5,
+          "away_score": 4,
+          "total": 9
+        }
+      ]
+    },
+    "2026-04-30": {
+      "W": 0,
+      "L": 0,
+      "picks": [
+        {
+          "home_abbr": "MIN",
+          "away_abbr": "DAL",
+          "pick_abbr": "DAL",
+          "conf": 55.4,
+          "ou_pick": "Over",
+          "ou_line": 5.5,
+          "ou_conf": 94.2,
+          "result": "",
+          "ou_result": "",
+          "home_score": 0,
+          "away_score": 0,
+          "total": 0
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "EDM",
+          "pick_abbr": "EDM",
+          "conf": 60.1,
+          "ou_pick": "Over",
+          "ou_line": 6.5,
+          "ou_conf": 90.6,
           "result": "",
           "ou_result": "",
           "home_score": 0,
@@ -4426,13 +4460,13 @@
     }
   },
   "ou_alltime": {
-    "W": 21,
-    "L": 19
+    "W": 22,
+    "L": 21
   },
   "ou_by_conf": {
     "70": {
-      "W": 10,
-      "L": 4
+      "W": 11,
+      "L": 6
     },
     "55": {
       "W": 2,
@@ -4453,8 +4487,8 @@
   },
   "ou_by_month": {
     "2026-04": {
-      "W": 21,
-      "L": 19
+      "W": 22,
+      "L": 21
     }
   },
   "prop_alltime": {
