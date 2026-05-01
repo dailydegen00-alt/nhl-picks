@@ -1,12 +1,12 @@
 {
   "alltime": {
     "W": 41,
-    "L": 32
+    "L": 34
   },
   "by_month": {
     "2026-04": {
       "W": 41,
-      "L": 32
+      "L": 34
     }
   },
   "by_conf": {
@@ -16,11 +16,11 @@
     },
     "55": {
       "W": 9,
-      "L": 8
+      "L": 9
     },
     "60": {
       "W": 7,
-      "L": 7
+      "L": 8
     },
     "65": {
       "W": 6,
@@ -4426,7 +4426,7 @@
     },
     "2026-04-30": {
       "W": 0,
-      "L": 0,
+      "L": 2,
       "picks": [
         {
           "home_abbr": "MIN",
@@ -4436,11 +4436,11 @@
           "ou_pick": "Over",
           "ou_line": 5.5,
           "ou_conf": 94.2,
-          "result": "",
-          "ou_result": "",
-          "home_score": 0,
-          "away_score": 0,
-          "total": 0
+          "result": "L",
+          "ou_result": "W",
+          "home_score": 5,
+          "away_score": 2,
+          "total": 7
         },
         {
           "home_abbr": "ANA",
@@ -4450,6 +4450,40 @@
           "ou_pick": "Over",
           "ou_line": 6.5,
           "ou_conf": 90.6,
+          "result": "L",
+          "ou_result": "W",
+          "home_score": 5,
+          "away_score": 2,
+          "total": 7
+        }
+      ]
+    },
+    "2026-05-01": {
+      "W": 0,
+      "L": 0,
+      "picks": [
+        {
+          "home_abbr": "BOS",
+          "away_abbr": "BUF",
+          "pick_abbr": "BOS",
+          "conf": 53.3,
+          "ou_pick": "Under",
+          "ou_line": 5.5,
+          "ou_conf": 52.0,
+          "result": "",
+          "ou_result": "",
+          "home_score": 0,
+          "away_score": 0,
+          "total": 0
+        },
+        {
+          "home_abbr": "UTA",
+          "away_abbr": "VGK",
+          "pick_abbr": "UTA",
+          "conf": 54.0,
+          "ou_pick": "Over",
+          "ou_line": 5.5,
+          "ou_conf": 53.0,
           "result": "",
           "ou_result": "",
           "home_score": 0,
@@ -4460,12 +4494,12 @@
     }
   },
   "ou_alltime": {
-    "W": 22,
+    "W": 24,
     "L": 21
   },
   "ou_by_conf": {
     "70": {
-      "W": 11,
+      "W": 13,
       "L": 6
     },
     "55": {
@@ -4487,7 +4521,7 @@
   },
   "ou_by_month": {
     "2026-04": {
-      "W": 22,
+      "W": 24,
       "L": 21
     }
   },
