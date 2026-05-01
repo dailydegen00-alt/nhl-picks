@@ -1,5 +1,5 @@
 # model_total.py — O/U regression model
-# Best known config: 10 base features + 8 form features, GBM default params
+# Features: 10 shot quality + 8 form + gsax_diff
 # OOF residual std for honest confidence calibration
 
 import pandas as pd
@@ -22,7 +22,6 @@ print(f"Mean total goals: {df['total_goals'].mean():.2f}")
 print(f"Std  total goals: {df['total_goals'].std():.2f}")
 
 # ── Features ──────────────────────────────────────────────────────────────────
-# Shot quality (original top performers)
 SHOT_QUALITY = [
     'home_sv_xgf',  'home_sv_xga',
     'away_sv_xgf',  'away_sv_xga',
@@ -31,7 +30,6 @@ SHOT_QUALITY = [
     'home_pdo',     'away_pdo',
 ]
 
-# Rolling form (confirmed helpful in backtest)
 FORM = [
     'home_gpg_l10', 'away_gpg_l10',
     'home_gapg_l10','away_gapg_l10',
@@ -39,9 +37,13 @@ FORM = [
     'home_gdiff_l10','away_gdiff_l10',
 ]
 
-FEATURES = SHOT_QUALITY + FORM
+GOALIE = [
+    'gsax_diff',  # positive = home goalie better, suppresses scoring
+]
+
+FEATURES = SHOT_QUALITY + FORM + GOALIE
 FEATURES = [f for f in FEATURES if f in df.columns]
-print(f"\nUsing {len(FEATURES)} features")
+print(f"\nUsing {len(FEATURES)} features: {FEATURES}")
 
 df = df.dropna(subset=FEATURES)
 print(f"Games after dropping missing: {len(df)}")
@@ -83,8 +85,8 @@ best_model.fit(X, y)
 
 if best_name == 'GBM':
     feat_imp = sorted(zip(FEATURES, best_model.feature_importances_), key=lambda x: -x[1])
-    print("\nTop 10 feature importances:")
-    for feat, imp in feat_imp[:10]:
+    print("\nTop feature importances:")
+    for feat, imp in feat_imp:
         print(f"  {feat:25s}: {imp:.4f}")
 
 # ── OOF residual std (honest calibration) ────────────────────────────────────

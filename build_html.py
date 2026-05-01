@@ -234,7 +234,7 @@ for game in tonight:
     else:         winner,conf,pa=af,1-prob,aa
 
     # O/U row
-    ou_row = {}
+    ou_row = {'gsax_diff': h_gsax - a_gsax}
     for feat in features_ou:
         if feat.startswith('home_'):   ou_row[feat] = gs(hf,feat[5:])
         elif feat.startswith('away_'): ou_row[feat] = gs(af,feat[5:])
