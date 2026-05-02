@@ -1,18 +1,22 @@
 {
   "alltime": {
     "W": 41,
-    "L": 34
+    "L": 36
   },
   "by_month": {
     "2026-04": {
       "W": 41,
       "L": 34
+    },
+    "2026-05": {
+      "W": 0,
+      "L": 2
     }
   },
   "by_conf": {
     "50": {
       "W": 9,
-      "L": 9
+      "L": 11
     },
     "55": {
       "W": 9,
@@ -4460,7 +4464,7 @@
     },
     "2026-05-01": {
       "W": 0,
-      "L": 0,
+      "L": 2,
       "picks": [
         {
           "home_abbr": "BOS",
@@ -4470,11 +4474,11 @@
           "ou_pick": "Under",
           "ou_line": 5.5,
           "ou_conf": 52.0,
-          "result": "",
-          "ou_result": "",
-          "home_score": 0,
-          "away_score": 0,
-          "total": 0
+          "result": "L",
+          "ou_result": "W",
+          "home_score": 1,
+          "away_score": 4,
+          "total": 5
         },
         {
           "home_abbr": "UTA",
@@ -4484,6 +4488,26 @@
           "ou_pick": "Over",
           "ou_line": 5.5,
           "ou_conf": 53.0,
+          "result": "L",
+          "ou_result": "W",
+          "home_score": 1,
+          "away_score": 5,
+          "total": 6
+        }
+      ]
+    },
+    "2026-05-02": {
+      "W": 0,
+      "L": 0,
+      "picks": [
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "PHI",
+          "pick_abbr": "CAR",
+          "conf": 72.1,
+          "ou_pick": "Over",
+          "ou_line": 5.5,
+          "ou_conf": 50.0,
           "result": "",
           "ou_result": "",
           "home_score": 0,
@@ -4494,7 +4518,7 @@
     }
   },
   "ou_alltime": {
-    "W": 24,
+    "W": 26,
     "L": 21
   },
   "ou_by_conf": {
@@ -4511,7 +4535,7 @@
       "L": 5
     },
     "50": {
-      "W": 3,
+      "W": 5,
       "L": 4
     },
     "65": {
@@ -4523,6 +4547,10 @@
     "2026-04": {
       "W": 24,
       "L": 21
+    },
+    "2026-05": {
+      "W": 2,
+      "L": 0
     }
   },
   "prop_alltime": {

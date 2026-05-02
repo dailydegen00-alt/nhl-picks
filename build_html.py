@@ -362,6 +362,10 @@ this_month = now.strftime('%Y-%m')
 month_rec  = record.get('by_month',{}).get(this_month,{"W":0,"L":0})
 ou_month   = record.get('ou_by_month',{}).get(this_month,{"W":0,"L":0})
 
+prop_at    = record.get('prop_alltime', {"W":0,"L":0})
+prop_month = record.get('prop_by_month', {}).get(this_month, {"W":0,"L":0})
+prop_tot   = prop_at.get('W',0) + prop_at.get('L',0)
+prop_pct   = prop_at['W']/prop_tot*100 if prop_tot else 0
 # Playoff detection — used by prop model adjustment
 _is_playoffs = (now.month >= 5) or (now.month == 4 and now.day >= 19)
 yest_str   = (now-timedelta(days=1)).strftime('%Y-%m-%d')
@@ -383,7 +387,12 @@ tabs_html = ''.join(day_tabs)
 
 # ── Record box helper ─────────────────────────
 def conf_bands(prefix=''):
-    key = 'ou_by_conf' if prefix=='ou_' else 'by_conf'
+    if prefix == 'prop_':
+        key = 'prop_by_conf'
+    elif prefix == 'ou_':
+        key = 'ou_by_conf'
+    else:
+        key = 'by_conf'
     rows = ''
     for band,label in [('50','50-55%'),('55','55-60%'),('60','60-65%'),('65','65-70%'),('70','70%+')]:
         b = record.get(key,{}).get(band,{"W":0,"L":0})
@@ -874,11 +883,14 @@ body{{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;backgro
 
   <div id="view-ml"></div>
   <div id="view-ou" style="display:none;"></div>
-  <div id="view-props" style="display:none;"></div>
+  <div id="view-props" style="display:none;"><div id="props-record-box"></div>
+  PROPS_RECORD_PLACEHOLDER
+</div>
 </div>
 
 <script>
 var ML_DATA    = {_json.dumps(ml_data)};
+var PROPS_RECORD_HTML = {_json.dumps(record_box('Props Record', prop_at, prop_month, {"W":0,"L":0}, 0, prop_pct, conf_bands('prop_')))};
 var PROP_DATA  = {_json.dumps(prop_data)};
 var currentTab = 'ml';
 
@@ -889,6 +901,10 @@ function badge(r){{
 }}
 
 function showTab(t){{
+  if(t==='props'){{
+    var rec = document.getElementById('props-record-box');
+    if(rec && PROPS_RECORD_HTML) rec.innerHTML = PROPS_RECORD_HTML;
+  }}
   currentTab = t;
   ['ml','ou','props'].forEach(function(x){{
     document.getElementById('view-'+x).style.display = x===t?'block':'none';
@@ -968,6 +984,7 @@ for p in yd.get('picks',[]):
     if r in ('W','L'): yest_ou[r] = yest_ou.get(r,0)+1
 
 # ── Main HTML ─────────────────────────────────
+prop_record_box = record_box('Props Record', prop_at, prop_month, {"W":0,"L":0}, 0, prop_pct, conf_bands('prop_'))
 html = f'''<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -1045,6 +1062,7 @@ html = f'''<!DOCTYPE html>
 
   <!-- PROPS SECTION -->
   <div id="view-props" style="display:none;">
+  PROPS_RECORD_PLACEHOLDER
   <div style="font-size:13px;font-weight:600;color:#111;margin-bottom:6px;padding-bottom:8px;border-bottom:1px solid #e5e7eb;">
     Player Props
   </div>
@@ -1078,6 +1096,14 @@ function toggle(i){{
 }}
 </script>
 </body></html>'''
+
+# Inject props record box into html
+props_record_html = (
+    '<div style="font-size:13px;font-weight:600;color:#111;margin-bottom:10px;padding-bottom:8px;border-bottom:1px solid #e5e7eb;">Props Record</div>' +
+    record_box('Props Record', prop_at, prop_month, {"W":0,"L":0}, 0, prop_pct, conf_bands('prop_')) +
+    '<div style="display:flex;justify-content:flex-end;margin-bottom:12px;font-size:11px;color:#9ca3af;">60%+ confidence recommended</div>'
+)
+html = html.replace('PROPS_RECORD_PLACEHOLDER', props_record_html)
 
 with open('picks.html','w',encoding='utf-8') as f:
     f.write(html)
