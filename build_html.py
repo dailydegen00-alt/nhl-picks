@@ -107,6 +107,14 @@ try:
     skaters_prop['ptspg']  = (skaters_prop['I_F_goals'] + skaters_prop['I_F_primaryAssists'] + skaters_prop['I_F_secondaryAssists']) / skaters_prop['games_played'].clip(lower=1)
     skaters_prop['shotspg']= skaters_prop['I_F_shotsOnGoal'] / skaters_prop['games_played'].clip(lower=1)
     skaters_prop = skaters_prop.dropna(subset=['name'])
+
+    # Build opponent shots-allowed lookup for prop adjustment
+    _mp_all = pd.read_csv('data/moneypuck.csv')
+    _mp_all = _mp_all[_mp_all['situation'] == 'all'].copy()
+    _mp_all['soga_pg'] = _mp_all['shotsOnGoalAgainst'] / _mp_all['games_played'].clip(lower=1)
+    _league_avg_soga = _mp_all['soga_pg'].mean()
+    _opp_soga = dict(zip(_mp_all['name'], _mp_all['soga_pg']))
+
     skaters_prop_index = skaters_prop['name'].tolist()
 except Exception as e:
     print(f"  Skater stats error: {e}")
@@ -442,6 +450,7 @@ def injury_html(injured, adj):
             f'{items}{adj_str}</div>')
 
 # ── Props processing ───────────────────────────
+_full_to_abbr = {v: k for k, v in abbr_to_full.items()}
 def get_model_prob_for_prop(prop):
     market  = prop['market']
     player  = prop['player']
@@ -479,8 +488,13 @@ def get_model_prob_for_prop(prop):
         row = skaters_prop[skaters_prop['name'] == match]
         if row.empty: return None, None
         shotspg = float(row['shotspg'].iloc[0]) * adj
+        # Opponent defense adjustment
+        opp_abbr = prop.get('opp_abbr', '')
+        opp_soga = _opp_soga.get(opp_abbr, _league_avg_soga)
+        opp_adj = opp_soga / _league_avg_soga if _league_avg_soga > 0 else 1.0
+        shotspg = shotspg * opp_adj
         prob = 1 - poisson.cdf(int(line), shotspg)
-        label = f"{shotspg:.2f} sog/gm" + (' (playoff adj)' if is_po else '')
+        label = f"{shotspg:.2f} sog/gm (playoff adj)" if is_po else f"{shotspg:.2f} sog/gm"
         return round(prob, 4), label
 
     elif market == 'player_goalie_saves':
@@ -513,6 +527,8 @@ def build_props_html(props_map):
     for home_team, game_data in props_map.items():
         away_team = game_data['away']
         for prop in game_data['props']:
+            # Pass opponent abbr for defense adjustment
+            prop['opp_abbr'] = _full_to_abbr.get(away_team, '')
             model_prob, stat_label = get_model_prob_for_prop(prop)
             if model_prob is None:
                 continue
