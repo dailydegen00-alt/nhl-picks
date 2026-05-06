@@ -397,7 +397,7 @@ for i in range(1,30):
     rs = f' {dw}-{dl2}' if (dw+dl2)>0 else ''
     rc = '#16a34a' if dw>dl2 else ('#dc2626' if dl2>dw else '#9ca3af')
     day_tabs.append(f'<a href="history/picks_{d}.html" style="display:inline-block;padding:7px 14px;border-radius:20px;font-size:12px;font-weight:500;text-decoration:none;margin-right:6px;background:#f3f4f6;color:#374151;">{dl}<span style="font-size:11px;color:{rc};">{rs}</span></a>')
-    if len(day_tabs)>=8: break
+    if len(day_tabs)>=15: break
 tabs_html = ''.join(day_tabs)
 
 # ── Record box helper ─────────────────────────
