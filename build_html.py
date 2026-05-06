@@ -370,7 +370,8 @@ this_month = now.strftime('%Y-%m')
 month_rec  = record.get('by_month',{}).get(this_month,{"W":0,"L":0})
 ou_month   = record.get('ou_by_month',{}).get(this_month,{"W":0,"L":0})
 
-prop_at    = record.get('prop_alltime', {"W":0,"L":0})
+prop_at       = record.get('prop_alltime', {"W":0,"L":0})
+prop_by_market = record.get('prop_by_market', {})
 prop_month = record.get('prop_by_month', {}).get(this_month, {"W":0,"L":0})
 prop_tot   = prop_at.get('W',0) + prop_at.get('L',0)
 prop_pct   = prop_at['W']/prop_tot*100 if prop_tot else 0
@@ -1114,9 +1115,49 @@ function toggle(i){{
 </body></html>'''
 
 # Inject props record box into html
+# Build per-market mini records
+market_records_html = ''
+MARKET_ORDER = [
+    ('player_shots_on_goal', 'Shots on Goal'),
+    ('player_points',        'Points'),
+    ('player_points_assists','Points + Assists'),
+    ('player_goalie_saves',  'Saves'),
+]
+for mkey, mlabel in MARKET_ORDER:
+    mdata = prop_by_market.get(mkey)
+    if not mdata:
+        continue
+    mat = mdata.get('alltime', {"W":0,"L":0})
+    mt  = mat['W'] + mat['L']
+    mp  = mat['W']/mt*100 if mt else 0
+    mconf = mdata.get('by_conf', {})
+    band_html = ''
+    for band, blabel in [('60','60-65%'),('65','65-70%'),('70','70%+')]:
+        b = mconf.get(band, {"W":0,"L":0})
+        bt = b['W']+b['L']
+        bp = b['W']/bt*100 if bt else 0
+        bcol = '#16a34a' if bp>=55 else ('#dc2626' if bt>0 else '#9ca3af')
+        band_html += (f'<div style="text-align:center;padding:6px 4px;">'
+                      f'<div style="font-size:10px;color:#9ca3af;">{blabel}</div>'
+                      f'<div style="font-size:12px;font-weight:500;">{b["W"]}-{b["L"]}</div>'
+                      f'<div style="font-size:10px;color:{bcol};">{bp:.0f}%</div></div>')
+    mcol = '#16a34a' if mp>=52 else '#dc2626'
+    market_records_html += (
+        f'<div style="background:#f9fafb;border-radius:10px;border:0.5px solid #e5e7eb;'
+        f'padding:12px 14px;margin-bottom:10px;">'
+        f'<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px;">'
+        f'<div style="font-size:12px;font-weight:600;color:#111;">{mlabel}</div>'
+        f'<div style="font-size:12px;font-weight:500;color:{mcol};">{mat["W"]}-{mat["L"]} ({mp:.0f}%)</div>'
+        f'</div>'
+        f'<div style="display:grid;grid-template-columns:repeat(3,1fr);gap:4px;">{band_html}</div>'
+        f'</div>'
+    )
+
 props_record_html = (
-    '<div style="font-size:13px;font-weight:600;color:#111;margin-bottom:10px;padding-bottom:8px;border-bottom:1px solid #e5e7eb;">Props Record</div>' +
     record_box('Props Record', prop_at, prop_month, {"W":0,"L":0}, 0, prop_pct, conf_bands('prop_')) +
+    ('<div style="font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.08em;'
+     'color:#9ca3af;margin:16px 0 8px;">Record by Market</div>' + market_records_html
+     if market_records_html else '') +
     '<div style="display:flex;justify-content:flex-end;margin-bottom:12px;font-size:11px;color:#9ca3af;">60%+ confidence recommended</div>'
 )
 html = html.replace('PROPS_RECORD_PLACEHOLDER', props_record_html)

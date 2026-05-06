@@ -1,6 +1,7 @@
 """
 Auto-grades yesterday's picks against NHL boxscores.
-Tracks moneyline and O/U records separately.
+Tracks moneyline, O/U, and props records separately.
+Props also tracked by market type.
 """
 import requests
 import json
@@ -21,13 +22,19 @@ def load_record():
             "60": {"W":0,"L":0}, "65": {"W":0,"L":0}, "70": {"W":0,"L":0}
         },
         "by_day": {},
-        # O/U record
         "ou_alltime":  {"W": 0, "L": 0},
         "ou_by_month": {},
         "ou_by_conf":  {
             "50": {"W":0,"L":0}, "55": {"W":0,"L":0},
             "60": {"W":0,"L":0}, "65": {"W":0,"L":0}, "70": {"W":0,"L":0}
         },
+        "prop_alltime": {"W": 0, "L": 0},
+        "prop_by_month": {},
+        "prop_by_conf": {
+            "50": {"W":0,"L":0}, "55": {"W":0,"L":0},
+            "60": {"W":0,"L":0}, "65": {"W":0,"L":0}, "70": {"W":0,"L":0}
+        },
+        "prop_by_market": {},
     }
 
 def save_record(r):
@@ -121,7 +128,7 @@ def grade_day(date_str, record):
                 record.setdefault('by_month', {}).setdefault(month, {"W":0,"L":0})
                 record['by_month'][month][result] = record['by_month'][month].get(result, 0) + 1
                 ml_graded += 1
-                print(f"    ML  {away_abbr} @ {home_abbr} → Picked {pick['pick_abbr']} → {result} ({game['away_score']}-{game['home_score']})")
+                print(f"    ML  {away_abbr} @ {home_abbr} -> Picked {pick['pick_abbr']} -> {result} ({game['away_score']}-{game['home_score']})")
 
             # O/U
             ou_pick = pick.get('ou_pick')
@@ -147,24 +154,22 @@ def grade_day(date_str, record):
                 record.setdefault('ou_by_month', {}).setdefault(month, {"W":0,"L":0})
                 record['ou_by_month'][month][ou_result] = record['ou_by_month'][month].get(ou_result, 0) + 1
                 ou_graded += 1
-                print(f"    O/U {away_abbr} @ {home_abbr} → {ou_pick} {ou_line} → total {total} → {ou_result}")
+                print(f"    O/U {away_abbr} @ {home_abbr} -> {ou_pick} {ou_line} -> total {total} -> {ou_result}")
 
-        # Update day totals
         day_picks      = [p for p in picks if p.get('result') in ('W','L')]
         day_data['W']  = sum(1 for p in day_picks if p['result'] == 'W')
         day_data['L']  = sum(1 for p in day_picks if p['result'] == 'L')
         record['by_day'][date_str] = day_data
         print(f"  Graded {ml_graded} ML picks, {ou_graded} O/U picks for {date_str}")
     else:
-        print(f"  ML/OU already graded — checking props only")
+        print(f"  ML/OU already graded -- checking props only")
 
-    # ── Grade props ────────────────────────────────────────────────────────────
+    # ── Grade props ───────────────────────────────────────────────────────────
     if not props_ungraded:
         return record
 
     print(f"  Props: {len(props_ungraded)} ungraded prop picks found")
 
-    # Get game IDs for boxscore lookup
     game_ids = {}
     try:
         sched = requests.get(
@@ -184,7 +189,6 @@ def grade_day(date_str, record):
 
     print(f"  Props: found {len(game_ids)} completed games: {list(game_ids.keys())}")
 
-    # Fetch boxscores
     player_stats = {}
     for game_key, game_id in game_ids.items():
         try:
@@ -192,32 +196,26 @@ def grade_day(date_str, record):
                 f'https://api-web.nhle.com/v1/gamecenter/{game_id}/boxscore',
                 timeout=10).json()
 
-            # Player stats live under playerByGameStats, not homeTeam/awayTeam
             pbg = box.get('playerByGameStats', {})
-
             player_stats[game_key] = {}
+
             for side in ['homeTeam', 'awayTeam']:
                 sd = pbg.get(side, {})
-
-                # Skaters
                 for cat in ['forwards', 'defense']:
                     for p in sd.get(cat, []):
-                        # Name is {'default': 'C. Perry'} — abbreviated
                         name_raw = p.get('name', {}).get('default', '')
-                        # Store both abbreviated and last-name-only versions
                         parts = name_raw.split(' ', 1)
                         last  = parts[1].strip().lower() if len(parts) > 1 else name_raw.lower()
                         full  = name_raw.strip().lower()
                         stats = {
-                            'shots':   p.get('sog', 0),   # shots on goal
+                            'shots':   p.get('sog', 0),
                             'goals':   p.get('goals', 0),
                             'assists': p.get('assists', 0),
                             'points':  p.get('points', 0),
                         }
                         player_stats[game_key][full] = stats
-                        player_stats[game_key][last] = stats  # also index by last name
+                        player_stats[game_key][last] = stats
 
-                # Goalies
                 for p in sd.get('goalies', []):
                     name_raw = p.get('name', {}).get('default', '')
                     parts = name_raw.split(' ', 1)
@@ -234,13 +232,21 @@ def grade_day(date_str, record):
             print(f"  Props: boxscore error {game_key}: {e}")
 
     if not player_stats:
-        print(f"  Props: no player stats fetched — boxscores may not be available yet")
+        print(f"  Props: no player stats fetched -- boxscores may not be available yet")
         return record
 
     print(f"  Props: player stats loaded for {list(player_stats.keys())}")
 
     from difflib import get_close_matches
     prop_graded = 0
+
+    # Market display names
+    MARKET_LABELS = {
+        'player_shots_on_goal':  'Shots on Goal',
+        'player_goalie_saves':   'Saves',
+        'player_points':         'Points',
+        'player_points_assists': 'Points + Assists',
+    }
 
     for pp in props_ungraded:
         ha       = pp.get('home_abbr', '')
@@ -257,7 +263,6 @@ def grade_day(date_str, record):
 
         matches = get_close_matches(player, stats.keys(), n=1, cutoff=0.72)
         if not matches:
-            # Try last name only
             last = player.split()[-1] if player.split() else player
             matches = get_close_matches(last, stats.keys(), n=1, cutoff=0.80)
         if not matches:
@@ -285,6 +290,7 @@ def grade_day(date_str, record):
         band  = conf_band(conf)
         month = date_str[:7]
 
+        # Overall prop record
         record.setdefault('prop_alltime', {"W":0,"L":0})
         record['prop_alltime'][result] = record['prop_alltime'].get(result, 0) + 1
         record.setdefault('prop_by_conf', {}).setdefault(band, {"W":0,"L":0})
@@ -292,14 +298,28 @@ def grade_day(date_str, record):
         record.setdefault('prop_by_month', {}).setdefault(month, {"W":0,"L":0})
         record['prop_by_month'][month][result] = record['prop_by_month'][month].get(result, 0) + 1
 
+        # Per-market record
+        record.setdefault('prop_by_market', {}).setdefault(market, {
+            "label": MARKET_LABELS.get(market, market),
+            "alltime": {"W":0,"L":0},
+            "by_conf": {
+                "50": {"W":0,"L":0}, "55": {"W":0,"L":0},
+                "60": {"W":0,"L":0}, "65": {"W":0,"L":0}, "70": {"W":0,"L":0}
+            }
+        })
+        record['prop_by_market'][market]['alltime'][result] = \
+            record['prop_by_market'][market]['alltime'].get(result, 0) + 1
+        record['prop_by_market'][market]['by_conf'].setdefault(band, {"W":0,"L":0})
+        record['prop_by_market'][market]['by_conf'][band][result] = \
+            record['prop_by_market'][market]['by_conf'][band].get(result, 0) + 1
+
         prop_graded += 1
-        print(f"    PROP {pp['player']} {pick} → actual {actual:.0f} → {result}")
+        print(f"    PROP [{MARKET_LABELS.get(market, market)}] {pp['player']} {pick} -> actual {actual:.0f} -> {result}")
 
     if prop_graded:
         print(f"  Graded {prop_graded} prop picks for {date_str}")
 
     record['by_day'][date_str] = day_data
-    return record
     return record
 
 def grade_recent(days=3):
@@ -325,20 +345,16 @@ if __name__ == '__main__':
     ou_at  = rec.get('ou_alltime', {"W":0,"L":0})
     ou_tot = ou_at.get('W',0) + ou_at.get('L',0)
     ou_pct = ou_at['W']/ou_tot*100 if ou_tot else 0
-    print(f"O/U all-time:       {ou_at.get('W',0)}-{ou_at.get('L',0)} ({ou_pct:.1f}%)")
+    print(f"O/U all-time: {ou_at.get('W',0)}-{ou_at.get('L',0)} ({ou_pct:.1f}%)")
 
-    print("\nML by confidence:")
-    for band in ['50','55','60','65','70']:
-        b = rec['by_conf'].get(band, {"W":0,"L":0})
-        t = b['W']+b['L']
-        p = b['W']/t*100 if t else 0
-        label = {'50':'50-55%','55':'55-60%','60':'60-65%','65':'65-70%','70':'70%+'}.get(band)
-        print(f"  {label}: {b['W']}-{b['L']} ({p:.0f}%)")
+    prop_at  = rec.get('prop_alltime', {"W":0,"L":0})
+    prop_tot = prop_at.get('W',0) + prop_at.get('L',0)
+    prop_pct = prop_at['W']/prop_tot*100 if prop_tot else 0
+    print(f"Props all-time: {prop_at.get('W',0)}-{prop_at.get('L',0)} ({prop_pct:.1f}%)")
 
-    print("\nO/U by confidence:")
-    for band in ['50','55','60','65','70']:
-        b = rec.get('ou_by_conf',{}).get(band, {"W":0,"L":0})
-        t = b['W']+b['L']
-        p = b['W']/t*100 if t else 0
-        label = {'50':'50-55%','55':'55-60%','60':'60-65%','65':'65-70%','70':'70%+'}.get(band)
-        print(f"  {label}: {b['W']}-{b['L']} ({p:.0f}%)")
+    print("\nProps by market:")
+    for market, data in rec.get('prop_by_market', {}).items():
+        at2 = data['alltime']
+        t2  = at2['W']+at2['L']
+        p2  = at2['W']/t2*100 if t2 else 0
+        print(f"  {data['label']}: {at2['W']}-{at2['L']} ({p2:.0f}%)")
