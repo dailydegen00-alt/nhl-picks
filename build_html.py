@@ -312,6 +312,8 @@ for game in tonight:
 picks.sort(key=lambda x: -(x['model_ev'] or -999) if x['model_ev'] else -x['confidence'])
 
 # ── Save picks ────────────────────────────────
+prop_picks_today = []  # will be populated after build_props_html
+
 if today not in record.get('by_day',{}):
     record.setdefault('by_day',{})[today] = {
         'W':0,'L':0,
@@ -321,8 +323,12 @@ if today not in record.get('by_day',{}):
             'ou_pick':p['ou_pick'],'ou_line':p['ou_line'],
             'ou_conf':p['ou_conf_num'],
             'result':'','ou_result':'','home_score':0,'away_score':0,'total':0
-        } for p in picks]
+        } for p in picks],
+        'prop_picks': prop_picks_today,
     }
+    save_record(record)
+elif not record['by_day'][today].get('prop_picks'):
+    record['by_day'][today]['prop_picks'] = prop_picks_today
     save_record(record)
 
 # ── Save tonight's lines to historical_lines.csv ──────────────────────────────
@@ -386,7 +392,7 @@ for i in range(1,30):
     d    = (now-timedelta(days=i)).strftime('%Y-%m-%d')
     drec = record.get('by_day',{}).get(d,{})
     if not drec.get('picks'): continue
-    dl = (now-timedelta(days=i)).strftime('Apr %d')
+    dl = (now-timedelta(days=i)).strftime('%b %d')
     dw,dl2 = drec.get('W',0),drec.get('L',0)
     rs = f' {dw}-{dl2}' if (dw+dl2)>0 else ''
     rc = '#16a34a' if dw>dl2 else ('#dc2626' if dl2>dw else '#9ca3af')
@@ -513,7 +519,7 @@ def get_model_prob_for_prop(prop):
 def build_props_html(props_map):
     """Build the full props section HTML."""
     if not props_map:
-        return '<div style="text-align:center;padding:40px 0;color:#9ca3af;">No props available today.</div>'
+        return '<div style="text-align:center;padding:40px 0;color:#9ca3af;">No props available today.</div>', []
 
     MARKET_ORDER = ['player_shots_on_goal', 'player_goalie_saves', 'player_points', 'player_points_assists']
     MARKET_LABELS = {
@@ -583,7 +589,7 @@ def build_props_html(props_map):
             })
 
     if not all_edges:
-        return '<div style="text-align:center;padding:40px 0;color:#9ca3af;">No props with positive EV found today.</div>'
+        return '<div style="text-align:center;padding:40px 0;color:#9ca3af;">No props with positive EV found today.</div>', []
 
     # Sort by EV descending
     all_edges.sort(key=lambda x: -x['ev'])
@@ -646,9 +652,27 @@ def build_props_html(props_map):
   </div>
 </div>''')
 
-    return ''.join(html_parts)
+    # Build prop picks list for saving to record
+    prop_picks_today = []
+    for e in all_edges:
+        conf_pct = round(e['model_prob'] * 100, 1)
+        home_abbr = _full_to_abbr.get(e['home'], e['home'])
+        away_abbr = _full_to_abbr.get(e['away'], e['away'])
+        prop_picks_today.append({
+            'home_abbr': home_abbr,
+            'away_abbr': away_abbr,
+            'player':    e['player'],
+            'market':    e['market'],
+            'pick':      e['pick'],
+            'line':      float(e['pick'].split()[-1]) if e['pick'].split()[-1].replace('.','').isdigit() else e.get('line', 0),
+            'conf':      conf_pct,
+            'ev':        round(e['ev'], 1),
+            'result':    '',
+            'actual':    None,
+        })
 
-props_html = build_props_html(props_map)
+    return ''.join(html_parts), prop_picks_today
+
 
 
 
@@ -794,6 +818,13 @@ def ou_card(p, idx):
     <span>🥅 {p['a_goalie']} <span style="color:{'#16a34a' if p['a_gsax']>=0 else '#dc2626'};">GSAx {p['a_gsax']:+.1f}</span></span>
   </div>
 </div>'''
+
+props_html, prop_picks_today = build_props_html(props_map)
+
+# Save prop_picks to record now that we have them
+if prop_picks_today and not record.get('by_day',{}).get(today,{}).get('prop_picks'):
+    record.setdefault('by_day',{}).setdefault(today,{})['prop_picks'] = prop_picks_today
+    save_record(record)
 
 ml_cards  = '\n'.join(ml_card(p,i)    for i,p in enumerate(picks))
 ou_cards  = '\n'.join(ou_card(p,i+100) for i,p in enumerate(
