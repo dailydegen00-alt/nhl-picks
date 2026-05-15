@@ -1,6 +1,6 @@
 {
   "alltime": {
-    "W": 44,
+    "W": 45,
     "L": 36
   },
   "by_month": {
@@ -9,7 +9,7 @@
       "L": 34
     },
     "2026-05": {
-      "W": 3,
+      "W": 4,
       "L": 2
     }
   },
@@ -23,7 +23,7 @@
       "L": 9
     },
     "60": {
-      "W": 8,
+      "W": 9,
       "L": 8
     },
     "65": {
@@ -8975,7 +8975,7 @@
       ]
     },
     "2026-05-14": {
-      "W": 0,
+      "W": 1,
       "L": 0,
       "picks": [
         {
@@ -8986,11 +8986,11 @@
           "ou_pick": "Over",
           "ou_line": 6.5,
           "ou_conf": 53.0,
-          "result": "",
-          "ou_result": "",
-          "home_score": 0,
-          "away_score": 0,
-          "total": 0
+          "result": "W",
+          "ou_result": "L",
+          "home_score": 1,
+          "away_score": 5,
+          "total": 6
         }
       ],
       "prop_picks": [
@@ -9003,8 +9003,8 @@
           "line": 1.5,
           "conf": 64.0,
           "ev": 53.5,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 0
         },
         {
           "home_abbr": "ANA",
@@ -9015,8 +9015,8 @@
           "line": 1.5,
           "conf": 90.3,
           "ev": 46.2,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 2
         },
         {
           "home_abbr": "ANA",
@@ -9027,8 +9027,8 @@
           "line": 1.5,
           "conf": 57.9,
           "ev": 41.8,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "ANA",
@@ -9039,8 +9039,8 @@
           "line": 1.5,
           "conf": 59.6,
           "ev": 40.0,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 0
         },
         {
           "home_abbr": "BUF",
@@ -9051,8 +9051,8 @@
           "line": 1.5,
           "conf": 61.1,
           "ev": 34.5,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 5
         },
         {
           "home_abbr": "ANA",
@@ -9063,8 +9063,8 @@
           "line": 3.5,
           "conf": 84.7,
           "ev": 32.1,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 0
         },
         {
           "home_abbr": "ANA",
@@ -9075,8 +9075,8 @@
           "line": 2.5,
           "conf": 62.2,
           "ev": 30.6,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 3
         },
         {
           "home_abbr": "ANA",
@@ -9087,8 +9087,8 @@
           "line": 2.5,
           "conf": 78.1,
           "ev": 28.8,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "BUF",
@@ -9099,8 +9099,8 @@
           "line": 2.5,
           "conf": 70.0,
           "ev": 25.9,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 2
         },
         {
           "home_abbr": "BUF",
@@ -9111,8 +9111,8 @@
           "line": 0.5,
           "conf": 37.8,
           "ev": 24.7,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "ANA",
@@ -9123,8 +9123,8 @@
           "line": 0.5,
           "conf": 71.3,
           "ev": 24.0,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 0
         },
         {
           "home_abbr": "ANA",
@@ -9135,8 +9135,8 @@
           "line": 1.5,
           "conf": 76.2,
           "ev": 23.4,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 3
         },
         {
           "home_abbr": "BUF",
@@ -9147,8 +9147,8 @@
           "line": 2.5,
           "conf": 61.3,
           "ev": 22.6,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 3
         },
         {
           "home_abbr": "BUF",
@@ -9159,8 +9159,8 @@
           "line": 0.5,
           "conf": 44.6,
           "ev": 22.6,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 0
         },
         {
           "home_abbr": "BUF",
@@ -9171,8 +9171,8 @@
           "line": 0.5,
           "conf": 46.8,
           "ev": 21.6,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "ANA",
@@ -9183,8 +9183,8 @@
           "line": 2.5,
           "conf": 70.1,
           "ev": 19.8,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 5
         },
         {
           "home_abbr": "BUF",
@@ -9195,8 +9195,8 @@
           "line": 1.5,
           "conf": 66.5,
           "ev": 19.7,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 4
         },
         {
           "home_abbr": "BUF",
@@ -9207,8 +9207,8 @@
           "line": 2.5,
           "conf": 67.3,
           "ev": 17.2,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 3
         },
         {
           "home_abbr": "BUF",
@@ -9219,8 +9219,8 @@
           "line": 2.5,
           "conf": 68.8,
           "ev": 16.2,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "BUF",
@@ -9231,8 +9231,8 @@
           "line": 0.5,
           "conf": 35.2,
           "ev": 16.2,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 0
         },
         {
           "home_abbr": "BUF",
@@ -9243,8 +9243,8 @@
           "line": 2.5,
           "conf": 63.0,
           "ev": 15.3,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 2
         },
         {
           "home_abbr": "BUF",
@@ -9255,8 +9255,8 @@
           "line": 1.5,
           "conf": 69.9,
           "ev": 15.3,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "ANA",
@@ -9267,8 +9267,8 @@
           "line": 1.5,
           "conf": 63.8,
           "ev": 14.9,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 0
         },
         {
           "home_abbr": "ANA",
@@ -9279,8 +9279,8 @@
           "line": 3.5,
           "conf": 66.7,
           "ev": 14.0,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 2
         },
         {
           "home_abbr": "BUF",
@@ -9291,8 +9291,8 @@
           "line": 3.5,
           "conf": 66.5,
           "ev": 13.8,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 3
         },
         {
           "home_abbr": "BUF",
@@ -9303,8 +9303,8 @@
           "line": 2.5,
           "conf": 72.7,
           "ev": 13.4,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 3
         },
         {
           "home_abbr": "ANA",
@@ -9315,8 +9315,8 @@
           "line": 2.5,
           "conf": 48.2,
           "ev": 13.3,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 4
         },
         {
           "home_abbr": "BUF",
@@ -9327,8 +9327,8 @@
           "line": 1.5,
           "conf": 55.1,
           "ev": 12.9,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "ANA",
@@ -9339,8 +9339,8 @@
           "line": 0.5,
           "conf": 60.2,
           "ev": 12.7,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 2
         },
         {
           "home_abbr": "ANA",
@@ -9351,8 +9351,8 @@
           "line": 1.5,
           "conf": 53.5,
           "ev": 12.3,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 4
         },
         {
           "home_abbr": "BUF",
@@ -9363,8 +9363,8 @@
           "line": 0.5,
           "conf": 31.2,
           "ev": 12.2,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 0
         },
         {
           "home_abbr": "BUF",
@@ -9375,8 +9375,8 @@
           "line": 2.5,
           "conf": 48.5,
           "ev": 11.6,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 3
         },
         {
           "home_abbr": "ANA",
@@ -9387,8 +9387,8 @@
           "line": 1.5,
           "conf": 78.0,
           "ev": 11.5,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 2
         },
         {
           "home_abbr": "ANA",
@@ -9399,8 +9399,8 @@
           "line": 0.5,
           "conf": 71.0,
           "ev": 11.5,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 1
         },
         {
           "home_abbr": "ANA",
@@ -9411,11 +9411,1110 @@
           "line": 1.5,
           "conf": 56.8,
           "ev": 10.7,
+          "result": "L",
+          "actual": 2
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Noah Hanifin",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 72.0,
+          "ev": 10.2,
+          "result": "L",
+          "actual": 1
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Lane Hutson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 60.0,
+          "ev": 9.7,
+          "result": "W",
+          "actual": 1
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Colton Sissons",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 85.5,
+          "ev": 9.5,
+          "result": "W",
+          "actual": 0
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Noah Dobson",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 41.2,
+          "ev": 9.0,
+          "result": "L",
+          "actual": 0
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Jacob Trouba",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 50.9,
+          "ev": 8.8,
+          "result": "L",
+          "actual": 3
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Jack Eichel",
+          "market": "player_points",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 72.4,
+          "ev": 8.7,
+          "result": "W",
+          "actual": 0
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Jackson LaCombe",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 56.8,
+          "ev": 8.5,
+          "result": "L",
+          "actual": 3
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Josh Doan",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 57.9,
+          "ev": 8.3,
+          "result": "L",
+          "actual": 1
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "John Carlson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 48.3,
+          "ev": 8.2,
+          "result": "L",
+          "actual": 3
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Troy Terry",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 66.6,
+          "ev": 8.0,
+          "result": "W",
+          "actual": 2
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Mikael Granlund",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 56.5,
+          "ev": 8.0,
+          "result": "L",
+          "actual": 1
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Rasmus Andersson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 50.2,
+          "ev": 7.5,
+          "result": "W",
+          "actual": 1
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Phillip Danault",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 81.2,
+          "ev": 7.2,
+          "result": "L",
+          "actual": 2
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Konsta Helenius",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 32.4,
+          "ev": 6.8,
+          "result": "W",
+          "actual": 1
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "William Karlsson",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 64.4,
+          "ev": 6.3,
+          "result": "L",
+          "actual": 1
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Jacob Trouba",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 32.2,
+          "ev": 6.3,
+          "result": "L",
+          "actual": 0
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Mike Matheson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 62.5,
+          "ev": 5.7,
+          "result": "W",
+          "actual": 1
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Owen Power",
+          "market": "player_shots_on_goal",
+          "pick": "Over 1.5",
+          "line": 1.5,
+          "conf": 37.7,
+          "ev": 5.5,
+          "result": "L",
+          "actual": 0
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Noah Dobson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 47.9,
+          "ev": 5.4,
+          "result": "W",
+          "actual": 1
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Tage Thompson",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 41.5,
+          "ev": 5.4,
+          "result": "W",
+          "actual": 0
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Zach Benson",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 57.5,
+          "ev": 5.2,
+          "result": "W",
+          "actual": 0
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Rasmus Andersson",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 38.8,
+          "ev": 4.8,
+          "result": "W",
+          "actual": 1
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Josh Norris",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 47.5,
+          "ev": 4.5,
+          "result": "L",
+          "actual": 0
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Alexandre Texier",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 31.2,
+          "ev": 3.1,
+          "result": "W",
+          "actual": 1
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Lane Hutson",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 42.9,
+          "ev": 3.0,
+          "result": "L",
+          "actual": 2
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Owen Power",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 74.6,
+          "ev": 2.9,
+          "result": "L",
+          "actual": 1
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "John Carlson",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 51.4,
+          "ev": 2.9,
+          "result": "L",
+          "actual": 0
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Mason McTavish",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 64.0,
+          "ev": 2.4,
+          "result": "W",
+          "actual": 0
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Josh Norris",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 60.5,
+          "ev": 2.2,
+          "result": "L",
+          "actual": 4
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Leo Carlsson",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 42.6,
+          "ev": 2.2,
+          "result": "L",
+          "actual": 1
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Cole Caufield",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 62.6,
+          "ev": 1.4,
+          "result": "W",
+          "actual": 1
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Chris Kreider",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 57.1,
+          "ev": 1.1,
+          "result": "W",
+          "actual": 1
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Alexandre Texier",
+          "market": "player_shots_on_goal",
+          "pick": "Over 1.5",
+          "line": 1.5,
+          "conf": 37.4,
+          "ev": 0.8,
+          "result": "W",
+          "actual": 3
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Jake Evans",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 73.9,
+          "ev": 0.5,
+          "result": "L",
+          "actual": 1
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Pavel Dorofeyev",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 50.2,
+          "ev": 0.5,
+          "result": "L",
+          "actual": 2
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Jackson LaCombe",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 53.8,
+          "ev": 0.5,
+          "result": "W",
+          "actual": 0
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Jason Zucker",
+          "market": "player_shots_on_goal",
+          "pick": "Over 1.5",
+          "line": 1.5,
+          "conf": 54.7,
+          "ev": 0.1,
+          "result": "W",
+          "actual": 2
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "William Karlsson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 49.9,
+          "ev": -0.2,
+          "result": "W",
+          "actual": 0
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Jack Quinn",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 57.3,
+          "ev": -0.3,
+          "result": "L",
+          "actual": 1
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Josh Anderson",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 75.5,
+          "ev": -0.3,
+          "result": "L",
+          "actual": 1
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Noah Hanifin",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 56.2,
+          "ev": -0.5,
+          "result": "L",
+          "actual": 2
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Tomas Hertl",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 46.2,
+          "ev": -1.1,
+          "result": "W",
+          "actual": 1
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Mattias Samuelsson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 65.2,
+          "ev": -1.6,
+          "result": "L",
+          "actual": 5
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Peyton Krebs",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 65.5,
+          "ev": -1.8,
+          "result": "W",
+          "actual": 0
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Cutter Gauthier",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 45.7,
+          "ev": -2.2,
+          "result": "W",
+          "actual": 0
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Tomas Hertl",
+          "market": "player_shots_on_goal",
+          "pick": "Over 1.5",
+          "line": 1.5,
+          "conf": 57.5,
+          "ev": -2.8,
+          "result": "L",
+          "actual": 1
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Alex Tuch",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 48.2,
+          "ev": -3.6,
+          "result": "W",
+          "actual": 0
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Chris Kreider",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 56.3,
+          "ev": -3.7,
+          "result": "W",
+          "actual": 0
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Bowen Byram",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 62.6,
+          "ev": -4.2,
+          "result": "W",
+          "actual": 0
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Rasmus Dahlin",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 43.5,
+          "ev": -4.4,
+          "result": "L",
+          "actual": 1
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Troy Terry",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 43.4,
+          "ev": -4.4,
+          "result": "L",
+          "actual": 1
+        },
+        {
+          "home_abbr": "BUF",
+          "away_abbr": "MTL",
+          "player": "Alex Newhook",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 58.7,
+          "ev": -4.9,
+          "result": "L",
+          "actual": 1
+        },
+        {
+          "home_abbr": "ANA",
+          "away_abbr": "VGK",
+          "player": "Ivan Barbashev",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 52.0,
+          "ev": -4.9,
+          "result": "L",
+          "actual": 1
+        }
+      ]
+    },
+    "2026-05-15": {
+      "W": 0,
+      "L": 0,
+      "picks": [],
+      "prop_picks": [
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Ivan Demidov",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 61.4,
+          "ev": 50.4,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "ANA",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Alex Newhook",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 64.2,
+          "ev": 43.8,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Gabriel Landeskog",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 59.5,
+          "ev": 39.9,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Martin Necas",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 66.7,
+          "ev": 36.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Gabriel Landeskog",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 76.2,
+          "ev": 34.9,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Juraj Slafkovsky",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 70.2,
+          "ev": 34.1,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Rasmus Dahlin",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 61.6,
+          "ev": 29.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Ryan McLeod",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 44.6,
+          "ev": 29.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Shea Theodore",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 57.9,
+          "ev": 27.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Nick Suzuki",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 69.0,
+          "ev": 26.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Nathan MacKinnon",
+          "market": "player_shots_on_goal",
+          "pick": "Under 3.5",
+          "line": 3.5,
+          "conf": 54.8,
+          "ev": 26.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Bowen Byram",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 66.7,
+          "ev": 24.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Mattias Samuelsson",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 37.8,
+          "ev": 24.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Cale Makar",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 65.9,
+          "ev": 23.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Nathan MacKinnon",
+          "market": "player_points",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 58.4,
+          "ev": 22.5,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Mitch Marner",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 78.1,
+          "ev": 21.8,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Zach Benson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 55.3,
+          "ev": 21.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Alex Tuch",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 63.3,
+          "ev": 18.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Josh Anderson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 70.1,
+          "ev": 18.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Lane Hutson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 60.2,
+          "ev": 17.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Cole Caufield",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 48.9,
+          "ev": 17.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Jason Zucker",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 46.8,
+          "ev": 17.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Josh Doan",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 73.0,
+          "ev": 16.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Pavel Dorofeyev",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 62.2,
+          "ev": 16.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Nicolas Roy",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 74.6,
+          "ev": 16.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Mike Matheson",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 35.2,
+          "ev": 16.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Kirby Dach",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 31.2,
+          "ev": 15.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Tage Thompson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 3.5",
+          "line": 3.5,
+          "conf": 66.9,
+          "ev": 14.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Jack Quinn",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 67.6,
+          "ev": 14.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Cale Makar",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 40.5,
+          "ev": 13.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Josh Doan",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 57.9,
+          "ev": 13.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Nazem Kadri",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 56.5,
+          "ev": 12.9,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Rasmus Andersson",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 38.8,
+          "ev": 12.6,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Lane Hutson",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 42.9,
+          "ev": 11.6,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Josh Norris",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 47.5,
+          "ev": 11.6,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Brett Howden",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 71.0,
+          "ev": 10.8,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Noah Dobson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 48.2,
+          "ev": 10.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Mitch Marner",
+          "market": "player_points",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 78.0,
+          "ev": 10.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
           "away_abbr": "VGK",
           "player": "Noah Hanifin",
           "market": "player_points",
@@ -9427,152 +10526,92 @@
           "actual": null
         },
         {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Lane Hutson",
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Tomas Hertl",
           "market": "player_shots_on_goal",
-          "pick": "Under 1.5",
+          "pick": "Over 1.5",
           "line": 1.5,
-          "conf": 60.0,
+          "conf": 57.5,
+          "ev": 9.9,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Nazem Kadri",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 63.1,
           "ev": 9.7,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Colton Sissons",
-          "market": "player_points",
-          "pick": "Under 0.5",
-          "line": 0.5,
-          "conf": 85.5,
-          "ev": 9.5,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Noah Dobson",
-          "market": "player_points",
-          "pick": "Over 0.5",
-          "line": 0.5,
-          "conf": 41.2,
-          "ev": 9.0,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Jacob Trouba",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Josh Norris",
           "market": "player_shots_on_goal",
           "pick": "Under 1.5",
           "line": 1.5,
-          "conf": 50.9,
-          "ev": 8.8,
+          "conf": 60.7,
+          "ev": 9.3,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Jack Eichel",
-          "market": "player_points",
-          "pick": "Under 1.5",
-          "line": 1.5,
-          "conf": 72.4,
-          "ev": 8.7,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Jackson LaCombe",
-          "market": "player_shots_on_goal",
-          "pick": "Under 1.5",
-          "line": 1.5,
-          "conf": 56.8,
-          "ev": 8.5,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Josh Doan",
-          "market": "player_points",
-          "pick": "Under 0.5",
-          "line": 0.5,
-          "conf": 57.9,
-          "ev": 8.3,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "John Carlson",
-          "market": "player_shots_on_goal",
-          "pick": "Under 1.5",
-          "line": 1.5,
-          "conf": 48.3,
-          "ev": 8.2,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Troy Terry",
-          "market": "player_shots_on_goal",
-          "pick": "Under 2.5",
-          "line": 2.5,
-          "conf": 66.6,
-          "ev": 8.0,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Mikael Granlund",
-          "market": "player_points",
-          "pick": "Under 0.5",
-          "line": 0.5,
-          "conf": 56.5,
-          "ev": 8.0,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Rasmus Andersson",
-          "market": "player_shots_on_goal",
-          "pick": "Under 1.5",
-          "line": 1.5,
-          "conf": 50.2,
-          "ev": 7.5,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
           "player": "Phillip Danault",
           "market": "player_points",
           "pick": "Under 0.5",
           "line": 0.5,
           "conf": 81.2,
-          "ev": 7.2,
+          "ev": 8.9,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Shea Theodore",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 60.2,
+          "ev": 8.5,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Valeri Nichushkin",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 46.1,
+          "ev": 8.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Jack Eichel",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 48.2,
+          "ev": 8.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
           "player": "Konsta Helenius",
           "market": "player_points",
           "pick": "Over 0.5",
@@ -9583,7 +10622,7 @@
           "actual": null
         },
         {
-          "home_abbr": "ANA",
+          "home_abbr": "COL",
           "away_abbr": "VGK",
           "player": "William Karlsson",
           "market": "player_points",
@@ -9595,296 +10634,224 @@
           "actual": null
         },
         {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Jacob Trouba",
-          "market": "player_points",
-          "pick": "Over 0.5",
-          "line": 0.5,
-          "conf": 32.2,
-          "ev": 6.3,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Mike Matheson",
-          "market": "player_shots_on_goal",
-          "pick": "Under 1.5",
-          "line": 1.5,
-          "conf": 62.5,
-          "ev": 5.7,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Owen Power",
-          "market": "player_shots_on_goal",
-          "pick": "Over 1.5",
-          "line": 1.5,
-          "conf": 37.7,
-          "ev": 5.5,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Noah Dobson",
-          "market": "player_shots_on_goal",
-          "pick": "Under 1.5",
-          "line": 1.5,
-          "conf": 47.9,
-          "ev": 5.4,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Tage Thompson",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Juraj Slafkovsky",
           "market": "player_points",
           "pick": "Under 0.5",
           "line": 0.5,
-          "conf": 41.5,
-          "ev": 5.4,
+          "conf": 45.9,
+          "ev": 5.6,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Zach Benson",
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Ivan Barbashev",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 63.8,
+          "ev": 5.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Martin Necas",
+          "market": "player_points",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 68.8,
+          "ev": 5.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Jack Eichel",
+          "market": "player_points",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 72.4,
+          "ev": 5.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Ross Colton",
           "market": "player_points",
           "pick": "Under 0.5",
           "line": 0.5,
-          "conf": 57.5,
-          "ev": 5.2,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Rasmus Andersson",
-          "market": "player_points",
-          "pick": "Over 0.5",
-          "line": 0.5,
-          "conf": 38.8,
+          "conf": 73.3,
           "ev": 4.8,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Josh Norris",
-          "market": "player_points",
-          "pick": "Over 0.5",
-          "line": 0.5,
-          "conf": 47.5,
-          "ev": 4.5,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Alexandre Texier",
-          "market": "player_points",
-          "pick": "Over 0.5",
-          "line": 0.5,
-          "conf": 31.2,
-          "ev": 3.1,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Lane Hutson",
-          "market": "player_points",
-          "pick": "Under 0.5",
-          "line": 0.5,
-          "conf": 42.9,
-          "ev": 3.0,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Owen Power",
-          "market": "player_points",
-          "pick": "Under 0.5",
-          "line": 0.5,
-          "conf": 74.6,
-          "ev": 2.9,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "John Carlson",
-          "market": "player_points",
-          "pick": "Over 0.5",
-          "line": 0.5,
-          "conf": 51.4,
-          "ev": 2.9,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Mason McTavish",
-          "market": "player_points",
-          "pick": "Under 0.5",
-          "line": 0.5,
-          "conf": 64.0,
-          "ev": 2.4,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Josh Norris",
-          "market": "player_shots_on_goal",
-          "pick": "Under 1.5",
-          "line": 1.5,
-          "conf": 60.5,
-          "ev": 2.2,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Leo Carlsson",
-          "market": "player_points",
-          "pick": "Under 0.5",
-          "line": 0.5,
-          "conf": 42.6,
-          "ev": 2.2,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Cole Caufield",
-          "market": "player_points",
-          "pick": "Over 0.5",
-          "line": 0.5,
-          "conf": 62.6,
-          "ev": 1.4,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Chris Kreider",
-          "market": "player_shots_on_goal",
-          "pick": "Under 1.5",
-          "line": 1.5,
-          "conf": 57.1,
-          "ev": 1.1,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Alexandre Texier",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Jason Zucker",
           "market": "player_shots_on_goal",
           "pick": "Over 1.5",
           "line": 1.5,
-          "conf": 37.4,
-          "ev": 0.8,
+          "conf": 54.4,
+          "ev": 4.0,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Ross Colton",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 49.4,
+          "ev": 3.8,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Brock Nelson",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 51.9,
+          "ev": 3.8,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Mike Matheson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 62.8,
+          "ev": 3.6,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
           "player": "Jake Evans",
           "market": "player_points",
           "pick": "Under 0.5",
           "line": 0.5,
           "conf": 73.9,
-          "ev": 0.5,
+          "ev": 3.5,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Pavel Dorofeyev",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Noah Dobson",
           "market": "player_points",
-          "pick": "Under 0.5",
+          "pick": "Over 0.5",
           "line": 0.5,
-          "conf": 50.2,
-          "ev": 0.5,
+          "conf": 41.2,
+          "ev": 2.9,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Jackson LaCombe",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Nick Suzuki",
           "market": "player_points",
-          "pick": "Under 0.5",
-          "line": 0.5,
-          "conf": 53.8,
-          "ev": 0.5,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Jason Zucker",
-          "market": "player_shots_on_goal",
-          "pick": "Over 1.5",
+          "pick": "Under 1.5",
           "line": 1.5,
-          "conf": 54.7,
-          "ev": 0.1,
+          "conf": 70.5,
+          "ev": 2.3,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "William Karlsson",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Mattias Samuelsson",
           "market": "player_shots_on_goal",
           "pick": "Under 1.5",
           "line": 1.5,
-          "conf": 49.9,
-          "ev": -0.2,
+          "conf": 65.4,
+          "ev": 2.1,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Jack Quinn",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Zach Benson",
           "market": "player_points",
           "pick": "Under 0.5",
           "line": 0.5,
-          "conf": 57.3,
-          "ev": -0.3,
+          "conf": 57.5,
+          "ev": 1.8,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Tomas Hertl",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 46.2,
+          "ev": 1.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Tage Thompson",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 41.5,
+          "ev": 1.6,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Brock Nelson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 45.3,
+          "ev": 1.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Owen Power",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 74.6,
+          "ev": -0.1,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
           "player": "Josh Anderson",
           "market": "player_points",
           "pick": "Under 0.5",
@@ -9895,158 +10862,170 @@
           "actual": null
         },
         {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Noah Hanifin",
-          "market": "player_shots_on_goal",
-          "pick": "Under 1.5",
-          "line": 1.5,
-          "conf": 56.2,
-          "ev": -0.5,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Tomas Hertl",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Zack Bolduc",
           "market": "player_points",
           "pick": "Over 0.5",
           "line": 0.5,
-          "conf": 46.2,
-          "ev": -1.1,
+          "conf": 27.7,
+          "ev": -0.3,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Mattias Samuelsson",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Alexandre Texier",
           "market": "player_shots_on_goal",
           "pick": "Under 1.5",
           "line": 1.5,
-          "conf": 65.2,
+          "conf": 62.9,
+          "ev": -1.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Ivan Barbashev",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 48.0,
           "ev": -1.6,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Peyton Krebs",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Alexandre Carrier",
           "market": "player_points",
           "pick": "Under 0.5",
           "line": 0.5,
-          "conf": 65.5,
+          "conf": 76.7,
           "ev": -1.8,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Cutter Gauthier",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Ivan Demidov",
           "market": "player_points",
           "pick": "Under 0.5",
           "line": 0.5,
-          "conf": 45.7,
-          "ev": -2.2,
+          "conf": 50.2,
+          "ev": -2.0,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "ANA",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Jack Quinn",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 57.3,
+          "ev": -2.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
           "away_abbr": "VGK",
-          "player": "Tomas Hertl",
+          "player": "Rasmus Andersson",
           "market": "player_shots_on_goal",
-          "pick": "Over 1.5",
+          "pick": "Under 1.5",
           "line": 1.5,
-          "conf": 57.5,
+          "conf": 50.2,
+          "ev": -2.1,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Bowen Byram",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 37.4,
           "ev": -2.8,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Alex Tuch",
-          "market": "player_points",
-          "pick": "Under 0.5",
-          "line": 0.5,
-          "conf": 48.2,
-          "ev": -3.6,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Chris Kreider",
-          "market": "player_points",
-          "pick": "Under 0.5",
-          "line": 0.5,
-          "conf": 56.3,
-          "ev": -3.7,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Bowen Byram",
-          "market": "player_points",
-          "pick": "Under 0.5",
-          "line": 0.5,
-          "conf": 62.6,
-          "ev": -4.2,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
-          "player": "Rasmus Dahlin",
-          "market": "player_points",
-          "pick": "Under 0.5",
-          "line": 0.5,
-          "conf": 43.5,
-          "ev": -4.4,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "ANA",
-          "away_abbr": "VGK",
-          "player": "Troy Terry",
-          "market": "player_points",
-          "pick": "Under 0.5",
-          "line": 0.5,
-          "conf": 43.4,
-          "ev": -4.4,
-          "result": "",
-          "actual": null
-        },
-        {
-          "home_abbr": "BUF",
-          "away_abbr": "MTL",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
           "player": "Alex Newhook",
           "market": "player_points",
           "pick": "Under 0.5",
           "line": 0.5,
           "conf": 58.7,
-          "ev": -4.9,
+          "ev": -3.1,
           "result": "",
           "actual": null
         },
         {
-          "home_abbr": "ANA",
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Alex Tuch",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 51.8,
+          "ev": -3.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Alexandre Texier",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 31.2,
+          "ev": -3.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
           "away_abbr": "VGK",
-          "player": "Ivan Barbashev",
+          "player": "Pavel Dorofeyev",
           "market": "player_points",
           "pick": "Under 0.5",
           "line": 0.5,
-          "conf": 52.0,
-          "ev": -4.9,
+          "conf": 50.2,
+          "ev": -4.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Cole Caufield",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 62.6,
+          "ev": -4.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "MTL",
+          "away_abbr": "BUF",
+          "player": "Rasmus Dahlin",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 56.5,
+          "ev": -4.5,
           "result": "",
           "actual": null
         }
@@ -10055,7 +11034,7 @@
   },
   "ou_alltime": {
     "W": 27,
-    "L": 23
+    "L": 24
   },
   "ou_by_conf": {
     "70": {
@@ -10072,7 +11051,7 @@
     },
     "50": {
       "W": 6,
-      "L": 6
+      "L": 7
     },
     "65": {
       "W": 1,
@@ -10086,33 +11065,33 @@
     },
     "2026-05": {
       "W": 3,
-      "L": 2
+      "L": 3
     }
   },
   "prop_alltime": {
-    "W": 140,
-    "L": 138
+    "W": 181,
+    "L": 185
   },
   "prop_by_conf": {
     "65": {
-      "W": 24,
-      "L": 11
+      "W": 30,
+      "L": 14
     },
     "60": {
-      "W": 22,
-      "L": 17
+      "W": 30,
+      "L": 23
     },
     "50": {
-      "W": 48,
-      "L": 82
+      "W": 63,
+      "L": 101
     },
     "70": {
-      "W": 24,
-      "L": 11
+      "W": 30,
+      "L": 22
     },
     "55": {
-      "W": 22,
-      "L": 17
+      "W": 28,
+      "L": 25
     }
   },
   "prop_by_month": {
@@ -10121,66 +11100,66 @@
       "L": 83
     },
     "2026-05": {
-      "W": 67,
-      "L": 55
+      "W": 108,
+      "L": 102
     }
   },
   "prop_by_market": {
     "player_shots_on_goal": {
       "label": "Shots on Goal",
       "alltime": {
-        "W": 64,
-        "L": 63
+        "W": 86,
+        "L": 84
       },
       "by_conf": {
         "50": {
-          "W": 22,
-          "L": 28
+          "W": 27,
+          "L": 34
         },
         "55": {
-          "W": 11,
-          "L": 8
+          "W": 15,
+          "L": 12
         },
         "60": {
-          "W": 14,
-          "L": 15
+          "W": 19,
+          "L": 19
         },
         "65": {
-          "W": 15,
-          "L": 7
+          "W": 20,
+          "L": 10
         },
         "70": {
-          "W": 2,
-          "L": 5
+          "W": 5,
+          "L": 9
         }
       }
     },
     "player_points": {
       "label": "Points",
       "alltime": {
-        "W": 76,
-        "L": 75
+        "W": 95,
+        "L": 101
       },
       "by_conf": {
         "50": {
-          "W": 26,
-          "L": 54
+          "W": 36,
+          "L": 67
         },
         "55": {
-          "W": 11,
-          "L": 9
+          "W": 13,
+          "L": 13
         },
         "60": {
-          "W": 8,
-          "L": 2
+          "W": 11,
+          "L": 4
         },
         "65": {
-          "W": 9,
+          "W": 10,
           "L": 4
         },
         "70": {
-          "W": 22,
-          "L": 6
+          "W": 25,
+          "L": 13
         }
       }
     }
