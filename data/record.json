@@ -1,7 +1,7 @@
 {
   "alltime": {
     "W": 45,
-    "L": 36
+    "L": 37
   },
   "by_month": {
     "2026-04": {
@@ -10,7 +10,7 @@
     },
     "2026-05": {
       "W": 4,
-      "L": 2
+      "L": 3
     }
   },
   "by_conf": {
@@ -24,7 +24,7 @@
     },
     "60": {
       "W": 9,
-      "L": 8
+      "L": 9
     },
     "65": {
       "W": 6,
@@ -15033,7 +15033,7 @@
     },
     "2026-05-20": {
       "W": 0,
-      "L": 0,
+      "L": 1,
       "picks": [
         {
           "home_abbr": "COL",
@@ -15043,11 +15043,11 @@
           "ou_pick": "Over",
           "ou_line": 6.5,
           "ou_conf": 50.0,
-          "result": "",
-          "ou_result": "",
-          "home_score": 0,
-          "away_score": 0,
-          "total": 0
+          "result": "L",
+          "ou_result": "L",
+          "home_score": 2,
+          "away_score": 4,
+          "total": 6
         }
       ],
       "prop_picks": [
@@ -15084,8 +15084,8 @@
           "line": 2.5,
           "conf": 79.6,
           "ev": 43.4,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "CAR",
@@ -15108,8 +15108,8 @@
           "line": 1.5,
           "conf": 90.3,
           "ev": 35.4,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "COL",
@@ -15120,8 +15120,8 @@
           "line": 2.5,
           "conf": 76.2,
           "ev": 34.9,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 3
         },
         {
           "home_abbr": "COL",
@@ -15132,8 +15132,8 @@
           "line": 2.5,
           "conf": 66.7,
           "ev": 33.4,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 3
         },
         {
           "home_abbr": "COL",
@@ -15144,8 +15144,8 @@
           "line": 0.5,
           "conf": 59.5,
           "ev": 33.4,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 1
         },
         {
           "home_abbr": "COL",
@@ -15156,8 +15156,8 @@
           "line": 0.5,
           "conf": 72.9,
           "ev": 31.2,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 1
         },
         {
           "home_abbr": "CAR",
@@ -15192,8 +15192,8 @@
           "line": 2.5,
           "conf": 62.2,
           "ev": 27.5,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 3
         },
         {
           "home_abbr": "CAR",
@@ -15216,8 +15216,8 @@
           "line": 0.5,
           "conf": 64.8,
           "ev": 23.7,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 0
         },
         {
           "home_abbr": "CAR",
@@ -15252,8 +15252,8 @@
           "line": 2.5,
           "conf": 78.1,
           "ev": 21.8,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 2
         },
         {
           "home_abbr": "COL",
@@ -15264,8 +15264,8 @@
           "line": 0.5,
           "conf": 56.5,
           "ev": 20.8,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 0
         },
         {
           "home_abbr": "CAR",
@@ -15312,8 +15312,8 @@
           "line": 1.5,
           "conf": 76.2,
           "ev": 19.6,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 4
         },
         {
           "home_abbr": "COL",
@@ -15324,8 +15324,8 @@
           "line": 0.5,
           "conf": 74.6,
           "ev": 19.3,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 0
         },
         {
           "home_abbr": "COL",
@@ -15336,8 +15336,8 @@
           "line": 4.5,
           "conf": 73.5,
           "ev": 19.1,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 3
         },
         {
           "home_abbr": "COL",
@@ -15348,8 +15348,8 @@
           "line": 1.5,
           "conf": 57.9,
           "ev": 18.6,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 5
         },
         {
           "home_abbr": "CAR",
@@ -15384,8 +15384,8 @@
           "line": 1.5,
           "conf": 63.6,
           "ev": 16.3,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 2
         },
         {
           "home_abbr": "CAR",
@@ -15432,8 +15432,8 @@
           "line": 2.5,
           "conf": 48.2,
           "ev": 13.3,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 3
         },
         {
           "home_abbr": "COL",
@@ -15444,8 +15444,8 @@
           "line": 1.5,
           "conf": 50.2,
           "ev": 12.5,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 2
         },
         {
           "home_abbr": "CAR",
@@ -15480,8 +15480,8 @@
           "line": 2.5,
           "conf": 63.1,
           "ev": 11.6,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 5
         },
         {
           "home_abbr": "CAR",
@@ -15504,8 +15504,8 @@
           "line": 0.5,
           "conf": 46.1,
           "ev": 10.5,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "COL",
@@ -15516,8 +15516,8 @@
           "line": 0.5,
           "conf": 60.2,
           "ev": 10.3,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 0
         },
         {
           "home_abbr": "COL",
@@ -15528,8 +15528,8 @@
           "line": 1.5,
           "conf": 78.0,
           "ev": 10.0,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "CAR",
@@ -15552,8 +15552,8 @@
           "line": 1.5,
           "conf": 72.4,
           "ev": 9.4,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "CAR",
@@ -15576,8 +15576,8 @@
           "line": 1.5,
           "conf": 58.4,
           "ev": 9.1,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "COL",
@@ -15588,8 +15588,8 @@
           "line": 0.5,
           "conf": 71.0,
           "ev": 8.7,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 1
         },
         {
           "home_abbr": "COL",
@@ -15600,8 +15600,8 @@
           "line": 1.5,
           "conf": 73.2,
           "ev": 8.3,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "COL",
@@ -15612,8 +15612,8 @@
           "line": 1.5,
           "conf": 57.5,
           "ev": 7.6,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 1
         },
         {
           "home_abbr": "CAR",
@@ -15636,8 +15636,8 @@
           "line": 0.5,
           "conf": 51.9,
           "ev": 6.4,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 0
         },
         {
           "home_abbr": "CAR",
@@ -15660,8 +15660,8 @@
           "line": 1.5,
           "conf": 63.8,
           "ev": 5.3,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 2
         },
         {
           "home_abbr": "COL",
@@ -15672,8 +15672,8 @@
           "line": 1.5,
           "conf": 68.8,
           "ev": 5.3,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 0
         },
         {
           "home_abbr": "COL",
@@ -15684,8 +15684,8 @@
           "line": 0.5,
           "conf": 64.4,
           "ev": 4.3,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 0
         },
         {
           "home_abbr": "CAR",
@@ -15708,8 +15708,8 @@
           "line": 1.5,
           "conf": 48.6,
           "ev": 4.0,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "CAR",
@@ -15732,8 +15732,8 @@
           "line": 0.5,
           "conf": 46.2,
           "ev": 3.6,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "CAR",
@@ -15756,8 +15756,8 @@
           "line": 0.5,
           "conf": 50.2,
           "ev": 3.0,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 1
         },
         {
           "home_abbr": "COL",
@@ -15768,8 +15768,8 @@
           "line": 0.5,
           "conf": 84.9,
           "ev": 2.7,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 0
         },
         {
           "home_abbr": "CAR",
@@ -15792,8 +15792,8 @@
           "line": 1.5,
           "conf": 45.3,
           "ev": 1.4,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 4
         },
         {
           "home_abbr": "CAR",
@@ -15840,8 +15840,8 @@
           "line": 1.5,
           "conf": 50.6,
           "ev": -1.4,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 3
         },
         {
           "home_abbr": "COL",
@@ -15852,8 +15852,8 @@
           "line": 0.5,
           "conf": 48.0,
           "ev": -1.6,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 0
         },
         {
           "home_abbr": "COL",
@@ -15864,8 +15864,8 @@
           "line": 1.5,
           "conf": 50.2,
           "ev": -2.1,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 0
         },
         {
           "home_abbr": "COL",
@@ -15876,8 +15876,8 @@
           "line": 0.5,
           "conf": 46.6,
           "ev": -2.2,
-          "result": "",
-          "actual": null
+          "result": "L",
+          "actual": 0
         },
         {
           "home_abbr": "CAR",
@@ -15948,8 +15948,8 @@
           "line": 1.5,
           "conf": 56.2,
           "ev": -3.9,
-          "result": "",
-          "actual": null
+          "result": "W",
+          "actual": 1
         },
         {
           "home_abbr": "CAR",
@@ -16000,11 +16000,990 @@
           "actual": null
         }
       ]
+    },
+    "2026-05-21": {
+      "W": 0,
+      "L": 0,
+      "picks": [],
+      "prop_picks": [
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Logan Stankoven",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 73.6,
+          "ev": 47.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Gabriel Landeskog",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 76.2,
+          "ev": 42.5,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Andrei Svechnikov",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 61.8,
+          "ev": 42.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Martin Necas",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 66.7,
+          "ev": 36.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Devon Toews",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 72.9,
+          "ev": 36.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Shea Theodore",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 57.9,
+          "ev": 36.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Taylor Hall",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 80.9,
+          "ev": 33.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Gabriel Landeskog",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 59.5,
+          "ev": 33.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Brett Howden",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 76.2,
+          "ev": 30.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Sam Malinski",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 79.6,
+          "ev": 29.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Sebastian Aho",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 64.2,
+          "ev": 28.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Alex Newhook",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 64.0,
+          "ev": 27.9,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Pavel Dorofeyev",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 62.2,
+          "ev": 27.5,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Dylan Coghlan",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 90.3,
+          "ev": 27.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Mitch Marner",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 78.1,
+          "ev": 26.5,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Ivan Demidov",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 61.1,
+          "ev": 25.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Mike Matheson",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 35.2,
+          "ev": 23.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Logan Stankoven",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 64.4,
+          "ev": 23.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Nikolaj Ehlers",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 62.7,
+          "ev": 22.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Devon Toews",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 63.6,
+          "ev": 21.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Nazem Kadri",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 63.1,
+          "ev": 20.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Jackson Blake",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 71.2,
+          "ev": 20.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Jordan Staal",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 65.7,
+          "ev": 20.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Jalen Chatfield",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 65.6,
+          "ev": 20.1,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Nathan MacKinnon",
+          "market": "player_shots_on_goal",
+          "pick": "Under 4.5",
+          "line": 4.5,
+          "conf": 73.5,
+          "ev": 19.1,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Juraj Slafkovsky",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 70.0,
+          "ev": 18.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Brent Burns",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 50.2,
+          "ev": 18.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Taylor Hall",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 59.5,
+          "ev": 16.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Nazem Kadri",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 56.5,
+          "ev": 15.8,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Noah Dobson",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 41.2,
+          "ev": 15.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Nathan MacKinnon",
+          "market": "player_points",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 58.4,
+          "ev": 13.8,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Jaccob Slavin",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 58.3,
+          "ev": 13.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Brett Howden",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 71.0,
+          "ev": 13.6,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Jack Eichel",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 48.2,
+          "ev": 13.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Brock Nelson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 45.3,
+          "ev": 13.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Nicolas Roy",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 74.6,
+          "ev": 12.6,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Shayne Gostisbehere",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 54.9,
+          "ev": 12.5,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Jordan Martinook",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 64.0,
+          "ev": 11.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Mitch Marner",
+          "market": "player_points",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 78.0,
+          "ev": 10.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Jackson Blake",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 56.2,
+          "ev": 9.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Seth Jarvis",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 47.7,
+          "ev": 9.6,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Ivan Barbashev",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 63.8,
+          "ev": 9.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Shea Theodore",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 60.2,
+          "ev": 8.5,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Shayne Gostisbehere",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 70.9,
+          "ev": 8.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Jack Eichel",
+          "market": "player_points",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 72.4,
+          "ev": 7.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Cole Caufield",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 62.6,
+          "ev": 7.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Valeri Nichushkin",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 46.1,
+          "ev": 5.9,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Josh Anderson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 69.9,
+          "ev": 5.5,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Tomas Hertl",
+          "market": "player_shots_on_goal",
+          "pick": "Over 1.5",
+          "line": 1.5,
+          "conf": 57.5,
+          "ev": 5.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Nick Suzuki",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 68.8,
+          "ev": 5.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Sam Malinski",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 64.8,
+          "ev": 4.9,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Lane Hutson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 60.0,
+          "ev": 4.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "William Karlsson",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 64.4,
+          "ev": 4.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Artturi Lehkonen",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 48.6,
+          "ev": 4.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Brock Nelson",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 51.9,
+          "ev": 3.8,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Martin Necas",
+          "market": "player_points",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 68.8,
+          "ev": 3.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Rasmus Andersson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 50.2,
+          "ev": 3.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Noah Hanifin",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 72.0,
+          "ev": 3.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Ivan Barbashev",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 48.0,
+          "ev": 2.8,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Jake Evans",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 73.9,
+          "ev": 2.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Cole Caufield",
+          "market": "player_shots_on_goal",
+          "pick": "Under 2.5",
+          "line": 2.5,
+          "conf": 48.5,
+          "ev": 1.9,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Tomas Hertl",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 46.2,
+          "ev": 1.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Andrei Svechnikov",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 45.9,
+          "ev": 1.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Jordan Staal",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 66.7,
+          "ev": 0.1,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Artturi Lehkonen",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 46.6,
+          "ev": -0.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Sean Walker",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 42.3,
+          "ev": -0.5,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Alex Newhook",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 41.3,
+          "ev": -0.9,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Pavel Dorofeyev",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 50.2,
+          "ev": -2.0,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "K'Andre Miller",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 56.3,
+          "ev": -2.1,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Noah Hanifin",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 56.2,
+          "ev": -2.2,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Seth Jarvis",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 43.6,
+          "ev": -2.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Valeri Nichushkin",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 46.5,
+          "ev": -2.3,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "K'Andre Miller",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 63.6,
+          "ev": -2.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "William Karlsson",
+          "market": "player_shots_on_goal",
+          "pick": "Under 1.5",
+          "line": 1.5,
+          "conf": 49.9,
+          "ev": -2.7,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "COL",
+          "away_abbr": "VGK",
+          "player": "Ross Colton",
+          "market": "player_shots_on_goal",
+          "pick": "Over 1.5",
+          "line": 1.5,
+          "conf": 50.6,
+          "ev": -3.4,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Sebastian Aho",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 41.0,
+          "ev": -3.6,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Lane Hutson",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 42.9,
+          "ev": -3.9,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Nikolaj Ehlers",
+          "market": "player_points",
+          "pick": "Under 0.5",
+          "line": 0.5,
+          "conf": 48.0,
+          "ev": -3.9,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Nick Suzuki",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 66.1,
+          "ev": -4.1,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Noah Dobson",
+          "market": "player_shots_on_goal",
+          "pick": "Over 1.5",
+          "line": 1.5,
+          "conf": 52.1,
+          "ev": -4.6,
+          "result": "",
+          "actual": null
+        },
+        {
+          "home_abbr": "CAR",
+          "away_abbr": "MTL",
+          "player": "Ivan Demidov",
+          "market": "player_points",
+          "pick": "Over 0.5",
+          "line": 0.5,
+          "conf": 49.8,
+          "ev": -5.0,
+          "result": "",
+          "actual": null
+        }
+      ]
     }
   },
   "ou_alltime": {
     "W": 27,
-    "L": 24
+    "L": 25
   },
   "ou_by_conf": {
     "70": {
@@ -16021,7 +17000,7 @@
     },
     "50": {
       "W": 6,
-      "L": 7
+      "L": 8
     },
     "65": {
       "W": 1,
@@ -16035,33 +17014,33 @@
     },
     "2026-05": {
       "W": 3,
-      "L": 3
+      "L": 4
     }
   },
   "prop_alltime": {
-    "W": 181,
-    "L": 185
+    "W": 202,
+    "L": 204
   },
   "prop_by_conf": {
     "65": {
-      "W": 30,
-      "L": 14
+      "W": 31,
+      "L": 15
     },
     "60": {
-      "W": 30,
-      "L": 23
+      "W": 33,
+      "L": 27
     },
     "50": {
-      "W": 63,
-      "L": 101
+      "W": 68,
+      "L": 108
     },
     "70": {
-      "W": 30,
-      "L": 22
+      "W": 39,
+      "L": 26
     },
     "55": {
-      "W": 28,
-      "L": 25
+      "W": 31,
+      "L": 28
     }
   },
   "prop_by_month": {
@@ -16070,66 +17049,66 @@
       "L": 83
     },
     "2026-05": {
-      "W": 108,
-      "L": 102
+      "W": 129,
+      "L": 121
     }
   },
   "prop_by_market": {
     "player_shots_on_goal": {
       "label": "Shots on Goal",
       "alltime": {
-        "W": 86,
-        "L": 84
+        "W": 95,
+        "L": 96
       },
       "by_conf": {
         "50": {
-          "W": 27,
-          "L": 34
+          "W": 30,
+          "L": 37
         },
         "55": {
-          "W": 15,
-          "L": 12
+          "W": 16,
+          "L": 14
         },
         "60": {
           "W": 19,
-          "L": 19
+          "L": 23
         },
         "65": {
           "W": 20,
-          "L": 10
+          "L": 11
         },
         "70": {
-          "W": 5,
-          "L": 9
+          "W": 10,
+          "L": 11
         }
       }
     },
     "player_points": {
       "label": "Points",
       "alltime": {
-        "W": 95,
-        "L": 101
+        "W": 107,
+        "L": 108
       },
       "by_conf": {
         "50": {
-          "W": 36,
-          "L": 67
+          "W": 38,
+          "L": 71
         },
         "55": {
-          "W": 13,
-          "L": 13
+          "W": 15,
+          "L": 14
         },
         "60": {
-          "W": 11,
+          "W": 14,
           "L": 4
         },
         "65": {
-          "W": 10,
+          "W": 11,
           "L": 4
         },
         "70": {
-          "W": 25,
-          "L": 13
+          "W": 29,
+          "L": 15
         }
       }
     }
